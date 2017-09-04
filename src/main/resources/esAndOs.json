@@ -1,0 +1,20 @@
+[
+    {
+        "experienceAndOutcome": "I have experienced the energy and excitement of presenting/performing for audiences and being part of an audience for other people’s presentations/performances.",
+        "codes": ["EXA 0-01a", "EXA 1-01a", "EXA 2-01a"],
+        "curriculumLevels": ["EARLY", "FIRST", "SECOND"],
+        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Participation in performances and presentations",
+        "eAndOSetSubSectionName": null
+    },
+    {
+        "experienceAndOutcome": "I have used the skills I have developed in the expressive arts to contribute to a public presentation/performance.",
+        "codes": ["EXA 3-01a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Participation in performances and presentations",
+        "eAndOSetSubSectionName": null
+    }
+]

@@ -10,6 +10,7 @@ lazy val root = (project in file(".")).
     )),
     name := "EsAndOsPopulator",
     libraryDependencies ++= Seq(
+      "io.argonaut" %% "argonaut" % "6.1",
 //      "org.reactivemongo" %% "reactivemongo" % "0.12.6",
       "org.mongodb.scala" %% "mongo-scala-driver" % "2.1.0",
       "ch.qos.logback" % "logback-classic" % "1.1.7",
