@@ -330,14 +330,69 @@
         "responsibilityOfAllPractitioners": true
     },
     {
+        "experienceAndOutcome": "I enjoy exploring and playing with the patterns and sounds of language, and can use what I learn.",
+        "codes": ["LIT 0-01a", "LIT 0-11a", "LIT 0-20a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "I enjoy exploring and choosing stories and other texts to watch, read or listen to, and can share my likes and dislikes.",
+        "codes": ["LIT 0-01b", "LIT 0-11b"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "I enjoy exploring events and characters in stories and other texts, sharing my thoughts in different ways.",
+        "codes": ["LIT 0-01c"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "I regularly select and listen to or watch texts which I enjoy and find interesting, and I can explain why I prefer certain sources. I regularly select subject, purpose, format and resources to create texts of my choice.",
+        "codes": ["LIT 1-01a", "LIT 2-01a"],
+        "curriculumLevels": ["FIRST", "SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "I regularly select and listen to or watch texts for enjoyment and interest, and I can express how well they meet my needs and expectations, and I can give reasons, with evidence, for my personal response. I can regularly select subject, purpose, format and resources to create texts of my choice, and am developing my own style.",
+        "codes": ["LIT 3-01a", "LIT 4-01a"],
+        "curriculumLevels": ["THIRD", "FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": true
+    },
+    {TODO
         "experienceAndOutcome": "",
         "codes": [""],
         "curriculumLevels": [""],
         "curriculumAreaName": "Literacy",
         "eAndOSetName": null,
-        "eAndOSetSectionName": "Listening and talking ",
-        "eAndOSetSubSectionName": "Enjoyment and choice",
-        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Tools for listening and talking",
+        "eAndOSetSubSectionAuxiliaryText": "to help me when interacting or presenting within and beyond my place of learning",
         "responsibilityOfAllPractitioners": true
     }
 
