@@ -44,7 +44,9 @@ object EsAndOsPopulator extends App with MongoDbHelper with ConsoleMessages {
         "curriculumAreaName" -> eo.curriculumAreaName,
         "eAndOSetName" -> eo.eAndOSetName,
         "eAndOSetSectionName" -> eo.eAndOSetSectionName,
-        "eAndOSetSubSectionName" -> eo.eAndOSetSubSectionName
+        "eAndOSetSubSectionName" -> eo.eAndOSetSubSectionName,
+        "eAndOSetSubSectionAuxiliaryText" -> eo.eAndOSetSubSectionAuxiliaryText,
+        "responsibilityOfAllPractitioners" -> eo.responsibilityOfAllPractitioners
       )
       val insertObservable = esAndOsCollection.insertOne(eoDoc)
 
@@ -83,18 +85,22 @@ case class EAndO(experienceAndOutcome: String,
                  curriculumAreaName: String,
                  eAndOSetName: Option[String],
                  eAndOSetSectionName: Option[String],
-                 eAndOSetSubSectionName: Option[String]
+                 eAndOSetSubSectionName: Option[String],
+                 eAndOSetSubSectionAuxiliaryText: Option[String],
+                 responsibilityOfAllPractitioners: Boolean
                 )
 
 object EAndO {
   implicit def PersonCodecJson: CodecJson[EAndO] =
-    casecodec7(EAndO.apply, EAndO.unapply)(
+    casecodec9(EAndO.apply, EAndO.unapply)(
       "experienceAndOutcome",
       "codes",
       "curriculumLevels",
       "curriculumAreaName",
       "eAndOSetName",
       "eAndOSetSectionName",
-      "eAndOSetSubSectionName"
+      "eAndOSetSubSectionName",
+      "eAndOSetSubSectionAuxiliaryText",
+      "responsibilityOfAllPractitioners"
     )
 }
