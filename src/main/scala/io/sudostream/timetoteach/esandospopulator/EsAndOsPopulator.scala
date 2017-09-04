@@ -1,10 +1,8 @@
 package io.sudostream.timetoteach.esandospopulator
 
 import argonaut.Argonaut._
-
+import argonaut._
 import org.mongodb.scala._
-import scalaz._, Scalaz._
-import argonaut._, Argonaut._
 
 object EsAndOsPopulator extends App with MongoDbHelper with ConsoleMessages {
   println(startupMessage)
@@ -25,19 +23,19 @@ object EsAndOsPopulator extends App with MongoDbHelper with ConsoleMessages {
 
   // parse the string as json, attempt to decode it to a list of person,
   // otherwise just take it as an empty list.
-  val eAndO = input.decodeOption[List[EAndO]].getOrElse(Nil)
+  val esAndOs = input.decodeOption[List[EAndO]].getOrElse(Nil)
 
   // work with your data types as you normally would
-  eAndO.foreach(eAndO => println("EAndO\n-------\n" + eAndO + "\n"))
+  esAndOs.foreach(eAndO => println("EAndO\n-------\n" + eAndO + "\n"))
 
   // convert back to json, and then to a pretty printed string, alternative
   // ways to print may be nospaces, spaces2, or a custom format
 
 
   ///
-  val esAndOs = getEsAndOsCollection
+  val esAndOsCollection = getEsAndOsCollection
 
-  eAndO.foreach {
+  esAndOs.foreach {
     eo => {
       val eoDoc = Document(
         "_id" -> eo.experienceAndOutcome,
@@ -48,7 +46,7 @@ object EsAndOsPopulator extends App with MongoDbHelper with ConsoleMessages {
         "eAndOSetSectionName" -> eo.eAndOSetSectionName,
         "eAndOSetSubSectionName" -> eo.eAndOSetSubSectionName
       )
-      val insertObservable = esAndOs.insertOne(eoDoc)
+      val insertObservable = esAndOsCollection.insertOne(eoDoc)
 
       insertObservable.subscribe(
         new Observer[Completed] {
