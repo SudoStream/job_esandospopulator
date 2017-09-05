@@ -530,7 +530,11 @@
     {
         "experienceAndOutcome": [
             {
-                "sentence": "I regularly select and listen to or watch texts which I enjoy and find interesting, and I can explain why I prefer certain sources. I regularly select subject, purpose, format and resources to create texts of my choice.",
+                "sentence": "I regularly select and listen to or watch texts which I enjoy and find interesting, and I can explain why I prefer certain sources.",
+                "bulletPoints": [""]
+            },
+            {
+                "sentence": "I regularly select subject, purpose, format and resources to create texts of my choice.",
                 "bulletPoints": [""]
             }
         ],
@@ -546,7 +550,11 @@
     {
         "experienceAndOutcome": [
             {
-                "sentence": "I regularly select and listen to or watch texts for enjoyment and interest, and I can express how well they meet my needs and expectations, and I can give reasons, with evidence, for my personal response. I can regularly select subject, purpose, format and resources to create texts of my choice, and am developing my own style.",
+                "sentence": "I regularly select and listen to or watch texts for enjoyment and interest, and I can express how well they meet my needs and expectations, and I can give reasons, with evidence, for my personal response.",
+                "bulletPoints": [""]
+            },
+            {
+                "sentence": "I can regularly select subject, purpose, format and resources to create texts of my choice, and am developing my own style.",
                 "bulletPoints": [""]
             }
         ],
@@ -610,7 +618,11 @@
     {
         "experienceAndOutcome": [
             {
-                "sentence": "When I engage with others, I can make a relevant contribution, encourage others to contribute and acknowledge that they have the right to hold a different opinion. I can respond in ways appropriate to my role and use contributions to reflect on, clarify or adapt thinking.",
+                "sentence": "When I engage with others, I can make a relevant contribution, encourage others to contribute and acknowledge that they have the right to hold a different opinion.",
+                "bulletPoints": [""]
+            },
+            {
+                "sentence": "I can respond in ways appropriate to my role and use contributions to reflect on, clarify or adapt thinking.",
                 "bulletPoints": [""]
             }
         ],
@@ -626,7 +638,11 @@
     {
         "experienceAndOutcome": [
             {
-                "sentence": "When I engage with others I can make a relevant contribution, ensure that everyone has an opportunity to contribute and encourage them to take account of others’ points of view or alternative solutions. I can respond in ways appropriate to my role, exploring and expanding on contributions to reflect on, clarify or adapt thinking.",
+                "sentence": "When I engage with others I can make a relevant contribution, ensure that everyone has an opportunity to contribute and encourage them to take account of others’ points of view or alternative solutions.",
+                "bulletPoints": [""]
+            },
+            {
+                "sentence": "I can respond in ways appropriate to my role, exploring and expanding on contributions to reflect on, clarify or adapt thinking.",
                 "bulletPoints": [""]
             }
         ],
@@ -679,7 +695,7 @@
             }
         ],
         "codes": ["LIT 2-04a"],
-        "curriculumLevels": [""],
+        "curriculumLevels": ["SECOND"],
         "curriculumAreaName": "Literacy",
         "eAndOSetName": null,
         "eAndOSetSectionName": "Listening and talking",
@@ -690,8 +706,128 @@
     {
         "experienceAndOutcome": [
             {
-                "sentence": "",
+                "sentence": "As I listen or watch, I can:",
+                "bulletPoints": [
+                    "identify and give an accurate account of the purpose and main concerns of the text, and can make inferences from key statements",
+                    "identify and discuss similarities and differences between different types of text",
+                    "use this information for different purposes."
+                ]
+            }
+        ],
+        "codes": ["LIT 3-04a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "As I listen or watch, I can:",
+                "bulletPoints": [
+                    "clearly state the purpose and main concerns of a text and make inferences from key statements ",
+                    "compare and contrast different types of text",
+                    "gather, link and use information from different sources and use this for different purposes."
+                ]
+            }
+        ],
+        "codes": ["LIT 4-04a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "As I listen or watch, I am learning to make notes under given headings and use these to understand what I have listened to or watched and create new texts.",
                 "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-05a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "As I listen or watch, I can make notes, organise these under suitable headings and use these to understand ideas and information and create new texts, using my own words as appropriate.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-05a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "As I listen or watch, I can make notes and organise these to develop thinking, help retain and recall information, explore issues and create new texts, using my own words as appropriate.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-05a", "LIT 4-05a"],
+        "curriculumLevels": ["THIRD", "FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can select ideas and relevant information, organise these in a logical sequence and use words which will be interesting and/or useful for others.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-06a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can select ideas and relevant information, organise these in an appropriate way for my purpose and use suitable vocabulary for my audience",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-06a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can independently select ideas and relevant information for different purposes, organise essential information or ideas and any supporting detail in a logical order, and use suitable vocabulary to communicate effectively with my audience.",
+                "bulletPoints": ["LIT 3-06a", "LIT 4-06a"]
             }
         ],
         "codes": [""],
@@ -706,17 +842,666 @@
     {
         "experienceAndOutcome": [
             {
-                "sentence": "",
+                "sentence": "To help me understand stories and other texts, I ask questions and link what I am learning with what I already know.",
                 "bulletPoints": [""]
             }
         ],
-        "codes": [""],
-        "curriculumLevels": [""],
+        "codes": ["LIT 0-07a", "LIT 0-16a", "ENG 0-17a"],
+        "curriculumLevels": ["EARLY"],
         "curriculumAreaName": "Literacy",
         "eAndOSetName": null,
         "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can show my understanding of what I listen to or watch by responding to and asking different kinds of questions.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-07a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can show my understanding of what I listen to or watch by responding to literal, inferential, evaluative and other types of questions, and by asking different kinds of questions of my own.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-07a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can show my understanding of what I listen to or watch by commenting, with evidence, on the content and form of short and extended texts.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-07a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can show my understanding of what I listen to or watch by giving detailed, evaluative comments, with evidence, about the content and form of short and extended texts.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 4-07a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "To help me develop an informed view, I am learning to recognise the difference between fact and opinion.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-08a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "To help me develop an informed view, I can distinguish fact from opinion, and I am learning to recognise when my sources try to influence me and how useful these are.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-08a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "To help me develop an informed view, I am learning about the techniques used to influence opinion and how to assess the value of my sources, and I can recognise persuasion.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-08a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "To help me develop an informed view, I can identify some of the techniques used to influence or persuade and can assess the value of my sources.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 4-08a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Within real and imaginary situations, I share experiences and feelings, ideas and information in a way that communicates my message.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 0-09a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements others use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I enjoy exploring events and characters in stories and other texts and I use what I learn to invent my own, sharing these with others in imaginative ways.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 0-09b", "LIT 0-31a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements others use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "When listening and talking with others for different purposes, I can exchange information, experiences, explanations, ideas and opinions, and clarify points by asking questions or by asking others to say more.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-09a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements others use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "When listening and talking with others for different purposes, I can:",
+                "bulletPoints": [
+                    "share information, experiences and opinions",
+                    "explain processes and ideas",
+                    "identify issues raised and summarise main points or findings",
+                    "clarify points by asking questions or by asking others to say more."
+                ]
+            }
+        ],
+        "codes": ["LIT 2-09a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements others use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "When listening and talking with others for different purposes, I can:",
+                "bulletPoints": [
+                    "communicate information, ideas or opinions",
+                    "explain processes, concepts or ideas",
+                    "identify issues raised, summarise findings or draw conclusions."
+                ]
+            }
+        ],
+        "codes": ["LIT 3-09a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements others use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "When listening and talking with others for different purposes, I can:",
+                "bulletPoints": [
+                    "communicate detailed information, ideas or opinions",
+                    "explain processes, concepts or ideas with some relevant supporting detail",
+                    "sum up ideas, issues, findings or conclusions."
+                ]
+            }
+        ],
+        "codes": ["LIT 4-09a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements others use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "As I listen and take part in conversations and discussions, I discover new words and phrases which I use to help me express my ideas, thoughts and feelings",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 0-10a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements others use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can communicate clearly when engaging with others within and beyond my place of learning, using selected resources as required.",
+                "bulletPoints": ["Resources: This may include images, objects, audio, visual or digital resources."]
+            }
+        ],
+        "codes": ["LIT 1-10a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements others use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I am developing confidence when engaging with others within and beyond my place of learning. I can communicate in a clear, expressive way and I am learning to select and organise resources independently.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-10a", "LIT 3-10a"],
+        "curriculumLevels": ["SECOND", "THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements others use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can communicate in a clear, expressive manner when engaging with others within and beyond my place of learning, and can independently select and organise appropriate resources as required",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 4-10a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements others use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I enjoy exploring and playing with the patterns and sounds of language and can use what I learn.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 0-01a", "LIT 0-11a", "LIT 0-20a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I enjoy exploring and choosing stories and other texts to watch, read or listen to, and can share my likes and dislikes.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 0-01b", "LIT 0-11b"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I regularly select and read, listen to or watch texts which I enjoy and find interesting, and I can explain why I prefer certain texts and authors.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-11a", "LIT 2-11a"],
+        "curriculumLevels": ["FIRST", "SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I regularly select and read, listen to or watch texts for enjoyment and interest, and I can express how well they meet my needs and expectations and give reasons, with evidence, for my personal response.",
+                "bulletPoints": [""]
+            },
+            {
+                "sentence": "I can identify sources to develop the range of my reading.",
+                "bulletPoints": ["Note: Sources should be interpreted in the broadest sense, for example, traditional sources such as libraries and also the full range of digital and interpersonal opportunities to learn about texts."]
+            }
+        ],
+        "codes": ["LIT 3-11a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I regularly select and read, listen to or watch texts for enjoyment and interest, and I can express how well they meet my needs and expectations and give reasons, with evidence, for my personal response. ",
+                "bulletPoints": [""]
+            },
+            {
+                "sentence": "I can independently identify sources to develop the range of my reading.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 4-11a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I explore sounds, letters and words, discovering how they work together, and I can use what I learn to help me as I read and write.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["ENG 0-12a", "LIT 0-13a", "LIT 0-21a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Tools for reading",
+        "eAndOSetSubSectionAuxiliaryText": "to help me use texts with increasingly complex or unfamiliar ideas, structures and vocabulary within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I am learning to select and use strategies and resources before I read, and as I read, to help make the meaning of texts clear.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-13a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Tools for reading",
+        "eAndOSetSubSectionAuxiliaryText": "to help me use texts with increasingly complex or unfamiliar ideas, structures and vocabulary within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can select and use a range of strategies and resources before I read, and as I read, to make meaning clear and give reasons for my selection.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-13a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Tools for reading",
+        "eAndOSetSubSectionAuxiliaryText": "to help me use texts with increasingly complex or unfamiliar ideas, structures and vocabulary within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can select and use the strategies and resources I find most useful before I read, and as I read, to monitor and check my understanding.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-13a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Tools for reading",
+        "eAndOSetSubSectionAuxiliaryText": "to help me use texts with increasingly complex or unfamiliar ideas, structures and vocabulary within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Before and as I read, I can apply strategies and use resources independently to help me read a wide variety of texts and/or find the information I need.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 4-13a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Tools for reading",
+        "eAndOSetSubSectionAuxiliaryText": "to help me use texts with increasingly complex or unfamiliar ideas, structures and vocabulary within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I use signs, books or other texts to find useful or interesting information and I use this to plan, make choices or learn new things.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 0-14a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
         "eAndOSetSubSectionName": "Finding and using information",
-        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "eAndOSetSubSectionAuxiliaryText": "when reading and using fiction and nonfiction texts with increasingly complex  ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Using what I know about the features of different types of texts, I can find, select, sort and use information for a specific purpose.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-14a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when reading and using fiction and nonfiction texts with increasingly complex  ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Using what I know about the features of different types of texts, I can find, select and sort information from a variety of sources and use this for different purposes.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-14a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when reading and using fiction and nonfiction texts with increasingly complex  ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Using what I know about the features of different types of texts, I can find, select, sort, summarise, link and use information from different sources.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-14a", "LIT 4-14a"],
+        "curriculumLevels": ["THIRD", "FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when reading and using fiction and nonfiction texts with increasingly complex  ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I am learning to make notes under given headings and use them to understand information, explore ideas and problems and create new texts.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-15a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when reading and using fiction and nonfiction texts with increasingly complex  ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can make notes, organise them under suitable headings and use them to understand information, develop my thinking, explore problems and create new texts, using my own words as appropriate.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-15a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when reading and using fiction and nonfiction texts with increasingly complex  ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can make notes and organise them to develop my thinking, help retain and recall information, explore issues and create new texts, using my own words as appropriate.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-15a", "LIT 4-15a"],
+        "curriculumLevels": ["THIRD", "FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when reading and using fiction and nonfiction texts with increasingly complex  ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "To help me understand stories and other texts, I ask questions and link what I am learning with what I already know.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 0-07a", "LIT 0-16a", "ENG 0-17a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "To show my understanding across different areas of learning, I can identify and consider the purpose and main ideas of a text.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-16a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "To show my understanding across different areas of learning, I can identify and consider the purpose and main ideas of a text and use supporting detail.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-16a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "To show my understanding across different areas of learning, I can:",
+                "bulletPoints": [
+                    "identify and consider the purpose, main concerns or concepts and use supporting detail",
+                    "make inferences from key statements",
+                    "identify and discuss similarities and differences between different types of text."
+                ]
+            }
+        ],
+        "codes": ["LIT 3-16a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
         "responsibilityOfAllPractitioners": true
     },
     {
@@ -730,9 +1515,9 @@
         "curriculumLevels": [""],
         "curriculumAreaName": "Literacy",
         "eAndOSetName": null,
-        "eAndOSetSectionName": "Listening and talking",
-        "eAndOSetSubSectionName": "Finding and using information",
-        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
         "responsibilityOfAllPractitioners": true
     },
     {
@@ -746,89 +1531,9 @@
         "curriculumLevels": [""],
         "curriculumAreaName": "Literacy",
         "eAndOSetName": null,
-        "eAndOSetSectionName": "Listening and talking",
-        "eAndOSetSubSectionName": "Finding and using information",
-        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
-        "responsibilityOfAllPractitioners": true
-    },
-    {
-        "experienceAndOutcome": [
-            {
-                "sentence": "",
-                "bulletPoints": [""]
-            }
-        ],
-        "codes": [""],
-        "curriculumLevels": [""],
-        "curriculumAreaName": "Literacy",
-        "eAndOSetName": null,
-        "eAndOSetSectionName": "Listening and talking",
-        "eAndOSetSubSectionName": "Finding and using information",
-        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
-        "responsibilityOfAllPractitioners": true
-    },
-    {
-        "experienceAndOutcome": [
-            {
-                "sentence": "",
-                "bulletPoints": [""]
-            }
-        ],
-        "codes": [""],
-        "curriculumLevels": [""],
-        "curriculumAreaName": "Literacy",
-        "eAndOSetName": null,
-        "eAndOSetSectionName": "Listening and talking",
-        "eAndOSetSubSectionName": "Finding and using information",
-        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
-        "responsibilityOfAllPractitioners": true
-    },
-    {
-        "experienceAndOutcome": [
-            {
-                "sentence": "",
-                "bulletPoints": [""]
-            }
-        ],
-        "codes": [""],
-        "curriculumLevels": [""],
-        "curriculumAreaName": "Literacy",
-        "eAndOSetName": null,
-        "eAndOSetSectionName": "Listening and talking",
-        "eAndOSetSubSectionName": "Finding and using information",
-        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
-        "responsibilityOfAllPractitioners": true
-    },
-    {
-        "experienceAndOutcome": [
-            {
-                "sentence": "",
-                "bulletPoints": [""]
-            }
-        ],
-        "codes": [""],
-        "curriculumLevels": [""],
-        "curriculumAreaName": "Literacy",
-        "eAndOSetName": null,
-        "eAndOSetSectionName": "Listening and talking",
-        "eAndOSetSubSectionName": "Finding and using information",
-        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
-        "responsibilityOfAllPractitioners": true
-    },
-    {
-        "experienceAndOutcome": [
-            {
-                "sentence": "",
-                "bulletPoints": [""]
-            }
-        ],
-        "codes": [""],
-        "curriculumLevels": [""],
-        "curriculumAreaName": "Literacy",
-        "eAndOSetName": null,
-        "eAndOSetSectionName": "Listening and talking",
-        "eAndOSetSubSectionName": "Finding and using information",
-        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
         "responsibilityOfAllPractitioners": true
     }
 

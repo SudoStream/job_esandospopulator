@@ -12,7 +12,6 @@ object EsAndOsPopulator extends App with MongoDbHelper with ConsoleMessages {
 
   val filename = "/esAndOs.json"
   val filenameAsInputStream = getClass.getResourceAsStream(filename)
-  println("filenameAsInputStream: " + filenameAsInputStream)
   val input = Source.fromInputStream(filenameAsInputStream).mkString
 
   //  val esAndOsTextBuilder = new StringBuilder
