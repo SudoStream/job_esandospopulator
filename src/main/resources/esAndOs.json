@@ -384,16 +384,192 @@
         "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
         "responsibilityOfAllPractitioners": true
     },
-    {TODO
-        "experienceAndOutcome": "",
-        "codes": [""],
-        "curriculumLevels": [""],
+    {
+        "experienceAndOutcome": "As I listen and talk in different situations, I am learning to take turns and am developing my awareness of when to talk and when to listen.",
+        "codes": ["LIT 0-02a", "ENG 0-03a"],
+        "curriculumLevels": ["EARLY"],
         "curriculumAreaName": "Literacy",
         "eAndOSetName": null,
         "eAndOSetSectionName": "Listening and talking",
         "eAndOSetSubSectionName": "Tools for listening and talking",
         "eAndOSetSubSectionAuxiliaryText": "to help me when interacting or presenting within and beyond my place of learning",
         "responsibilityOfAllPractitioners": true
-    }
+    },
+    {
+        "experienceAndOutcome": "When I engage with others, I know when and how to listen, when to talk, how much to say, when to ask questions and how to respond with respect.",
+        "codes": ["LIT 1-02a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Tools for listening and talking",
+        "eAndOSetSubSectionAuxiliaryText": "to help me when interacting or presenting within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "When I engage with others, I can respond in ways appropriate to my role, show that I value others’ contributions and use these to build on thinking.",
+        "codes": ["LIT 2-02a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Tools for listening and talking",
+        "eAndOSetSubSectionAuxiliaryText": "to help me when interacting or presenting within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "When I engage with others, I can make a relevant contribution, encourage others to contribute and acknowledge that they have the right to hold a different opinion. I can respond in ways appropriate to my role and use contributions to reflect on, clarify or adapt thinking.",
+        "codes": ["LIT 3-02a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Tools for listening and talking",
+        "eAndOSetSubSectionAuxiliaryText": "to help me when interacting or presenting within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "When I engage with others I can make a relevant contribution, ensure that everyone has an opportunity to contribute and encourage them to take account of others’ points of view or alternative solutions. I can respond in ways appropriate to my role, exploring and expanding on contributions to reflect on, clarify or adapt thinking.",
+        "codes": ["LIT 4-02a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Tools for listening and talking",
+        "eAndOSetSubSectionAuxiliaryText": "to help me when interacting or presenting within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "I listen or watch for useful or interesting information and I use this to make choices or learn new things.",
+        "codes": ["LIT 0-04a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "As I listen or watch, I can identify and discuss the purpose, key words and main ideas of the text, and use this information for a specific purpose.",
+        "codes": ["LIT 1-04a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "As I listen or watch, I can identify and discuss the purpose, main ideas and supporting detail contained within the text, and use this information for different purposes.",
+        "codes": ["LIT 2-04a"],
+        "curriculumLevels": [""],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "",
+        "codes": [""],
+        "curriculumLevels": [""],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "",
+        "codes": [""],
+        "curriculumLevels": [""],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "",
+        "codes": [""],
+        "curriculumLevels": [""],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "",
+        "codes": [""],
+        "curriculumLevels": [""],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "",
+        "codes": [""],
+        "curriculumLevels": [""],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "",
+        "codes": [""],
+        "curriculumLevels": [""],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "",
+        "codes": [""],
+        "curriculumLevels": [""],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "",
+        "codes": [""],
+        "curriculumLevels": [""],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": "",
+        "codes": [""],
+        "curriculumLevels": [""],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
 
 ]
