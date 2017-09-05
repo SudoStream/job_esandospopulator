@@ -827,11 +827,11 @@
         "experienceAndOutcome": [
             {
                 "sentence": "I can independently select ideas and relevant information for different purposes, organise essential information or ideas and any supporting detail in a logical order, and use suitable vocabulary to communicate effectively with my audience.",
-                "bulletPoints": ["LIT 3-06a", "LIT 4-06a"]
+                "bulletPoints": []
             }
         ],
-        "codes": [""],
-        "curriculumLevels": [""],
+        "codes": ["LIT 3-06a", "LIT 4-06a"],
+        "curriculumLevels": ["THIRD", "FOURTH"],
         "curriculumAreaName": "Literacy",
         "eAndOSetName": null,
         "eAndOSetSectionName": "Listening and talking",
@@ -1212,7 +1212,9 @@
             },
             {
                 "sentence": "I can identify sources to develop the range of my reading.",
-                "bulletPoints": ["Note: Sources should be interpreted in the broadest sense, for example, traditional sources such as libraries and also the full range of digital and interpersonal opportunities to learn about texts."]
+                "bulletPoints": [
+                    "Note: Sources should be interpreted in the broadest sense, for example, traditional sources such as libraries and also the full range of digital and interpersonal opportunities to learn about texts."
+                ]
             }
         ],
         "codes": ["LIT 3-11a"],
@@ -1507,12 +1509,16 @@
     {
         "experienceAndOutcome": [
             {
-                "sentence": "",
-                "bulletPoints": [""]
+                "sentence": "To show my understanding across different areas of learning, I can:",
+                "bulletPoints": [
+                    "clearly state the purpose, main concerns, concepts or arguments and use supporting detail",
+                    "make inferences from key statements and state these accurately in my own words",
+                    "compare and contrast different types of text."
+                ]
             }
         ],
-        "codes": [""],
-        "curriculumLevels": [""],
+        "codes": ["LIT 4-16a"],
+        "curriculumLevels": ["FOURTH"],
         "curriculumAreaName": "Literacy",
         "eAndOSetName": null,
         "eAndOSetSectionName": "Reading",
@@ -1523,18 +1529,671 @@
     {
         "experienceAndOutcome": [
             {
-                "sentence": "",
+                "sentence": "To help me develop an informed view, I can recognise the difference between fact and opinion.",
                 "bulletPoints": [""]
             }
         ],
-        "codes": [""],
-        "curriculumLevels": [""],
+        "codes": ["LIT 1-18a"],
+        "curriculumLevels": ["FIRST"],
         "curriculumAreaName": "Literacy",
         "eAndOSetName": null,
         "eAndOSetSectionName": "Reading",
         "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
         "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
         "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "To help me develop an informed view, I can identify and explain the difference between fact and opinion, recognise when I am being influenced, and have assessed how useful and believable my sources are.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-18a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "To help me develop an informed view, I am exploring the techniques used to influence my opinion. I can recognise persuasion and assess the reliability of information and credibility and value of my sources.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-18a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "To help me develop an informed view, I can recognise persuasion and bias, identify some of the techniques used to influence my opinion, and assess the reliability of information and credibility and value of my sources.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 4-18a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I enjoy exploring events and characters in stories and other texts, sharing my thoughts in different ways.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 0-19a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I enjoy exploring and playing with the patterns and sounds of language and can use what I learn.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 0-01a", "LIT 0-11a", "LIT 0-20a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I enjoy creating texts of my choice and I regularly select subject, purpose, format and resources to suit the needs of my audience.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-20a", "LIT 2-20a"],
+        "curriculumLevels": ["FIRST", "SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I enjoy creating texts of my choice and I am developing my own style. I can regularly select subject, purpose, format and resources to suit the needs of my audience.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-20a", "LIT 4-20a"],
+        "curriculumLevels": ["THIRD", "FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment, developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I explore sounds, letters and words, discovering how they work together, and I can use what I learn to help me as I read or write.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["ENG 0-12a", "LIT 0-13a", "LIT 0-21a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can spell the most commonly-used words, using my knowledge of letter patterns and spelling rules and use resources to help me spell tricky or unfamiliar words.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-21a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can spell most of the words I need to communicate, using spelling rules, specialist vocabulary, self-correction techniques and a range of resources.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-21a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can use a range of strategies and resources and spell most of the words I need to use, including specialist vocabulary, and ensure that my spelling is accurate.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-21a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can use a range of strategies and resources independently and ensure that my spelling, including specialist vocabulary, is accurate.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 4-21a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "As I play and learn, I enjoy exploring interesting materials for writing and different ways of recording my experiences and feelings, ideas and information.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 0-21b"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can write independently, use appropriate punctuation and order and link my sentences in a way that makes sense.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-22a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "In both short and extended texts, I can use appropriate punctuation, vary my sentence structures and divide my work into paragraphs in a way that makes sense to my reader.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-22a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "As appropriate to my purpose and type of text, I can punctuate and structure different types of sentences with sufficient accuracy, and arrange these to make meaning clear, showing straightforward relationships between paragraphs.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-22a", "LIT 4-22a"],
+        "curriculumLevels": ["THIRD", "FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Throughout the writing process, I can check that my writing makes sense.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-23a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Throughout the writing process, I can check that my writing makes sense and meets its purpose.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-23a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Throughout the writing process, I can review and edit my writing to ensure that it meets its purpose and communicates meaning at first reading.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-23a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Throughout the writing process, I can review and edit my writing independently to ensure that it meets its purpose and communicates meaning clearly at first reading.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 4-23a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can present my writing in a way that will make it legible and attractive for my reader, combining words, images and other features.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-24a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I consider the impact that layout and presentation will have and can combine lettering, graphics and other features to engage my reader.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-24a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can consider the impact that layout and presentation will have on my reader, selecting and using a variety of features appropriate to purpose and audience.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-24a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can justify my choice and use of layout and presentation in terms of the intended impact on my reader.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 4-24a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I am learning to use my notes and other types of writing to help me understand information and ideas, explore problems, generate and develop ideas or create new text.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-25a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "considering texts to help create short and extended texts for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can use my notes and other types of writing to help me understand information and ideas, explore problems, make decisions, generate and develop ideas or create new text.",
+                "bulletPoints": [""]
+            },
+            {
+                "sentence": "I recognise the need to acknowledge my sources and can do this appropriately.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-25a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "considering texts to help create short and extended texts for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can use notes and other types of writing to generate and develop ideas, retain and recall information, explore problems, make decisions, generate and develop ideas or create original text.",
+                "bulletPoints": [""]
+            },
+            {
+                "sentence": "I recognise when it is appropriate to quote from sources and when I should put points into my own words. I can acknowledge my sources appropriately.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-25a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "considering texts to help create short and extended texts for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can use notes and other types of writing to generate and develop ideas, retain and recall information, explore problems, make decisions, or create original text.",
+                "bulletPoints": [""]
+            },
+            {
+                "sentence": "I can make appropriate and responsible use of sources and acknowledge these appropriately.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 4-25a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "considering texts to help create short and extended texts for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Within real and imaginary situations, I share experiences and feelings, ideas and information in a way that communicates my message.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 0-26a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "considering texts to help create short and extended texts for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "By considering the type of text I am creating, I can select ideas and relevant information, organise these in a logical sequence and use words which will be interesting and/or useful for others.",
+                "bulletPoints": [
+                    "Note: These will include the range of texts and media described in the principles and practice paper"
+                ]
+            }
+        ],
+        "codes": ["LIT 1-26a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "considering texts to help create short and extended texts for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "By considering the type of text I am creating, I can select ideas and relevant information, organise these in an appropriate way for my purpose and use suitable vocabulary for my audience.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-26a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "considering texts to help create short and extended texts for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "By considering the type of text I am creating, I can independently select ideas and relevant information for different purposes, and organise essential information or ideas and any supporting detail in a logical order. I can use suitable vocabulary to communicate effectively with my audience.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-26a", "LIT 4-26a"],
+        "curriculumLevels": ["THIRD", "FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "considering texts to help create short and extended texts for different purposes",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can convey information, describe events or processes, share my opinions or persuade my reader in different ways.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 1-28a", "LIT 1-29a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements which writers use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can convey information, describe events, explain processes or combine ideas in different ways.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-28a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements which writers use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can convey information, describe events, explain processes or concepts, and combine ideas in different ways.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-28a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements which writers use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can convey information and describe events, explain processes or concepts, providing substantiating evidence, and synthesise ideas or opinions in different ways.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 4-28a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements which writers use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can persuade, argue, explore issues or express an opinion using relevant supporting detail and/or evidence.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 2-29a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements which writers use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can persuade, argue, evaluate, explore issues or express an opinion using a clear line of thought, relevant supporting detail and/or evidence.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 3-29a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements which writers use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can persuade, argue, evaluate, explore issues or express and justify opinions within a convincing line of thought, using relevant supporting detail and/or evidence.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 4-29a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements which writers use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I enjoy exploring events and characters in stories and other texts and I use what I learn to invent my own, sharing these with others in imaginative ways.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["LIT 0-09b", "LIT 0-31a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Literacy",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements which writers use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": true
     }
-
 ]
