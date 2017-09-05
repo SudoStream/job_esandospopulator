@@ -2,6 +2,7 @@ package io.sudostream.timetoteach.esandospopulator
 
 import argonaut.Argonaut._
 import argonaut._
+import io.sudostream.timetoteach.esandospopulator.EsAndOsPopulator.esAndOsCollection
 import org.mongodb.scala._
 
 object EsAndOsPopulator extends App with MongoDbHelper with ConsoleMessages {
@@ -37,8 +38,15 @@ object EsAndOsPopulator extends App with MongoDbHelper with ConsoleMessages {
 
   esAndOs.foreach {
     eo => {
+
+      val esAndOsAsDocuments: List[Document] = eo.experienceAndOutcome.map {
+        sentence =>
+          Document("sentence" -> sentence.sentence,
+            "bulletPoints" -> sentence.bulletPoints)
+      }
+
       val eoDoc = Document(
-        "_id" -> eo.experienceAndOutcome,
+        "experienceAndOutcome" -> esAndOsAsDocuments,
         "codes" -> eo.codes,
         "curriculumLevels" -> eo.curriculumLevels,
         "curriculumAreaName" -> eo.curriculumAreaName,
@@ -48,6 +56,7 @@ object EsAndOsPopulator extends App with MongoDbHelper with ConsoleMessages {
         "eAndOSetSubSectionAuxiliaryText" -> eo.eAndOSetSubSectionAuxiliaryText,
         "responsibilityOfAllPractitioners" -> eo.responsibilityOfAllPractitioners
       )
+
       val insertObservable = esAndOsCollection.insertOne(eoDoc)
 
       insertObservable.subscribe(
@@ -79,7 +88,7 @@ trait ConsoleMessages {
   lazy val finishedMessage = "EsAndOsPopulator done."
 }
 
-case class EAndO(experienceAndOutcome: String,
+case class EAndO(experienceAndOutcome: List[Sentence],
                  codes: List[String],
                  curriculumLevels: List[String],
                  curriculumAreaName: String,
@@ -91,7 +100,7 @@ case class EAndO(experienceAndOutcome: String,
                 )
 
 object EAndO {
-  implicit def PersonCodecJson: CodecJson[EAndO] =
+  implicit def EAndOCodecJson: CodecJson[EAndO] =
     casecodec9(EAndO.apply, EAndO.unapply)(
       "experienceAndOutcome",
       "codes",
@@ -102,5 +111,18 @@ object EAndO {
       "eAndOSetSubSectionName",
       "eAndOSetSubSectionAuxiliaryText",
       "responsibilityOfAllPractitioners"
+    )
+}
+
+case class Sentence(
+                     sentence: String,
+                     bulletPoints: List[String]
+                   )
+
+object Sentence {
+  implicit def SentenceCodeJson: CodecJson[Sentence] =
+    casecodec2(Sentence.apply, Sentence.unapply)(
+      "sentence",
+      "bulletPoints"
     )
 }

@@ -1,6 +1,11 @@
 [
     {
-        "experienceAndOutcome": "I am aware of and able to express my feelings and am developing the ability to talk about them.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I am aware of and able to express my feelings and am developing the ability to talk about them.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-01a", "HWB 1-01a", "HWB 2-01a", "HWB 3-01a", "HWB 4-01a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -11,7 +16,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I know that we all experience a variety of thoughts and emotions that affect how we feel and behave and I am learning ways of managing them.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I know that we all experience a variety of thoughts and emotions that affect how we feel and behave and I am learning ways of managing them.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-02a", "HWB 1-02a", "HWB 2-02a", "HWB 3-02a", "HWB 4-02a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -22,7 +32,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I understand that there are people I can talk to and that there are a number of ways in which I can gain access to practical and emotional support to help me and others in a range of circumstances.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I understand that there are people I can talk to and that there are a number of ways in which I can gain access to practical and emotional support to help me and others in a range of circumstances.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-03a", "HWB 1-03a", "HWB 2-03a", "HWB 3-03a", "HWB 4-03a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -33,7 +48,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I understand that my feelings and reactions can change depending upon what is happening within and around me. This helps me to understand my own behaviour and the way others behave.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I understand that my feelings and reactions can change depending upon what is happening within and around me. This helps me to understand my own behaviour and the way others behave.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-04a", "HWB 1-04a", "HWB 2-04a", "HWB 3-04a", "HWB 4-04a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -44,7 +64,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I know that friendship, caring, sharing, fairness, equality and love are important in building positive relationships. As I develop and value relationships, I care and show respect for myself and others.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I know that friendship, caring, sharing, fairness, equality and love are important in building positive relationships. As I develop and value relationships, I care and show respect for myself and others.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-05a", "HWB 1-05a", "HWB 2-05a", "HWB 3-05a", "HWB 4-05a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -55,7 +80,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I understand the importance of mental wellbeing and that this can be fostered and strengthened through personal coping skills and positive relationships. I know that it is not always possible to enjoy good mental health and that if this happens there is support available.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I understand the importance of mental wellbeing and that this can be fostered and strengthened through personal coping skills and positive relationships. I know that it is not always possible to enjoy good mental health and that if this happens there is support available.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-06a", "HWB 1-06a", "HWB 2-06a", "HWB 3-06a", "HWB 4-06a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -66,7 +96,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I am learning skills and strategies which will support me in challenging times, particularly in relation to change and loss.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I am learning skills and strategies which will support me in challenging times, particularly in relation to change and loss.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-07a", "HWB 1-07a", "HWB 2-07a", "HWB 3-07a", "HWB 4-07a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -77,7 +112,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I understand that people can feel alone and can be misunderstood and left out by others. I am learning how to give appropriate support.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I understand that people can feel alone and can be misunderstood and left out by others. I am learning how to give appropriate support.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-08a", "HWB 1-08a", "HWB 2-08a", "HWB 3-08a", "HWB 4-08a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -88,7 +128,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "As I explore the rights to which I and others are entitled, I am able to exercise these rights appropriately and accept the responsibilities that go with them. I show respect for the rights of others.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "As I explore the rights to which I and others are entitled, I am able to exercise these rights appropriately and accept the responsibilities that go with them. I show respect for the rights of others.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-09a", "HWB 1-09a", "HWB 2-09a", "HWB 3-09a", "HWB 4-09a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -99,7 +144,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I recognise that each individual has a unique blend of abilities and needs. I contribute to making my school community one which values individuals equally and is a welcoming place for all.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I recognise that each individual has a unique blend of abilities and needs. I contribute to making my school community one which values individuals equally and is a welcoming place for all.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-10a", "HWB 1-10a", "HWB 2-10a", "HWB 3-10a", "HWB 4-10a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -110,7 +160,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I make full use of and value the opportunities I am given to improve and manage my learning and, in turn, I can help to encourage learning and confidence in others.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I make full use of and value the opportunities I am given to improve and manage my learning and, in turn, I can help to encourage learning and confidence in others.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-11a", "HWB 1-11a", "HWB 2-11a", "HWB 3-11a", "HWB 4-11a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -121,7 +176,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "Representing my class, school and/or wider community encourages my self-worth and confidence and allows me to contribute to and participate in society.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "Representing my class, school and/or wider community encourages my self-worth and confidence and allows me to contribute to and participate in society.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-12a", "HWB 1-12a", "HWB 2-12a", "HWB 3-12a", "HWB 4-12a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -132,7 +192,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "Through contributing my views, time and talents, I play a part in bringing about positive change in my school and wider community.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "Through contributing my views, time and talents, I play a part in bringing about positive change in my school and wider community.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-13a", "HWB 1-13a", "HWB 2-13a", "HWB 3-13a", "HWB 4-13a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -143,7 +208,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I value the opportunities I am given to make friends and be part of a group in a range of situations.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I value the opportunities I am given to make friends and be part of a group in a range of situations.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-14a", "HWB 1-14a", "HWB 2-14a", "HWB 3-14a", "HWB 4-14a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -154,7 +224,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I am developing my understanding of the human body and can use this knowledge to maintain and improve my wellbeing and health.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I am developing my understanding of the human body and can use this knowledge to maintain and improve my wellbeing and health.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-15a", "HWB 1-15a", "HWB 2-15a", "HWB 3-15a", "HWB 4-15a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -165,7 +240,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I am learning to assess and manage risk, to protect myself and others, and to reduce the potential for harm when possible.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I am learning to assess and manage risk, to protect myself and others, and to reduce the potential for harm when possible.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-16a", "HWB 1-16a", "HWB 2-16a", "HWB 3-16a", "HWB 4-16a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -176,7 +256,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I know and can demonstrate how to keep myself and others safe and how to respond in a range of emergency situations.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I know and can demonstrate how to keep myself and others safe and how to respond in a range of emergency situations.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-17a", "HWB 1-17a", "HWB 2-17a", "HWB 3-17a", "HWB 4-17a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -187,7 +272,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I know and can demonstrate how to travel safely.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I know and can demonstrate how to travel safely.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-18a", "HWB 1-18a", "HWB 2-18a", "HWB 3-18a", "HWB 4-18a"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -198,7 +288,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "In everyday activity and play, I explore and make choices to develop my learning and interests. I am encouraged to use and share my experiences.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "In everyday activity and play, I explore and make choices to develop my learning and interests. I am encouraged to use and share my experiences.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-19a"],
         "curriculumLevels": ["EARLY"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -209,7 +304,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "Through taking part in a variety of events and activities, I am learning to recognise my own skills and abilities as well as those of others.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "Through taking part in a variety of events and activities, I am learning to recognise my own skills and abilities as well as those of others.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 1-19a"],
         "curriculumLevels": ["FIRST"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -220,7 +320,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "Opportunities to carry out different activities and roles in a variety of settings have enabled me to identify my achievements, skills and areas for development. This will help me to prepare for the next stage in my life and learning.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "Opportunities to carry out different activities and roles in a variety of settings have enabled me to identify my achievements, skills and areas for development. This will help me to prepare for the next stage in my life and learning.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 2-19a"],
         "curriculumLevels": ["SECOND"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -231,7 +336,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I am developing the skills and attributes which I will need for learning, life and work. I am gaining understanding of the relevance of my current learning to future opportunities. This is helping me to make informed choices about my life and learning.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I am developing the skills and attributes which I will need for learning, life and work. I am gaining understanding of the relevance of my current learning to future opportunities. This is helping me to make informed choices about my life and learning.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 3-19a"],
         "curriculumLevels": ["THIRD"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -242,7 +352,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "Based on my interests, skills, strengths and preferences, I am supported to make suitable, realistic and informed choices, set manageable goals and plan for my further transitions.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "Based on my interests, skills, strengths and preferences, I am supported to make suitable, realistic and informed choices, set manageable goals and plan for my further transitions.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 4-19a"],
         "curriculumLevels": ["FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -253,7 +368,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I am enjoying daily opportunities to participate in different kinds of energetic play, both outdoors and indoors.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I am enjoying daily opportunities to participate in different kinds of energetic play, both outdoors and indoors.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-25a"],
         "curriculumLevels": ["EARLY"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -264,7 +384,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "Within and beyond my place of learning I am enjoying daily opportunities to participate in physical activities and sport, making use of available indoor and outdoor space.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "Within and beyond my place of learning I am enjoying daily opportunities to participate in physical activities and sport, making use of available indoor and outdoor space.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 1-25a"],
         "curriculumLevels": ["FIRST"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -275,7 +400,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I am aware of how friendships are formed and that likes, dislikes, special qualities and needs can influence relationships.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I am aware of how friendships are formed and that likes, dislikes, special qualities and needs can influence relationships.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-44a", "HWB 1-44a"],
         "curriculumLevels": ["EARLY", "FIRST"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -286,7 +416,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I understand positive things about friendships and relationships but when something worries or upsets me I know who I should talk to.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I understand positive things about friendships and relationships but when something worries or upsets me I know who I should talk to.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-44b", "HWB 1-44b"],
         "curriculumLevels": ["EARLY", "FIRST"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -297,7 +432,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I am aware that positive friendships and relationships can promote health and the health and wellbeing of others.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I am aware that positive friendships and relationships can promote health and the health and wellbeing of others.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 2-44b"],
         "curriculumLevels": ["SECOND"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -308,7 +448,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I understand and can demonstrate the qualities and skills required to sustain different types of relationships.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I understand and can demonstrate the qualities and skills required to sustain different types of relationships.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 3-44b", "HWB 4-44b"],
         "curriculumLevels": ["THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -319,7 +464,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I am aware of the need to respect personal space and boundaries and can recognise and respond appropriately to verbal and non-verbal communication.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I am aware of the need to respect personal space and boundaries and can recognise and respond appropriately to verbal and non-verbal communication.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["HWB 0-45b", "HWB 1-45b", "HWB 2-45b", "HWB 3-45b", "HWB 4-45b"],
         "curriculumLevels": ["EARLY", "FIRST", "SECOND", "THIRD", "FOURTH"],
         "curriculumAreaName": "Health And Wellbeing",
@@ -330,7 +480,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I enjoy exploring and playing with the patterns and sounds of language, and can use what I learn.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I enjoy exploring and playing with the patterns and sounds of language, and can use what I learn.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["LIT 0-01a", "LIT 0-11a", "LIT 0-20a"],
         "curriculumLevels": ["EARLY"],
         "curriculumAreaName": "Literacy",
@@ -341,7 +496,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I enjoy exploring and choosing stories and other texts to watch, read or listen to, and can share my likes and dislikes.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I enjoy exploring and choosing stories and other texts to watch, read or listen to, and can share my likes and dislikes.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["LIT 0-01b", "LIT 0-11b"],
         "curriculumLevels": ["EARLY"],
         "curriculumAreaName": "Literacy",
@@ -352,7 +512,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I enjoy exploring events and characters in stories and other texts, sharing my thoughts in different ways.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I enjoy exploring events and characters in stories and other texts, sharing my thoughts in different ways.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["LIT 0-01c"],
         "curriculumLevels": ["EARLY"],
         "curriculumAreaName": "Literacy",
@@ -363,7 +528,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I regularly select and listen to or watch texts which I enjoy and find interesting, and I can explain why I prefer certain sources. I regularly select subject, purpose, format and resources to create texts of my choice.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I regularly select and listen to or watch texts which I enjoy and find interesting, and I can explain why I prefer certain sources. I regularly select subject, purpose, format and resources to create texts of my choice.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["LIT 1-01a", "LIT 2-01a"],
         "curriculumLevels": ["FIRST", "SECOND"],
         "curriculumAreaName": "Literacy",
@@ -374,7 +544,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I regularly select and listen to or watch texts for enjoyment and interest, and I can express how well they meet my needs and expectations, and I can give reasons, with evidence, for my personal response. I can regularly select subject, purpose, format and resources to create texts of my choice, and am developing my own style.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I regularly select and listen to or watch texts for enjoyment and interest, and I can express how well they meet my needs and expectations, and I can give reasons, with evidence, for my personal response. I can regularly select subject, purpose, format and resources to create texts of my choice, and am developing my own style.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["LIT 3-01a", "LIT 4-01a"],
         "curriculumLevels": ["THIRD", "FOURTH"],
         "curriculumAreaName": "Literacy",
@@ -385,7 +560,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "As I listen and talk in different situations, I am learning to take turns and am developing my awareness of when to talk and when to listen.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "As I listen and talk in different situations, I am learning to take turns and am developing my awareness of when to talk and when to listen.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["LIT 0-02a", "ENG 0-03a"],
         "curriculumLevels": ["EARLY"],
         "curriculumAreaName": "Literacy",
@@ -396,7 +576,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "When I engage with others, I know when and how to listen, when to talk, how much to say, when to ask questions and how to respond with respect.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "When I engage with others, I know when and how to listen, when to talk, how much to say, when to ask questions and how to respond with respect.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["LIT 1-02a"],
         "curriculumLevels": ["FIRST"],
         "curriculumAreaName": "Literacy",
@@ -407,7 +592,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "When I engage with others, I can respond in ways appropriate to my role, show that I value others’ contributions and use these to build on thinking.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "When I engage with others, I can respond in ways appropriate to my role, show that I value others’ contributions and use these to build on thinking.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["LIT 2-02a"],
         "curriculumLevels": ["SECOND"],
         "curriculumAreaName": "Literacy",
@@ -418,7 +608,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "When I engage with others, I can make a relevant contribution, encourage others to contribute and acknowledge that they have the right to hold a different opinion. I can respond in ways appropriate to my role and use contributions to reflect on, clarify or adapt thinking.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "When I engage with others, I can make a relevant contribution, encourage others to contribute and acknowledge that they have the right to hold a different opinion. I can respond in ways appropriate to my role and use contributions to reflect on, clarify or adapt thinking.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["LIT 3-02a"],
         "curriculumLevels": ["THIRD"],
         "curriculumAreaName": "Literacy",
@@ -429,7 +624,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "When I engage with others I can make a relevant contribution, ensure that everyone has an opportunity to contribute and encourage them to take account of others’ points of view or alternative solutions. I can respond in ways appropriate to my role, exploring and expanding on contributions to reflect on, clarify or adapt thinking.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "When I engage with others I can make a relevant contribution, ensure that everyone has an opportunity to contribute and encourage them to take account of others’ points of view or alternative solutions. I can respond in ways appropriate to my role, exploring and expanding on contributions to reflect on, clarify or adapt thinking.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["LIT 4-02a"],
         "curriculumLevels": ["FOURTH"],
         "curriculumAreaName": "Literacy",
@@ -440,7 +640,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "I listen or watch for useful or interesting information and I use this to make choices or learn new things.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "I listen or watch for useful or interesting information and I use this to make choices or learn new things.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["LIT 0-04a"],
         "curriculumLevels": ["EARLY"],
         "curriculumAreaName": "Literacy",
@@ -451,7 +656,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "As I listen or watch, I can identify and discuss the purpose, key words and main ideas of the text, and use this information for a specific purpose.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "As I listen or watch, I can identify and discuss the purpose, key words and main ideas of the text, and use this information for a specific purpose.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["LIT 1-04a"],
         "curriculumLevels": ["FIRST"],
         "curriculumAreaName": "Literacy",
@@ -462,7 +672,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "As I listen or watch, I can identify and discuss the purpose, main ideas and supporting detail contained within the text, and use this information for different purposes.",
+        "experienceAndOutcome": [
+            {
+                "sentence": "As I listen or watch, I can identify and discuss the purpose, main ideas and supporting detail contained within the text, and use this information for different purposes.",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": ["LIT 2-04a"],
         "curriculumLevels": [""],
         "curriculumAreaName": "Literacy",
@@ -473,7 +688,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "",
+        "experienceAndOutcome": [
+            {
+                "sentence": "",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": [""],
         "curriculumLevels": [""],
         "curriculumAreaName": "Literacy",
@@ -484,7 +704,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "",
+        "experienceAndOutcome": [
+            {
+                "sentence": "",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": [""],
         "curriculumLevels": [""],
         "curriculumAreaName": "Literacy",
@@ -495,7 +720,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "",
+        "experienceAndOutcome": [
+            {
+                "sentence": "",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": [""],
         "curriculumLevels": [""],
         "curriculumAreaName": "Literacy",
@@ -506,7 +736,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "",
+        "experienceAndOutcome": [
+            {
+                "sentence": "",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": [""],
         "curriculumLevels": [""],
         "curriculumAreaName": "Literacy",
@@ -517,7 +752,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "",
+        "experienceAndOutcome": [
+            {
+                "sentence": "",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": [""],
         "curriculumLevels": [""],
         "curriculumAreaName": "Literacy",
@@ -528,7 +768,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "",
+        "experienceAndOutcome": [
+            {
+                "sentence": "",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": [""],
         "curriculumLevels": [""],
         "curriculumAreaName": "Literacy",
@@ -539,7 +784,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "",
+        "experienceAndOutcome": [
+            {
+                "sentence": "",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": [""],
         "curriculumLevels": [""],
         "curriculumAreaName": "Literacy",
@@ -550,7 +800,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "",
+        "experienceAndOutcome": [
+            {
+                "sentence": "",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": [""],
         "curriculumLevels": [""],
         "curriculumAreaName": "Literacy",
@@ -561,7 +816,12 @@
         "responsibilityOfAllPractitioners": true
     },
     {
-        "experienceAndOutcome": "",
+        "experienceAndOutcome": [
+            {
+                "sentence": "",
+                "bulletPoints": [""]
+            }
+        ],
         "codes": [""],
         "curriculumLevels": [""],
         "curriculumAreaName": "Literacy",
@@ -570,6 +830,6 @@
         "eAndOSetSubSectionName": "Finding and using information",
         "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
         "responsibilityOfAllPractitioners": true
-    },
+    }
 
 ]
