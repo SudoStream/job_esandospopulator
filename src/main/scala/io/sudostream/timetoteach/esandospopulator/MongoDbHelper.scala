@@ -42,14 +42,19 @@ trait MongoDbHelper {
         MongoClient(mongoSslClientSettings)
       }
 
-
+    println("Now lets get the esandos database")
     val database: MongoDatabase = mongoClient.getDatabase("esandos")
 
+    println("Drop the esandos database to clean things up")
     val dbDropObservable = database.drop()
     // We want to wait here until the database is dropped
-    Await.result(dbDropObservable.toFuture, Duration(10, TimeUnit.SECONDS))
+    println("Lets just hive it 9 seconds")
+    Await.result(dbDropObservable.toFuture, Duration(9, TimeUnit.SECONDS))
 
+    println("Get the esandos collection")
     val collection: MongoCollection[Document] = database.getCollection("esandos")
+
+    println("Cool, we're done getting the collection")
     collection
   }
 
