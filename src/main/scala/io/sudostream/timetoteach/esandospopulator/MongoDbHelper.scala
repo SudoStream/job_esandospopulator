@@ -2,6 +2,7 @@ package io.sudostream.timetoteach.esandospopulator
 
 import java.util.concurrent.TimeUnit
 
+import com.mongodb.ConnectionString
 import com.typesafe.config.ConfigFactory
 import org.mongodb.scala.connection.{ClusterSettings, NettyStreamFactoryFactory, SslSettings}
 import org.mongodb.scala.{Document, MongoClient, MongoClientSettings, MongoCollection, MongoDatabase, ServerAddress}
@@ -14,15 +15,24 @@ trait MongoDbHelper {
 
   def getEsAndOsCollection: MongoCollection[Document] = {
     val config = ConfigFactory.load()
-        val mongoDbHost = config.getString("mongodb.host")
-        val mongoDbPort = config.getInt("mongodb.port")
-        println(s"mongo host = '$mongoDbHost'")
-        println(s"mongo port = '$mongoDbPort'")
+    val mongoDbUri = config.getString("mongodb.connection_uri")
+    val mongoDbHost = config.getString("mongodb.host")
+    val mongoDbPort = config.getInt("mongodb.port")
+    println(s"mongo host = '$mongoDbHost'")
+    println(s"mongo port = '$mongoDbPort'")
 
-    val clusterSettings: ClusterSettings = ClusterSettings.builder().hosts(
-      List(
-        new ServerAddress(mongoDbHost, mongoDbPort))
-        .asJava).build()
+
+    val clusterSettings: ClusterSettings =
+      if (!(mongoDbUri == "")) {
+        ClusterSettings.builder()
+          .applyConnectionString(new ConnectionString(mongoDbUri))
+          .build()
+      } else {
+        ClusterSettings.builder().hosts(
+          List(
+            new ServerAddress(mongoDbHost, mongoDbPort))
+            .asJava).build()
+      }
 
     val mongoSslClientSettings = MongoClientSettings.builder()
       .sslSettings(SslSettings.builder()
