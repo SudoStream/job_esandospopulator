@@ -6,11 +6,14 @@ import org.mongodb.scala.{Document, MongoClient, MongoCollection, MongoDatabase}
 
 import scala.concurrent.Await
 import scala.concurrent.duration.Duration
+import com.typesafe.config.{Config, ConfigFactory}
 
 trait MongoDbHelper {
 
   def getEsAndOsCollection: MongoCollection[Document] = {
-    val mongoClient: MongoClient = MongoClient("mongodb://localhost")
+    val config = ConfigFactory.load()
+    val mongoConnectionUri = config.getString("mongodb.connection_uri")
+    val mongoClient: MongoClient = MongoClient(mongoConnectionUri)
     val database: MongoDatabase = mongoClient.getDatabase("esandos")
     val dbDropObservable = database.drop()
 
