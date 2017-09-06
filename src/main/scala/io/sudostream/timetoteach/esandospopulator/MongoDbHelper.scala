@@ -48,8 +48,13 @@ trait MongoDbHelper {
     println("Drop the esandos database to clean things up")
     val dbDropObservable = database.drop()
     // We want to wait here until the database is dropped
-    println("Lets just hive it 9 seconds")
-    Await.result(dbDropObservable.toFuture, Duration(9, TimeUnit.SECONDS))
+    println("Lets just give it 9 seconds")
+
+    try {
+      Await.result(dbDropObservable.toFuture, Duration(9, TimeUnit.SECONDS))
+    } catch {
+      case e: Exception => "Caught exception:\n" + e.getMessage + "\nBut ignoring."
+    }
 
     println("Get the esandos collection")
     val collection: MongoCollection[Document] = database.getCollection("esandos")
