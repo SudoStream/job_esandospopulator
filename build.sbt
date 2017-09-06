@@ -8,7 +8,7 @@ enablePlugins(DockerPlugin)
 name := "esandospopulator"
 organization := "io.sudostream"
 scalaVersion := "2.11.8"
-version := "0.0.6"
+version := "0.0.7"
 dockerExposedPorts := Seq(9000)
 dockerRepository := Some("eu.gcr.io/time-to-teach")
 dockerUpdateLatest := true
