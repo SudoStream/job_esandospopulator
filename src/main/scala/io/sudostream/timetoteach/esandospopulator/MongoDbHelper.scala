@@ -28,7 +28,7 @@ trait MongoDbHelper {
         .clusterSettings(clusterSettings)
       .build()
 
-    val mongoClient: MongoClient = MongoClient(mongoConnectionUri)
+    val mongoClient: MongoClient = MongoClient(mongoSslClientSettings)
     val database: MongoDatabase = mongoClient.getDatabase("esandos")
     val dbDropObservable = database.drop()
 
