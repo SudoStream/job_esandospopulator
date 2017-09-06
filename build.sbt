@@ -23,3 +23,12 @@ libraryDependencies ++= Seq(
   "ch.qos.logback" % "logback-classic" % "1.1.7",
   scalaTest % Test
 )
+
+fork in run := true
+
+javaOptions in run ++= Seq(
+  "-Djavax.net.ssl.keyStore=/etc/ssl/cacerts",
+  "-Djavax.net.ssl.keyStorePassword=the8balL",
+  "-Djavax.net.ssl.trustStore=/etc/ssl/cacerts",
+  "-Djavax.net.ssl.trustStorePassword=the8balL"
+)

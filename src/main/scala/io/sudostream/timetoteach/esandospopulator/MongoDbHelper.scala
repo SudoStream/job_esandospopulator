@@ -3,29 +3,33 @@ package io.sudostream.timetoteach.esandospopulator
 import java.util.concurrent.TimeUnit
 
 import com.typesafe.config.ConfigFactory
+import org.mongodb.scala.connection.{ClusterSettings, NettyStreamFactoryFactory, SslSettings}
 import org.mongodb.scala.{Document, MongoClient, MongoClientSettings, MongoCollection, MongoDatabase, ServerAddress}
 
 import scala.collection.JavaConverters._
-import org.mongodb.scala.connection.ClusterSettings
-
 import scala.concurrent.Await
 import scala.concurrent.duration.Duration
-import org.mongodb.scala.connection.{NettyStreamFactoryFactory, SslSettings}
 
 trait MongoDbHelper {
 
   def getEsAndOsCollection: MongoCollection[Document] = {
     val config = ConfigFactory.load()
-    val mongoConnectionUri = config.getString("mongodb.connection_uri")
+        val mongoDbHost = config.getString("mongodb.host")
+        val mongoDbPort = config.getInt("mongodb.port")
+        println(s"mongo host = '$mongoDbHost'")
+        println(s"mongo port = '$mongoDbPort'")
 
-    val clusterSettings: ClusterSettings = ClusterSettings.builder().hosts(List(new ServerAddress(mongoConnectionUri)).asJava).build()
+    val clusterSettings: ClusterSettings = ClusterSettings.builder().hosts(
+      List(
+        new ServerAddress(mongoDbHost, mongoDbPort))
+        .asJava).build()
 
     val mongoSslClientSettings = MongoClientSettings.builder()
       .sslSettings(SslSettings.builder()
         .enabled(true)
         .build())
       .streamFactoryFactory(NettyStreamFactoryFactory())
-        .clusterSettings(clusterSettings)
+      .clusterSettings(clusterSettings)
       .build()
 
     val mongoClient: MongoClient = MongoClient(mongoSslClientSettings)

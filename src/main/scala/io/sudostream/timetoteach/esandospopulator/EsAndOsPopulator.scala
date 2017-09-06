@@ -2,7 +2,7 @@ package io.sudostream.timetoteach.esandospopulator
 
 import argonaut.Argonaut._
 import argonaut._
-import io.sudostream.timetoteach.esandospopulator.EsAndOsPopulator.esAndOsCollection
+//import io.sudostream.timetoteach.esandospopulator.EsAndOsPopulator.esAndOsCollection
 import org.mongodb.scala._
 
 object EsAndOsPopulator extends App with MongoDbHelper with ConsoleMessages {
@@ -14,19 +14,12 @@ object EsAndOsPopulator extends App with MongoDbHelper with ConsoleMessages {
   val filenameAsInputStream = getClass.getResourceAsStream(filename)
   val input = Source.fromInputStream(filenameAsInputStream).mkString
 
-  //  val esAndOsTextBuilder = new StringBuilder
-  //  for (line <- Source.fromResource (filename).getLines) {
-  //    esAndOsTextBuilder.append(line)
-  //  }
-  //  val input = esAndOsTextBuilder.toString()
-
 
   // parse the string as json, attempt to decode it to a list of person,
   // otherwise just take it as an empty list.
   val esAndOs = input.decodeOption[List[EAndO]].getOrElse(Nil)
 
-  // work with your data types as you normally would
-  esAndOs.foreach(eAndO => println("EAndO\n-------\n" + eAndO + "\n"))
+//  esAndOs.foreach(eAndO => println("EAndO\n-------\n" + eAndO + "\n"))
 
   // convert back to json, and then to a pretty printed string, alternative
   // ways to print may be nospaces, spaces2, or a custom format
@@ -68,18 +61,9 @@ object EsAndOsPopulator extends App with MongoDbHelper with ConsoleMessages {
     }
   }
 
-
-  //  val doc: Document = Document("_id" -> 0, "name" -> "MongoDB", "type" -> "database",
-  //    "count" -> 1, "info" -> Document("x" -> 203, "y" -> 102))
-
-  //
-  //  val insertAndCount = for {
-  //    insertResult <- insertObservable
-  //    countResult <- esAndOs.count()
-  //  } yield countResult
-  //  println(s"total # of documents after inserting 100 small ones (should be 101):  ${insertAndCount.subscribe()}")
-  Thread.sleep(1000L)
+  Thread.sleep(5000L)
   println(finishedMessage)
+  System.exit(0)
 }
 
 trait ConsoleMessages {
