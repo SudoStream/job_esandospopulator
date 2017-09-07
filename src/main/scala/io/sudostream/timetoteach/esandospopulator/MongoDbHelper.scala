@@ -16,15 +16,15 @@ trait MongoDbHelper {
   def getEsAndOsCollection: MongoCollection[Document] = {
     val config = ConfigFactory.load()
     val mongoDbUri = config.getString("mongodb.connection_uri")
-    val mongoDbHost = config.getString("mongodb.host")
-    val mongoDbPort = config.getInt("mongodb.port")
 
+    println(s"mongo uri = '$mongoDbUri'")
     val mongoClient: MongoClient =
       if (!(mongoDbUri == "")) {
-        println(s"mongo uri = '$mongoDbUri'")
         System.setProperty("org.mongodb.async.type", "netty")
         MongoClient(mongoDbUri)
       } else {
+        val mongoDbHost = config.getString("mongodb.host")
+        val mongoDbPort = config.getInt("mongodb.port")
         println(s"mongo host = '$mongoDbHost'")
         println(s"mongo port = '$mongoDbPort'")
 
@@ -45,16 +45,16 @@ trait MongoDbHelper {
     println("Now lets get the esandos database")
     val database: MongoDatabase = mongoClient.getDatabase("esandos")
 
-//    println("Drop the esandos database to clean things up")
-//    val dbDropObservable = database.drop()
-//    // We want to wait here until the database is dropped
-//    println("Lets just give it 9 seconds")
-//
-//    try {
-//      Await.result(dbDropObservable.toFuture, Duration(9, TimeUnit.SECONDS))
-//    } catch {
-//      case e: Exception => "Caught exception:\n" + e.getMessage + "\nBut ignoring."
-//    }
+    println("Drop the esandos database to clean things up")
+    val dbDropObservable = database.drop()
+    // We want to wait here until the database is dropped
+    println("Lets just give it 9 seconds")
+
+    try {
+      Await.result(dbDropObservable.toFuture, Duration(9, TimeUnit.SECONDS))
+    } catch {
+      case e: Exception => "Caught exception:\n" + e.getMessage + "\nBut ignoring."
+    }
 
     println("Get the esandos collection")
     val collection: MongoCollection[Document] = database.getCollection("esandos")
