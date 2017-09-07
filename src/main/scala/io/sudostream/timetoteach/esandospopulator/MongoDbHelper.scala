@@ -15,36 +15,40 @@ trait MongoDbHelper {
 
   def getEsAndOsCollection: MongoCollection[Document] = {
     val config = ConfigFactory.load()
-    val mongoDbUri = config.getString("mongodb.connection_uri")
+    val mongoDbHost = config.getString("mongodb.host")
 
-    println(s"mongo uri = '$mongoDbUri'")
-    val mongoClient: MongoClient =
-      if (!(mongoDbUri == "")) {
-        System.setProperty("org.mongodb.async.type", "netty")
-        MongoClient(mongoDbUri)
-      } else {
-        val mongoDbHost = config.getString("mongodb.host")
-        val mongoDbPort = config.getInt("mongodb.port")
-        println(s"mongo host = '$mongoDbHost'")
-        println(s"mongo port = '$mongoDbPort'")
+    val mongoClient: MongoClient = if (mongoDbHost == "") {
+      val mongoDbUri = config.getString("mongodb.connection_uri")
+      println(s"mongo uri = '$mongoDbUri'")
+      System.setProperty("org.mongodb.async.type", "netty")
+      MongoClient(mongoDbUri)
+    } else {
+      println(s"MONGODB_KEYSTORE = \n${sys.env("MONGODB_KEYSTORE")}")
+      System.setProperty("javax.net.ssl.keyStore", sys.env("MONGODB_KEYSTORE"))
+      System.setProperty("javax.net.ssl.keyStorePassword", sys.env("MONGODB_KEYSTORE_PASSWORD"))
+      System.setProperty("javax.net.ssl.trustStore", sys.env("MONGODB_KEYSTORE"))
+      System.setProperty("javax.net.ssl.trustStorePassword", sys.env("MONGODB_KEYSTORE_PASSWORD"))
 
-        val clusterSettings: ClusterSettings = ClusterSettings.builder().hosts(
-          List(new ServerAddress(mongoDbHost, mongoDbPort)).asJava).build()
+      val mongoDbPort = config.getInt("mongodb.port")
+      println(s"mongo host = '$mongoDbHost'")
+      println(s"mongo port = '$mongoDbPort'")
 
-        val mongoSslClientSettings = MongoClientSettings.builder()
-          .sslSettings(SslSettings.builder()
-            .enabled(true)
-            .build())
-          .streamFactoryFactory(NettyStreamFactoryFactory())
-          .clusterSettings(clusterSettings)
-          .build()
+      val clusterSettings: ClusterSettings = ClusterSettings.builder().hosts(
+        List(new ServerAddress(mongoDbHost, mongoDbPort)).asJava).build()
 
-        MongoClient(mongoSslClientSettings)
-      }
+      val mongoSslClientSettings = MongoClientSettings.builder()
+        .sslSettings(SslSettings.builder()
+          .enabled(true)
+          .build())
+        .streamFactoryFactory(NettyStreamFactoryFactory())
+        .clusterSettings(clusterSettings)
+        .build()
+
+      MongoClient(mongoSslClientSettings)
+    }
 
     println("Now lets get the esandos database")
     val database: MongoDatabase = mongoClient.getDatabase("esandos")
-
     println("Drop the esandos database to clean things up")
     val dbDropObservable = database.drop()
     // We want to wait here until the database is dropped

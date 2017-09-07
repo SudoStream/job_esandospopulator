@@ -4,7 +4,9 @@ import org.mongodb.scala._
 
 import scala.concurrent.Future
 
-object EsAndOsPopulator extends App with MongoDbHelper with EsAndOsInserter with ConsoleMessages {
+object EsAndOsPopulator extends App
+  with MongoDbHelper with EsAndOsInserter with ConsoleMessages {
+
   println(startupMessage)
 
   val esAndOs: List[EAndO] = decodeEsAndOsForDatabaseInjestion
@@ -18,6 +20,7 @@ object EsAndOsPopulator extends App with MongoDbHelper with EsAndOsInserter with
 
   println(finishedMessage)
   System.exit(0)
+
 }
 
 trait ConsoleMessages {
