@@ -61,7 +61,7 @@ object EsAndOsPopulator extends App with MongoDbHelper with ConsoleMessages {
     }
   }
 
-  Thread.sleep(300000L)
+  Thread.sleep(180L)
   println(finishedMessage)
   System.exit(0)
 }
