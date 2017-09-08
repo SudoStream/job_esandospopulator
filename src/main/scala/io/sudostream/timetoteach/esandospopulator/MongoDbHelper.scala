@@ -18,8 +18,6 @@ trait MongoDbHelper {
     val mongoKeystorePassword = try { sys.env("MONGODB_KEYSTORE_PASSWORD") } catch {
       case e: Exception => ""    }
 
-    println(s"password = $mongoKeystorePassword")
-
     val mongoClient: MongoClient =
       if (mongoKeystorePassword == "" || mongoKeystorePassword.isEmpty) {
       val mongoDbUri = config.getString("mongodb.connection_uri")
