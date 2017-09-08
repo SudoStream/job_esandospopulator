@@ -26,9 +26,9 @@ trait MongoDbHelper {
       MongoClient(mongoDbUri)
     } else {
       System.setProperty("javax.net.ssl.keyStore", "/etc/ssl/cacerts")
-      System.setProperty("javax.net.ssl.keyStorePassword", sys.env("MONGODB_KEYSTORE_PASSWORD"))
+      System.setProperty("javax.net.ssl.keyStorePassword", mongoKeystorePassword)
       System.setProperty("javax.net.ssl.trustStore", "/etc/ssl/cacerts")
-      System.setProperty("javax.net.ssl.trustStorePassword", sys.env("MONGODB_KEYSTORE_PASSWORD"))
+      System.setProperty("javax.net.ssl.trustStorePassword", mongoKeystorePassword)
 
       val mongoDbHost = config.getString("mongodb.host")
       val mongoDbPort = config.getInt("mongodb.port")
