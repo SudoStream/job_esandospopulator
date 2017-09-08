@@ -15,9 +15,11 @@ trait MongoDbHelper {
 
   def getEsAndOsCollection: MongoCollection[Document] = {
     val config = ConfigFactory.load()
-    val mongoDbHost = config.getString("mongodb.host")
+    val mongoKeystorePassword = try { sys.env("MONGODB_KEYSTORE_PASSWORD__") } catch {
+      case e: Exception => ""    }
 
-    val mongoClient: MongoClient = if (mongoDbHost == "") {
+    val mongoClient: MongoClient =
+      if (!(mongoKeystorePassword == "" || mongoKeystorePassword.isEmpty)) {
       val mongoDbUri = config.getString("mongodb.connection_uri")
       println(s"mongo uri = '$mongoDbUri'")
       System.setProperty("org.mongodb.async.type", "netty")
@@ -28,6 +30,7 @@ trait MongoDbHelper {
       System.setProperty("javax.net.ssl.trustStore", "/etc/ssl/cacerts")
       System.setProperty("javax.net.ssl.trustStorePassword", sys.env("MONGODB_KEYSTORE_PASSWORD"))
 
+      val mongoDbHost = config.getString("mongodb.host")
       val mongoDbPort = config.getInt("mongodb.port")
       println(s"mongo host = '$mongoDbHost'")
       println(s"mongo port = '$mongoDbPort'")
