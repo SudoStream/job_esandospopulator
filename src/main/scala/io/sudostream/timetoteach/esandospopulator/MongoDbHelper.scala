@@ -19,7 +19,7 @@ trait MongoDbHelper {
     val config = ConfigFactory.load()
 
     val mongoClient: MongoClient =
-      if ((mongoKeystorePassword == "" || mongoKeystorePassword.isEmpty) && EsAndOsPopulator.isMinikubeRun == ) {
+      if ((mongoKeystorePassword == "" || mongoKeystorePassword.isEmpty) && !EsAndOsPopulator.isMinikubeRun) {
         val mongoDbUri = config.getString("mongodb.connection_uri")
         println(s"mongo uri = '$mongoDbUri'")
         System.setProperty("org.mongodb.async.type", "netty")
