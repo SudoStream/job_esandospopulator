@@ -16,19 +16,22 @@ object EsAndOsPopulator extends App
 
   println("is it MINIKUBE?")
 
-  val isMinikubeRun = try {
+  val isMinikubeRun  :Boolean = try {
     if (sys.env("MINIKUBE_RUN") == "true") {
       println("MINIKUBE = yes")
       System.setProperty("javax.net.ssl.keyStore", "/etc/ssl/cacerts")
       System.setProperty("javax.net.ssl.keyStorePassword", mongoKeystorePassword)
       System.setProperty("javax.net.ssl.trustStore", "/etc/ssl/cacerts")
       System.setProperty("javax.net.ssl.trustStorePassword", mongoKeystorePassword)
+      true
     } else {
       println("MINIKUBE = no")
+      false
     }
   }
   catch {
     case e: Exception => ""
+      false
   }
 
   println(startupMessage)
