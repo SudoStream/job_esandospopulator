@@ -13,42 +13,42 @@ import scala.concurrent.duration.Duration
 
 trait MongoDbHelper {
 
+  import EsAndOsPopulator.mongoKeystorePassword
+
   def getEsAndOsCollection: MongoCollection[Document] = {
     val config = ConfigFactory.load()
-    val mongoKeystorePassword = try { sys.env("MONGODB_KEYSTORE_PASSWORD") } catch {
-      case e: Exception => ""    }
 
     val mongoClient: MongoClient =
       if (mongoKeystorePassword == "" || mongoKeystorePassword.isEmpty) {
-      val mongoDbUri = config.getString("mongodb.connection_uri")
-      println(s"mongo uri = '$mongoDbUri'")
-      System.setProperty("org.mongodb.async.type", "netty")
-      MongoClient(mongoDbUri)
-    } else {
-      System.setProperty("javax.net.ssl.keyStore", "/etc/ssl/cacerts")
-      System.setProperty("javax.net.ssl.keyStorePassword", mongoKeystorePassword)
-      System.setProperty("javax.net.ssl.trustStore", "/etc/ssl/cacerts")
-      System.setProperty("javax.net.ssl.trustStorePassword", mongoKeystorePassword)
+        val mongoDbUri = config.getString("mongodb.connection_uri")
+        println(s"mongo uri = '$mongoDbUri'")
+        System.setProperty("org.mongodb.async.type", "netty")
+        MongoClient(mongoDbUri)
+      } else {
+        System.setProperty("javax.net.ssl.keyStore", "/etc/ssl/cacerts")
+        System.setProperty("javax.net.ssl.keyStorePassword", mongoKeystorePassword)
+        System.setProperty("javax.net.ssl.trustStore", "/etc/ssl/cacerts")
+        System.setProperty("javax.net.ssl.trustStorePassword", mongoKeystorePassword)
 
-      val mongoDbHost = config.getString("mongodb.host")
-      val mongoDbPort = config.getInt("mongodb.port")
-      println(s"mongo host = '$mongoDbHost'")
-      println(s"mongo port = '$mongoDbPort'")
+        val mongoDbHost = config.getString("mongodb.host")
+        val mongoDbPort = config.getInt("mongodb.port")
+        println(s"mongo host = '$mongoDbHost'")
+        println(s"mongo port = '$mongoDbPort'")
 
-      val clusterSettings: ClusterSettings = ClusterSettings.builder().hosts(
-        List(new ServerAddress(mongoDbHost, mongoDbPort)).asJava).build()
+        val clusterSettings: ClusterSettings = ClusterSettings.builder().hosts(
+          List(new ServerAddress(mongoDbHost, mongoDbPort)).asJava).build()
 
-      val mongoSslClientSettings = MongoClientSettings.builder()
-        .sslSettings(SslSettings.builder()
-          .enabled(true)
-          .invalidHostNameAllowed(true)
-          .build())
-        .streamFactoryFactory(NettyStreamFactoryFactory())
-        .clusterSettings(clusterSettings)
-        .build()
+        val mongoSslClientSettings = MongoClientSettings.builder()
+          .sslSettings(SslSettings.builder()
+            .enabled(true)
+            .invalidHostNameAllowed(true)
+            .build())
+          .streamFactoryFactory(NettyStreamFactoryFactory())
+          .clusterSettings(clusterSettings)
+          .build()
 
-      MongoClient(mongoSslClientSettings)
-    }
+        MongoClient(mongoSslClientSettings)
+      }
 
     println("Now lets get the esandos database")
     val database: MongoDatabase = mongoClient.getDatabase("esandos")

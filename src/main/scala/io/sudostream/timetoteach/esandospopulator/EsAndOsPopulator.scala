@@ -7,6 +7,24 @@ import scala.concurrent.Future
 object EsAndOsPopulator extends App
   with MongoDbHelper with EsAndOsInserter with ConsoleMessages {
 
+  val mongoKeystorePassword = try {
+    sys.env("MONGODB_KEYSTORE_PASSWORD")
+  } catch {
+    case e: Exception => ""
+  }
+
+  val isMinikubeRun = try {
+    if (sys.env("MINIKUBE_RUN") == "true") {
+      System.setProperty("javax.net.ssl.keyStore", "/etc/ssl/cacerts")
+      System.setProperty("javax.net.ssl.keyStorePassword", mongoKeystorePassword)
+      System.setProperty("javax.net.ssl.trustStore", "/etc/ssl/cacerts")
+      System.setProperty("javax.net.ssl.trustStorePassword", mongoKeystorePassword)
+    }
+  }
+  catch {
+    case e: Exception => ""
+  }
+
   println(startupMessage)
 
   val esAndOs: List[EAndO] = decodeEsAndOsForDatabaseInjestion
