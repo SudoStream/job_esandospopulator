@@ -4,6 +4,7 @@ import org.mongodb.scala._
 
 import scala.concurrent.Future
 
+
 object EsAndOsPopulator extends App
   with MongoDbHelper with EsAndOsInserter with ConsoleMessages {
 
@@ -13,12 +14,17 @@ object EsAndOsPopulator extends App
     case e: Exception => ""
   }
 
+  println("is it MINIKUBE?")
+
   val isMinikubeRun = try {
     if (sys.env("MINIKUBE_RUN") == "true") {
+      println("MINIKUBE = yes")
       System.setProperty("javax.net.ssl.keyStore", "/etc/ssl/cacerts")
       System.setProperty("javax.net.ssl.keyStorePassword", mongoKeystorePassword)
       System.setProperty("javax.net.ssl.trustStore", "/etc/ssl/cacerts")
       System.setProperty("javax.net.ssl.trustStorePassword", mongoKeystorePassword)
+    } else {
+      println("MINIKUBE = no")
     }
   }
   catch {
