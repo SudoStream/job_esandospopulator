@@ -14,7 +14,7 @@ object EsAndOsPopulator extends App
     case e: Exception => ""
   }
 
-  println("is it MINIKUBE?")
+  println("is it MINIKUBE????????????????????")
 
   val isMinikubeRun  :Boolean = try {
     if (sys.env("MINIKUBE_RUN") == "true") {
