@@ -1,0 +1,478 @@
+[
+    {
+        "eandoCodes": ["MNU 0-01a"],
+        "level": "EARLY",
+        "benchmarks": [
+            "Recognises the number of objects in a group, without counting (subitising) and uses this information to estimate the number of objects in other groups",
+            "Checks estimates by counting.",
+            "Demonstrates skills of estimation in the contexts of number and measure using relevant vocabulary, including less than, longer than, more than and the same."
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 0-02a", "MNU 0-03a"],
+        "level": "EARLY",
+        "benchmarks": [
+            "Explains that zero means there is none of a particular quantity and is represented by the numeral 0",
+            "Recalls the number sequence forwards within the range 0 - 30, from any given number.",
+            "Recalls the number sequence backwards from 20",
+            "Identifies and recognises numbers from 0 to 20.",
+            "Orders all numbers forwards and backwards within the range 0 - 20",
+            "Identifies the number before, the number after and missing numbers in a sequence within 20.",
+            "Uses one-to-one correspondence to count a given number of objects to 20.",
+            "Identifies ‘how many?’ in regular dot patterns, for example, arrays, five frames, ten frames, dice and irregular dot patterns, without having to count (subitising).",
+            "Groups items recognising that the appearance of the group has no effect on the overall total (conservation of number).",
+            "Uses ordinal numbers in real life contexts, for example, ‘I am third in the line’.",
+            "Uses the language of before, after and in-between.",
+            "Counts on and back in ones to add and subtract.",
+            "Doubles numbers to a total of 10 mentally.",
+            "When counting objects, understands that the number name of the last object counted is the name given to the total number of objects in the group.",
+            "Partitions quantities to 10 into two or more parts and recognises that this does not affect the total.",
+            "Adds and subtracts mentally to 10",
+            "Uses appropriately the mathematical symbols +, − and =",
+            "Solves simple missing number problems."
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 0-07a"],
+        "level": "EARLY",
+        "benchmarks": [
+            "Splits a whole into smaller parts and explains that equal parts are the same size.",
+            "Uses appropriate vocabulary to describe halves",
+            "Shares out a group of items equally into smaller groups"
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 0-09a"],
+        "level": "EARLY",
+        "benchmarks": [
+            "Identifies all coins to £2",
+            "Applies addition and subtraction skills and uses 1p, 2p, 5p and 10p coins to pay the exact value for items to 10p"
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 0-10a"],
+        "level": "EARLY",
+        "benchmarks": [
+            "Links daily routines and personal events to time sequences",
+            "Names the days of the week in sequence, knows the months of the year and talks about features of the four seasons in relevant contexts",
+            "Recognises, talks about and where appropriate, engages with everyday devices used to measure or display time, including clocks, calendars, sand timers and visual timetables.",
+            "Reads analogue and digital o’clock times (12 hour only) and represents this on a digital display or clock face.",
+            "Uses appropriate language when discussing time, including before, after, o’clock, hour hand and minute hand."
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 0-11a"],
+        "level": "EARLY",
+        "benchmarks": [
+            "Shares relevant experiences in which measurements of lengths, heights, mass and capacities are used, for example, in baking.",
+            "Describes common objects using appropriate measurement language, including tall, heavy and empty.",
+            "Compares and describes lengths, heights, mass and capacities using everyday language, including longer, shorter, taller, heavier, lighter, more and less.",
+            "Estimates, then measures, the length, height, mass and capacity of familiar objects using a range of appropriate non-standard units"
+        ]
+    },
+    {
+        "eandoCodes": ["MTH 0-13a"],
+        "level": "EARLY",
+        "benchmarks": [
+            "Copies, continues and creates simple patterns involving objects, shapes and numbers",
+            "Explores, recognises and continues simple number patterns.",
+            "Finds missing numbers on a number line within the range 0 - 20"
+        ]
+    },
+    {
+        "eandoCodes": ["MTH 0-16a"],
+        "level": "EARLY",
+        "benchmarks": [
+            "Recognises, describes and sorts common 2D shapes and 3D objects according to various criteria, for example, straight, round, flat and curved."
+        ]
+    },
+    {
+        "eandoCodes": ["MTH 0-17a", "MTH 0-19a"],
+        "level": "EARLY",
+        "benchmarks": [
+            "Understands and correctly uses the language of position and direction, including in front, behind, above, below, left, right, forwards and backwards, to solve simple problems in movement games.",
+            "Identifies, describes and creates symmetrical pictures with one line of symmetry"
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 0-20a", "MNU 0-20b", "MNU 0-20c"],
+        "level": "EARLY",
+        "benchmarks": [
+            "Asks simple questions to collect data for a specific purpose",
+            "Collects and organises objects for a specific purpose.",
+            "Applies counting skills to ask and answer questions and makes relevant choices and decisions based on the data.",
+            "Contributes to concrete or pictorial displays where one object or drawing represents one data value, using digital technologies as appropriate.",
+            "Uses knowledge of colour, shape, size and other properties to match and sort items in a variety of different ways.",
+            "Interprets simple graphs, charts and signs and demonstrates how they support planning, choices and decision making."
+        ]
+    },
+
+    {
+        "eandoCodes": ["MNU 1-01a"],
+        "level": "FIRST",
+        "benchmarks": [
+            "Uses strategies to estimate an answer to a calculation or problem, for example, doubling and rounding.",
+            "Rounds whole numbers to the nearest 10 and 100 and uses this routinely to estimate and check the reasonableness of a solution."
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 1-02a", "MNU 1-03a"],
+        "level": "FIRST",
+        "benchmarks": [
+            "Uses multiplication and division facts to solve problems within the number range 0 to 1000",
+            "Multiplies and divides whole numbers by 10 and 100 (whole number answers only)",
+            "Applies knowledge of inverse operations (addition and subtraction; multiplication and division).",
+            "Solves two step problems"
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 1-07a","MNU 1-07b", "MTH 1-07c"],
+        "level": "FIRST",
+        "benchmarks": [
+            "Explains what a fraction is using concrete materials, pictorial representations and appropriate mathematical vocabulary.",
+            "Demonstrates understanding that the greater the number of equal parts, the smaller the size of each share",
+            "Uses the correct notation for common fractions to tenths, for example, 1/2, 2/3 and 5/8.",
+            "Compares the size of fractions and places simple fractions in order on a number line",
+            "Uses pictorial representations and other models to demonstrate understanding of simple equivalent fractions, for example, 1/2 = 2/4 = 3/6",
+            "Explains the role of the numerator and denominator",
+            "Uses known multiplication and division facts and other strategies to find unit fractions of whole numbers, for example, 1/2 or 1/4"
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 1-09a","MNU 1-09b"],
+        "level": "FIRST",
+        "benchmarks": [
+            "Identifies and uses all coins and notes to £20 and explores different ways of making the same total.",
+            "Records amounts accurately in different ways using the correct notation, for example, 149p = £1·49 and 7p = £0·07",
+            "Uses a variety of coin and note combinations, to pay for items and give change within £10.",
+            "Applies mental agility number skills to calculate the total spent in a shopping situation and is able to calculate change.",
+            "Demonstrates awareness of how goods can be paid for using cards and digital technology."
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 1-10a","MNU 1-10b", "MNU 1-10c"],
+        "level": "FIRST",
+        "benchmarks": [
+            "Tells the time using half past, quarter past and quarter to using analogue and digital 12 hour clocks.",
+            "Records 12 hour times using am and pm and is able to identify 24 hour notation, for example, on a mobile phone or computer",
+            "Records the date in a variety of ways, using words and numbers.",
+            "Uses and interprets a variety of calendars and 12 hour timetables to plan key events",
+            "Knows the number of seconds in a minute, minutes in an hour, hours in a day, days in each month, weeks and days in a year.",
+            "Orders the months of the year and relates these to the appropriate seasons",
+            "Selects and uses appropriate timers for specific purposes"
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 1-11a","MNU 1-11b"],
+        "level": "FIRST",
+        "benchmarks": [
+            "Compares measures with estimates",
+            "Uses knowledge of relationships between units of measure to make simple conversions, for example, 1 m 58 cm = 158 cm",
+            "Reads a variety of scales on measuring devices including those with simple fractions, for example, 1/2 litre.",
+            "Uses square grids to estimate then measure the areas of a variety of simple 2D shapes to the nearest half square.",
+            "Creates shapes with a given area to the nearest half square using square tiles or grids.",
+            "Recognises that different shapes can have the same area (conservation of area)."
+        ]
+    },
+    {
+        "eandoCodes": ["MTH 1-12a"],
+        "level": "FIRST",
+        "benchmarks": [
+            "Investigates and shares understanding of the importance of numbers in learning, life and work.",
+            "Investigates and shares understanding of a variety of number systems used throughout history. "
+        ]
+    },
+    {
+        "eandoCodes": ["MTH 1-13a","MTH 1-13b"],
+        "level": "FIRST",
+        "benchmarks": [
+            "Counts forwards and backwards in 2s, 5s and 10s from any whole number up to 1000",
+            "Describes patterns in number, for example, in the multiplication tables and hundred square",
+            "Continues and creates repeating patterns involving shapes, pictures and symbols",
+            "Describes, continues and creates number patterns using addition, subtraction, doubling, halving, counting in jumps (skip counting) and known multiples."
+        ]
+    },
+    {
+        "eandoCodes": ["MTH 1-15a","MTH 1-15b"],
+        "level": "FIRST",
+        "benchmarks": [
+            "Understands and accurately uses the terms ‘equal to’, ‘not equal to’, ‘less than’, ‘greater than’, and the related symbols (=, ≠ , <, >) when comparing quantities.",
+            "Applies understanding of the equals sign as a balance, and knowledge of number facts, to solve simple algebraic problems where a picture or symbol is used to represent a number, for example, ? + 17 = 30 and ? × 6 = 30."
+        ]
+    },
+    {
+        "eandoCodes": ["MTH 1-16a","MTH 1-16b"],
+        "level": "FIRST",
+        "benchmarks": [
+            "Names, identifies and classifies a range of simple 2D shapes and 3D objects and recognises these shapes in different orientations and sizes.",
+            "Uses mathematical language to describe the properties of a range of common 2D shapes and 3D objects including side, face, edge, vertex, base and angle.",
+            "Identifies 2D shapes within 3D objects and recognises 3D objects from 2D drawings",
+            "Identifies examples of tiling in the environment and applies knowledge of the features of 2D shapes to create tiling patterns incorporating two different shapes."
+        ]
+    },
+    {
+        "eandoCodes": ["MTH 1-17a","MTH 1-18a","MTH 1-19a"],
+        "level": "FIRST",
+        "benchmarks": [
+            "Uses technology and other methods to describe, follow and record directions using words associated with angles, directions and turns including, full turn, half turn, quarter turn, clockwise, anticlockwise, right turn, left turn, right angle.",
+            "Knows that a right angle is 90°.",
+            "Knows and uses the compass points, North, South, East and West.",
+            "Uses informal methods to estimate, compare and describe the size of angles in relation to a right angle.",
+            "Finds right angles in the environment and in well-known 2D shapes.",
+            "Identifies where and why grid references are used.",
+            "Describes, plots and uses accurate two figure grid references, demonstrating knowledge of the horizontal and vertical location. ",
+            "Identifies symmetry in patterns, pictures, nature and 2D shapes",
+            "Creates symmetrical pictures and designs with more than one line of symmetry."
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 1-20a","MNU 1-20b","MTH 1-21a"],
+        "level": "FIRST",
+        "benchmarks": [
+            "Asks and answers questions to extract key information from a variety of data sets including charts, diagrams, bar graphs and tables.",
+            "Selects and uses the most appropriate way to gather and sort data for a given purpose, for example, a survey, questionnaire or group tallies.",
+            "Uses a variety of different methods, including the use of digital technologies, to display data, for example, as block graphs, bar graphs, tables, Carroll diagrams and Venn diagrams.",
+            "Includes a suitable title, simple labelling on both axes and an appropriate scale where one unit represents more than one data value in graphs."
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 1-22a"],
+        "level": "FIRST",
+        "benchmarks": [
+            "Uses mathematical vocabulary appropriately to describe the likelihood of events occurring in everyday situations including, probable, likely/unlikely, certain/uncertain, possible/impossible, and fair/unfair.",
+            "Interprets data gathered through everyday experiences to make reasonable predictions of the likelihood of an event occurring."
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+    {
+        "eandoCodes": [""],
+        "level": "SECOND",
+        "benchmarks": [
+            ""
+        ]
+    },
+
+]
