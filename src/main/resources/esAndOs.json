@@ -2688,7 +2688,8 @@
     {
         "experienceAndOutcome": [
             {
-                "sentence": "I can show the equivalent forms of simple fractions, decimal fractions and percentages and can choose my preferred form when solving a problem, explaining my choice of method.",                "bulletPoints": [""]
+                "sentence": "I can show the equivalent forms of simple fractions, decimal fractions and percentages and can choose my preferred form when solving a problem, explaining my choice of method.",
+                "bulletPoints": [""]
             }
         ],
         "codes": ["MNU 2-07b"],
@@ -3391,16 +3392,880 @@
     {
         "experienceAndOutcome": [
             {
-                "sentence": "",
+                "sentence": "I can collect like algebraic terms, simplify expressions and evaluate using substitution.",
                 "bulletPoints": [""]
             }
         ],
-        "codes": [""],
-        "curriculumLevels": [""],
+        "codes": ["MTH 3-14a"],
+        "curriculumLevels": ["THIRD"],
         "curriculumAreaName": "Mathematics",
         "eAndOSetName": null,
         "eAndOSetSectionName": "Number, money and measure",
         "eAndOSetSubSectionName": "Expressions and equations",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Having explored the distributive law in practical contexts, I can simplify, multiply and evaluate simple algebraic terms involving a bracket.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 4-14a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Expressions and equations",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can find the factors of algebraic terms, use my understanding to identify common factors and apply this to factorise expressions.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 4-14b"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Expressions and equations",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can compare, describe and show number relationships, using appropriate vocabulary and the symbols for equals, not equal to, less than and greater than.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 1-15a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Expressions and equations",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "When a picture or symbol is used to replace a number in a number statement, I can find its value using my knowledge of number facts and explain my thinking to others.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 1-15b"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Expressions and equations",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can apply my knowledge of number facts to solve problems where an unknown value is represented by a symbol or letter.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 2-15a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Expressions and equations",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Having discussed ways to express problems or statements using mathematical language, I can construct, and use appropriate methods to solve, a range of simple equations.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 3-15a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Expressions and equations",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can create and evaluate a simple formula representing information contained in a diagram, problem or statement.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 3-15b"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Expressions and equations",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Having discussed the benefits of using mathematics to model reallife situations, I can construct and solve inequalities and an extended range of equations.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 4-15a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Expressions and equations",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I enjoy investigating objects and shapes and can sort, describe and be creative with them.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 0-16a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Properties of 2D shapes and 3D objects",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I have explored simple 3D objects and 2D shapes and can identify, name and describe their features using appropriate vocabulary.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 1-16a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Properties of 2D shapes and 3D objects",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can explore and discuss how and why different shapes fit together and create a tiling pattern with them.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 1-16b"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Properties of 2D shapes and 3D objects",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Having explored a range of 3D objects and 2D shapes, I can use mathematical language to describe their properties, and through investigation can discuss where and why particular shapes are used in the environment.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 2-16a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Properties of 2D shapes and 3D objects",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Through practical activities, I can show my understanding of the relationship between 3D objects and their nets.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 2-16b"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Properties of 2D shapes and 3D objects",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can draw 2D shapes and make representations of 3D objects using an appropriate range of methods and efficient use of resources.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 2-16c"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Properties of 2D shapes and 3D objects",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Having investigated a range of methods, I can accurately draw 2D shapes using appropriate mathematical instruments and methods.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 3-16a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Properties of 2D shapes and 3D objects",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I have explored the relationships that exist between the sides, or sides and angles, in right-angled triangles and can select and use an appropriate strategy to solve related problems, interpreting my answer for the context.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 4-16a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Properties of 2D shapes and 3D objects",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Having investigated the relationships between the radius, diameter, circumference and area of a circle, I can apply my knowledge to solve related problems.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 4-16b"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Properties of 2D shapes and 3D objects",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "In movement, games, and using technology I can use simple directions and describe positions",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 0-17a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can describe, follow and record routes and journeys using signs, words and angles associated with direction and turning",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 1-17a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I have investigated angles in the environment, and can discuss, describe and classify angles using appropriate mathematical vocabulary",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 2-17a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can accurately measure and draw angles using appropriate equipment, applying my skills to problems in context",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 2-17b"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Through practical activities which include the use of technology, I have developed my understanding of the link between compass points and angles and can describe, follow and record directions, routes and journeys using appropriate vocabulary.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 2-17c"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Having investigated where, why and how scale is used and expressed, I can apply my understanding to interpret simple models, maps and plans.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 2-17d"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can name angles and find their sizes using my knowledge of the properties of a range of 2D shapes and the angle properties associated with intersecting and parallel lines.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 3-17a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Having investigated navigation in the world, I can apply my understanding of bearings and scale to interpret maps and plans and create accurate plans, and scale drawings of routes and journeys.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 3-17b"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can apply my understanding of scale when enlarging or reducing pictures and shapes, using different methods, including technology.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 3-17c"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Having investigated the relationship between a radius and a tangent and explored the size of the angle in a semi-circle, I can use the facts I have established to solve related problems.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 4-17a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can apply my understanding of the properties of similar figures to solve problems involving length and area. ",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 4-17b"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I have developed an awareness of where grid reference systems are used in everyday contexts and can use them to locate and describe position.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 1-18a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can use my knowledge of the coordinate system to plot and describe the location of a point on a grid.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 2-18a", "MTH 3-18a"],
+        "curriculumLevels": ["SECOND", "THIRD"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can plot and describe the position of a point on a 4-quadrant coordinate grid.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 4-18a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can apply my understanding of the 4-quadrant coordinate system to move, and describe the transformation of, a point or shape on a grid.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 4-18b"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I have had fun creating a range of symmetrical pictures and patterns using a range of media.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 0-19a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I have explored symmetry in my own and the wider environment and can create and recognise symmetrical pictures, patterns and shapes.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 1-19a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can illustrate the lines of symmetry for a range of 2D shapes and apply my understanding to create and complete symmetrical pictures and patterns.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 2-19a", "MTH 3-19a"],
+        "curriculumLevels": ["SECOND", "THIRD"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Having investigated patterns in the environment, I can use appropriate mathematical vocabulary to discuss the rotational properties of shapes, pictures and patterns and can apply my understanding when completing or creating designs.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 4-19a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can collect objects and ask questions to gather information, organising and displaying my findings in different ways.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MNU 0-20a"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can match objects, and sort using my own and others’ criteria, sharing my ideas withothers.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MNU 0-20b"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can use the signs and charts around me for information, helping me plan and make choices and decisions in my daily life.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MNU 0-20c"],
+        "curriculumLevels": ["EARLY"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I have explored a variety of ways in which data is presented and can ask and answer questions about the information it contains.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MNU 1-20a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I have used a range of ways to collect information and can sort it in a logical, organised and imaginative way using my own and others’ criteria.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MNU 1-20b"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Having discussed the variety of ways and range of media used to present data, I can interpret and draw conclusions from the information displayed, recognising that the presentation may be misleading.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MNU 2-20a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I have carried out investigations and surveys, devising and using a variety of methods to gather information and have worked with others to collate, organise and communicate the results in an appropriate way.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MNU 2-20b"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can work collaboratively, making appropriate use of technology, to source information presented in a range of ways, interpret what it conveys and discuss whether I believe the information to be robust, vague or misleading.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MNU 3-20a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "When analysing information or collecting data of my own, I can use my understanding of how bias may arise and how sample size can affect precision, to ensure that the data allows for fair conclusions to be drawn.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 3-20b"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can evaluate and interpret raw and graphical data using a variety of methods, comment on relationships I observe within the data and communicate my findings to others.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MNU 4-20a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "In order to compare numerical information in reallife contexts, I can find the mean, median, mode and range of sets of numbers, decide which type of average is most appropriate to use and discuss how using an alternative type of average could be misleading",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 4-20b"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "Using technology and other methods, I can display data simply, clearly and accurately by creating tables, charts and diagrams, using simple labelling and scale",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 1-21a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can display data in a clear way using a suitable scale, by choosing appropriately from an extended range of tables, charts, diagrams and graphs, making effective use of technology.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 2-21a", "MTH 3-21a"],
+        "curriculumLevels": ["SECOND", "THIRD"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can select appropriately from a wide range of tables, charts, diagrams and graphs when displaying discrete, continuous or grouped data, clearly communicating the significant features of the data.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MTH 4-21a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can use appropriate vocabulary to describe the likelihood of events occurring, using the knowledge and experiences of myself and others to guide me.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MNU 1-22a"],
+        "curriculumLevels": ["FIRST"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Ideas of chance and uncertainty",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can conduct simple experiments involving chance and communicate my predictions and findings using the vocabulary of probability.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MNU 2-22a"],
+        "curriculumLevels": ["SECOND"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Ideas of chance and uncertainty",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "I can find the probability of a simple event happening and explain why the consequences of the event, as well as its probability, should be considered when making choices.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MNU 3-22a"],
+        "curriculumLevels": ["THIRD"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Ideas of chance and uncertainty",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "experienceAndOutcome": [
+            {
+                "sentence": "By applying my understanding of probability, I can determine how many times I expect an event to occur, and use this information to make predictions, risk assessment, informed choices and decisions.",
+                "bulletPoints": [""]
+            }
+        ],
+        "codes": ["MNU 4-22a"],
+        "curriculumLevels": ["FOURTH"],
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetName": null,
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Ideas of chance and uncertainty",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
     }
