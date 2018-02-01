@@ -13,12 +13,10 @@ import scala.concurrent.duration.Duration
 
 trait MongoDbHelper {
 
+  val config = ConfigFactory.load()
   import EsAndOsPopulator.mongoKeystorePassword
 
-  def getEsAndOsCollection: MongoCollection[Document] = {
-    val config = ConfigFactory.load()
-
-    val mongoClient: MongoClient =
+  private def getMongoClient() = {
       if ((mongoKeystorePassword == "" || mongoKeystorePassword.isEmpty) && !EsAndOsPopulator.isMinikubeRun) {
         val mongoDbUri = config.getString("mongodb.connection_uri")
         println(s"mongo uri = '$mongoDbUri'")
@@ -49,9 +47,11 @@ trait MongoDbHelper {
 
         MongoClient(mongoSslClientSettings)
       }
+  }
 
+  def getEsAndOsCollection: MongoCollection[Document] = {
     println("Now lets get the esandos database")
-    val database: MongoDatabase = mongoClient.getDatabase("esandos")
+    val database: MongoDatabase = getMongoClient().getDatabase("esandos")
     println("Drop the esandos database to clean things up")
     val dbDropObservable = database.drop()
     // We want to wait here until the database is dropped
@@ -69,5 +69,27 @@ trait MongoDbHelper {
     println("Cool, we're done getting the collection")
     collection
   }
+
+  def getBenchmarksCollection: MongoCollection[Document] = {
+    println("Now lets get the benchmarks database")
+    val database: MongoDatabase = getMongoClient().getDatabase("esandos")
+    println("Drop the benchmarks database to clean things up")
+    val dbDropObservable = database.drop()
+    // We want to wait here until the database is dropped
+    println("Lets just give it 9 seconds")
+
+    try {
+      Await.result(dbDropObservable.toFuture, Duration(9, TimeUnit.SECONDS))
+    } catch {
+      case e: Exception => "Caught exception:\n" + e.getMessage + "\nBut ignoring."
+    }
+
+    println("Get the benchmarks collection")
+    val collection: MongoCollection[Document] = database.getCollection("benchmarks")
+
+    println("Cool, we're done getting the collection")
+    collection
+  }
+
 
 }

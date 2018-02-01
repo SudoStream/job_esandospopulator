@@ -2,8 +2,7 @@ package io.sudostream.timetoteach.esandospopulator
 
 import argonaut.Argonaut._
 import argonaut._
-import org.mongodb.scala.MongoCollection
-import org.mongodb.scala.{Completed, Document, Observer, SingleObservable}
+import org.mongodb.scala.{Completed, Document, MongoCollection}
 
 import scala.concurrent.Future
 import scala.io.Source

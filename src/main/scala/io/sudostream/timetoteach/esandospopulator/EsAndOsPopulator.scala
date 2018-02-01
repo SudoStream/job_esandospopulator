@@ -6,7 +6,7 @@ import scala.concurrent.Future
 
 
 object EsAndOsPopulator extends App
-  with MongoDbHelper with EsAndOsInserter with ConsoleMessages {
+  with MongoDbHelper with EsAndOsInserter with BenchmarksInserter with ConsoleMessages {
 
   val mongoKeystorePassword = try {
     sys.env("MONGODB_KEYSTORE_PASSWORD")
@@ -38,10 +38,20 @@ object EsAndOsPopulator extends App
 
   val esAndOs: List[EAndO] = decodeEsAndOsForDatabaseInjestion
   val esAndOsCollection: MongoCollection[Document] = getEsAndOsCollection
+
+  val benchmarks : List[Benchmark] = decodeBenchmarksForDatabaseInjestion
+  val benchmarksCollection: MongoCollection[Document] = getBenchmarksCollection
+
   val insertToDbFuture: Future[Completed] = insertEsAndOsToDatabase(esAndOs, esAndOsCollection)
+  val insertBenchmarksToDbFuture: Future[Completed] = insertBenchmarksToDatabase(benchmarks, benchmarksCollection)
 
   while (!insertToDbFuture.isCompleted) {
     println(s"Waiting for db inserts of E's & O's to complete...")
+    Thread.currentThread().join(100L)
+  }
+
+  while (!insertToDbFuture.isCompleted) {
+    println(s"Waiting for db inserts of Benchmarks to complete...")
     Thread.currentThread().join(100L)
   }
 
