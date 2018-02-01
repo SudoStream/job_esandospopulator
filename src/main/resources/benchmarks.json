@@ -126,7 +126,7 @@
         ]
     },
     {
-        "eandoCodes": ["MNU 1-07a","MNU 1-07b", "MTH 1-07c"],
+        "eandoCodes": ["MNU 1-07a", "MNU 1-07b", "MTH 1-07c"],
         "level": "FIRST",
         "benchmarks": [
             "Explains what a fraction is using concrete materials, pictorial representations and appropriate mathematical vocabulary.",
@@ -139,7 +139,7 @@
         ]
     },
     {
-        "eandoCodes": ["MNU 1-09a","MNU 1-09b"],
+        "eandoCodes": ["MNU 1-09a", "MNU 1-09b"],
         "level": "FIRST",
         "benchmarks": [
             "Identifies and uses all coins and notes to £20 and explores different ways of making the same total.",
@@ -150,7 +150,7 @@
         ]
     },
     {
-        "eandoCodes": ["MNU 1-10a","MNU 1-10b", "MNU 1-10c"],
+        "eandoCodes": ["MNU 1-10a", "MNU 1-10b", "MNU 1-10c"],
         "level": "FIRST",
         "benchmarks": [
             "Tells the time using half past, quarter past and quarter to using analogue and digital 12 hour clocks.",
@@ -163,7 +163,7 @@
         ]
     },
     {
-        "eandoCodes": ["MNU 1-11a","MNU 1-11b"],
+        "eandoCodes": ["MNU 1-11a", "MNU 1-11b"],
         "level": "FIRST",
         "benchmarks": [
             "Compares measures with estimates",
@@ -183,7 +183,7 @@
         ]
     },
     {
-        "eandoCodes": ["MTH 1-13a","MTH 1-13b"],
+        "eandoCodes": ["MTH 1-13a", "MTH 1-13b"],
         "level": "FIRST",
         "benchmarks": [
             "Counts forwards and backwards in 2s, 5s and 10s from any whole number up to 1000",
@@ -193,7 +193,7 @@
         ]
     },
     {
-        "eandoCodes": ["MTH 1-15a","MTH 1-15b"],
+        "eandoCodes": ["MTH 1-15a", "MTH 1-15b"],
         "level": "FIRST",
         "benchmarks": [
             "Understands and accurately uses the terms ‘equal to’, ‘not equal to’, ‘less than’, ‘greater than’, and the related symbols (=, ≠ , <, >) when comparing quantities.",
@@ -201,7 +201,7 @@
         ]
     },
     {
-        "eandoCodes": ["MTH 1-16a","MTH 1-16b"],
+        "eandoCodes": ["MTH 1-16a", "MTH 1-16b"],
         "level": "FIRST",
         "benchmarks": [
             "Names, identifies and classifies a range of simple 2D shapes and 3D objects and recognises these shapes in different orientations and sizes.",
@@ -211,7 +211,7 @@
         ]
     },
     {
-        "eandoCodes": ["MTH 1-17a","MTH 1-18a","MTH 1-19a"],
+        "eandoCodes": ["MTH 1-17a", "MTH 1-18a", "MTH 1-19a"],
         "level": "FIRST",
         "benchmarks": [
             "Uses technology and other methods to describe, follow and record directions using words associated with angles, directions and turns including, full turn, half turn, quarter turn, clockwise, anticlockwise, right turn, left turn, right angle.",
@@ -226,7 +226,7 @@
         ]
     },
     {
-        "eandoCodes": ["MNU 1-20a","MNU 1-20b","MTH 1-21a"],
+        "eandoCodes": ["MNU 1-20a", "MNU 1-20b", "MTH 1-21a"],
         "level": "FIRST",
         "benchmarks": [
             "Asks and answers questions to extract key information from a variety of data sets including charts, diagrams, bar graphs and tables.",
@@ -244,235 +244,483 @@
         ]
     },
     {
-        "eandoCodes": [""],
+        "eandoCodes": ["MNU 2-01a"],
         "level": "SECOND",
         "benchmarks": [
-            ""
+            "Rounds whole numbers to the nearest 1000, 10,000 and 100,000",
+            "Rounds decimal fractions to the nearest whole number, to one decimal place and two decimal places",
+            "Applies knowledge of rounding to give an estimate to a calculation appropriate to the context"
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 2-02a", "MNU 2-03a", "MNU 2-03b", "MTH 2-03c", "MNU 2-04a"],
+        "level": "SECOND",
+        "benchmarks": [
+            "Reads, writes and orders whole numbers to 1 000 000, starting from any number in the sequence",
+            "Explains the link between a digit, its place and its value for whole numbers to 1,000,000",
+            "Reads, writes and orders sets of decimal fractions to three decimal places.",
+            "Explains the link between a digit, its place and its value for numbers to three decimal places.",
+            "Partitions a wide range of whole numbers and decimal fractions to three decimal places, for example, 3.6 = 3 ones and 6 tenths = 36 tenths.",
+            "Adds and subtracts multiples of 10, 100 and 1000 to and from whole numbers and decimal fractions to two decimal places.",
+            "Adds and subtracts whole numbers and decimal fractions to two decimal places, within the number range 0 to 1,000,000",
+            "Uses multiplication and division facts to the 10th multiplication table.",
+            "Multiplies and divides whole numbers by multiples of 10, 100 and 1000",
+            "Multiplies and divides decimal fractions to two decimal places by 10, 100 and 1000.",
+            "Multiplies whole numbers by two digit numbers.",
+            "Multiplies decimal fractions to two decimal places by a single digit.",
+            "Divides whole numbers and decimal fractions to two decimal places, by a single digit, including answers expressed as decimal fractions, for example, 43 ÷ 5 = 8.6",
+            "Applies the correct order of operations in number calculations when solving multi-step problems.",
+            "Identifies familiar contexts in which negative numbers are used",
+            "Orders numbers less than zero and locates them on a number line"
+        ]
+    },
+    {
+        "eandoCodes": ["MTH 2-05a"],
+        "level": "SECOND",
+        "benchmarks": [
+            "Identifies multiples and factors of whole numbers and applies knowledge and understanding of these when solving relevant problems in number, money and measurement"
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 2-07a", "MNU 2-07b", "MTH 2-07c"],
+        "level": "SECOND",
+        "benchmarks": [
+            "Uses knowledge of equivalent forms of common fractions, decimal fractions and percentages, for example, 3/4 = 0.75 = 75%, to solve problems.",
+            "Calculates simple percentages of a quantity, and uses this knowledge to solve problems in everyday contexts, for example, calculates the sale price of an item with a discount of 15%.",
+            "Calculates simple fractions of a quantity and uses this knowledge to solve problems, for example, find 3/5 of 60.",
+            "Creates equivalent fractions and uses this knowledge to put a set of most commonly used fractions in order.",
+            "Expresses fractions in their simplest form."
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 2-09a", "MNU 2-09b", "MNU 2-09c"],
+        "level": "SECOND",
+        "benchmarks": [
+            "Carries out money calculations involving the four operations",
+            "Compares costs and determines affordability within a given budget.",
+            "Demonstrates understanding of the benefits and risks of using bank cards and digital technologies.",
+            "Calculates profit and loss accurately, for example, when working with a budget for an enterprise activity."
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 2-10a", "MNU 2-10b", "MNU 2-10c"],
+        "level": "SECOND",
+        "benchmarks": [
+            "Reads and records time in both 12 hour and 24 hour notation and converts between the two.",
+            "Knows the relationships between commonly used units of time and carries out simple conversion calculations, for example, changes 1 3/4 hours into minutes.",
+            "Uses and interprets a range of electronic and paper-based timetables and calendars to plan events or activities and solve real life problems",
+            "Calculates durations of activities and events including situations bridging across several hours and parts of hours using both 12 hour clock and 24 hour notation",
+            "Estimates the duration of a journey based on knowledge of the link between speed, distance and time.",
+            "Chooses the most appropriate timing device in practical situations and records using relevant units, including hundredths of a second.",
+            "Selects the most appropriate unit of time for a given task and justifies choice."
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 2-11a", "MNU 2-11b", "MNU 2-11c"],
+        "level": "SECOND",
+        "benchmarks": [
+            "Uses the comparative size of familiar objects to make reasonable estimations of length, mass, area and capacity",
+            "Estimates to the nearest appropriate unit, then measures accurately: length, height and distance in millimetres (mm), centimetres (cm), metres (m) and kilometres (km); mass in grams (g) and kilograms (kg); and capacity in millilitres (ml) and litres (l).",
+            "Calculates the perimeter of simple straight sided 2D shapes in millimetres (mm), centimetres (cm) and metres (m).",
+            "Calculates the area of squares, rectangles and right-angled triangles in square millimetres (mm^2), square centimetres (cm^2) and square metres (m^2).",
+            "Calculates the volume of cubes and cuboids in cubic centimetres (cm^3) and cubic metres (m^3).",
+            "Converts between common units of measurement using decimal notation, for example, 550 cm = 5·5 m; 3·009 kg = 3009 g.",
+            "Chooses the most appropriate measuring device for a given task and carries out the required calculation, recording results in the correct unit.",
+            "Reads a variety of scales accurately.",
+            "Draws squares and rectangles accurately with a given perimeter or area.",
+            "Demonstrates understanding of the conservation of measurement, for example, draw three different rectangles each with an area of 24 cm^2",
+            "Shows awareness of imperial units used in everyday life, for example, miles or stones"
+        ]
+    },
+    {
+        "eandoCodes": ["MTH 2-12a"],
+        "level": "SECOND",
+        "benchmarks": [
+            "Researches and presents examples of the impact mathematics has in the world of life and work.",
+            "Contributes to discussions and activities on the role of mathematics in the creation of important inventions, now and in the past."
+        ]
+    },
+    {
+        "eandoCodes": ["MTH 2-13a"],
+        "level": "SECOND",
+        "benchmarks": [
+            "Explains and uses a rule to extend well known number sequences including square numbers, triangular numbers and Fibonacci sequence.",
+            "Applies knowledge of multiples, square numbers and triangular numbers to generate number patterns."
+        ]
+    },
+    {
+        "eandoCodes": ["MTH 2-15a"],
+        "level": "SECOND",
+        "benchmarks": [
+            "Solves simple algebraic equations with one variable, for example, a - 30 = 40 and 4b = 20."
+        ]
+    },
+    {
+        "eandoCodes": ["MTH 2-16a", "MTH 2-16b", "MTH 2-16c"],
+        "level": "SECOND",
+        "benchmarks": [
+            "Describes 3D objects and 2D shapes using specific vocabulary including regular, irregular, diagonal, radius, diameter and circumference. Applies this knowledge to demonstrate understanding of the relationship between 3D objects and their nets.",
+            "Identifies and describes 3D objects and 2D shapes within the environment and explains why their properties match their function.",
+            "Knows that the radius is half of the diameter",
+            "Uses digital technologies and mathematical instruments to draw 2D shapes and make representations of 3D objects, understanding that not all parts of the 3D object can be seen."
+        ]
+    },
+    {
+        "eandoCodes": [
+            "MTH 2-17a",
+            "MTH 2-17b",
+            "MTH 2-17c",
+            "MTH 2-17d",
+            "MTH 2-18a",
+            "MTH 3-18a",
+            "MTH 2-19a",
+            "MTH 3-19a"
+        ],
+        "level": "SECOND",
+        "benchmarks": [
+            "Uses mathematical language including acute, obtuse, straight and reflex to describe and classify a range of angles identified within shapes in the environment.",
+            "Measures and draws a range of angles to within ±2°",
+            "Knows that complementary angles add up to 90° and supplementary angles add up to 180° and uses this knowledge to calculate missing angles.",
+            "Uses knowledge of the link between the eight compass points and angles to describe, follow and record directions.",
+            "Interprets maps, models or plans with simple scales, for example, 1 cm:2 km.",
+            "Describes, plots and records the location of a point, in the first quadrant, using coordinate notation",
+            "Identifies and illustrates line symmetry on a wide range of 2D shapes and applies this understanding to complete a range of symmetrical patterns, with and without the use of digital technologies."
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 2-20a", "MNU 2-20b", "MTH 2-21a", "MTH 3-21a"],
+        "level": "SECOND",
+        "benchmarks": [
+            "Devises ways of collecting data in the most suitable way for the given task",
+            "Collects, organises and displays data accurately in a variety of ways including through the use of digital technologies, for example, creating surveys, tables, bar graphs, line graphs, frequency tables, simple pie charts and spreadsheets.",
+            "Analyses, interprets and draws conclusions from a variety of data",
+            "Draws conclusions about the reliability of data taking into account, for example, the author, the audience, the scale and sample size used.",
+            "Displays data appropriately making effective use of technology and chooses a suitable scale when creating graphs."
+        ]
+    },
+    {
+        "eandoCodes": ["MNU 2-22a"],
+        "level": "SECOND",
+        "benchmarks": [
+            "Uses the language of probability accurately to describe the likelihood of simple events occurring, for example equal chance; fifty-fifty; one in two, two in three; percentage chance; and 1/6"
         ]
     },
     {
         "eandoCodes": [""],
         "level": "SECOND",
         "benchmarks": [
-            ""
+            "Plans and carries out simple experiments involving chance with repeated trials, for example, ‘what is the probability of throwing a six if you throw a die fifty times?’."
         ]
     },
     {
         "eandoCodes": [""],
         "level": "SECOND",
         "benchmarks": [
-            ""
+            "Uses data to predict the outcome of a simple experiment."
+        ]
+    },
+
+    {
+        "eandoCodes": ["MNU 3-01a"],
+        "level": "THIRD",
+        "benchmarks": [
+            "Rounds decimal fractions to three decimal places",
+            "Uses rounding to routinely estimate the answers to calculations"
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MNU 3-03a", "MNU 3-03b", "MNU 3-04a"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Recalls quickly multiplication and division facts to the 10th multiplication table",
+            "Uses multiplication and division facts to the 12th multiplication table",
+            "Solves addition and subtraction problems working with whole numbers and decimal fractions to three decimal places.",
+            "Solves addition and subtraction problems working with integers",
+            "Solves multiplication and division problems working with whole numbers and decimal fractions to three decimal places.",
+            "Solves multiplication and division problems working with integers."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MTH 3-05a", "MTH 3-05b"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Identifies common multiples, including the lowest common multiple for whole numbers and can explain method used.",
+            "Identifies common factors, including the highest common factor for whole numbers and can explain method used.",
+            "Identifies prime numbers to 100 and can explain method used.",
+            "Solves problems using multiples and factors",
+            "Writes a given number as a product of its prime factors."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MTH 3-06a"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Explains the notation and uses associated vocabulary appropriately, for example, index, exponent and power",
+            "Evaluates whole number powers, for example, 2^4 = 16.",
+            "Expresses whole numbers as powers, for example, 27 = 3^3"
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MNU 3-07a", "MTH 3-07b", "MTH 3-07c", "MNU 3-08a"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Converts fractions, decimal fractions or percentages into equivalent fractions, decimal fractions or percentages.",
+            "Adds and subtracts whole numbers and fractions, including when changing a denominator.",
+            "Converts between whole or mixed numbers, improper fractions and decimal fractions.",
+            "Uses knowledge of fractions, decimal fractions and percentages to carry out calculations with and without a calculator.",
+            "Solves problems in which related quantities are increased or decreased proportionally.",
+            "Expresses quantities as a ratio and where appropriate simplifies, for example, ‘if there are 6 teachers and 60 children in a school find the ratio of the number of teachers to the total amount of teachers and children’."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MNU 3-09a","MNU 3-09b"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Demonstrates understanding of best value in relation to contracts and services when comparing products.",
+            "Chooses the best value for their personal situation and justifies choices",
+            "Budgets effectively, using digital technology where appropriate, showing development of financial capability.",
+            "Demonstrates knowledge of financial terms, for example, debit/credit, APR, pa, direct debit/standing order and interest rate.",
+            "Converts between different currencies."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MNU 3-10a"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Applies knowledge of the relationship between speed, distance and time to find each of the three variables.",
+            "Calculates time durations across hours and days."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MNU 3-11a","MTH 3-11b"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Chooses appropriate units for length, area and volume when solving practical problems.",
+            "Converts between standard units to three decimal places and applies this when solving calculations of length, capacity, volume and area.",
+            "Calculates the area of a 2D shape where the units are inconsistent",
+            "Finds the area of compound 2D shapes constructed from squares, rectangles and triangles.",
+            "Finds the volume of compound 3D objects constructed from cubes and cuboids"
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MTH 3-12a"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Researches and communicates using appropriate mathematical vocabulary and notation, the work of a famous mathematician or a mathematical topic and explains the relevance and impact they have on society."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MTH 3-13a"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Generates number sequences from a given rule, for example, T = 4n + 6",
+            "Extends a given pattern and describes the rule.",
+            "Expresses sequence rules in algebraic notation, for example, the cost of hiring a car is £75 plus a charge of £0·05 per mile, ‘m’ driven, C = 0.05m + 75."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MTH 3-14a","MTH 3-15a","MTH 3-15b"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Collects like terms, including squared terms, to simplify an algebraic expression.",
+            "Evaluates expressions involving two variables using both positive and negative numbers.",
+            "Solves linear equations, for example, ax ± b = c where a, b and c are integers.",
+            "Creates a simple linear formula representing information contained in a diagram, problem or statement.",
+            "Evaluates a simple formula, for example, C = 0.05m + 75."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MTH 3-16a"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Demonstrates a variety of methods to accurately draw 2D shapes, including triangles and regular polygons (given the interior angle), using mathematical instruments"
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MTH 3-17a","MTH 3-17b","MTH 3-17c", "MTH 2-18a", "MTH 3-18a","MTH 2-19a", "MTH 3-19a"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Names angles using mathematical notation, for example, [[[ANGLE_NOTATION]]]ABC",
+            "Identifies corresponding, alternate and vertically opposite angles and uses this knowledge to calculate missing angles",
+            "Uses the angle properties of triangles and quadrilaterals to find missing angles",
+            "Applies knowledge and understanding of scale to enlarge and reduce objects in size showing understanding of linear scale factor",
+            "Uses bearings in a navigational context, including creating scale drawings",
+            "Identifies all lines of symmetry in 2D shapes.",
+            "Creates symmetrical patterns and pictures."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MNU 3-20a","MTH 3-20b","MTH 2-21a","MTH 3-21a"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Sources information or collects data making use of digital technology where appropriate.",
+            "Interprets data sourced or given",
+            "Describes trends in data using appropriate language, for example, increasing trend.",
+            "Determines if information is robust, vague or misleading by considering, for example, the validity of the source, scale used, sample size, method of presentation and appropriateness of how the sample was selected",
+            "Collects data by choosing a representative sample to avoid bias",
+            "Organises and displays data appropriately in a variety of forms, for example, compound bar and line graphs and pie charts, making effective use of technology as appropriate."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MNU 3-22a"],
+        "level": "THIRD",
         "benchmarks": [
-            ""
+            "Uses the probability scale of 0 to 1 showing probability as a fraction or decimal fraction",
+            "Demonstrates understanding of the relationship between the frequency of an event happening and the probability of it happening.",
+            "Uses a given probability to calculate an expected outcome, for example, ‘the probability of rain in June is 0·25 so how many days do we expect it to rain?’",
+            "Calculates the probability of a simple event happening, for example, ‘what is the probability of throwing a prime number on a 12 sided die?’",
+            "Identifies all of the mutually exclusive outcomes of a single event and calculates the probability of each.",
+            "Investigates real-life situations which involve making decisions on the likelihood of events occurring and the consequences involved."
+        ]
+    },
+
+
+    {
+        "eandoCodes": ["MNU 4-01a"],
+        "level": "FOURTH",
+        "benchmarks": [
+            "Rounds answers to a specified significant figure.",
+            "Demonstrates that the context of the question needs to be considered when rounding.",
+            "Demonstrates the impact of inaccuracy and error, for example, the impact of rounding an answer before the final step in a multi-step calculation.",
+            "Uses a given tolerance to decide if there is an allowable amount of variation of a specified quantity, for example, dimensions of a machine part, 235 mm ± 1 mm"
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MNU 4-03a","MTH 4-03b"],
+        "level": "FOURTH",
         "benchmarks": [
-            ""
+            "Interprets and solves multi-step problems using the four operations",
+            "Applies the correct order of operations in all calculations, including those with brackets"
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MTH 4-06a","MTH 4-06b"],
+        "level": "FOURTH",
         "benchmarks": [
-            ""
+            "Shows understanding that square roots of whole numbers can have positive and negative values, for example, \u221A9 = ±3",
+            "Uses knowledge of the inverse relationship between powers and roots to evaluate whole number roots of any appropriate number, \u221B27 = 3."
+            "Uses knowledge of mathematical notation to express numbers in scientific notation"
+        ]
+    },
+
+    {
+        "eandoCodes": ["MNU 4-07a","MTH 4-07b","MNU 4-08a"],
+        "level": "FOURTH",
+        "benchmarks": [
+            "Chooses the most efficient form of fractions, decimal fractions or percentages when making calculations.",
+            "Uses calculations to support comparisons, decisions and choices.",
+            "Calculates the percentage increase or decrease of a value.",
+            "Applies addition, subtraction and multiplication skills to solve problems involving fractions and mixed numbers.",
+            "Uses knowledge of proportion to solve problems in real-life which involve changes in related quantities."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MNU 4-09a", "MNU 4-09b","MNU 4-09c"],
+        "level": "FOURTH",
         "benchmarks": [
-            ""
+            "Applies understanding of credit and debit in relation to earnings and deductions",
+            "Uses budgeting skills to manage income effectively and justifies spending and saving choices.",
+            "Calculates net income by selecting appropriate information.",
+            "Compares a range of personal finance products",
+            "Communicates the impact of financial decisions",
+            "Applies knowledge of currency conversion to determine best value."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MNU 4-10a","MNU 4-10b"],
+        "level": "FOURTH",
         "benchmarks": [
-            ""
+            "Demonstrates effective time management skills, for example, working with different time zones or making plans, including across midnight",
+            "Carries out calculations involving speed, distance and time involving decimal fraction hours.",
+            "Calculates time durations across hours, days and months."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MNU 4-11a","MTH 4-11b","MTH 4-11c"],
+        "level": "FOURTH",
         "benchmarks": [
-            ""
+            "Demonstrates understanding of the impact of truncation and premature rounding",
+            "Calculates the area of kites, parallelograms and trapeziums.",
+            "Uses formulae and calculates the surface area of cylinders, cuboids and triangular prisms",
+            "Calculates the volume of triangular prisms and cylinders using formulae"
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MTH 4-12a"],
+        "level": "FOURTH",
         "benchmarks": [
-            ""
+            "Contributes to discussions and presentations on the role of mathematics in everyday life and in the workplace",
+            "Investigates the mathematical skills required for a range of careers, including those in STEM subjects."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MTH 4-13a","MTH 4-13b","MTH 4-13c","MTH 4-13d"],
+        "level": "FOURTH",
         "benchmarks": [
-            ""
+            "Determines a general formula for the nth term to describe a sequence and uses it to solve related problems, linear examples only.",
+            "Calculates the gradient of lines in a coordinate diagram",
+            "Draws conclusions about the gradient of a line, for example, ‘does the ramp meet building regulations?’",
+            "Communicates the gradient of vertical and horizontal lines and states the equation of these lines as x = a or y = b or equivalent.",
+            "Uses a given formula to plot a straight line onto a Cartesian diagram."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MTH 4-14a","MTH 4-14b","MTH 4-15a"],
+        "level": "FOURTH",
         "benchmarks": [
-            ""
+            "Expands brackets using the distributive law and simplifies",
+            "Solves an extended range of linear equations involving the distributive law, for example, ax ± b = cx ± d, where a, b, c and d are integers",
+            "Solves linear inequalities, including on simple closed intervals",
+            "Solves problems by expressing the given information appropriately as an equation, in-equation or formula.",
+            "Evaluates algebraic expressions involving a bracket",
+            "Factorises expressions with a numeric common factor"
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MTH 4-16a","MTH 4-16b"],
+        "level": "FOURTH",
         "benchmarks": [
-            ""
+            "Calculates the length of any side of a right-angled triangle using the Theorem of Pythagoras",
+            "Calculates the size of an angle in a right-angled triangle using trigonometry",
+            "Calculates the length of a side in a right-angled triangle using trigonometry",
+            "Uses the formula C= πD or C = 2πr to calculate the circumference of a circle.",
+            "Uses the formula 2 A= πr  to calculate the area of a circle.",
+            "Calculates diameter and radius of a circle when given the area or circumference"
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MTH 4-17a","MTH 4-17b","MTH 4-18a","MTH 4-18b","MTH 4-19a"],
+        "level": "FOURTH",
         "benchmarks": [
-            ""
+            "Describes rotational properties of shapes, pictures and patterns, including the order of rotation.",
+            "Uses knowledge of rotational symmetry to complete designs.",
+            "Uses a four-quadrant Cartesian grid to read and plot coordinates.",
+            "Applies understanding of translation to reflect or translate an object on a four-quadrant grid.",
+            "Uses similarity to find unknown lengths of 2D shapes.",
+            "Applies knowledge of the relationship between the tangent and radius to calculate sizes of missing angles",
+            "Applies knowledge of triangles, angles and circles, including semi-circles, to solve problems.",
+            "Identifies transformation by reflection or translation of a point or shape on a grid."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MNU 4-20a","MTH 4-20b","MTH 4-21a"],
+        "level": "FOURTH",
         "benchmarks": [
-            ""
+            "Interprets raw and graphical data.",
+            "Uses statistical language, for example, correlations, to describe identified relationships.",
+            "Calculates the mean, median, mode and range of a data set",
+            "Selects the most appropriate statistical diagram to display a given data set, for example, stem and leaf.",
+            "Justifies the most appropriate statistical diagram to display a given data set",
+            "Uses different types of charts to display discrete, continuous and grouped data appropriately."
         ]
     },
     {
-        "eandoCodes": [""],
-        "level": "SECOND",
+        "eandoCodes": ["MNU 4-22a"],
+        "level": "FOURTH",
         "benchmarks": [
-            ""
+            "Calculates the probability and determines the expected occurrence of an event.",
+            "Applies knowledge and skills in calculating probability to make predictions."
         ]
-    },
-    {
-        "eandoCodes": [""],
-        "level": "SECOND",
-        "benchmarks": [
-            ""
-        ]
-    },
-    {
-        "eandoCodes": [""],
-        "level": "SECOND",
-        "benchmarks": [
-            ""
-        ]
-    },
-    {
-        "eandoCodes": [""],
-        "level": "SECOND",
-        "benchmarks": [
-            ""
-        ]
-    },
-    {
-        "eandoCodes": [""],
-        "level": "SECOND",
-        "benchmarks": [
-            ""
-        ]
-    },
+    }
 
 ]
