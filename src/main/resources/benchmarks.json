@@ -540,7 +540,7 @@
         "eandoCodes": ["MTH 3-17a","MTH 3-17b","MTH 3-17c", "MTH 2-18a", "MTH 3-18a","MTH 2-19a", "MTH 3-19a"],
         "level": "THIRD",
         "benchmarks": [
-            "Names angles using mathematical notation, for example, [[[ANGLE_NOTATION]]]ABC",
+            "Names angles using mathematical notation, for example, \u2220ABC",
             "Identifies corresponding, alternate and vertically opposite angles and uses this knowledge to calculate missing angles",
             "Uses the angle properties of triangles and quadrilaterals to find missing angles",
             "Applies knowledge and understanding of scale to enlarge and reduce objects in size showing understanding of linear scale factor",
