@@ -24,7 +24,7 @@ trait BenchmarksInserter {
       benchmark =>
         Document(
           "eandoCodes" -> benchmark.eandoCodes,
-          "levels" -> benchmark.level,
+          "level" -> benchmark.level,
           "benchmarks" -> benchmark.benchmarks
         )
     }
