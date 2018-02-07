@@ -36,24 +36,24 @@ object EsAndOsPopulator extends App
 
   println(startupMessage)
 
-  val esAndOs: List[EAndO] = decodeEsAndOsForDatabaseInjestion
+  val esAndOs: List[EAndOsAtTheSubsectionLevel] = decodeEsAndOsForDatabaseInjestion
   val esAndOsCollection: MongoCollection[Document] = getEsAndOsCollection
 
   val benchmarks : List[Benchmark] = decodeBenchmarksForDatabaseInjestion
   val benchmarksCollection: MongoCollection[Document] = getBenchmarksCollection
 
   val insertToDbFuture: Future[Completed] = insertEsAndOsToDatabase(esAndOs, esAndOsCollection)
-  val insertBenchmarksToDbFuture: Future[Completed] = insertBenchmarksToDatabase(benchmarks, benchmarksCollection)
+//  val insertBenchmarksToDbFuture: Future[Completed] = insertBenchmarksToDatabase(benchmarks, benchmarksCollection)
 
   while (!insertToDbFuture.isCompleted) {
     println(s"Waiting for db inserts of E's & O's to complete...")
     Thread.currentThread().join(100L)
   }
 
-  while (!insertToDbFuture.isCompleted) {
-    println(s"Waiting for db inserts of Benchmarks to complete...")
-    Thread.currentThread().join(100L)
-  }
+//  while (!insertBenchmarksToDbFuture.isCompleted) {
+//    println(s"Waiting for db inserts of Benchmarks to complete...")
+//    Thread.currentThread().join(100L)
+//  }
 
   println(finishedMessage)
   System.exit(0)
