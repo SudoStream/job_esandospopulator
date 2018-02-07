@@ -6,7 +6,7 @@
                 "sentences": [
                     {
                         "sentence": "I am developing a sense of size and amount by observing, exploring, using and communicating with others about things in the world around me",
-                        "bulletPoints": [""]
+                        "bulletPoints": []
                     }
                 ]
             }
@@ -22,5 +22,54 @@
         "eAndOSetSubSectionName": "Estimation and rounding",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 0-02a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored numbers, understanding that they represent quantities, and I can use them to count, create sequences and describe order.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 0-03a",
+                "sentences": [
+                    {
+                        "sentence": "I use practical materials and can ‘count on and back’ to help me understand addition and subtraction, recording my ideas and solutions in different ways.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explains that zero means there is none of a particular quantity and is represented by the numeral 0",
+            "Recalls the number sequence forwards within the range 0 - 30, from any given number.",
+            "Recalls the number sequence backwards from 20",
+            "Identifies and recognises numbers from 0 to 20.",
+            "Orders all numbers forwards and backwards within the range 0 - 20",
+            "Identifies the number before, the number after and missing numbers in a sequence within 20.",
+            "Uses one-to-one correspondence to count a given number of objects to 20.",
+            "Identifies ‘how many?’ in regular dot patterns, for example, arrays, five frames, ten frames, dice and irregular dot patterns, without having to count (subitising).",
+            "Groups items recognising that the appearance of the group has no effect on the overall total (conservation of number).",
+            "Uses ordinal numbers in real life contexts, for example, ‘I am third in the line’.",
+            "Uses the language of before, after and in-between.",
+            "Counts on and back in ones to add and subtract.",
+            "Doubles numbers to a total of 10 mentally.",
+            "When counting objects, understands that the number name of the last object counted is the name given to the total number of objects in the group.",
+            "Partitions quantities to 10 into two or more parts and recognises that this does not affect the total.",
+            "Adds and subtracts mentally to 10",
+            "Uses appropriately the mathematical symbols +, − and =",
+            "Solves simple missing number problems."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Number and number processes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
     }
+
 ]
