@@ -70,6 +70,227 @@
         "eAndOSetSubSectionName": "Number and number processes",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 0-07a",
+                "sentences": [
+                    {
+                        "sentence": "I can share out a group of items by making smaller groups and can split a whole object into smaller parts. ",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Splits a whole into smaller parts and explains that equal parts are the same size.",
+            "Uses appropriate vocabulary to describe halves",
+            "Shares out a group of items equally into smaller groups"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Fractions, decimal fractions and percentages",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 0-09a",
+                "sentences": [
+                    {
+                        "sentence": "I am developing my awareness of how money is used and can recognise and use a range of coins.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies all coins to £2",
+            "Applies addition and subtraction skills and uses 1p, 2p, 5p and 10p coins to pay the exact value for items to 10p"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Money",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 0-10a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of how routines and events in my world link with times and seasons, and have explored ways to record and display these using clocks, calendars and other methods. ",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Links daily routines and personal events to time sequences",
+            "Names the days of the week in sequence, knows the months of the year and talks about features of the four seasons in relevant contexts",
+            "Recognises, talks about and where appropriate, engages with everyday devices used to measure or display time, including clocks, calendars, sand timers and visual timetables.",
+            "Reads analogue and digital o’clock times (12 hour only) and represents this on a digital display or clock face.",
+            "Uses appropriate language when discussing time, including before, after, o’clock, hour hand and minute hand."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Time",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 0-11a",
+                "sentences": [
+                    {
+                        "sentence": "I have experimented with everyday items as units of measure to investigate and compare sizes and amounts in my environment, sharing my findings with others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Shares relevant experiences in which measurements of lengths, heights, mass and capacities are used, for example, in baking.",
+            "Describes common objects using appropriate measurement language, including tall, heavy and empty.",
+            "Compares and describes lengths, heights, mass and capacities using everyday language, including longer, shorter, taller, heavier, lighter, more and less.",
+            "Estimates, then measures, the length, height, mass and capacity of familiar objects using a range of appropriate non-standard units"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Measurement",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 0-13a",
+                "sentences": [
+                    {
+                        "sentence": "I have spotted and explored patterns in my own and the wider environment and can copy and continue these and create my own patterns.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Copies, continues and creates simple patterns involving objects, shapes and numbers",
+            "Explores, recognises and continues simple number patterns.",
+            "Finds missing numbers on a number line within the range 0 - 20"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Patterns and relationships",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 0-16a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy investigating objects and shapes and can sort, describe and be creative with them.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Recognises, describes and sorts common 2D shapes and 3D objects according to various criteria, for example, straight, round, flat and curved."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Properties of 2D shapes and 3D objects",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 0-17a",
+                "sentences": [
+                    {
+                        "sentence": "In movement, games, and using technology I can use simple directions and describe positions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 0-19a",
+                "sentences": [
+                    {
+                        "sentence": "I have had fun creating a range of symmetrical pictures and patterns using a range of media. ",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Understands and correctly uses the language of position and direction, including in front, behind, above, below, left, right, forwards and backwards, to solve simple problems in movement games.",
+            "Identifies, describes and creates symmetrical pictures with one line of symmetry"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 0-20a",
+                "sentences": [
+                    {
+                        "sentence": "I can collect objects and ask questions to gather information, organising and displaying my findings in different ways.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 0-20b",
+                "sentences": [
+                    {
+                        "sentence": "I can match objects, and sort using my own and others’ criteria, sharing my ideas with others.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 0-20c",
+                "sentences": [
+                    {
+                        "sentence": "I can use the signs and charts around me for information, helping me plan and make choices and decisions in my daily life.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Asks simple questions to collect data for a specific purpose",
+            "Collects and organises objects for a specific purpose.",
+            "Applies counting skills to ask and answer questions and makes relevant choices and decisions based on the data.",
+            "Contributes to concrete or pictorial displays where one object or drawing represents one data value, using digital technologies as appropriate.",
+            "Uses knowledge of colour, shape, size and other properties to match and sort items in a variety of different ways.",
+            "Interprets simple graphs, charts and signs and demonstrates how they support planning, choices and decision making."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "Mathematics",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
     }
 
 ]
