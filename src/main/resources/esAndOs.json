@@ -660,9 +660,53 @@
                         "bulletPoints": []
                     }
                 ]
+            },
+            {
+                "code": "EXA 3-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can use and combine the visual elements and concepts to convey ideas, thoughts and feelings in expressive and design work",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 3-04a",
+                "sentences": [
+                    {
+                        "sentence": "Through observing and recording, I can create material that shows accuracy of representation.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 3-06a",
+                "sentences": [
+                    {
+                        "sentence": "While working through a design process in response to a design brief, I can develop and communicate imaginative design solutions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 3-07a",
+                "sentences": [
+                    {
+                        "sentence": "I can respond to the work of artists and designers by discussing my thoughts and feelings. I can give and accept constructive comment on my own and others’ work.",
+                        "bulletPoints": []
+                    }
+                ]
             }
         ],
-        "associatedBenchmarks": [],
+        "associatedBenchmarks": [
+            "Researches, develops and communicates a solution to a design brief by working through a process.",
+            "Investigates, discusses and explains how artists and designers handle media, use techniques and processes, use visual elements and concepts.",
+            "Evaluates what works well and what could be improved or different in their own and others’ work, using appropriate art and design vocabulary",
+            "shows increasing accuracy in representing what is seen",
+            "shows understanding of media properties and the effect of techniques and technology used",
+            "shows understanding of how visual elements and visual concepts can be combined, for example, to create mood and atmosphere",
+            "selects independently and applies media and techniques, giving reasons for their choices"
+        ],
         "curriculumLevel": "THIRD",
         "curriculumAreaName": "EXPRESSIVE_ARTS",
         "eAndOSetSectionName": "Art and design",
@@ -680,38 +724,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Art and design",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 3-03a",
-                "sentences": [
-                    {
-                        "sentence": "I can use and combine the visual elements and concepts to convey ideas, thoughts and feelings in expressive and design work",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "THIRD",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Art and design",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            },
             {
                 "code": "EXA 4-03a",
                 "sentences": [
@@ -720,9 +733,53 @@
                         "bulletPoints": []
                     }
                 ]
+            },
+            {
+                "code": "EXA 4-04a",
+                "sentences": [
+                    {
+                        "sentence": "Through creating a range of reference material, I can demonstrate my skills of observing and recording and apply them to work in other areas of the curriculum.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 4-05a",
+                "sentences": [
+                    {
+                        "sentence": "Having chosen personal themes and developed my own ideas from a range of stimuli, I can express and communicate my ideas, thoughts and feelings through 2D and 3D work",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 4-06a",
+                "sentences": [
+                    {
+                        "sentence": "By working through a design process in response to a design brief, I can develop and communicate imaginative and original design solutions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 4-07a",
+                "sentences": [
+                    {
+                        "sentence": "I can analyse art and design techniques, processes and concepts, make informed judgements and express considered opinions on my own and others’ work.",
+                        "bulletPoints": []
+                    }
+                ]
             }
         ],
-        "associatedBenchmarks": [],
+        "associatedBenchmarks": [
+            "Researches, develops and communicates solutions to a design brief by working independently and systematically through a process.",
+            "Analyses and compares how artists and designers use techniques and processes, handle media and use visual elements and concepts",
+            "Evaluates and makes informed judgements about what works well and what could be improved or different in their own and others’ work, using appropriate art and design vocabulary consistently",
+            "demonstrates sensitivity and a consistent level of accuracy in representing what is seen",
+            "shows depth of understanding of media properties and the effect of techniques and technology used",
+            "demonstrates how visual elements and visual concepts can be combined to express more complex ideas, for example, in relation to social or emotional themes",
+            "selects independently and applies media and techniques with control and assurance, giving reasons for their choices"
+        ],
         "curriculumLevel": "FOURTH",
         "curriculumAreaName": "EXPRESSIVE_ARTS",
         "eAndOSetSectionName": "Art and design",
@@ -753,46 +810,6 @@
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
-                "code": "EXA 3-04a",
-                "sentences": [
-                    {
-                        "sentence": "Through observing and recording, I can create material that shows accuracy of representation.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "THIRD",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Art and design",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 4-04a",
-                "sentences": [
-                    {
-                        "sentence": "Through creating a range of reference material, I can demonstrate my skills of observing and recording and apply them to work in other areas of the curriculum.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Art and design",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
                 "code": "EXA 0-05a",
                 "sentences": [
                     {
@@ -813,26 +830,6 @@
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
-                "code": "EXA 4-05a",
-                "sentences": [
-                    {
-                        "sentence": "Having chosen personal themes and developed my own ideas from a range of stimuli, I can express and communicate my ideas, thoughts and feelings through 2D and 3D work",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Art and design",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
                 "code": "EXA 0-06a",
                 "sentences": [
                     {
@@ -844,86 +841,6 @@
         ],
         "associatedBenchmarks": [],
         "curriculumLevel": "EARLY",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Art and design",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 3-06a",
-                "sentences": [
-                    {
-                        "sentence": "While working through a design process in response to a design brief, I can develop and communicate imaginative design solutions.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "THIRD",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Art and design",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 4-06a",
-                "sentences": [
-                    {
-                        "sentence": "By working through a design process in response to a design brief, I can develop and communicate imaginative and original design solutions.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Art and design",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 3-07a",
-                "sentences": [
-                    {
-                        "sentence": "I can respond to the work of artists and designers by discussing my thoughts and feelings. I can give and accept constructive comment on my own and others’ work.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "THIRD",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Art and design",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 4-07a",
-                "sentences": [
-                    {
-                        "sentence": "I can analyse art and design techniques, processes and concepts, make informed judgements and express considered opinions on my own and others’ work.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
         "curriculumAreaName": "EXPRESSIVE_ARTS",
         "eAndOSetSectionName": "Art and design",
         "eAndOSetSubSectionName": "",
@@ -1053,9 +970,44 @@
                         "bulletPoints": []
                     }
                 ]
+            },
+            {
+                "code": "EXA 2-09a",
+                "sentences": [
+                    {
+                        "sentence": "Inspired by a range of stimuli, I can express my ideas, thoughts and feelings through creative work in dance.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 2-10a",
+                "sentences": [
+                    {
+                        "sentence": "I have taken part in dance from a range of styles and cultures, demonstrating my awareness of the dance features.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 2-11a",
+                "sentences": [
+                    {
+                        "sentence": "I can respond to the experience of dance by discussing my thoughts and feelings. I can give and accept constructive comment on my own and others’ work.",
+                        "bulletPoints": []
+                    }
+                ]
             }
         ],
-        "associatedBenchmarks": [],
+        "associatedBenchmarks": [
+            "Shows understanding of the key features of dance from a range of styles and cultures, through dance performance.",
+            "Demonstrates coordination and some control in a range of dance actions and sequences.",
+            "Creates, rehearses and performs a short original dance piece, comprising several sequences, to music or a rhythm.",
+            "Develops and refines own dance repertoire through continued exploration and practice.",
+            "Selects and applies dance skills to create dance that shows variation, for solo or group performance",
+            "Justifies own creative choices using appropriate dance vocabulary, for example, explains explosive movement inspired by fireworks in terms of speed and levels.",
+            "Explains, with supporting reasons, what works well and what could be improved in their own or others’ work, using appropriate dance vocabulary."
+        ],
         "curriculumLevel": "SECOND",
         "curriculumAreaName": "EXPRESSIVE_ARTS",
         "eAndOSetSectionName": "Dance",
@@ -1073,9 +1025,25 @@
                         "bulletPoints": []
                     }
                 ]
+            },
+            {
+                "code": "EXA 3-11a",
+                "sentences": [
+                    {
+                        "sentence": "I can respond to the experience of dance by discussing my thoughts and feelings. I can give and accept constructive comment on my own and others’ work.",
+                        "bulletPoints": []
+                    }
+                ]
             }
         ],
-        "associatedBenchmarks": [],
+        "associatedBenchmarks": [
+            "Performs with some confidence and shows understanding of a range of different styles of dance from different cultures and the rhythms/music which often accompany them",
+            "Rehearses skills and techniques required to execute particular moves and sequences to a rhythm or beat",
+            "Builds on the contribution of others in developing ideas for a shared dance, for example, by asking and answering questions",
+            "Evaluates what works well and what could be improved or different in their own and others’ work, including visiting artistes, using appropriate dance vocabulary",
+            "demonstrates control and fluency in a range of dance actions and sequences which can be repeated or changed",
+            "applies at least three choreographic devices, for example, canon, unison, repetition, mirroring, change of timing, direction and levels"
+        ],
         "curriculumLevel": "THIRD",
         "curriculumAreaName": "EXPRESSIVE_ARTS",
         "eAndOSetSectionName": "Dance",
@@ -1093,18 +1061,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Dance",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            },
             {
                 "code": "EXA 4-08b",
                 "sentences": [
@@ -1113,38 +1070,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Dance",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 2-09a",
-                "sentences": [
-                    {
-                        "sentence": "Inspired by a range of stimuli, I can express my ideas, thoughts and feelings through creative work in dance.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "SECOND",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Dance",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            },
             {
                 "code": "EXA 4-09a",
                 "sentences": [
@@ -1153,38 +1079,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Dance",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 2-10a",
-                "sentences": [
-                    {
-                        "sentence": "I have taken part in dance from a range of styles and cultures, demonstrating my awareness of the dance features.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "SECOND",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Dance",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            },
             {
                 "code": "EXA 4-10a",
                 "sentences": [
@@ -1193,58 +1088,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Dance",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 2-11a",
-                "sentences": [
-                    {
-                        "sentence": "I can respond to the experience of dance by discussing my thoughts and feelings. I can give and accept constructive comment on my own and others’ work.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "SECOND",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Dance",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 3-11a",
-                "sentences": [
-                    {
-                        "sentence": "I can respond to the experience of dance by discussing my thoughts and feelings. I can give and accept constructive comment on my own and others’ work.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "THIRD",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Dance",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            },
             {
                 "code": "EXA 4-11a",
                 "sentences": [
@@ -1255,7 +1099,19 @@
                 ]
             }
         ],
-        "associatedBenchmarks": [],
+        "associatedBenchmarks": [
+            "Performs confidently, with control and fluency, a range of movement sequences which are relevant to different dance styles and cultures",
+            "Extends and develops movement repertoire by researching and participating in a range of dance genre and styles from different cultures.",
+            "Gives a personal response, with justification, about the value and purpose of rehearsal for a performance",
+            "Identifies key features in a dance and explains in detail how ideas and feelings can be portrayed through dance movement, using appropriate dance vocabulary consistently",
+            "Evaluates technical aspects of their own and others’ work, including professionals, for example, shows understanding of how stimulus is used as inspiration to create a movement repertoire, which can be repeated, varied or adapted",
+            "demonstrates coordination, control and fluency consistently",
+            "selects and applies appropriately a range of choreographic devices, for example, timing, pathways, spatial awareness, levels, unison, cannon, repetition and variation",
+            "choreographs dance motifs from a range of stimuli, for example, auditory (music), visual (pictures), prose (poems) and colour (mood)",
+            "shows artistic intention through creative use of, for example, different dance techniques, narrative (where a story is told), props, costume, motif, dynamics, mood and gesture",
+            "applies theatre arts technology effectively, demonstrating understanding of how performance can be enhanced by, for example, lighting, costume, make-up and props",
+            "takes account of audience groups of differing sizes and familiarity"
+        ],
         "curriculumLevel": "FOURTH",
         "curriculumAreaName": "EXPRESSIVE_ARTS",
         "eAndOSetSectionName": "Dance",
@@ -1385,9 +1241,48 @@
                         "bulletPoints": []
                     }
                 ]
+            },
+            {
+                "code": "EXA 2-13a",
+                "sentences": [
+                    {
+                        "sentence": "Inspired by a range of stimuli, I can express and communicate my ideas, thoughts and feelings through drama.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 2-14a",
+                "sentences": [
+                    {
+                        "sentence": "I have created and presented scripted or improvised drama, beginning to take account of audience and atmosphere.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 2-15a",
+                "sentences": [
+                    {
+                        "sentence": "I can respond to the experience of drama by discussing my thoughts and feelings. I can give and accept constructive comment on my own and others’ work.",
+                        "bulletPoints": []
+                    }
+                ]
             }
         ],
-        "associatedBenchmarks": [],
+        "associatedBenchmarks": [
+            "Conveys a character using characterisation techniques such as hot seating, role on the wall, thought tracking.",
+            "Chooses voice appropriately for role, considering volume, tone, clarity, pace, characterisation, and emotion.",
+            "Chooses appropriate movement for role, for example, to convey the character’s setting, physical features, the character’s feelings.",
+            "Chooses relevant expression in role, showing how the character might interact with others, for example, through body language.",
+            "Uses movement, expression and voice to create atmosphere, for example, a high pitched voice, wide eyes and crouched body to suggest a frightening situation.",
+            "Creates a short drama, as part of a group or individually, using improvisation or a published script.",
+            "Builds on the contributions of others in developing ideas for a shared drama, with regard to plot, characters and theatre arts.",
+            "Presents a short drama, as part of a group, using improvisation or a script.",
+            "Uses theatre arts technology such as props, basic lighting and sound to enhance a performance effectively, for example, chooses appropriate music or makes sound effects to create atmosphere",
+            "Gives a personal response to drama experiences, with appropriate justification.",
+            "Explains, with supporting reasons, what works well and what could be improved in their own and others’ work, using appropriate drama vocabulary."
+        ],
         "curriculumLevel": "SECOND",
         "curriculumAreaName": "EXPRESSIVE_ARTS",
         "eAndOSetSectionName": "Drama",
@@ -1405,9 +1300,36 @@
                         "bulletPoints": []
                     }
                 ]
+            },
+            {
+                "code": "EXA 3-14a",
+                "sentences": [
+                    {
+                        "sentence": "Having developed ideas from a range of stimuli, I can contribute to devising, rehearsing and presenting drama or scripts.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 3-15a",
+                "sentences": [
+                    {
+                        "sentence": "I can respond to the experience of drama by discussing my thoughts and feelings. I can give and accept constructive comment on my own and others’ work.",
+                        "bulletPoints": []
+                    }
+                ]
             }
         ],
-        "associatedBenchmarks": [],
+        "associatedBenchmarks": [
+            "Contributes relevant ideas and opinions, with supporting evidence, when participating in group discussions or working collaboratively.",
+            "Selects relevant ideas and information to create dramas or scripts appropriate for performing to an audience, demonstrating a basic knowledge of form and structure such as mime, improvisation, tableaux, linear/non-linear.",
+            "Builds on the contributions of others by clarifying or summarising points and expanding on contributions",
+            "Presents dramas to audiences for different purposes, for example, to entertain, inform, communicate a message, explore an issue.",
+            "Reflects effectively on ideas, including ideas for using production skills in relation to, for example, lighting sound, props, make-up and hair, in order to improve or enhance a drama, using appropriate drama vocabulary",
+            "uses characterisation techniques to improve and deepen the portrayal of a character, for example, hot seating, character cards, thought tracking, role on the wall, writing in role, role-play",
+            "uses a range of aspects of voice to enhance characterisation, for example, pitch, pace, volume, tone, clarity, articulation",
+            "uses appropriate expression and movement to enhance characterisation, for example, facial expression, body language, eye contact, use of space, use of levels, gesture, posture"
+        ],
         "curriculumLevel": "THIRD",
         "curriculumAreaName": "EXPRESSIVE_ARTS",
         "eAndOSetSectionName": "Drama",
@@ -1425,38 +1347,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Drama",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 2-13a",
-                "sentences": [
-                    {
-                        "sentence": "Inspired by a range of stimuli, I can express and communicate my ideas, thoughts and feelings through drama.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "SECOND",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Drama",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            },
             {
                 "code": "EXA 4-13a",
                 "sentences": [
@@ -1465,58 +1356,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Drama",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 2-14a",
-                "sentences": [
-                    {
-                        "sentence": "I have created and presented scripted or improvised drama, beginning to take account of audience and atmosphere.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "SECOND",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Drama",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 3-14a",
-                "sentences": [
-                    {
-                        "sentence": "Having developed ideas from a range of stimuli, I can contribute to devising, rehearsing and presenting drama or scripts.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "THIRD",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Drama",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            },
             {
                 "code": "EXA 4-14a",
                 "sentences": [
@@ -1525,18 +1365,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Drama",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            },
             {
                 "code": "EXA 4-14b",
                 "sentences": [
@@ -1545,58 +1374,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Drama",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 2-15a",
-                "sentences": [
-                    {
-                        "sentence": "I can respond to the experience of drama by discussing my thoughts and feelings. I can give and accept constructive comment on my own and others’ work.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "SECOND",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Drama",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 3-15a",
-                "sentences": [
-                    {
-                        "sentence": "I can respond to the experience of drama by discussing my thoughts and feelings. I can give and accept constructive comment on my own and others’ work.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "THIRD",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Drama",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            },
             {
                 "code": "EXA 4-15a",
                 "sentences": [
@@ -1607,7 +1385,17 @@
                 ]
             }
         ],
-        "associatedBenchmarks": [],
+        "associatedBenchmarks": [
+            "Shows depth of understanding of different drama techniques and purposes through creating scenarios in response to a variety of stimuli.",
+            "Explores and expands on the contributions of others by clarifying or summarising points and/or challenging ideas or viewpoints",
+            "Creates dramas for different purposes and audiences, experimenting with different genres, forms, structures and styles",
+            "Creates and sustains aspects of voice to enhance characterisation, for example, pitch, pace, volume, tone, clarity, accent, articulation, register and intonation",
+            "Creates and sustains appropriate movement to enhance characterisation, for example, facial expression, body language, use of space, use of levels, gesture, posture, rhythm and timing",
+            "Shows confidence when presenting ‘in character’, adapting movement and voice to communicate effectively to different audiences, for example, local primary school, nursery, day care centre",
+            "Applies theatre arts technology and design resources effectively to an agreed concept to create and enhance mood and atmosphere, for example, through the use of sound, lighting, costume, props, stage make-up and hair.",
+            "Reviews and evaluates their progress through the creative process on an on-going basis and develops solutions to problems as they arise",
+            "Analyses their own and others’ performances, including the work of peers and, where possible, professionals, making detailed comments, with appropriate justification, using appropriate drama vocabulary consistently"
+        ],
         "curriculumLevel": "FOURTH",
         "curriculumAreaName": "EXPRESSIVE_ARTS",
         "eAndOSetSectionName": "Drama",
@@ -1736,9 +1524,44 @@
                         "bulletPoints": []
                     }
                 ]
+            },
+            {
+                "code": "EXA 2-17a",
+                "sentences": [
+                    {
+                        "sentence": "I can use my voice, musical instruments and music technology to experiment with sounds, pitch, melody, rhythm, timbre and dynamics.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 2-18a",
+                "sentences": [
+                    {
+                        "sentence": "Inspired by a range of stimuli, and working on my own and/or with others, I can express and communicate my ideas, thoughts and feelings through musical activities.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 2-19a",
+                "sentences": [
+                    {
+                        "sentence": "I have listened to a range of music and can respond by discussing my thoughts and feelings. I can give and accept constructive comment on my own and others’ work.",
+                        "bulletPoints": []
+                    }
+                ]
             }
         ],
-        "associatedBenchmarks": [],
+        "associatedBenchmarks": [
+            "Performs songs in unison and in parts, individually or as part of a group, and communicates the mood and character of songs from a range of styles and cultures, such as folk songs or songs from musicals, using appropriate performance directions, for example, gradually getting louder/quieter, and/or musical notation",
+            "Performs on instruments, individually or as part of a group, to communicate the mood and character of a piece of music through, for example, the use of appropriate dynamics and expression.",
+            "Applies verbal and non-verbal techniques whilst giving and/or following performance directions, for example, eye contact and/or body language.",
+            "Uses voice, instruments and technology to create music, experimenting with timbre, for example, uses tuned/untuned percussion instruments to create simple melodies and rhythms.",
+            "Explains preference for music pieces listened to, live and/or recorded, using appropriate music concepts.",
+            "Recognises a range of music styles and identifies some of the main instruments used in, for example, classical music, jazz music, rock and pop music.",
+            "Explains, with supporting reasons, what works well and what could be improved in their own and others’ work, using appropriate music vocabulary"
+        ],
         "curriculumLevel": "SECOND",
         "curriculumAreaName": "EXPRESSIVE_ARTS",
         "eAndOSetSectionName": "Music",
@@ -1756,9 +1579,35 @@
                         "bulletPoints": []
                     }
                 ]
+            },
+            {
+                "code": "EXA 3-17a",
+                "sentences": [
+                    {
+                        "sentence": "I can use my voice, musical instruments or music technology to improvise or compose with melody, rhythm, harmony, timbre and structure.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "EXA 3-19a",
+                "sentences": [
+                    {
+                        "sentence": "I have listened to a range of music and can identify features and concepts. I can give constructive comments on my own and others’ work, including the work of professionals.",
+                        "bulletPoints": []
+                    }
+                ]
             }
         ],
-        "associatedBenchmarks": [],
+        "associatedBenchmarks": [
+            "Performs music individually, with accuracy, from at least two contrasting styles, using two instruments or one instrument and voice, as solo performances to a standard equivalent to that of ABRSM Grade 1.",
+            "Plays by ear or uses appropriate music notation, for example, treble clef notation, tablature, graphic scores or chord symbols, to give a group or individual performance.",
+            "Performs individually and as part of a group, communicating the mood and character of a piece of music, for example, uses appropriate dynamics and expression by following notated performance directions such as dynamic markings",
+            "Uses voice, instruments and technology to create music, showing understanding of musical structure, for example, creates in simple verse chorus form, creates short sequenced pieces using technology, creates short 16 bar music in binary form, experiments with voices/instruments to create sound effects",
+            "Uses appropriate music performance plans, recording facilities and music notation to capture ideas, for example, uses treble clef notation or tablature or records using technology or creates a performance plan",
+            "Recognises a wide range of music styles, identifying instruments, genres and instrumental techniques",
+            "Evaluates their own work and the work of others, including visiting artistes, using appropriate music vocabulary"
+        ],
         "curriculumLevel": "THIRD",
         "curriculumAreaName": "EXPRESSIVE_ARTS",
         "eAndOSetSectionName": "Music",
@@ -1776,58 +1625,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Music",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 2-17a",
-                "sentences": [
-                    {
-                        "sentence": "I can use my voice, musical instruments and music technology to experiment with sounds, pitch, melody, rhythm, timbre and dynamics.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "SECOND",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Music",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 3-17a",
-                "sentences": [
-                    {
-                        "sentence": "I can use my voice, musical instruments or music technology to improvise or compose with melody, rhythm, harmony, timbre and structure.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "THIRD",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Music",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            },
             {
                 "code": "EXA 4-17a",
                 "sentences": [
@@ -1836,18 +1634,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Music",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            },
             {
                 "code": "EXA 4-17b",
                 "sentences": [
@@ -1856,38 +1643,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Music",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 2-18a",
-                "sentences": [
-                    {
-                        "sentence": "Inspired by a range of stimuli, and working on my own and/or with others, I can express and communicate my ideas, thoughts and feelings through musical activities.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "SECOND",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Music",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            },
             {
                 "code": "EXA 4-18a",
                 "sentences": [
@@ -1896,58 +1652,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Music",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 2-19a",
-                "sentences": [
-                    {
-                        "sentence": "I have listened to a range of music and can respond by discussing my thoughts and feelings. I can give and accept constructive comment on my own and others’ work.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "SECOND",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Music",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 3-19a",
-                "sentences": [
-                    {
-                        "sentence": "I have listened to a range of music and can identify features and concepts. I can give constructive comments on my own and others’ work, including the work of professionals.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "THIRD",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Music",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            },
             {
                 "code": "EXA 4-19a",
                 "sentences": [
@@ -1958,7 +1663,19 @@
                 ]
             }
         ],
-        "associatedBenchmarks": [],
+        "associatedBenchmarks": [
+            "Performs music individually, with accuracy and assurance, from at least two contrasting styles, using two instruments or one instrument and voice, as solo performances to a standard equivalent to that of ABRSM Grade 2",
+            "Plays by ear or uses appropriate music notation such as treble clef notation, tablature, graphic scores, chord symbols, to give an individual performance",
+            "Communicates the mood and character of a piece of music, for example, through the use of appropriate dynamics and by following notated performance directions such as dynamic markings, tempo changes and expression marks",
+            "Creates and develops structured original music compositions using instruments or voice, for example, a tonal piece in Binary Form (AB) including imperfect and perfect cadences for single-line instrument and voice and a broken chord accompaniment. Uses technology to record and reflect upon original work",
+            "Uses appropriate music notation, for example, treble clef notation or tablature or records using technology and creates a performance plan",
+            "Uses technology to develop and structure short melodic ideas into original music, for example, uses software with midi input to create a minimalist style composition using short, repeated ostinati/cells of music",
+            "Applies knowledge of music concepts to develop original ideas, for example, takes a 2-bar melodic phrase and creates a sequence passage which can be imitated in a different part",
+            "Uses notes and/or other sources to generate ideas, inform thinking and support the creation of original music performance",
+            "Uses a practice/performance log to record and evaluate performances on chosen instrument(s)/voice, including points for improvement",
+            "Engages and listens well to various genres of music ranging from the Baroque period to modern music and identifies appropriate music concepts and compositional techniques, for example, listens to excerpts of music and gives a short, written or oral analysis, including the use of relevant concepts",
+            "Evaluates and offers justified comments on the performances of others including professionals, to agreed criteria, for example, the performances of others in a “class concert”, an original peer composition",
+            "Makes detailed evaluative comments about aspects of the content, form and style of live and/or recorded performances, for example, identifies genre, style, period, technical aspects, instrumental grouping and other appropriate concepts, using appropriate music vocabulary consistently"        ],
         "curriculumLevel": "FOURTH",
         "curriculumAreaName": "EXPRESSIVE_ARTS",
         "eAndOSetSectionName": "Music",
