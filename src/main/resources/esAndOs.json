@@ -479,26 +479,6 @@
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
-                "code": "EXA 0-02a",
-                "sentences": [
-                    {
-                        "sentence": "I have the freedom to discover and choose ways to create images and objects using a variety of materials.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "EARLY",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Art and design",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
                 "code": "EXA 1-02a",
                 "sentences": [
                     {
@@ -781,66 +761,6 @@
             "selects independently and applies media and techniques with control and assurance, giving reasons for their choices"
         ],
         "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Art and design",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 0-04a",
-                "sentences": [
-                    {
-                        "sentence": "I can create a range of visual information through observing and recording from my experiences across the curriculum.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "EARLY",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Art and design",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 0-05a",
-                "sentences": [
-                    {
-                        "sentence": "Inspired by a range of stimuli, I can express and communicate my ideas, thoughts and feelings through activities within art and design.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "EARLY",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
-        "eAndOSetSectionName": "Art and design",
-        "eAndOSetSubSectionName": "",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "EXA 0-06a",
-                "sentences": [
-                    {
-                        "sentence": "Working on my own and with others, I use my curiosity and imagination to solve design problems.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "EARLY",
         "curriculumAreaName": "EXPRESSIVE_ARTS",
         "eAndOSetSectionName": "Art and design",
         "eAndOSetSubSectionName": "",
