@@ -370,7 +370,7 @@
             "shows understanding that line can have different qualities, for example, thick, thin, broken, wavy"
         ],
         "curriculumLevel": "EARLY",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__ART",
         "eAndOSetSectionName": "Art and Design",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -546,7 +546,7 @@
             "shows understanding of the concept of scale, for example, represents mountains as bigger than people"
         ],
         "curriculumLevel": "FIRST",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__ART",
         "eAndOSetSectionName": "Art and design",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -624,7 +624,7 @@
             "shows understanding of the concept of depth, for example, shows a foreground, a middle ground and a background in a picture"
         ],
         "curriculumLevel": "SECOND",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__ART",
         "eAndOSetSectionName": "Art and design",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -688,7 +688,7 @@
             "selects independently and applies media and techniques, giving reasons for their choices"
         ],
         "curriculumLevel": "THIRD",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__ART",
         "eAndOSetSectionName": "Art and design",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -761,7 +761,7 @@
             "selects independently and applies media and techniques with control and assurance, giving reasons for their choices"
         ],
         "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__ART",
         "eAndOSetSectionName": "Art and design",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -817,7 +817,7 @@
             "Shares views and listens appropriately to the views of others on their own or others’ work."
         ],
         "curriculumLevel": "EARLY",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__DANCE",
         "eAndOSetSectionName": "Dance",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -874,7 +874,7 @@
             "Shares views and listens appropriately to views of others, suggesting what works well and what could be improved in their own and others’ work, using some dance vocabulary."
         ],
         "curriculumLevel": "FIRST",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__DANCE",
         "eAndOSetSectionName": "Dance",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -929,7 +929,7 @@
             "Explains, with supporting reasons, what works well and what could be improved in their own or others’ work, using appropriate dance vocabulary."
         ],
         "curriculumLevel": "SECOND",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__DANCE",
         "eAndOSetSectionName": "Dance",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -965,7 +965,7 @@
             "applies at least three choreographic devices, for example, canon, unison, repetition, mirroring, change of timing, direction and levels"
         ],
         "curriculumLevel": "THIRD",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__DANCE",
         "eAndOSetSectionName": "Dance",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -1033,7 +1033,7 @@
             "takes account of audience groups of differing sizes and familiarity"
         ],
         "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__DANCE",
         "eAndOSetSectionName": "Dance",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -1089,7 +1089,7 @@
             "Shares views and listens appropriately to the views of others on their own or others’ work."
         ],
         "curriculumLevel": "EARLY",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__DRAMA",
         "eAndOSetSectionName": "Drama",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -1145,7 +1145,7 @@
             "Shares views and listens appropriately to the views of others about what works well and what could be improved in their own and others’ work, using some drama vocabulary."
         ],
         "curriculumLevel": "FIRST",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__DRAMA",
         "eAndOSetSectionName": "Drama",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -1204,7 +1204,7 @@
             "Explains, with supporting reasons, what works well and what could be improved in their own and others’ work, using appropriate drama vocabulary."
         ],
         "curriculumLevel": "SECOND",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__DRAMA",
         "eAndOSetSectionName": "Drama",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -1251,7 +1251,7 @@
             "uses appropriate expression and movement to enhance characterisation, for example, facial expression, body language, eye contact, use of space, use of levels, gesture, posture"
         ],
         "curriculumLevel": "THIRD",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__DRAMA",
         "eAndOSetSectionName": "Drama",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -1317,7 +1317,7 @@
             "Analyses their own and others’ performances, including the work of peers and, where possible, professionals, making detailed comments, with appropriate justification, using appropriate drama vocabulary consistently"
         ],
         "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__DRAMA",
         "eAndOSetSectionName": "Drama",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -1372,7 +1372,7 @@
             "uses technology to capture sound, for example, audio recorders, microphones, apps and other software."
         ],
         "curriculumLevel": "EARLY",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__MUSIC",
         "eAndOSetSectionName": "Music",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -1428,7 +1428,7 @@
             "uses voice, instruments and technology to create musical ideas using sound, rhythm, pitch and dynamics, for example, by creating a soundscape or by adding tuned/untuned percussion to enhance a story or a song."
         ],
         "curriculumLevel": "FIRST",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__MUSIC",
         "eAndOSetSectionName": "Music",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -1483,7 +1483,7 @@
             "Explains, with supporting reasons, what works well and what could be improved in their own and others’ work, using appropriate music vocabulary"
         ],
         "curriculumLevel": "SECOND",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__MUSIC",
         "eAndOSetSectionName": "Music",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -1529,7 +1529,7 @@
             "Evaluates their own work and the work of others, including visiting artistes, using appropriate music vocabulary"
         ],
         "curriculumLevel": "THIRD",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__MUSIC",
         "eAndOSetSectionName": "Music",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
@@ -1597,7 +1597,7 @@
             "Evaluates and offers justified comments on the performances of others including professionals, to agreed criteria, for example, the performances of others in a “class concert”, an original peer composition",
             "Makes detailed evaluative comments about aspects of the content, form and style of live and/or recorded performances, for example, identifies genre, style, period, technical aspects, instrumental grouping and other appropriate concepts, using appropriate music vocabulary consistently"        ],
         "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "EXPRESSIVE_ARTS",
+        "curriculumAreaName": "EXPRESSIVE_ARTS__MUSIC",
         "eAndOSetSectionName": "Music",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
