@@ -292,6 +292,482 @@
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
     },
+
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 1-01a",
+                "sentences": [
+                    {
+                        "sentence": "I can share ideas with others to develop ways of estimating the answer to a calculation or problem, work out the actual answer, then check my solution by comparing it with the estimate",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses strategies to estimate an answer to a calculation or problem, for example, doubling and rounding.",
+            "Rounds whole numbers to the nearest 10 and 100 and uses this routinely to estimate and check the reasonableness of a solution."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Estimation and rounding",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 1-02a",
+                "sentences": [
+                    {
+                        "sentence": "I have investigated how whole numbers are constructed, can understand the importance of zero within the system and can use my knowledge to explain the link between a digit, its place and its value",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 1-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can use addition, subtraction, multiplication and division when solving problems, making best use of the mental strategies and written skills I have developed.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Reads, writes, orders and recites whole numbers to 1000, starting from any number in the sequence.",
+            "Demonstrates understanding of zero as a placeholder in whole numbers to 1000.",
+            "Uses correct mathematical vocabulary when discussing the four operations including, subtract, add, sum of, total, multiply, product, divide and shared equally",
+            "Identifies the value of each digit in a whole number with three digits, for example, 867 = 800 + 60 + 7.",
+            "Counts forwards and backwards in 2s, 5s, 10s and 100s.",
+            "Demonstrates understanding of the commutative law, for example, 6 + 3 = 3 + 6 or 2 × 4 = 4 × 2.",
+            "Applies strategies to determine multiplication facts, for example, repeated addition, grouping, arrays and multiplication facts.",
+            "Solves addition and subtraction problems with three digit whole numbers.",
+            "Adds and subtracts multiples of 10 or 100 to or from any whole number to 1000.",
+            "Applies strategies to determine division facts, for example, repeated subtraction, equal groups, sharing equally, arrays and multiplication facts.",
+            "Uses multiplication and division facts to solve problems within the number range 0 to 1000",
+            "Multiplies and divides whole numbers by 10 and 100 (whole number answers only).",
+            "Applies knowledge of inverse operations (addition and subtraction; multiplication and division).",
+            "Solves two step problems."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Number and number processes",
+        "eAndOSetSubSectionAuxiliaryText": "including addition, subtraction, multiplication, division and negative numbers",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 1-07a",
+                "sentences": [
+                    {
+                        "sentence": "Having explored fractions by taking part in practical activities, I can show my understanding of:",
+                        "bulletPoints": [
+                            "how a single item can be shared equally",
+                            "the notation and vocabulary associated with fractions",
+                            "where simple fractions lie on the number line"
+                        ]
+                    }
+                ]
+            },
+            {
+                "code": "MNU 1-07b",
+                "sentences": [
+                    {
+                        "sentence": "Through exploring how groups of items can be shared equally, I can find a fraction of an amount by applying my knowledge of division.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 1-07c",
+                "sentences": [
+                    {
+                        "sentence": "Through taking part in practical activities including use of pictorial representations, I can demonstrate my understanding of simple fractions which are equivalent.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explains what a fraction is using concrete materials, pictorial representations and appropriate mathematical vocabulary",
+            "Demonstrates understanding that the greater the number of equal parts, the smaller the size of each share.",
+            "Uses the correct notation for common fractions to tenths, for example, 1/2, 2/3 and 5/8",
+            "Compares the size of fractions and places simple fractions in order on a number line",
+            "Uses pictorial representations and other models to demonstrate understanding of simple equivalent fractions, for example, 1/2 = 2/4 = 3/6",
+            "Explains the role of the numerator and denominator",
+            "Uses known multiplication and division facts and other strategies to find unit fractions of whole numbers, for example, 1/2 or 1/4"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Fractions, decimal fractions and percentages",
+        "eAndOSetSubSectionAuxiliaryText": "including ratio and proportion",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 1-09a",
+                "sentences": [
+                    {
+                        "sentence": "I can use money to pay for items and can work out how much change I should receive.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 1-09b",
+                "sentences": [
+                    {
+                        "sentence": "I have investigated how different combinations of coins and notes can be used to pay for goods or be given in change.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies and uses all coins and notes to £20 and explores different ways of making the same total.",
+            "Records amounts accurately in different ways using the correct notation, for example, 149p = £1·49 and 7p = £0·07",
+            "Uses a variety of coin and note combinations, to pay for items and give change within £10",
+            "Applies mental agility number skills to calculate the total spent in a shopping situation and is able to calculate change.",
+            "Demonstrates awareness of how goods can be paid for using cards and digital technology."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure ",
+        "eAndOSetSubSectionName": "Money",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 1-10a",
+                "sentences": [
+                    {
+                        "sentence": "I can tell the time using 12 hour clocks, realising there is a link with 24 hour notation, explain how it impacts on my daily routine and ensure that I am organised and ready for events throughout my day.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 1-10b",
+                "sentences": [
+                    {
+                        "sentence": "I can use a calendar to plan and be organised for key events for myself and my class throughout the year",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 1-10c",
+                "sentences": [
+                    {
+                        "sentence": "I have begun to develop a sense of how long tasks take by measuring the time taken to complete a range of activities using a variety of timers",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Tells the time using half past, quarter past and quarter to using analogue and digital 12 hour clocks",
+            "Records 12 hour times using am and pm and is able to identify 24 hour notation, for example, on a mobile phone or computer.",
+            "Records the date in a variety of ways, using words and numbers",
+            "Uses and interprets a variety of calendars and 12 hour timetables to plan key events.",
+            "Knows the number of seconds in a minute, minutes in an hour, hours in a day, days in each month, weeks and days in a year.",
+            "Orders the months of the year and relates these to the appropriate seasons",
+            "Selects and uses appropriate timers for specific purposes."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Time",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 1-11a",
+                "sentences": [
+                    {
+                        "sentence": "I can estimate how long or heavy an object is, or what amount it holds, using everyday things as a guide, then measure or weigh it using appropriate instruments and units.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 1-11b",
+                "sentences": [
+                    {
+                        "sentence": "I can estimate the area of a shape by counting squares or other methods.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses knowledge of everyday objects to provide reasonable estimates of length, height, mass and capacity.",
+            "Makes accurate use of a range of instruments including rulers, metre sticks, digital scales and measuring jugs when measuring lengths, heights, mass and capacities using the most appropriate instrument for the task.",
+            "Records measurements of length, height, mass and capacity to the nearest standard unit, for example, millimetres (mm), centimetres (cm), grams (g), kilograms (kg), millilitres (ml), litres (l).",
+            "Compares measures with estimates",
+            "Uses knowledge of relationships between units of measure to make simple conversions, for example, 1 m 58 cm = 158 cm.",
+            "Reads a variety of scales on measuring devices including those with simple fractions, for example, 1/2 litre.",
+            "Uses square grids to estimate then measure the areas of a variety of simple 2D shapes to the nearest half square.",
+            "Creates shapes with a given area to the nearest half square using square tiles or grids.",
+            "Recognises that different shapes can have the same area (conservation of area)"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Measurement",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 1-12a",
+                "sentences": [
+                    {
+                        "sentence": "I have discussed the important part that numbers play in the world and explored a variety of systems that have been used by civilisations throughout history to record numbers",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Investigates and shares understanding of the importance of numbers in learning, life and work.",
+            "Investigates and shares understanding of a variety of number systems used throughout history."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Mathematics – its impact on the world, past, present and future",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 1-13a",
+                "sentences": [
+                    {
+                        "sentence": "I can continue and devise more involved repeating patterns or designs, using a variety of media.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 1-13b",
+                "sentences": [
+                    {
+                        "sentence": "Through exploring number patterns, I can recognise and continue simple number sequences and can explain the rule I have applied",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Counts forwards and backwards in 2s, 5s and 10s from any whole number up to 1000.",
+            "Describes patterns in number, for example, in the multiplication tables and hundred square",
+            "Continues and creates repeating patterns involving shapes, pictures and symbols",
+            "Describes, continues and creates number patterns using addition, subtraction, doubling, halving, counting in jumps (skip counting) and known multiples"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Patterns and relationships",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 1-15a",
+                "sentences": [
+                    {
+                        "sentence": "I can compare, describe and show number relationships, using appropriate vocabulary and the symbols for equals, not equal to, less than and greater than",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 1-15b",
+                "sentences": [
+                    {
+                        "sentence": "When a picture or symbol is used to replace a number in a number statement, I can find its value using my knowledge of number facts and explain my thinking to others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Understands and accurately uses the terms ‘equal to’, ‘not equal to’, ‘less than’, ‘greater than’, and the related symbols (=, ≠ , <, >) when comparing quantities.",
+            "Applies understanding of the equals sign as a balance, and knowledge of number facts,to solve simple algebraic problems where a picture or symbol is used to represent a number, for example, \u25C6 + 17 = 30 and \u25C6 × 6 = 30."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Expressions and equations",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 1-16a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored simple 3D objects and 2D shapes and can identify, name and describe their features using appropriate vocabulary.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 1-16b",
+                "sentences": [
+                    {
+                        "sentence": "I can explore and discuss how and why different shapes fit together and create a tiling pattern with them.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Names, identifies and classifies a range of simple 2D shapes and 3D objects and recognises these shapes in different orientations and sizes.",
+            "Uses mathematical language to describe the properties of a range of common 2D shapes and 3D objects including side, face, edge, vertex, base and angle",
+            "Identifies 2D shapes within 3D objects and recognises 3D objects from 2D drawings",
+            "Identifies examples of tiling in the environment and applies knowledge of the features of 2D shapes to create tiling patterns incorporating two different shapes."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Properties of 2D shapes and 3D objects",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 1-17a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe, follow and record routes and journeys using signs, words and angles associated with direction and turning.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 1-18a",
+                "sentences": [
+                    {
+                        "sentence": "I have developed an awareness of where grid reference systems are used in everyday contexts and can use them to locate and describe position.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 1-19a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored symmetry in my own and the wider environment and can create and recognise symmetrical pictures, patterns and shapes.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses technology and other methods to describe, follow and record directions using words associated with angles, directions and turns including, full turn, half turn, quarter turn, clockwise, anticlockwise, right turn, left turn, right angle.",
+            "Knows that a right angle is 90°",
+            "Knows and uses the compass points, North, South, East and West",
+            "Uses informal methods to estimate, compare and describe the size of angles in relation to a right angle.",
+            "Finds right angles in the environment and in well-known 2D shapes.",
+            "Identifies where and why grid references are used",
+            "Describes, plots and uses accurate two figure grid references, demonstrating knowledge of the horizontal and vertical location.",
+            "Identifies symmetry in patterns, pictures, nature and 2D shapes.",
+            "Creates symmetrical pictures and designs with more than one line of symmetry."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 1-20a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored a variety of ways in which data is presented and can ask and answer questions about the information it contains.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 1-20b",
+                "sentences": [
+                    {
+                        "sentence": "I have used a range of ways to collect information and can sort it in a logical, organised and imaginative way using my own and others’ criteria.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 1-21a",
+                "sentences": [
+                    {
+                        "sentence": "Using technology and other methods, I can display data simply, clearly and accurately by creating tables, charts and diagrams, using simple labelling and scale.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Asks and answers questions to extract key information from a variety of data sets including charts, diagrams, bar graphs and tables.",
+            "Selects and uses the most appropriate way to gather and sort data for a given purpose, for example, a survey, questionnaire or group tallies.",
+            "Uses a variety of different methods, including the use of digital technologies, to display data, for example, as block graphs, bar graphs, tables, Carroll diagrams and Venn diagrams.",
+            "Includes a suitable title, simple labelling on both axes and an appropriate scale where one unit represents more than one data value in graphs."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 1-22a",
+                "sentences": [
+                    {
+                        "sentence": "I can use appropriate vocabulary to describe the likelihood of events occurring, using the knowledge and experiences of myself and others to guide me.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses mathematical vocabulary appropriately to describe the likelihood of events occurring in everyday situations including, probable, likely/unlikely, certain/uncertain, possible/impossible, and fair/unfair.",
+            "Interprets data gathered through everyday experiences to make reasonable predictions of the likelihood of an event occurring."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
@@ -1595,7 +2071,8 @@
             "Uses a practice/performance log to record and evaluate performances on chosen instrument(s)/voice, including points for improvement",
             "Engages and listens well to various genres of music ranging from the Baroque period to modern music and identifies appropriate music concepts and compositional techniques, for example, listens to excerpts of music and gives a short, written or oral analysis, including the use of relevant concepts",
             "Evaluates and offers justified comments on the performances of others including professionals, to agreed criteria, for example, the performances of others in a “class concert”, an original peer composition",
-            "Makes detailed evaluative comments about aspects of the content, form and style of live and/or recorded performances, for example, identifies genre, style, period, technical aspects, instrumental grouping and other appropriate concepts, using appropriate music vocabulary consistently"        ],
+            "Makes detailed evaluative comments about aspects of the content, form and style of live and/or recorded performances, for example, identifies genre, style, period, technical aspects, instrumental grouping and other appropriate concepts, using appropriate music vocabulary consistently"
+        ],
         "curriculumLevel": "FOURTH",
         "curriculumAreaName": "EXPRESSIVE_ARTS__MUSIC",
         "eAndOSetSectionName": "Music",
