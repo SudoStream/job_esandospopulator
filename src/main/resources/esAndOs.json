@@ -61,7 +61,7 @@
             "When counting objects, understands that the number name of the last object counted is the name given to the total number of objects in the group.",
             "Partitions quantities to 10 into two or more parts and recognises that this does not affect the total.",
             "Adds and subtracts mentally to 10",
-            "Uses appropriately the mathematical symbols +, − and =",
+            "Uses appropriately the mathematical symbols +, − and \u003D",
             "Solves simple missing number problems."
         ],
         "curriculumLevel": "EARLY",
@@ -342,9 +342,9 @@
             "Reads, writes, orders and recites whole numbers to 1000, starting from any number in the sequence.",
             "Demonstrates understanding of zero as a placeholder in whole numbers to 1000.",
             "Uses correct mathematical vocabulary when discussing the four operations including, subtract, add, sum of, total, multiply, product, divide and shared equally",
-            "Identifies the value of each digit in a whole number with three digits, for example, 867 = 800 + 60 + 7.",
+            "Identifies the value of each digit in a whole number with three digits, for example, 867 \u003D 800 + 60 + 7.",
             "Counts forwards and backwards in 2s, 5s, 10s and 100s.",
-            "Demonstrates understanding of the commutative law, for example, 6 + 3 = 3 + 6 or 2 × 4 = 4 × 2.",
+            "Demonstrates understanding of the commutative law, for example, 6 + 3 \u003D 3 + 6 or 2 × 4 \u003D 4 × 2.",
             "Applies strategies to determine multiplication facts, for example, repeated addition, grouping, arrays and multiplication facts.",
             "Solves addition and subtraction problems with three digit whole numbers.",
             "Adds and subtracts multiples of 10 or 100 to or from any whole number to 1000.",
@@ -400,7 +400,7 @@
             "Demonstrates understanding that the greater the number of equal parts, the smaller the size of each share.",
             "Uses the correct notation for common fractions to tenths, for example, 1/2, 2/3 and 5/8",
             "Compares the size of fractions and places simple fractions in order on a number line",
-            "Uses pictorial representations and other models to demonstrate understanding of simple equivalent fractions, for example, 1/2 = 2/4 = 3/6",
+            "Uses pictorial representations and other models to demonstrate understanding of simple equivalent fractions, for example, 1/2 \u003D 2/4 \u003D 3/6",
             "Explains the role of the numerator and denominator",
             "Uses known multiplication and division facts and other strategies to find unit fractions of whole numbers, for example, 1/2 or 1/4"
         ],
@@ -434,7 +434,7 @@
         ],
         "associatedBenchmarks": [
             "Identifies and uses all coins and notes to £20 and explores different ways of making the same total.",
-            "Records amounts accurately in different ways using the correct notation, for example, 149p = £1·49 and 7p = £0·07",
+            "Records amounts accurately in different ways using the correct notation, for example, 149p \u003D £1·49 and 7p \u003D £0·07",
             "Uses a variety of coin and note combinations, to pay for items and give change within £10",
             "Applies mental agility number skills to calculate the total spent in a shopping situation and is able to calculate change.",
             "Demonstrates awareness of how goods can be paid for using cards and digital technology."
@@ -518,7 +518,7 @@
             "Makes accurate use of a range of instruments including rulers, metre sticks, digital scales and measuring jugs when measuring lengths, heights, mass and capacities using the most appropriate instrument for the task.",
             "Records measurements of length, height, mass and capacity to the nearest standard unit, for example, millimetres (mm), centimetres (cm), grams (g), kilograms (kg), millilitres (ml), litres (l).",
             "Compares measures with estimates",
-            "Uses knowledge of relationships between units of measure to make simple conversions, for example, 1 m 58 cm = 158 cm.",
+            "Uses knowledge of relationships between units of measure to make simple conversions, for example, 1 m 58 cm \u003D 158 cm.",
             "Reads a variety of scales on measuring devices including those with simple fractions, for example, 1/2 litre.",
             "Uses square grids to estimate then measure the areas of a variety of simple 2D shapes to the nearest half square.",
             "Creates shapes with a given area to the nearest half square using square tiles or grids.",
@@ -610,8 +610,8 @@
             }
         ],
         "associatedBenchmarks": [
-            "Understands and accurately uses the terms ‘equal to’, ‘not equal to’, ‘less than’, ‘greater than’, and the related symbols (=, ≠ , <, >) when comparing quantities.",
-            "Applies understanding of the equals sign as a balance, and knowledge of number facts,to solve simple algebraic problems where a picture or symbol is used to represent a number, for example, \u25C6 + 17 = 30 and \u25C6 × 6 = 30."
+            "Understands and accurately uses the terms ‘equal to’, ‘not equal to’, ‘less than’, ‘greater than’, and the related symbols (\u003D, ≠ , <, >) when comparing quantities.",
+            "Applies understanding of the equals sign as a balance, and knowledge of number facts,to solve simple algebraic problems where a picture or symbol is used to represent a number, for example, \u25C6 + 17 \u003D 30 and \u25C6 × 6 \u003D 30."
         ],
         "curriculumLevel": "FIRST",
         "curriculumAreaName": "MATHEMATICS",
@@ -841,7 +841,7 @@
             }
         ],
         "associatedBenchmarks": [
-            "Divides whole numbers and decimal fractions to two decimal places, by a single digit, including answers expressed as decimal fractions, for example, 43 ÷ 5 = 8∙6.",
+            "Divides whole numbers and decimal fractions to two decimal places, by a single digit, including answers expressed as decimal fractions, for example, 43 ÷ 5 \u003D 8∙6.",
             "Applies the correct order of operations in number calculations when solving multi-step problems.",
             "Identifies familiar contexts in which negative numbers are used",
             "Orders numbers less than zero and locates them on a number line."
@@ -906,7 +906,7 @@
             }
         ],
         "associatedBenchmarks": [
-            "Uses knowledge of equivalent forms of common fractions, decimal fractions and percentages, for example, 3/4 = 0.75 = 75%, to solve problems",
+            "Uses knowledge of equivalent forms of common fractions, decimal fractions and percentages, for example, 3/4 \u003D 0.75 \u003D 75%, to solve problems",
             "Calculates simple percentages of a quantity, and uses this knowledge to solve problems in everyday contexts, for example, calculates the sale price of an item with a discount of 15%",
             "Calculates simple fractions of a quantity and uses this knowledge to solve problems, for example, find 3/5 of 60",
             "Creates equivalent fractions and uses this knowledge to put a set of most commonly used fractions in order",
@@ -1044,7 +1044,7 @@
             "Calculates the perimeter of simple straight sided 2D shapes in millimetres (mm), centimetres (cm) and metres (m).",
             "Calculates the area of squares, rectangles and right-angled triangles in square millimetres (mm\u00B2 ), square centimetres (cm\u00B2 ) and square metres (m\u00B2).",
             "Calculates the volume of cubes and cuboids in cubic centimetres (cm\u00B3 ) and cubic metres (m\u00B3).",
-            "Converts between common units of measurement using decimal notation, for example, 550 cm = 5·5 m; 3·009 kg = 3009 g",
+            "Converts between common units of measurement using decimal notation, for example, 550 cm \u003D 5·5 m; 3·009 kg \u003D 3009 g",
             "Chooses the most appropriate measuring device for a given task and carries out the required calculation, recording results in the correct unit",
             "Reads a variety of scales accurately.",
             "Draws squares and rectangles accurately with a given perimeter or area",
@@ -1117,7 +1117,7 @@
             }
         ],
         "associatedBenchmarks": [
-            "Solves simple algebraic equations with one variable, for example, a - 30 = 40 and 4b = 20"
+            "Solves simple algebraic equations with one variable, for example, a - 30 \u003D 40 and 4b \u003D 20"
         ],
         "curriculumLevel": "SECOND",
         "curriculumAreaName": "MATHEMATICS",
