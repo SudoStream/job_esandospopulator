@@ -771,6 +771,548 @@
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
+                "code": "MNU 2-01a",
+                "sentences": [
+                    {
+                        "sentence": "I can use my knowledge of rounding to routinely estimate the answer to a problem then, after calculating, decide if my answer is reasonable, sharing my solution with others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Rounds whole numbers to the nearest 1000, 10 000 and 100 000.",
+            "Rounds decimal fractions to the nearest whole number, to one decimal place and two decimal places",
+            "Applies knowledge of rounding to give an estimate to a calculation appropriate to the context."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Estimation and rounding",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 2-02a",
+                "sentences": [
+                    {
+                        "sentence": "I have extended the range of whole numbers I can work with and having explored how decimal fractions are constructed, can explain the link between a digit, its place and its value.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 2-03a",
+                "sentences": [
+                    {
+                        "sentence": "Having determined which calculations are needed, I can solve problems involving whole numbers using a range of methods, sharing my approaches and solutions with others",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 2-03b",
+                "sentences": [
+                    {
+                        "sentence": "I have explored the contexts in which problems involving decimal fractions occur and can solve related problems using a variety of methods.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 2-03c",
+                "sentences": [
+                    {
+                        "sentence": "Having explored the need for rules for the order of operations in number calculations, I can apply them correctly when solving simple problems.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 2-04a",
+                "sentences": [
+                    {
+                        "sentence": "I can show my understanding of how the number line extends to include numbers less than zero and have investigated how these numbers occur and are used.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Divides whole numbers and decimal fractions to two decimal places, by a single digit, including answers expressed as decimal fractions, for example, 43 ÷ 5 = 8∙6.",
+            "Applies the correct order of operations in number calculations when solving multi-step problems.",
+            "Identifies familiar contexts in which negative numbers are used",
+            "Orders numbers less than zero and locates them on a number line."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Number and number processes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 2-05a",
+                "sentences": [
+                    {
+                        "sentence": "Having explored the patterns and relationships in multiplication and division, I can investigate and identify the multiples and factors of numbers.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies multiples and factors of whole numbers and applies knowledge and understanding of these when solving relevant problems in number, money and measurement."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Multiples, factors and primes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 2-07a",
+                "sentences": [
+                    {
+                        "sentence": "I have investigated the everyday contexts in which simple fractions, percentages or decimal fractions are used and can carry out the necessary calculations to solve related problems.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 2-07b",
+                "sentences": [
+                    {
+                        "sentence": "I can show the equivalent forms of simple fractions, decimal fractions and percentages, and can choose my preferred form when solving a problem, explaining my choice of method.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 2-07c",
+                "sentences": [
+                    {
+                        "sentence": "I have investigated how a set of equivalent fractions can be created, understanding the meaning of simplest form, and can apply my knowledge to compare and order the most commonly used fractions.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses knowledge of equivalent forms of common fractions, decimal fractions and percentages, for example, 3/4 = 0.75 = 75%, to solve problems",
+            "Calculates simple percentages of a quantity, and uses this knowledge to solve problems in everyday contexts, for example, calculates the sale price of an item with a discount of 15%",
+            "Calculates simple fractions of a quantity and uses this knowledge to solve problems, for example, find 3/5 of 60",
+            "Creates equivalent fractions and uses this knowledge to put a set of most commonly used fractions in order",
+            "Expresses fractions in their simplest form."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Fractions, decimal fractions and percentages",
+        "eAndOSetSubSectionAuxiliaryText": "including ratio and proportion",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 2-09a",
+                "sentences": [
+                    {
+                        "sentence": "I can manage money, compare costs from different retailers, and determine what I can afford to buy.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 2-09b",
+                "sentences": [
+                    {
+                        "sentence": "I understand the costs, benefits and risks of using bank cards to purchase goods or obtain cash and realise that budgeting is important.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 2-09c",
+                "sentences": [
+                    {
+                        "sentence": "I can use the terms profit and loss in buying and selling activities and can make simple calculations for this.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Carries out money calculations involving the four operations.",
+            "Compares costs and determines affordability within a given budget",
+            "Demonstrates understanding of the benefits and risks of using bank cards and digital technologies",
+            "Calculates profit and loss accurately, for example, when working with a budget for an enterprise activity."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Money",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 2-10a",
+                "sentences": [
+                    {
+                        "sentence": "I can use and interpret electronic and paperbased timetables and schedules to plan events and activities, and make time calculations as part of my planning",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 2-10b",
+                "sentences": [
+                    {
+                        "sentence": "I can carry out practical tasks and investigations involving timed events and can explain which unit of time would be most appropriate to use.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 2-10c",
+                "sentences": [
+                    {
+                        "sentence": "Using simple time periods, I can give a good estimate of how long a journey should take, based on my knowledge of the link between time, speed and distance.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Reads and records time in both 12 hour and 24 hour notation and converts between the two",
+            "Knows the relationships between commonly used units of time and carries out simple conversion calculations, for example, changes 1\u00BE hours into minutes",
+            "Uses and interprets a range of electronic and paper-based timetables and calendars to plan events or activities and solve real life problems",
+            "Calculates durations of activities and events including situations bridging across several hours and parts of hours using both 12 hour clock and 24 hour notation",
+            "Estimates the duration of a journey based on knowledge of the link between speed, distance and time.",
+            "Chooses the most appropriate timing device in practical situations and records using relevant units, including hundredths of a second.",
+            "Selects the most appropriate unit of time for a given task and justifies choice"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Time",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 2-11a",
+                "sentences": [
+                    {
+                        "sentence": "I can use my knowledge of the sizes of familiar objects or places to assist me when making an estimate of measure.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 2-11b",
+                "sentences": [
+                    {
+                        "sentence": "I can use the common units of measure, convert between related units of the metric system and carry out calculations when solving problems.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 2-11c",
+                "sentences": [
+                    {
+                        "sentence": "I can explain how different methods can be used to find the perimeter and area of a simple 2D shape or volume of a simple 3D object",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses the comparative size of familiar objects to make reasonable estimations of length, mass, area and capacity",
+            "Estimates to the nearest appropriate unit, then measures accurately: length, height and distance in millimetres (mm), centimetres (cm), metres (m) and kilometres (km); mass in grams (g) and kilograms (kg); and capacity in millilitres (ml) and litres (l)",
+            "Calculates the perimeter of simple straight sided 2D shapes in millimetres (mm), centimetres (cm) and metres (m).",
+            "Calculates the area of squares, rectangles and right-angled triangles in square millimetres (mm\u00B2 ), square centimetres (cm\u00B2 ) and square metres (m\u00B2).",
+            "Calculates the volume of cubes and cuboids in cubic centimetres (cm\u00B3 ) and cubic metres (m\u00B3).",
+            "Converts between common units of measurement using decimal notation, for example, 550 cm = 5·5 m; 3·009 kg = 3009 g",
+            "Chooses the most appropriate measuring device for a given task and carries out the required calculation, recording results in the correct unit",
+            "Reads a variety of scales accurately.",
+            "Draws squares and rectangles accurately with a given perimeter or area",
+            "Demonstrates understanding of the conservation of measurement, for example, draw three different rectangles each with an area of 24 cm\u00B2",
+            "Shows awareness of imperial units used in everyday life, for example, miles or stones."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Measurement",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 2-12a",
+                "sentences": [
+                    {
+                        "sentence": "I have worked with others to explore, and present our findings on, how mathematics impacts on the world and the important part it has played in advances and inventions",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Researches and presents examples of the impact mathematics has in the world of life and work.",
+            "Contributes to discussions and activities on the role of mathematics in the creation of important inventions, now and in the past."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Mathematics – its impact on the world, past, present and future",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 2-13a",
+                "sentences": [
+                    {
+                        "sentence": "Having explored more complex number sequences, including well-known named number patterns, I can explain the rule used to generate the sequence, and apply it to extend the pattern.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explains and uses a rule to extend well known number sequences including square numbers, triangular numbers and Fibonacci sequence",
+            "Applies knowledge of multiples, square numbers and triangular numbers to generate number patterns."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Patterns and relationships",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 2-15a",
+                "sentences": [
+                    {
+                        "sentence": "I can apply my knowledge of number facts to solve problems where an unknown value is represented by a symbol or letter",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Solves simple algebraic equations with one variable, for example, a - 30 = 40 and 4b = 20"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Number, money and measure",
+        "eAndOSetSubSectionName": "Expressions and equations",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 2-16a",
+                "sentences": [
+                    {
+                        "sentence": "Having explored a range of 3D objects and 2D shapes, I can use mathematical language to describe their properties, and through investigation can discuss where and why particular shapes are used in the environment.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 2-16b",
+                "sentences": [
+                    {
+                        "sentence": "Through practical activities, I can show my understanding of the relationship between 3D objects and their nets",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 2-16c",
+                "sentences": [
+                    {
+                        "sentence": "I can draw 2D shapes and make representations of 3D objects using an appropriate range of methods and efficient use of resources",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Describes 3D objects and 2D shapes using specific vocabulary including regular, irregular, diagonal, radius, diameter and circumference. Applies this knowledge to demonstrate understanding of the relationship between 3D objects and their nets.",
+            "Identifies and describes 3D objects and 2D shapes within the environment and explains why their properties match their function.",
+            "Knows that the radius is half of the diameter",
+            "Uses digital technologies and mathematical instruments to draw 2D shapes and make representations of 3D objects, understanding that not all parts of the 3D object can be seen"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Properties of 2D shapes and 3D objects",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MTH 2-17a",
+                "sentences": [
+                    {
+                        "sentence": "I have investigated angles in the environment, and can discuss, describe and classify angles using appropriate mathematical vocabulary",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 2-17b",
+                "sentences": [
+                    {
+                        "sentence": "I can accurately measure and draw angles using appropriate equipment, applying my skills to problems in context.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 2-17c",
+                "sentences": [
+                    {
+                        "sentence": "Through practical activities which include the use of technology, I have developed my understanding of the link between compass points and angles and can describe, follow and record directions, routes and journeys using appropriate vocabulary.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 2-17d",
+                "sentences": [
+                    {
+                        "sentence": "Having investigated where, why and how scale is used and expressed, I can apply my understanding to interpret simple models, maps and plans.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 2-18a",
+                "sentences": [
+                    {
+                        "sentence": "I can use my knowledge of the coordinate system to plot and describe the location of a point on a grid.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 2-19a",
+                "sentences": [
+                    {
+                        "sentence": "I can illustrate the lines of symmetry for a range of 2D shapes and apply my understanding to create and complete symmetrical pictures and patterns.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses mathematical language including acute, obtuse, straight and reflex to describe and classify a range of angles identified within shapes in the environment.",
+            "Measures and draws a range of angles to within \u00B12\u00B0",
+            "Knows that complementary angles add up to 90° and supplementary angles add up to 180° and uses this knowledge to calculate missing angles",
+            "Uses knowledge of the link between the eight compass points and angles to describe, follow and record directions.",
+            "Interprets maps, models or plans with simple scales, for example, 1 cm:2 km.",
+            "Describes, plots and records the location of a point, in the first quadrant, using coordinate notation.",
+            "Identifies and illustrates line symmetry on a wide range of 2D shapes and applies this understanding to complete a range of symmetrical patterns, with and without the use of digital technologies."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Shape, position and movement",
+        "eAndOSetSubSectionName": "Angle, symmetry and transformation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 2-20a",
+                "sentences": [
+                    {
+                        "sentence": "Having discussed the variety of ways and range of media used to present data, I can interpret and draw conclusions from the information displayed, recognising that the presentation may be misleading.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MNU 2-20b",
+                "sentences": [
+                    {
+                        "sentence": "I have carried out investigations and surveys, devising and using a variety of methods to gather information and have worked with others to collate, organise and communicate the results in an appropriate way.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "MTH 2-21a",
+                "sentences": [
+                    {
+                        "sentence": "I can display data in a clear way using a suitable scale, by choosing appropriately from an extended range of tables, charts, diagrams and graphs, making effective use of technology.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Devises ways of collecting data in the most suitable way for the given task.",
+            "Collects, organises and displays data accurately in a variety of ways including through the use of digital technologies, for example, creating surveys, tables, bar graphs, line graphs, frequency tables, simple pie charts and spreadsheets",
+            "Analyses, interprets and draws conclusions from a variety of data",
+            "Draws conclusions about the reliability of data taking into account, for example, the author, the audience, the scale and sample size used",
+            "Displays data appropriately making effective use of technology and chooses a suitable scale when creating graphs."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Data and analysis",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "MNU 2-22a",
+                "sentences": [
+                    {
+                        "sentence": "I can conduct simple experiments involving chance and communicate my predictions and findings using the vocabulary of probability.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses the language of probability accurately to describe the likelihood of simple events occurring, for example equal chance; fifty-fifty; one in two, two in three; percentage chance; and \u2159",
+            "Plans and carries out simple experiments involving chance with repeated trials, for example, ‘what is the probability of throwing a six if you throw a die fifty times?’",
+            "Uses data to predict the outcome of a simple experiment."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "MATHEMATICS",
+        "eAndOSetSectionName": "Information handling",
+        "eAndOSetSubSectionName": "Ideas of chance and uncertainty",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
                 "code": "EXA 0-01a",
                 "sentences": [
                     {
