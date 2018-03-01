@@ -45,7 +45,9 @@ trait MongoDbHelper {
           .clusterSettings(clusterSettings)
           .build()
 
-        MongoClient(mongoSslClientSettings)
+        val mongoClient = MongoClient(mongoSslClientSettings)
+        println(s"mongoClient := ${mongoClient.toString}")
+        mongoClient
       }
   }
 
