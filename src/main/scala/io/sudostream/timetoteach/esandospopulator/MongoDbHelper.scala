@@ -22,7 +22,7 @@ trait MongoDbHelper {
         println(s"mongo uri = '$mongoDbUri'")
         System.setProperty("org.mongodb.async.type", "netty")
         val mongoClient = MongoClient(mongoDbUri)
-        println(s"mongoClient := ${mongoClient.toString}")
+        println(s"mongoClient := ${mongoClient.settings.toString}")
         mongoClient
       } else {
         System.setProperty("javax.net.ssl.keyStore", "/etc/ssl/cacerts")
