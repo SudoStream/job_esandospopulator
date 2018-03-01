@@ -21,7 +21,9 @@ trait MongoDbHelper {
         val mongoDbUri = config.getString("mongodb.connection_uri")
         println(s"mongo uri = '$mongoDbUri'")
         System.setProperty("org.mongodb.async.type", "netty")
-        MongoClient(mongoDbUri)
+        val mongoClient = MongoClient(mongoDbUri)
+        println(s"mongoClient := ${mongoClient.toString}")
+        mongoClient
       } else {
         System.setProperty("javax.net.ssl.keyStore", "/etc/ssl/cacerts")
         System.setProperty("javax.net.ssl.keyStorePassword", mongoKeystorePassword)
