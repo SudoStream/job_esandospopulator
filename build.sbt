@@ -8,10 +8,12 @@ enablePlugins(DockerPlugin)
 name := "esandospopulator"
 organization := "io.sudostream"
 scalaVersion := "2.11.8"
-version := "0.0.31-27"
+version := "0.0.31-28"
 
 //docker
-dockerBaseImage := "anapsix/alpine-java:8_server-jre"
+//dockerBaseImage := "anapsix/alpine-java:8_server-jre"
+dockerBaseImage := "java:oracle-java8"
+
 dockerRepository := Some("eu.gcr.io/time-to-teach-zone")
 dockerUpdateLatest := true
 packageName in Docker := "esandospopulator"
