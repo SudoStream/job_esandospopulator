@@ -3144,6 +3144,500 @@
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 1-01a",
+                "sentences": [
+                    {
+                        "sentence": "I regularly select and listen to, or watch texts which I enjoy and find interesting, and I can explain why I prefer certain sources.",
+                        "bulletPoints": []
+                    },
+                    {
+                        "sentence": "I regularly select subject, purpose, format and resources to create texts of my choice",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Selects spoken texts regularly for enjoyment or to find information for a specific purpose and gives a reason for preferences."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 1-02a",
+                "sentences": [
+                    {
+                        "sentence": "When I engage with others, I know when and how to listen, when to talk, how much to say, when to ask questions and how to respond with respect.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "ENG 1-03a",
+                "sentences": [
+                    {
+                        "sentence": "I am exploring how pace, gesture, expression, emphasis and choice of words are used to engage others, and I can use what I learn",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Takes turns and contributes at the appropriate time when engaging with others in a variety of contexts.",
+            "Listens and responds appropriately to others in a respectful way, for example, by nodding or agreeing, asking and answering questions.",
+            "Applies a few techniques (verbal and non-verbal) when engaging with others, for example, vocabulary, eye contact, expression and/or body language."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Tools for listening and talking",
+        "eAndOSetSubSectionAuxiliaryText": "to help me when interacting or presenting within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 1-04a",
+                "sentences": [
+                    {
+                        "sentence": "As I listen or watch, I can identify and discuss the purpose, key words and main ideas of the text, and use this information for a specific purpose",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 1-05a",
+                "sentences": [
+                    {
+                        "sentence": "As I listen or watch, I am learning to make notes under given headings and use these to understand what I have listened to or watched and create new texts.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 1-06a",
+                "sentences": [
+                    {
+                        "sentence": "I can select ideas and relevant information, organise these in a logical sequence and use words which will be interesting and/or useful for others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies the purpose and main ideas of spoken texts and uses the information gathered for a specific purpose.",
+            "Makes relevant notes under given headings and can use these for different purposes.",
+            "Uses notes to create and sequence new texts."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 1-07a",
+                "sentences": [
+                    {
+                        "sentence": "I can show my understanding of what I listen to or watch by responding to and asking different kinds of questions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 1-08a",
+                "sentences": [
+                    {
+                        "sentence": "To help me develop an informed view, I am learning to recognise the difference between fact and opinion.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Asks and responds to different types of questions to show understanding of the main ideas of spoken texts.",
+            "Recognises simple differences between fact and opinion in spoken texts."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 1-09a",
+                "sentences": [
+                    {
+                        "sentence": "When listening and talking with others for different purposes, I can exchange information, experiences, explanations, ideas and opinions, and clarify points by asking questions or by asking others to say more.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 1-10a",
+                "sentences": [
+                    {
+                        "sentence": "I can communicate clearly when engaging with others within and beyond my place of learning, using selected resources as required.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Communicates clearly and audibly",
+            "Contributes to group/class discussions, engaging with others for a range of purposes.",
+            "Selects and shares ideas/information using appropriate vocabulary in a logical order.",
+            "Selects and uses, with support, appropriate resources to engage with others, for example, objects, pictures and/or photographs."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements others use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 1-11a",
+                "sentences": [
+                    {
+                        "sentence": "I regularly select and read, listen to or watch texts which I enjoy and find interesting, and I can explain why I prefer certain texts and authors.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Selects different texts regularly for enjoyment or for a specific purpose using, for example, cover, title, author, illustrator and/or blurb.",
+            "Explains preferences for particular texts and authors."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "",
+                "sentences": [
+                    {
+                        "sentence": "",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "ENG 1-12a",
+                "sentences": [
+                    {
+                        "sentence": "I can use my knowledge of sight vocabulary, phonics, context clues, punctuation and grammar to read with understanding and expression",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 1-13a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning to select and use strategies and resources before I read, and as I read, to help make the meaning of texts clear.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Reads aloud a familiar piece of text adding expression and can show understanding.",
+            "Reads an increasing number of common/high frequency words, key reading words, core topic words and words of personal significance.",
+            "Uses a range of word recognition strategies independently",
+            "Decodes unknown words by locating and pronouncing familiar letter patterns and blends",
+            "Uses context clues to read and understand texts.",
+            "Uses punctuation and grammar to read with understanding and expression."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Tools for reading",
+        "eAndOSetSubSectionAuxiliaryText": "to help me use texts with increasingly complex or unfamiliar ideas, structures and vocabulary within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 1-14a",
+                "sentences": [
+                    {
+                        "sentence": "Using what I know about the features of different types of texts, I can find, select, sort and use information for a specific purpose.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 1-15a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning to make notes under given headings and use them to understand information, explore ideas and problems and create new texts.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies and finds key information in fiction and non-fiction texts using content page, index, headings, sub-headings and diagrams to help locate information.",
+            "Makes notes under given headings for different purposes"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when reading and using fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 1-16a",
+                "sentences": [
+                    {
+                        "sentence": "To show my understanding across different areas of learning, I can identify and consider the purpose and main ideas of a text",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "ENG 1-17a",
+                "sentences": [
+                    {
+                        "sentence": "To show my understanding, I can respond to different kinds of questions and other close reading tasks and I am learning to create some questions of my own.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 1-18a",
+                "sentences": [
+                    {
+                        "sentence": "To help me develop an informed view, I can recognise the difference between fact and opinion.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "ENG 1-19a",
+                "sentences": [
+                    {
+                        "sentence": "I can share my thoughts about structure, characters and/or setting, recognise the writer’s message and relate it to my own experiences, and comment on the effective choice of words and other features.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies the main ideas of texts.",
+            "Makes appropriate suggestions about the purpose of a text.",
+            "Answers literal, inferential and evaluative questions about texts",
+            "Asks questions to help make sense of a text.",
+            "Recognises the difference between fact and opinion.",
+            "Offers own ideas about characters, writer’s use of language, structure and/or setting",
+            "Offers own ideas about the writer’s message and, when appropriate, relates these to personal experiences."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 1-20a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy creating texts of my choice and I regularly select subject, purpose, format and resources to suit the needs of my audience.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Creates texts selecting subject, purpose, format and resources for a range of purposes and audiences."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 1-21a",
+                "sentences": [
+                    {
+                        "sentence": "I can spell the most commonly-used words, using my knowledge of letter patterns and spelling rules and use resources to help me spell tricky or unfamiliar words.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 1-22a",
+                "sentences": [
+                    {
+                        "sentence": "I can write independently, use appropriate punctuation and order and link my sentences in a way that makes sense.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 1-23a",
+                "sentences": [
+                    {
+                        "sentence": "Throughout the writing process, I can check that my writing makes sense",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 1-24a",
+                "sentences": [
+                    {
+                        "sentence": "I can present my writing in a way that will make it legible and attractive for my reader, combining words, images and other features.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Spells most commonly used words correctly",
+            "Spells most vocabulary used across the curriculum correctly",
+            "Uses knowledge of phonics and spelling strategies when spelling familiar and unfamiliar words.",
+            "Uses knowledge of the alphabet to locate words in a dictionary or other reference source to help spell tricky or unfamiliar words.",
+            "Writes independently, punctuating most sentences accurately, for example, using a capital letter, full stop, question mark or exclamation mark.",
+            "Links sentences using common conjunctions, for example, and, because, but or so.",
+            "Starts sentences in a variety of ways to engage the reader",
+            "Checks writing to ensure it makes sense.",
+            "Presents writing in a clear and legible way using images and other features as appropriate."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 1-25a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning to use my notes and other types of writing to help me understand information and ideas, explore problems, generate and develop ideas or create new text.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 1-26a",
+                "sentences": [
+                    {
+                        "sentence": "By considering the type of text I am creating, I can select ideas and relevant information, organise these in a logical sequence and use words which will be interesting and/or useful for others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Plans and organises ideas and information using an appropriate format.",
+            "Makes notes to help plan writing and uses them to create new texts.",
+            "Includes relevant information in written texts",
+            "Organises writing in a logical order and as appropriate to audience",
+            "Uses relevant and/or interesting vocabulary as appropriate for the context"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "considering texts to help create short and extended texts for different purposes",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 1-28a / LIT 1-29a",
+                "sentences": [
+                    {
+                        "sentence": "I can convey information, describe events or processes, share my opinions or persuade my reader in different ways",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "ENG 1-30a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe and share my experiences and how they made me feel.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "ENG 1-31a",
+                "sentences": [
+                    {
+                        "sentence": "Having explored the elements which writers use in different genres, I can use what I learn to create my own stories, poems and plays with interesting structures, characters and/or settings.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Creates a variety of texts for different purposes.",
+            "Selects, organises and conveys information in different ways.",
+            "Uses vocabulary and language for specific purposes.",
+            "Shares own viewpoint and makes one or two attempts to persuade the reader as appropriate to the purpose.",
+            "Writes about personal experiences in a logical order, using appropriate vocabulary to describe feelings, thoughts and events.",
+            "Creates own texts, for example, stories, poems and plays, with recognisable features of genre",
+            "Creates texts with evidence of structure.",
+            "Creates interesting characters through their feelings and actions and physical description"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LANGUAGES_LITERACY_AND_ENGLISH",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "considering texts to help create short and extended texts for different purposes",
+        "responsibilityOfAllPractitioners": false
     }
-
 ]
