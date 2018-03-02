@@ -13,6 +13,7 @@ trait EsAndOsInserter {
     val filename = "/esAndOs.json"
     val filenameAsInputStream = getClass.getResourceAsStream(filename)
     val input = Source.fromInputStream(filenameAsInputStream).mkString
+    println("Lets decode the es and os ...")
     input.decodeOption[List[EAndOsAtTheSubsectionLevel]].getOrElse(Nil)
   }
 

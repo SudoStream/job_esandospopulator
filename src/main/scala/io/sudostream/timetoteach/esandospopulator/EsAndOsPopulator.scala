@@ -35,8 +35,9 @@ object EsAndOsPopulator extends App
   }
 
   println(startupMessage)
-
+  println("Time for some decoding ...")
   val esAndOs: List[EAndOsAtTheSubsectionLevel] = decodeEsAndOsForDatabaseInjestion
+  println(s"The list of es and os has ${decodeEsAndOsForDatabaseInjestion.size} elems")
   val esAndOsCollection: MongoCollection[Document] = getEsAndOsCollection
 
   val benchmarks : List[Benchmark] = decodeBenchmarksForDatabaseInjestion
