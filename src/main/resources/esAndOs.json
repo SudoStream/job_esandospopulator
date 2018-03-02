@@ -3744,7 +3744,10 @@
             }
         ],
         "associatedBenchmarks": [
+            "Asks and responds to a range of questions, including literal, inferential and evaluative questions, to demonstrate understanding of spoken texts",
+            "Identifies the difference between fact and opinion with suitable explanation"
         ],
+        "curriculumLevel": "SECOND",
         "curriculumAreaName": "LITERACY__LISTENING_AND_TALKING",
         "eAndOSetSectionName": "Listening and talking",
         "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
