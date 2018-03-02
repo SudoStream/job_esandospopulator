@@ -4090,7 +4090,7 @@
                         "bulletPoints": []
                     }
                 ]
-            },{
+            }, {
                 "code": "ENG 2-30a",
                 "sentences": [
                     {
@@ -4128,6 +4128,417 @@
             "Creates plots with clear structures, for example, suitable opening, turning point, climax and/or satisfactory ending."
         ],
         "curriculumLevel": "SECOND",
+        "curriculumAreaName": "LITERACY__WRITING",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "considering texts to help create short and extended texts for different purposes",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 0-01a / LIT 0-11a / LIT 0-20a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy exploring and playing with the patterns and sounds of language, and can use what I learn.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 0-01b / LIT 0-11b",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy exploring and choosing stories and other texts to watch, read or listen to, and can share my likes and dislikes.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 0-01c",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy exploring events and characters in stories and other texts, sharing my thoughts in different ways.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Hears and says patterns in words.",
+            "Hears and says rhyming words and generates rhyme from a given word.",
+            "Hears and says the different single sounds made by letters",
+            "Hears and says letter blends/sounds made by a combination of letters.",
+            "Participates actively in songs, rhymes and stories",
+            "Chooses a story or other texts for enjoyment, making use of the cover, title, author and/or illustrator.",
+            "Engages with and enjoys watching, reading or listening to different texts, including stories, songs and rhymes, and can share likes and dislikes.",
+            "Engages with stories and texts in different ways, for example, retelling/re-enacting stories and/or using puppets/props."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__LISTENING_AND_TALKING",
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "",
+                "sentences": [
+                    {
+                        "sentence": "",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "",
+        "eAndOSetSectionName": "",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 0-02a / ENG 0-03a",
+                "sentences": [
+                    {
+                        "sentence": "As I listen and talk in different situations, I am learning to take turns and am developing my awareness of when to talk and when to listen.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Makes an attempt to take turns when listening and talking in a variety of contexts.",
+            "Makes an attempt to use appropriate body language when listening to others, for example, eye contact.",
+            "Listens and responds to others appropriately",
+            "Asks questions and responds relevantly to questions from others.",
+            "Follows and gives simple instructions",
+            "Shares ideas with a wider audience, for example, group or class"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__LISTENING_AND_TALKING",
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Tools for listening and talking",
+        "eAndOSetSubSectionAuxiliaryText": "to help me when interacting or presenting within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 0-04a",
+                "sentences": [
+                    {
+                        "sentence": "I listen or watch for useful or interesting information and I use this to make choices or learn new things",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Understands and responds to spoken texts",
+            "Identifies new or interesting information from spoken texts."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__LISTENING_AND_TALKING",
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when listening to, watching and talking about texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 0-07a / LIT 0-16a / ENG 0-17a",
+                "sentences": [
+                    {
+                        "sentence": "To help me understand stories and other texts, I ask questions and link what I am learning with what I already know.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Asks and answers questions about texts to show and support understanding",
+            "Makes simple predictions about texts."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__LISTENING_AND_TALKING",
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 0-09a",
+                "sentences": [
+                    {
+                        "sentence": "Within real and imaginary situations, I share experiences and feelings, ideas and information in a way that communicates my message",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 0-09b / LIT 0-31a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy exploring events and characters in stories and other texts and I use what I learn to invent my own, sharing these with others in imaginative ways.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 0-10a",
+                "sentences": [
+                    {
+                        "sentence": "As I listen and take part in conversations and discussions, I discover new words and phrases which I use to help me express my ideas, thoughts and feelings.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Talks clearly to others in different contexts, sharing feelings, ideas and thoughts",
+            "Recounts experiences, stories and events in a logical sequence for different purposes",
+            "Communicates and shares stories in different ways, for example, in imaginative play",
+            "Uses new vocabulary and phrases in different contexts, for example, when expressing ideas and feelings or discussing a text."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__LISTENING_AND_TALKING",
+        "eAndOSetSectionName": "Listening and talking",
+        "eAndOSetSubSectionName": "Creating texts",
+        "eAndOSetSubSectionAuxiliaryText": "applying the elements others use to create different types of short and extended texts with increasingly complex ideas, structures and vocabulary",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 0-01a / LIT 0-11a / LIT 0-20a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy exploring and playing with the patterns and sounds of language and can use what I learn.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 0-01b / LIT 0-11b",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy exploring and choosing stories and other texts to watch, read or listen to, and can share my likes and dislikes.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Chooses a story or other texts for enjoyment making use of the cover, title, author and/or illustrator",
+            "Engages with and enjoys watching, reading or listening to different texts, including stories, songs and rhymes, and can share likes and dislikes."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__READING",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "ENG 0-12a / LIT 0-13a / LIT 0-21a",
+                "sentences": [
+                    {
+                        "sentence": "I explore sounds, letters and words, discovering how they work together, and I can use what I learn to help me as I read and write.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Hears and says patterns in words.",
+            "Hears and says the different single sounds made by letters",
+            "Hears and says blends/sounds made by a combination of letters",
+            "Knows the difference between a letter, word and numeral.",
+            "Reads from left to right and top to bottom.",
+            "Uses knowledge of sounds, letters and patterns to read words",
+            "Uses knowledge of sight vocabulary/tricky words to read familiar words in context",
+            "Reads aloud familiar texts with attention to simple punctuation",
+            "Uses context clues to support understanding of different texts"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__READING",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Tools for reading",
+        "eAndOSetSubSectionAuxiliaryText": "to help me use texts with increasingly complex or unfamiliar ideas, structures and vocabulary within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 0-14a",
+                "sentences": [
+                    {
+                        "sentence": "I use signs, books or other texts to find useful or interesting information and I use this to plan, make choices or learn new things.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Finds information in a text to learn new things",
+            "Shows an awareness of a few features of fiction and non-fiction texts when using/choosing texts for particular purposes."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__READING",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "when reading and using fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 0-07a / LIT 0-16a / ENG 0-17a",
+                "sentences": [
+                    {
+                        "sentence": "To help me understand stories and other texts, I ask questions and link what I am learning with what I already know",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 0-19a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy exploring events and characters in stories and other texts, sharing my thoughts in different ways",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Engages with texts read to them",
+            "Asks and answers questions about events and ideas in a text.",
+            "Answers questions to help predict what will happen next.",
+            "Contributes to discussions about events, characters and ideas relevant to the text.",
+            "Shares thoughts and feelings about stories and other texts in different ways",
+            "Retells familiar stories in different ways, for example, role play, puppets and/or drawings.",
+            "Relates information and ideas from a text to personal experiences."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__READING",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Understanding, analysing and evaluating",
+        "eAndOSetSubSectionAuxiliaryText": "investigating and/or appreciating fiction and non-fiction texts with increasingly complex ideas, structures and specialist vocabulary for different purposes",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 0-01a / LIT 0-11a / LIT 0-20a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy exploring and playing with the patterns and sounds of language and can use what I learn.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Writes for enjoyment, exploring patterns and sounds, in a range of play, imaginative and real contexts"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__WRITING",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Enjoyment and choice",
+        "eAndOSetSubSectionAuxiliaryText": "within a motivating and challenging environment developing an awareness of the relevance of texts in my life",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "ENG 0-12a / LIT 0-13a / LIT 0-21a",
+                "sentences": [
+                    {
+                        "sentence": "I explore sounds, letters and words, discovering how they work together, and I can use what I learn to help me as I read or write.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LIT 0-21b",
+                "sentences": [
+                    {
+                        "sentence": "As I play and learn, I enjoy exploring interesting materials for writing and different ways of recording my experiences and feelings, ideas and information.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Forms most lowercase letters legibly",
+            "Uses a pencil with increasing control and confidence.",
+            "Knows the sounds of lowercase and some uppercase letters.",
+            "Leaves a space between words when writing",
+            "Writes words from left to right",
+            "Makes an attempt to spell familiar words correctly.",
+            "Makes an attempt to use a capital letter and a full stop in at least one sentence."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__WRITING",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Tools for writing",
+        "eAndOSetSubSectionAuxiliaryText": "using knowledge of technical aspects to help my writing communicate effectively within and beyond my place of learning",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 0-26a",
+                "sentences": [
+                    {
+                        "sentence": "Within real and imaginary situations, I share experiences and feelings, ideas and information in a way that communicates my message",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Writes to convey ideas, messages and information in different ways in play, imaginative and real contexts.",
+            "Writes to reflect own experiences and feelings using appropriate vocabulary to convey meaning"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__WRITING",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "considering texts to help create short and extended texts for different purposes",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LIT 0-09b / LIT 0-31a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy exploring events and characters in stories and other texts and I use what I learn to invent my own, sharing these with others in imaginative ways",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Invents own stories and characters to share with others in play, imaginative and real contexts",
+            "Shares feelings, experiences, information, messages or ideas in pictures, print or digital texts."
+        ],
+        "curriculumLevel": "EARLY",
         "curriculumAreaName": "LITERACY__WRITING",
         "eAndOSetSectionName": "Writing",
         "eAndOSetSubSectionName": "Creating texts",
