@@ -95,5 +95,26 @@ trait MongoDbHelper {
     collection
   }
 
+  def getTermCollection: MongoCollection[Document] = {
+    println("Now lets get the benchmarks database")
+    val database: MongoDatabase = getMongoClient().getDatabase("calendar")
+    println("Drop the benchmarks database to clean things up")
+    val dbDropObservable = database.drop()
+    // We want to wait here until the database is dropped
+    println("Lets just give it 9 seconds")
+
+    try {
+      Await.result(dbDropObservable.toFuture, Duration(9, TimeUnit.SECONDS))
+    } catch {
+      case e: Exception => "Caught exception:\n" + e.getMessage + "\nBut ignoring."
+    }
+
+    println("Get the benchmarks collection")
+    val collection: MongoCollection[Document] = database.getCollection("localauthority.terms")
+
+    println("Cool, we're done getting the collection")
+    collection
+  }
+
 
 }

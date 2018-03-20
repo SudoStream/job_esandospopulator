@@ -1,0 +1,44 @@
+[
+    {
+        "localAuthority" : "SCOTLAND__ABERDEENSHIRE",
+        "schoolYear" : "2017-2018",
+        "schoolTermName" : "SPRING_SECOND_TERM",
+        "termFirstDay" : "2018-02-15",
+        "termLastDay" : "2018-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ABERDEENSHIRE",
+        "schoolYear" : "2017-2018",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2018-04-16",
+        "termLastDay" : "2018-07-06"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ABERDEENSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-21",
+        "termLastDay" : "2018-09-20"
+    },
+    {
+        "localAuthority" : "SCOTLAND__STIRLING",
+        "schoolYear" : "2017-2018",
+        "schoolTermName" : "SPRING_SECOND_TERM",
+        "termFirstDay" : "2018-02-19",
+        "termLastDay" : "2018-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__STIRLING",
+        "schoolYear" : "2017-2018",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2018-04-16",
+        "termLastDay" : "2018-06-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__STIRLING",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-20",
+        "termLastDay" : "2018-10-12"
+    }
+]
