@@ -5827,7 +5827,7 @@
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
-                "code": "HWB 3-10a",
+                "code": "HWB 4-10a",
                 "sentences": [
                     {
                         "sentence": "I recognise that each individual has a unique blend of abilities and needs. I contribute to making my school community one which values individuals equally and is a welcoming place for all.",
@@ -5847,7 +5847,7 @@
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
-                "code": "HWB 3-11a",
+                "code": "HWB 4-11a",
                 "sentences": [
                     {
                         "sentence": "I make full use of and value the opportunities I am given to improve and manage my learning and, in turn, I can help to encourage learning and confidence in others.",
@@ -5867,7 +5867,7 @@
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
-                "code": "HWB 3-12a",
+                "code": "HWB 4-12a",
                 "sentences": [
                     {
                         "sentence": "Representing my class, school and/or wider community encourages my self-worth and confidence and allows me to contribute to and participate in society.",
@@ -5887,7 +5887,7 @@
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
-                "code": "HWB 3-13a",
+                "code": "HWB 4-13a",
                 "sentences": [
                     {
                         "sentence": "Through contributing my views, time and talents, I play a part in bringing about positive change in my school and wider community",
@@ -5907,7 +5907,7 @@
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
-                "code": "HWB 3-14a",
+                "code": "HWB 4-14a",
                 "sentences": [
                     {
                         "sentence": "I value the opportunities I am given to make friends and be part of a group in a range of situations",
@@ -5921,6 +5921,406 @@
         "curriculumAreaName": "HEALTH_AND_WELLBEING",
         "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
         "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-15a",
+                "sentences": [
+                    {
+                        "sentence": "I am developing my understanding of the human body and can use this knowledge to maintain and improve my wellbeing and health",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-16a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning to assess and manage risk, to protect myself and others, and to reduce the potential for harm when possible",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-17a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to keep myself and others safe and how to respond in a range of emergency situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-18a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to travel safely",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-15a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to keep myself and others safe and how to respond in a range of emergency situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-16a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to travel safely",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-17a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to keep myself and others safe and how to respond in a range of emergency situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-18a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to travel safely",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-15a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to keep myself and others safe and how to respond in a range of emergency situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-16a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to travel safely",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-17a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to keep myself and others safe and how to respond in a range of emergency situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-18a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to travel safely",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-15a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to keep myself and others safe and how to respond in a range of emergency situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-16a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to travel safely",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-17a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to keep myself and others safe and how to respond in a range of emergency situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-18a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to travel safely",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-15a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to keep myself and others safe and how to respond in a range of emergency situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-16a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to travel safely",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-17a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to keep myself and others safe and how to respond in a range of emergency situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-18a",
+                "sentences": [
+                    {
+                        "sentence": "I know and can demonstrate how to travel safely",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Physical wellbeing",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
     }
