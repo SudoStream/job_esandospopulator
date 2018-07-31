@@ -4523,6 +4523,806 @@
         "eAndOSetSubSectionName": "Creating texts",
         "eAndOSetSubSectionAuxiliaryText": "considering texts to help create short and extended texts for different purposes",
         "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-01a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of and able to express my feelings and am developing the ability to talk about them",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-02a",
+                "sentences": [
+                    {
+                        "sentence": "I know that we all experience a variety of thoughts and emotions that affect how we feel and behave and I am learning ways of managing them",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-03a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that there are people I can talk to and that there are a number of ways in which I can gain access to practical and emotional support to help me and others in a range of circumstances",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-04a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that my feelings and reactions can change depending upon what is happening within and around me. This helps me to understand my own behaviour and the way others behave",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-05a",
+                "sentences": [
+                    {
+                        "sentence": "I know that friendship, caring, sharing, fairness, equality and love are important in building positive relationships. As I develop and value relationships, I care and show respect for myself and others",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-06a",
+                "sentences": [
+                    {
+                        "sentence": "I understand the importance of mental wellbeing and that this can be fostered and strengthened through personal coping skills and positive relationships. I know that it is not always possible to enjoy good mental health and that if this happens there is support available.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-07a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning skills and strategies which will support me in challenging times, particularly in relation to change and loss",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-08a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that people can feel alone and can be misunderstood and left out by others. I am learning how to give appropriate support",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-01a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of and able to express my feelings and am developing the ability to talk about them",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-02a",
+                "sentences": [
+                    {
+                        "sentence": "I know that we all experience a variety of thoughts and emotions that affect how we feel and behave and I am learning ways of managing them",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-03a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that there are people I can talk to and that there are a number of ways in which I can gain access to practical and emotional support to help me and others in a range of circumstances",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-04a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that my feelings and reactions can change depending upon what is happening within and around me. This helps me to understand my own behaviour and the way others behave",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-05a",
+                "sentences": [
+                    {
+                        "sentence": "I know that friendship, caring, sharing, fairness, equality and love are important in building positive relationships. As I develop and value relationships, I care and show respect for myself and others",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-06a",
+                "sentences": [
+                    {
+                        "sentence": "I understand the importance of mental wellbeing and that this can be fostered and strengthened through personal coping skills and positive relationships. I know that it is not always possible to enjoy good mental health and that if this happens there is support available.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-07a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning skills and strategies which will support me in challenging times, particularly in relation to change and loss",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-08a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that people can feel alone and can be misunderstood and left out by others. I am learning how to give appropriate support",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-01a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of and able to express my feelings and am developing the ability to talk about them",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-02a",
+                "sentences": [
+                    {
+                        "sentence": "I know that we all experience a variety of thoughts and emotions that affect how we feel and behave and I am learning ways of managing them",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-03a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that there are people I can talk to and that there are a number of ways in which I can gain access to practical and emotional support to help me and others in a range of circumstances",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-04a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that my feelings and reactions can change depending upon what is happening within and around me. This helps me to understand my own behaviour and the way others behave",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-05a",
+                "sentences": [
+                    {
+                        "sentence": "I know that friendship, caring, sharing, fairness, equality and love are important in building positive relationships. As I develop and value relationships, I care and show respect for myself and others",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-06a",
+                "sentences": [
+                    {
+                        "sentence": "I understand the importance of mental wellbeing and that this can be fostered and strengthened through personal coping skills and positive relationships. I know that it is not always possible to enjoy good mental health and that if this happens there is support available.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-07a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning skills and strategies which will support me in challenging times, particularly in relation to change and loss",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-08a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that people can feel alone and can be misunderstood and left out by others. I am learning how to give appropriate support",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-01a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of and able to express my feelings and am developing the ability to talk about them",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-02a",
+                "sentences": [
+                    {
+                        "sentence": "I know that we all experience a variety of thoughts and emotions that affect how we feel and behave and I am learning ways of managing them",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-03a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that there are people I can talk to and that there are a number of ways in which I can gain access to practical and emotional support to help me and others in a range of circumstances",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-04a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that my feelings and reactions can change depending upon what is happening within and around me. This helps me to understand my own behaviour and the way others behave",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-05a",
+                "sentences": [
+                    {
+                        "sentence": "I know that friendship, caring, sharing, fairness, equality and love are important in building positive relationships. As I develop and value relationships, I care and show respect for myself and others",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-06a",
+                "sentences": [
+                    {
+                        "sentence": "I understand the importance of mental wellbeing and that this can be fostered and strengthened through personal coping skills and positive relationships. I know that it is not always possible to enjoy good mental health and that if this happens there is support available.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-07a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning skills and strategies which will support me in challenging times, particularly in relation to change and loss",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-08a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that people can feel alone and can be misunderstood and left out by others. I am learning how to give appropriate support",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-01a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of and able to express my feelings and am developing the ability to talk about them",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-02a",
+                "sentences": [
+                    {
+                        "sentence": "I know that we all experience a variety of thoughts and emotions that affect how we feel and behave and I am learning ways of managing them",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-03a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that there are people I can talk to and that there are a number of ways in which I can gain access to practical and emotional support to help me and others in a range of circumstances",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-04a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that my feelings and reactions can change depending upon what is happening within and around me. This helps me to understand my own behaviour and the way others behave",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-05a",
+                "sentences": [
+                    {
+                        "sentence": "I know that friendship, caring, sharing, fairness, equality and love are important in building positive relationships. As I develop and value relationships, I care and show respect for myself and others",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-06a",
+                "sentences": [
+                    {
+                        "sentence": "I understand the importance of mental wellbeing and that this can be fostered and strengthened through personal coping skills and positive relationships. I know that it is not always possible to enjoy good mental health and that if this happens there is support available.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-07a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning skills and strategies which will support me in challenging times, particularly in relation to change and loss",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-08a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that people can feel alone and can be misunderstood and left out by others. I am learning how to give appropriate support",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
     }
 
 ]
