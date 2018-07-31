@@ -6323,6 +6323,107 @@
         "eAndOSetSubSectionName": "Physical wellbeing",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-19a",
+                "sentences": [
+                    {
+                        "sentence": "In everyday activity and play, I explore and make choices to develop my learning and interests. I am encouraged to use and share my experiences",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-19a",
+                "sentences": [
+                    {
+                        "sentence": "Through taking part in a variety of events and activities, I am learning to recognise my own skills and abilities as well as those of others",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-19a",
+                "sentences": [
+                    {
+                        "sentence": "Opportunities to carry out different activities and roles in a variety of settings have enabled me to identify my achievements, skills and areas for development. This will help me to prepare for the next stage in my life and learning.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-19a",
+                "sentences": [
+                    {
+                        "sentence": "I am developing the skills and attributes which I will need for learning, life and work. I am gaining understanding of the relevance of my current learning to future opportunities. This is helping me to make informed choices about my life and learning",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-19a",
+                "sentences": [
+                    {
+                        "sentence": "Based on my interests, skills, strengths and preferences, I am supported to make suitable, realistic and informed choices, set manageable goals and plan for my further transitions.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
     }
+
 
 ]
