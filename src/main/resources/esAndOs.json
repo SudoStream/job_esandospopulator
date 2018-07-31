@@ -6423,7 +6423,129 @@
         "eAndOSetSubSectionName": "Planning for choices and changes",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-20a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe some of the kinds of work that people do and I am finding out about the wider world of work.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Shares aspirations and goals for the future",
+            "Talks about own learning, strengths and next steps.",
+            "Discusses some of the rewards that a job brings, for example, meeting new people, money, helping others.",
+            "Communicates with others about different jobs in the community."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-20a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe some of the kinds of work that people do and I am finding out about the wider world of work.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Talks about own strengths, interests and skills and links these to career ambitions.",
+            "Sets learning goals and works towards achieving them.",
+            "Talks about the world of work, for example, from visits, visitors and interdisciplinary learning.",
+            "Describes skills needed for different jobs in the community."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-20a",
+                "sentences": [
+                    {
+                        "sentence": "I am investigating different careers/occupations, ways of working, and learning and training paths. I am gaining experience that helps me recognise the relevance of my learning, skills and interests to my future life.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explains own ambitions and identifies ways to achieve them.",
+            "Manages personal profile and uses it to discuss interests, strengths and skills.",
+            "Identifies connections between skills and the world of work.",
+            "Uses investigative skills to gain more information about jobs / careers."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-20a",
+                "sentences": [
+                    {
+                        "sentence": "I am investigating different careers/occupations, ways of working, and learning and training paths. I am gaining experience that helps me recognise the relevance of my learning, skills and interests to my future life.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies own interests, strengths and skills and uses them to support subject choice.",
+            "Manages personal profile evidencing own skills, and behaviours required, which link to the world of work.",
+            "Explores a range of learning opportunities and career pathways."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-20a",
+                "sentences": [
+                    {
+                        "sentence": "I am investigating different careers/occupations, ways of working, and learning and training paths. I am gaining experience that helps me recognise the relevance of my learning, skills and interests to my future life.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Evaluates and evidences own interests, strengths and skills and uses them to make informed subject choices.",
+            "Aligns personal profile to support management of future CVs and applications.",
+            "Makes well informed choices about learning opportunities and pathways and relates these to possible future careers."
+        ],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionName": "Planning for choices and changes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
     }
-
 
 ]
