@@ -5323,6 +5323,606 @@
         "eAndOSetSubSectionName": "Mental and emotional wellbeing",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-09a",
+                "sentences": [
+                    {
+                        "sentence": "As I explore the rights to which I and others are entitled, I am able to exercise these rights appropriately and accept the responsibilities that go with them. I show respect for the rights of others",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-10a",
+                "sentences": [
+                    {
+                        "sentence": "I recognise that each individual has a unique blend of abilities and needs. I contribute to making my school community one which values individuals equally and is a welcoming place for all.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-11a",
+                "sentences": [
+                    {
+                        "sentence": "I make full use of and value the opportunities I am given to improve and manage my learning and, in turn, I can help to encourage learning and confidence in others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-12a",
+                "sentences": [
+                    {
+                        "sentence": "Representing my class, school and/or wider community encourages my self-worth and confidence and allows me to contribute to and participate in society.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-13a",
+                "sentences": [
+                    {
+                        "sentence": "Through contributing my views, time and talents, I play a part in bringing about positive change in my school and wider community",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-14a",
+                "sentences": [
+                    {
+                        "sentence": "I value the opportunities I am given to make friends and be part of a group in a range of situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-09a",
+                "sentences": [
+                    {
+                        "sentence": "As I explore the rights to which I and others are entitled, I am able to exercise these rights appropriately and accept the responsibilities that go with them. I show respect for the rights of others",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-10a",
+                "sentences": [
+                    {
+                        "sentence": "I recognise that each individual has a unique blend of abilities and needs. I contribute to making my school community one which values individuals equally and is a welcoming place for all.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-11a",
+                "sentences": [
+                    {
+                        "sentence": "I make full use of and value the opportunities I am given to improve and manage my learning and, in turn, I can help to encourage learning and confidence in others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-12a",
+                "sentences": [
+                    {
+                        "sentence": "Representing my class, school and/or wider community encourages my self-worth and confidence and allows me to contribute to and participate in society.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-13a",
+                "sentences": [
+                    {
+                        "sentence": "Through contributing my views, time and talents, I play a part in bringing about positive change in my school and wider community",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-14a",
+                "sentences": [
+                    {
+                        "sentence": "I value the opportunities I am given to make friends and be part of a group in a range of situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-09a",
+                "sentences": [
+                    {
+                        "sentence": "As I explore the rights to which I and others are entitled, I am able to exercise these rights appropriately and accept the responsibilities that go with them. I show respect for the rights of others",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-10a",
+                "sentences": [
+                    {
+                        "sentence": "I recognise that each individual has a unique blend of abilities and needs. I contribute to making my school community one which values individuals equally and is a welcoming place for all.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-11a",
+                "sentences": [
+                    {
+                        "sentence": "I make full use of and value the opportunities I am given to improve and manage my learning and, in turn, I can help to encourage learning and confidence in others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-12a",
+                "sentences": [
+                    {
+                        "sentence": "Representing my class, school and/or wider community encourages my self-worth and confidence and allows me to contribute to and participate in society.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-13a",
+                "sentences": [
+                    {
+                        "sentence": "Through contributing my views, time and talents, I play a part in bringing about positive change in my school and wider community",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-14a",
+                "sentences": [
+                    {
+                        "sentence": "I value the opportunities I am given to make friends and be part of a group in a range of situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-09a",
+                "sentences": [
+                    {
+                        "sentence": "As I explore the rights to which I and others are entitled, I am able to exercise these rights appropriately and accept the responsibilities that go with them. I show respect for the rights of others",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-10a",
+                "sentences": [
+                    {
+                        "sentence": "I recognise that each individual has a unique blend of abilities and needs. I contribute to making my school community one which values individuals equally and is a welcoming place for all.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-11a",
+                "sentences": [
+                    {
+                        "sentence": "I make full use of and value the opportunities I am given to improve and manage my learning and, in turn, I can help to encourage learning and confidence in others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-12a",
+                "sentences": [
+                    {
+                        "sentence": "Representing my class, school and/or wider community encourages my self-worth and confidence and allows me to contribute to and participate in society.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-13a",
+                "sentences": [
+                    {
+                        "sentence": "Through contributing my views, time and talents, I play a part in bringing about positive change in my school and wider community",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-14a",
+                "sentences": [
+                    {
+                        "sentence": "I value the opportunities I am given to make friends and be part of a group in a range of situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 4-09a",
+                "sentences": [
+                    {
+                        "sentence": "As I explore the rights to which I and others are entitled, I am able to exercise these rights appropriately and accept the responsibilities that go with them. I show respect for the rights of others",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-10a",
+                "sentences": [
+                    {
+                        "sentence": "I recognise that each individual has a unique blend of abilities and needs. I contribute to making my school community one which values individuals equally and is a welcoming place for all.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-11a",
+                "sentences": [
+                    {
+                        "sentence": "I make full use of and value the opportunities I am given to improve and manage my learning and, in turn, I can help to encourage learning and confidence in others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-12a",
+                "sentences": [
+                    {
+                        "sentence": "Representing my class, school and/or wider community encourages my self-worth and confidence and allows me to contribute to and participate in society.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-13a",
+                "sentences": [
+                    {
+                        "sentence": "Through contributing my views, time and talents, I play a part in bringing about positive change in my school and wider community",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-14a",
+                "sentences": [
+                    {
+                        "sentence": "I value the opportunities I am given to make friends and be part of a group in a range of situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [],
+        "curriculumLevel": "FOURTH",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
+        "eAndOSetSubSectionName": "Social wellbeing",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
     }
 
 ]
