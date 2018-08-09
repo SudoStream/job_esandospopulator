@@ -1,5 +1,33 @@
 [
     {
+        "localAuthority" : "SCOTLAND__ABERDEEN_CITY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-21",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ABERDEEN_CITY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-29",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ABERDEEN_CITY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ABERDEEN_CITY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-07-05"
+    },
+    {
         "localAuthority" : "SCOTLAND__ABERDEENSHIRE",
         "schoolYear" : "2017-2018",
         "schoolTermName" : "SPRING_SECOND_TERM",
@@ -18,7 +46,784 @@
         "schoolYear" : "2018-2019",
         "schoolTermName" : "AUTUMN_FIRST_TERM",
         "termFirstDay" : "2018-08-21",
-        "termLastDay" : "2018-09-20"
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ABERDEENSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-29",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ABERDEENSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ABERDEENSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-07-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ANGUS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-21",
+        "termLastDay" : "2018-09-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ANGUS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-15",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ANGUS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-04-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ANGUS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-23",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ARGYLL_AND_BUTE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-14",
+        "termLastDay" : "2018-10-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ARGYLL_AND_BUTE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ARGYLL_AND_BUTE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ARGYLL_AND_BUTE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__COMHAIRLE_NAN_EILEAN_SIAR",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-16",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__COMHAIRLE_NAN_EILEAN_SIAR",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-23",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__COMHAIRLE_NAN_EILEAN_SIAR",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__COMHAIRLE_NAN_EILEAN_SIAR",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__CLACKMANNANSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-20",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__CLACKMANNANSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__CLACKMANNANSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__CLACKMANNANSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__DUMFRIES_AND_GALLOWAY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-21",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__DUMFRIES_AND_GALLOWAY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-29",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__DUMFRIES_AND_GALLOWAY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-04-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__DUMFRIES_AND_GALLOWAY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-23",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__DUNDEE_CITY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-14",
+        "termLastDay" : "2018-10-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__DUNDEE_CITY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__DUNDEE_CITY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__DUNDEE_CITY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_AYRSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-20",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_AYRSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_AYRSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_AYRSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_DUMBARTONSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-15",
+        "termLastDay" : "2018-10-11"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_DUMBARTONSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_DUMBARTONSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_DUMBARTONSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-23",
+        "termLastDay" : "2019-06-27"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EDINBURGH_CITY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-15",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EDINBURGH_CITY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-23",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EDINBURGH_CITY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-09",
+        "termLastDay" : "2019-04-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EDINBURGH_CITY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-23",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_LOTHIAN",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-15",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_LOTHIAN",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-23",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_LOTHIAN",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-04-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_LOTHIAN",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-23",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_RENFREWSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-15",
+        "termLastDay" : "2018-10-11"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_RENFREWSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_RENFREWSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__EAST_RENFREWSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-27"
+    },
+    {
+        "localAuthority" : "SCOTLAND__FALKIRK",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-21",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__FALKIRK",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-23",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__FALKIRK",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__FALKIRK",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__FIFE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-15",
+        "termLastDay" : "2018-10-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__FIFE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__FIFE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-04-04"
+    },
+    {
+        "localAuthority" : "SCOTLAND__FIFE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-22",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__GLASGOW",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-15",
+        "termLastDay" : "2018-10-11"
+    },
+    {
+        "localAuthority" : "SCOTLAND__GLASGOW",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-20"
+    },
+    {
+        "localAuthority" : "SCOTLAND__GLASGOW",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__GLASGOW",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-23",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__HIGHLAND",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-21",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__HIGHLAND",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-29",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__HIGHLAND",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-04-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__HIGHLAND",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-23",
+        "termLastDay" : "2019-07-04"
+    },
+    {
+        "localAuthority" : "SCOTLAND__INVERCLYDE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-16",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__INVERCLYDE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-23",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__INVERCLYDE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__INVERCLYDE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-0628"
+    },
+    {
+        "localAuthority" : "SCOTLAND__MIDLOTHIAN",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-20",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__MIDLOTHIAN",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-23",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__MIDLOTHIAN",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-08",
+        "termLastDay" : "2019-04-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__MIDLOTHIAN",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-23",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__MORAY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-14",
+        "termLastDay" : "2018-10-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__MORAY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__MORAY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__MORAY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__NORTH_AYRSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-20",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__NORTH_AYRSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__NORTH_AYRSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__NORTH_AYRSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__NORTH_LANARKSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-16",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__NORTH_LANARKSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__NORTH_LANARKSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__NORTH_LANARKSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ORKNEY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-21",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ORKNEY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-31",
+        "termLastDay" : "2018-12-20"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ORKNEY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-04-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__ORKNEY",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-23",
+        "termLastDay" : "2019-07-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__PERTH_AND_KINROSS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-14",
+        "termLastDay" : "2018-10-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__PERTH_AND_KINROSS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__PERTH_AND_KINROSS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__PERTH_AND_KINROSS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__RENFREWSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-15",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__RENFREWSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-23",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__RENFREWSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__RENFREWSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-23",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SCOTTISH_BORDERS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-21",
+        "termLastDay" : "2018-10-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SCOTTISH_BORDERS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-15",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SCOTTISH_BORDERS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SCOTTISH_BORDERS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-07-02"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SHETLAND_ISLANDS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-22",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SHETLAND_ISLANDS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-31",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SHETLAND_ISLANDS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-08",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SHETLAND_ISLANDS",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-07-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SOUTH_AYRSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-20",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SOUTH_AYRSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-23",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SOUTH_AYRSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SOUTH_AYRSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-23",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SOUTH_LANARKSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-16",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SOUTH_LANARKSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SOUTH_LANARKSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__SOUTH_LANARKSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-28"
     },
     {
         "localAuthority" : "SCOTLAND__STIRLING",
@@ -40,5 +845,82 @@
         "schoolTermName" : "AUTUMN_FIRST_TERM",
         "termFirstDay" : "2018-08-20",
         "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__STIRLING",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__STIRLING",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__STIRLING",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__WEST_DUMBARTONSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-16",
+        "termLastDay" : "2018-10-11"
+    },
+    {
+        "localAuthority" : "SCOTLAND__WEST_DUMBARTONSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-22",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__WEST_DUMBARTONSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-03-29"
+    },
+    {
+        "localAuthority" : "SCOTLAND__WEST_DUMBARTONSHIRE",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-15",
+        "termLastDay" : "2019-06-28"
+    },
+    {
+        "localAuthority" : "SCOTLAND__WEST_LOTHIAN",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "AUTUMN_FIRST_TERM",
+        "termFirstDay" : "2018-08-21",
+        "termLastDay" : "2018-10-12"
+    },
+    {
+        "localAuthority" : "SCOTLAND__WEST_LOTHIAN",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "WINTER_TERM",
+        "termFirstDay" : "2018-10-23",
+        "termLastDay" : "2018-12-21"
+    },
+    {
+        "localAuthority" : "SCOTLAND__WEST_LOTHIAN",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SPRING_FIRST_TERM",
+        "termFirstDay" : "2019-01-07",
+        "termLastDay" : "2019-04-05"
+    },
+    {
+        "localAuthority" : "SCOTLAND__WEST_LOTHIAN",
+        "schoolYear" : "2018-2019",
+        "schoolTermName" : "SUMMER_TERM",
+        "termFirstDay" : "2019-04-23",
+        "termLastDay" : "2019-06-28"
     }
 ]

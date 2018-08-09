@@ -887,7 +887,7 @@
                 ]
             },
             {
-                "code": "MNU 2-07b",
+                "code": "MNU 2-07b",    
                 "sentences": [
                     {
                         "sentence": "I can show the equivalent forms of simple fractions, decimal fractions and percentages, and can choose my preferred form when solving a problem, explaining my choice of method.",
@@ -6547,6 +6547,8 @@
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
     },
+
+
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
@@ -6569,20 +6571,31 @@
             }
         ],
         "associatedBenchmarks": [
-            "Shows awareness of personal space (i.e. where body ends and space begins).",
-            "Moves at different speeds, levels and directions with others in a designated space.",
-            "Shows awareness of body parts and body positions when performing a range of different movements.",
-            "Shows control of personal space and body parts when moving.",
-            "Holds balance in various shapes and maintains balance when moving.",
-            "Is beginning to manipulate objects as part of energetic play",
-            "Links movements together (moves body or parts of body in order).",
-            "Is beginning to move with purpose.",
-            "Is beginning to develop knowledge and understanding of what a quality movement looks like and feels like.",
-            "Demonstrates how to use repeated patterns of movement to create simple sequences, for example, one foot to two feet jumping.",
-            "Responds with movement, for example, jump-clap-turn to recognised rhythm, beat, music, words.",
-            "Performs basic components of movement, for example, run, jump, gallop, transfer of weight from one foot to another.",
-            "Is beginning to perform movement skills in sequence, for example, catch an object with two hands.",
-            "Is beginning to demonstrate eye/hand and eye/foot co-ordination required for movement skills, for example, pass object from one hand to the other."
+            "(Physical Competency) - Shows awareness of personal space (i.e. where body ends and space begins).",
+            "(Physical Competency) - Moves at different speeds, levels and directions with others in a designated space.",
+            "(Physical Competency) - Shows awareness of body parts and body positions when performing a range of different movements.",
+            "(Physical Competency) - Shows control of personal space and body parts when moving.",
+            "(Physical Competency) - Holds balance in various shapes and maintains balance when moving.",
+            "(Physical Competency) - Is beginning to manipulate objects as part of energetic play",
+            "(Physical Competency) - Links movements together (moves body or parts of body in order).",
+            "(Physical Competency) - Is beginning to move with purpose.",
+            "(Physical Competency) - Is beginning to develop knowledge and understanding of what a quality movement looks like and feels like.",
+            "(Physical Competency) - Demonstrates how to use repeated patterns of movement to create simple sequences, for example, one foot to two feet jumping.",
+            "(Physical Competency) - Responds with movement, for example, jump-clap-turn to recognised rhythm, beat, music, words.",
+            "(Physical Competency) - Performs basic components of movement, for example, run, jump, gallop, transfer of weight from one foot to another.",
+            "(Physical Competency) - Is beginning to perform movement skills in sequence, for example, catch an object with two hands.",
+            "(Physical Competency) - Is beginning to demonstrate eye/hand and eye/foot co-ordination required for movement skills, for example, pass object from one hand to the other.",
+
+            "(Cognitive Skill) - Focuses on task and pays attention to stimuli, for example, instructions from a practitioner.",
+            "(Cognitive Skill) - Recognises external cues that need an immediate response, for example, starting and stopping.",
+            "(Cognitive Skill) - Remembers two-step simple instructions, for example, bounce the ball and then change direction.",
+            "(Cognitive Skill) - Works out the order for dealing with information (or tasks).",
+            "(Cognitive Skill) - Repeats tasks in the correct sequence.",
+            "(Cognitive Skill) - Makes decisions in response to simple tasks, for example, knowing when to start and stop.",
+            "(Cognitive Skill) - Listens to and makes sense of two/three pieces of information, for example, bounce the ball when moving forwards.",
+            "(Cognitive Skill) - Uses prior knowledge, and identifies key information to help form a solution.",
+            "(Cognitive Skill) - Moves in response to a variety of stimuli.",
+            "(Cognitive Skill) - Demonstrates imagination through energetic play."
         ],
         "curriculumLevel": "EARLY",
         "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
@@ -6613,16 +6626,7 @@
             }
         ],
         "associatedBenchmarks": [
-            "Focuses on task and pays attention to stimuli, for example, instructions from a practitioner.",
-            "Recognises external cues that need an immediate response, for example, starting and stopping.",
-            "Remembers two-step simple instructions, for example, bounce the ball and then change direction.",
-            "Works out the order for dealing with information (or tasks).",
-            "Repeats tasks in the correct sequence.",
-            "Makes decisions in response to simple tasks, for example, knowing when to start and stop.",
-            "Listens to and makes sense of two/three pieces of information, for example, bounce the ball when moving forwards.",
-            "Uses prior knowledge, and identifies key information to help form a solution.",
-            "Moves in response to a variety of stimuli.",
-            "Demonstrates imagination through energetic play."
+
         ],
         "curriculumLevel": "EARLY",
         "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
