@@ -6634,6 +6634,1031 @@
         "eAndOSetSubSectionName": "Cognitive Skills",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SOC 0-01a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware that different types of evidence can help me to find out about the past",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 0-02a",
+                "sentences": [
+                    {
+                        "sentence": "I can make a personal link to the past by exploring items or images connected with important individuals or special events in my life.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 0-04a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored how people lived in the past and have used imaginative play to show how their lives were different from my own and people around me.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies at least two different types of evidence which can provide information about the past, for example, pictures, family stories, artefacts",
+            "Recalls past events from their own life or that of their family, for example learning to ride a bike, a special party",
+            "Recognises that people in the past lived differently.",
+            "Uses knowledge of the past to demonstrate a difference between their life today and life in the past. For example, diet, lifestyle, clothing."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "SOCIAL_STUDIES",
+        "eAndOSetSectionName": "People, past events and societies",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+
+            {
+                "code": "SOC 0-07a",
+                "sentences": [
+                    {
+                        "sentence": "I explore and discover the interesting features of my local environment to develop an awareness of the world around me",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 0-08a",
+                "sentences": [
+                    {
+                        "sentence": "I explore and appreciate the wonder of nature within different environments and have played a part in caring for the environment.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 0-09a",
+                "sentences": [
+                    {
+                        "sentence": "I have experimented with imaginative ways such as modelling and drawing, to represent the world around me, the journeys I make and the different ways I can travel.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 0-12a",
+                "sentences": [
+                    {
+                        "sentence": "While learning outdoors in differing weathers, I have described and recorded the weather, its effects and how it makes me feel and can relate my recordings to the seasons.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies simple features of the local environment, for example, hill, river, road, railway.",
+            "Identifies different methods of taking journeys.",
+            "Expresses thoughts about which ways of travelling impact the environment both positively and negatively.",
+            "Talks about something they have done to care for the environment.",
+            "Draws or produces simple models of aspects of the local area, for example roads or buildings.",
+            "Draws a simple map, or shares a relevant experience of the route of a straightforward journey, and the method of transport which was used.",
+            "Names and talks about at least two different kinds of weather.",
+            "Draws pictures to record the weather for three days",
+            "Describes how weather affects the activities they can undertake",
+            "Talks about how they feel about different kinds of weather.",
+            "Describes which weather is likely to be related to which season"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "SOCIAL_STUDIES",
+        "eAndOSetSectionName": "People, place and environment",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SOC 0-15a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware that different types of evidence can help me to find out about the world around me.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 0-16a",
+                "sentences": [
+                    {
+                        "sentence": "By exploring my local community, I have discovered the different roles people play and how they can help.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 0-17a",
+                "sentences": [
+                    {
+                        "sentence": "I make decisions and take responsibility in my everyday experiences and play, showing consideration for others",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 0-18a",
+                "sentences": [
+                    {
+                        "sentence": "Within my everyday experiences and play I make choices about where I work, how I work and who I work with.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 0-20a",
+                "sentences": [
+                    {
+                        "sentence": "In real-life and imaginary play, I explore how local shops and services provide us with what we need in our daily lives",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies at least two sources of evidence which provide information about the world, for example, newspapers and television.",
+            "Identifies at least two people who provide help in the community.",
+            "Talks about ways that each of those people help",
+            "Takes on appropriate roles during imaginative play.",
+            "Identifies at least two different types of shops or services families might use, for example, supermarket or health centre."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "SOCIAL_STUDIES",
+        "eAndOSetSectionName": "People in society, economy and business",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SOC 1-01a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that evidence varies in the extent to which it can be trusted and can use this in learning about the past",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-02a",
+                "sentences": [
+                    {
+                        "sentence": "By exploring places, investigating artefacts and locating them in time, I have developed an awareness of the ways in which we remember and preserve Scotland’s history.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can use evidence to recreate the story of a place or individual of local historical interest.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-04a",
+                "sentences": [
+                    {
+                        "sentence": "I can compare aspects of people’s daily lives in the past with my own by using historical evidence or the experience of recreating an historical setting.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-06a",
+                "sentences": [
+                    {
+                        "sentence": "Having selected a significant individual from the past, I can contribute to a discussion on the influence of their actions, then and since.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies the difference between a more and less trustworthy source.",
+            "Draws a short timeline and can locate two or more events on the line in the correct order.",
+            "Uses information learned from sources to relate the story of a local place or individual of historic interest though media such as drawings models or writing.",
+            "Draws comparisons between modern life and life from a time in the past.",
+            "Names a figure from the past and comments on their role in events."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SOCIAL_STUDIES",
+        "eAndOSetSectionName": "People, past events and societies",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SOC 1-07a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe and recreate the characteristics of my local environment by exploring the features of the landscape.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-08a",
+                "sentences": [
+                    {
+                        "sentence": "I can consider ways of looking after my school or community and can encourage others to care for their environment",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-09a",
+                "sentences": [
+                    {
+                        "sentence": "Having explored the variety of foods produced in Scotland, I can discuss the importance of different types of agriculture in the production of these foods.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-11a",
+                "sentences": [
+                    {
+                        "sentence": "By exploring my community and the groups within it, I can identify and consider different types of housing and how they meet needs.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-12a",
+                "sentences": [
+                    {
+                        "sentence": "By using a range of instruments, I can measure and record the weather and discuss how weather affects my life.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-12b",
+                "sentences": [
+                    {
+                        "sentence": "By exploring climate zones around the world, I can compare and describe how climate affects living things.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-13a",
+                "sentences": [
+                    {
+                        "sentence": "Having explored the landscape of my local area, I can describe the various ways in which the land has been used",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-13b",
+                "sentences": [
+                    {
+                        "sentence": "By exploring a natural environment different from my own, I can discover how the physical features influence the variety of living things.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-14a",
+                "sentences": [
+                    {
+                        "sentence": "Through activities in my local area, I have developed my mental map and sense of place. I can create and use maps of the area.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Draws or makes a model of features in their local landscape, for example, hill, river, building.",
+            "Identifies a way in which the school looks after its environment.",
+            "Identifies at least two forms of agriculture in Scotland and foods associated with these, for example, arable, dairy or pastoral.",
+            "Identifies at least two different types of housing and the kinds of households who may inhabit them.",
+            "Uses instruments to measure and record at least two different weather elements, for example, temperature, rainfall, wind direction.",
+            "Contributes to a discussion giving reasoned opinions on how the weather affects life.",
+            "Draws two conclusions about how living things adapt to the climate in any chosen area",
+            "Describes at least three different ways in which land is used in the local area, for example shops, houses, farming.",
+            "Draws at least two conclusions as to the effects the landscape has had on how people can use it, for example desert, rainforest.",
+            "Produces a basic map for a familiar journey."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SOCIAL_STUDIES",
+        "eAndOSetSectionName": "People, place and environment",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SOC 1-15a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that evidence varies in the extent to which it can be trusted and can use this in learning about current issues in society.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-16a",
+                "sentences": [
+                    {
+                        "sentence": "I can contribute to a discussion of the difference between my needs and wants of those of others around me.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-17a",
+                "sentences": [
+                    {
+                        "sentence": "By exploring the ways in which we use and need rules, I can consider the meaning of rights and responsibilities and discuss those relevant to me.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-18a",
+                "sentences": [
+                    {
+                        "sentence": "I have participated in decision making and have considered the different options available in order to make decisions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-20a",
+                "sentences": [
+                    {
+                        "sentence": "I have developed an understanding of the importance of local organisations in providing for the needs of my community.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-21a",
+                "sentences": [
+                    {
+                        "sentence": "I can work out the amount of money I need to buy items, understanding that I may not always be able to afford the items I want.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 1-22a",
+                "sentences": [
+                    {
+                        "sentence": "I have experienced the different jobs involved in running a business enterprise and understand the role each ones plays in its success.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies a reliable and an unreliable source of evidence",
+            "Identifies needs and wants using examples from their own experience.",
+            "Presents an informed opinion on rights and responsibilities using their own experience.",
+            "Makes informed decisions on an issue having listened to others",
+            "Names two local organisations who provide for needs in the local community and describe what they do.",
+            "Demonstrates relevant numeracy skills to do a simple budget.",
+            "Describes at least two different types of jobs and give a reason why each contributes to the success of the business or enterprise."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SOCIAL_STUDIES",
+        "eAndOSetSectionName": "People in society, economy and business",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SOC 2-01a",
+                "sentences": [
+                    {
+                        "sentence": "I can use primary and secondary sources selectively to research events in the past.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-02a",
+                "sentences": [
+                    {
+                        "sentence": "I can interpret historical evidence from a range of periods to help build a picture of Scotland’s heritage and my sense of chronology.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can investigate a Scottish historical theme to discover how past events or the actions of individuals or groups have shaped Scottish society.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-04a",
+                "sentences": [
+                    {
+                        "sentence": "I can compare and contrast a society in the past with my own and contribute to a discussion of the similarities and differences.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-06a",
+                "sentences": [
+                    {
+                        "sentence": "I can discuss why people and events from a particular time in the past were important, placing them within a historical sequence.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses both primary and secondary sources of evidence in an investigation about the past.",
+            "Places an event appropriately within a historical timeline",
+            "Describes at least two ways in which past events or the actions of individuals or groups have shaped Scottish society.",
+            "Describes and discusses at least three similarities and differences between their own life and life in a past society.",
+            "Contributes two or more points to the discussion (in any form) as to why people and events from the past were important.",
+            "Places those people and events on a timeline."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SOCIAL_STUDIES",
+        "eAndOSetSectionName": "People, past events and societies",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SOC 2-07a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe the major characteristic features of Scotland’s landscape and explain how these are formed.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-07b",
+                "sentences": [
+                    {
+                        "sentence": "I can describe the physical processes of a natural disaster and discuss its impact on people and the landscape",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-08a",
+                "sentences": [
+                    {
+                        "sentence": "I can discuss the environmental impact of human activity and suggest ways in which we can live in a more environmentally-responsible way.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-08b",
+                "sentences": [
+                    {
+                        "sentence": "I can consider the advantages and disadvantages of a proposed land use development and discuss the impact this may have on the community.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-09a",
+                "sentences": [
+                    {
+                        "sentence": "Having explored the ways journeys can be made, I can consider the advantages and disadvantages of different forms of transport, discussing their impact on the environment.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-10a",
+                "sentences": [
+                    {
+                        "sentence": "Having explored my local area, I can present information on different places to live, work and relax and interesting places to visit",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-12a",
+                "sentences": [
+                    {
+                        "sentence": "By comparing my local area with a contrasting area outwith Britain, I can investigate the main features of weather and climate discussing the impact on living things",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-13a",
+                "sentences": [
+                    {
+                        "sentence": "I can explain how the physical environment influences the ways in which people use land by comparing my local area with a contrasting area.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-14a",
+                "sentences": [
+                    {
+                        "sentence": "To extend my mental map and sense of place, I can interpret information from different types of maps and am beginning to locate key features within Scotland, UK, Europe or the wider world.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies at least three features of Scotland’s landscape and can provide a basic explanation of how these are formed.",
+            "Describes the causes of a natural disaster such as a volcano, earthquake or extreme weather event",
+            "Describes the impact of the natural disaster giving at least three examples for people and one for the landscape. Impact can be positive or negative.",
+            "Identifies at least three impacts of human activity on the environment.",
+            "Suggests at least three ways in which people can live in a more environmentally responsible way",
+            "Describes at least two advantages and two disadvantages of a land use development proposal.",
+            "Explores at least two impacts on the community either verbally or in writing",
+            "Identifies at least four ways in which journeys can be made.",
+            "Describes at least one advantage and disadvantage for each form of transport.",
+            "Shares knowledge about the impact of the various types of transport on the environment either verbally or in writing",
+            "Presents information in any preferred form on the local area including local area names, two major employers/types of employment, for example, call centres, local attractions, leisure facilities",
+            "Compares and contrasts the differing effects of the weather on the people and society of Britain and a contrasting area, providing at least three similarities and/or differences.",
+            "Provides explanation as to why their local physical environment influences the way in which people use land in comparison to a contrasting areas.",
+            "Extracts information from more than one kind of map.",
+            "Locates continent names, country names, capital cities, rivers and railways on maps of Scotland, the UK, Europe and areas further afield."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SOCIAL_STUDIES",
+        "eAndOSetSectionName": "People, place and environment",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SOC 2-15a",
+                "sentences": [
+                    {
+                        "sentence": "I can use evidence selectively to research current social, political or economic issues.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-16a",
+                "sentences": [
+                    {
+                        "sentence": "I can explain how the needs of a group in my local community can be supported",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-16b",
+                "sentences": [
+                    {
+                        "sentence": "I can gather and use information about forms of discrimination against people in societies and consider the impact this has on people’s lives.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+            ,{
+                "code": "SOC 2-16c",
+                "sentences": [
+                    {
+                        "sentence": "I can discuss issues of the diversity of cultures, values and customs in our society.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-17a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe the main features of a democracy and discuss the rights and responsibilities of citizens in Scotland.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-18a",
+                "sentences": [
+                    {
+                        "sentence": "I can investigate the features of an election and the work of representatives at a local, national or European level to begin to develop my understanding of how democracy works.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-19a",
+                "sentences": [
+                    {
+                        "sentence": "By comparing the lifestyle and culture of citizens in another country with those of Scotland, I can discuss the similarities and differences.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-20a",
+                "sentences": [
+                    {
+                        "sentence": "Through exploring ethical trading, I can understand how people’s basic needs are the same around the world, discussing why some societies are more able to meet these needs than others.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-21a",
+                "sentences": [
+                    {
+                        "sentence": "I can identify essential goods and services, discuss the different ways to pay for them, considering the benefits and risks of each method.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 2-22a",
+                "sentences": [
+                    {
+                        "sentence": "By experiencing the setting up and running of a business, I can collaborate in making choices relating to the different roles and responsibilities and have evaluated its success.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Selects appropriate evidence and uses it to research a social, political or economic issue.",
+            "Provides a basic explanation as to how the needs of a particular group within the local community can be supported, using relevant examples",
+            "Uses evidence to form a valid opinion of the impact of discrimination or prejudice on people’s lives, for example, racism or the effect of immigration",
+            "Discusses in any form at least three issues related to cultures, values and customs in our society, for example, the role of family, traditions and gender stereotyping.",
+            "Describes the main features of a democracy.",
+            "Identifies links between rights and responsibilities",
+            "Presents information (in any preferred form) about the features of local, national or European elections and discusses the work of the appropriate representative",
+            "Compares and contrasts the lifestyle and culture of the citizens of Scotland as compared to the citizens of another country",
+            "Describes the basic needs of human beings",
+            "Draws valid conclusions as to why some countries can meet these needs better than others.",
+            "Identifies which goods and services would be essential in society.",
+            "Describes the main ways of paying for goods and services acknowledging that there may be advantages and disadvantages of each method",
+            "Describes and pros and cons of using Fairtrade products and community service providers such as credit unions.",
+            "Identifies the main business functions such as production, sales, marketing, and administration.",
+            "Takes a role in setting up or running a small enterprise.",
+            "Evaluates the success of the enterprise.",
+            "Identifies profit and non-profitmaking organisations/enterprises including those who services are free at the point of delivery, for example health and education."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SOCIAL_STUDIES",
+        "eAndOSetSectionName": "People in society, economy and business",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SOC 3-01a",
+                "sentences": [
+                    {
+                        "sentence": "I can use my knowledge of a historical period to interpret the evidence and present an informed view.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-02a",
+                "sentences": [
+                    {
+                        "sentence": "I can make links between my current and previous studies, and show my understanding of how people and events have contributed to the development of the Scottish nation.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can explain why a group of people from beyond Scotland settled here in the past and discuss the impact they have had on the life and culture of Scotland.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-04a",
+                "sentences": [
+                    {
+                        "sentence": "I can explain the similarities and differences between the lifestyles, values and attitudes of people in the past by comparing Scotland with a society in Europe or elsewhere.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-05a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe the factors contributing to a major social, political or economic change in the past and can assess the impact on people’s lives.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-06a",
+                "sentences": [
+                    {
+                        "sentence": "I can discuss the motives of those involved in a significant turning point in the past and assess the consequences it had then and since.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-06b",
+                "sentences": [
+                    {
+                        "sentence": "Through researching, I can identify possible causes of a past conflict and report on the impact it has had on the lives of people at that time.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Compares a range of primary and secondary sources of evidence, to present at least three valid conclusions about a historical period.",
+            "Draws on previous work to provide a simple explanation of how people and events have contributed to the development of the Scottish nation. Providing at least two reasoned conclusions.",
+            "Provides at least two simple explanations as to why a group of people from beyond Scotland settled here.",
+            "Describes at least two impacts immigrants have had on life and culture of Scotland.",
+            "Provides an account with at least two simple explanations as to how and why society has developed in different ways comparing Scotland to another society in Europe or elsewhere",
+            "Identifies at least three factors which contributed to a major social, economic or political change in the past.",
+            "Provides at least two valid opinions about the impact on people’s lives of a major social economic or social change in the past.",
+            "Provides at least two valid opinions about the possible motives of those involved in a significant turning point or event in history",
+            "Provides a valid opinion of the impact of this significant historical event.",
+            "Identifies at least two possible causes of past conflict, using research methods.",
+            "Presents in any appropriate form at least two impacts on people at that time."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SOCIAL_STUDIES",
+        "eAndOSetSectionName": "People, past events and societies",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SOC 3-07a",
+                "sentences": [
+                    {
+                        "sentence": "Having investigated processes which form and shape landscapes. I can explain their impact on selected landscapes in Scotland, Europe and beyond.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-08a",
+                "sentences": [
+                    {
+                        "sentence": "I can identify the possible consequences of an environmental issue and make informed suggestions about ways to manage the impact.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-10a",
+                "sentences": [
+                    {
+                        "sentence": "I can investigate the climate, physical features and living things of a natural environment different from my own and explain their interrelationship.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-11a",
+                "sentences": [
+                    {
+                        "sentence": "I can compare the social and economic differences between more and less economically-developed countries and can discuss the possibilities for reducing these differences.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-12a",
+                "sentences": [
+                    {
+                        "sentence": "I can investigate the relationship between climate and weather and be able to understand the causes of weather patterns within a selected climate zone.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-13a",
+                "sentences": [
+                    {
+                        "sentence": "By comparing settlement and economic activity in two contrasting landscapes. I can reach conclusions about how landscapes influence human activity. I can explain my findings clearly to others.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-14a",
+                "sentences": [
+                    {
+                        "sentence": "I can use a range of maps and geographical information systems to gather, interpret and present conclusions and can locate a range of features within Scotland, UK, Europe and the wider world.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies the processes which form landscapes across the world.",
+            "Provides a simple explanation of at least three processes involved in the development of any chosen landscape, for example, coasts, volcanic, rivers or glaciated."
+            "Provides a simple explanation of at least three consequences of an environmental issue, and for each suggest how they could be managed.",
+            "Describes a natural environment different to their own, in terms of climate, physical features and living things",
+            "Provides a simple explanation of at least three links between climate, physical features and living things in that environment.",
+            "Identifies at least three social and economic differences between developed and developing countries, for example infant mortality rate, % adult literacy rate, Gross National Product per capita.",
+            "Suggests possible ways these differences would be reduced, and provide valid opinions as to their likely success.",
+            "Demonstrates a basic understanding of the relationship between weather and climate.",
+            "Provides a simple explanation for a weather pattern within a selected climate zone, for example, convection rainfall in the rainforest",
+            "Provides at least two explanations as to how landscapes influence human activity, using two contrasting areas.",
+            "Reviews at least two simple graphical sources to interpret information and form a conclusion, for example, a map and a graph.",
+            "Uses relevant numeracy and digital technology skills to interpret at least two sources of data from maps and graphical information systems.",
+            "Locates increasingly complex features such as different physical landscape features and human features on maps of Scotland, the UK, Europe and the wider world for example, hills, mountains, valleys, population."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SOCIAL_STUDIES",
+        "eAndOSetSectionName": "People, place and environment",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SOC 3-15a",
+                "sentences": [
+                    {
+                        "sentence": "I can use my knowledge of current social, political or economic issues to interpret evidence and present an informed view.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-16a",
+                "sentences": [
+                    {
+                        "sentence": "I can explain why a group I have identified might experience inequality and can suggest ways in which this inequality might be addressed.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-17a",
+                "sentences": [
+                    {
+                        "sentence": "I have compared the rights and responsibilities of citizens in Scotland with a contrasting society and can describe and begin to understand reasons for differences.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-17b",
+                "sentences": [
+                    {
+                        "sentence": "I can discuss the extent to which my choices and decisions are influenced by the ways in which I am informed.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-18a",
+                "sentences": [
+                    {
+                        "sentence": "I can understand the arrangements for political decision making at different levels and the factors which shape these arrangements.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-19a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe how the interdependence of countries affects levels of development, considering the effects on people’s lives.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-19b",
+                "sentences": [
+                    {
+                        "sentence": "Having considered responses to a recent international crisis, I can contribute to a discussion of the effectiveness of the responses.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-20a",
+                "sentences": [
+                    {
+                        "sentence": "When participating in an enterprise activity, I can explore ethical issues relating to business practice and gain an understanding of how businesses help to satisfy needs.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-20b",
+                "sentences": [
+                    {
+                        "sentence": "I can present conclusions about the impact of the globalisation of trade on patterns of work and conditions of employment in Scotland, the UK or beyond.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SOC 3-21a",
+                "sentences": [
+                    {
+                        "sentence": "I can understand the necessity for budgeting and determine ways to manage finance, considering possible investment opportunities, savings, risks or borrowing needs.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Reviews basic sources of evidence such as newspapers or surveys used in arguments about current affairs to form a valid opinion.",
+            "Presents using appropriate methods an informed view of a current affairs issue.",
+            "Provides at least two simple explanations as to why a selected group might experience inequality, for example gender, race/ethnicity, age, disability.",
+            "Makes two or more reasoned suggestions of ways in which this inequality might be addressed.",
+            "Identifies their own rights and responsibilities as a Scottish citizen and makes a comparison with a contrasting society.",
+            "Gives at least two simple explanations for the differences between their own rights and responsibilities and those in a contrasting society",
+            "Identifies at least three sources of information that influence the ways in which he/she is informed.",
+            "Provides at least two valid opinions about the ways in which choices and decisions might be influenced by bias or exaggeration.",
+            "Describes the role of elected representatives and/or groups which influence the political decision-making process at local, national or international level.",
+            "Describes the unequal nature of trading relationships and the consequences on people’s socio-economic position, for example, Fairtrade, Arms Trade.",
+            "Draws valid conclusions about the effectiveness of the response, for example, NGOs, NATO, UN.",
+            "Identifies at least two ethical issues related to business practices, for example, Fairtrade, Credit Unions, food banks, zero hours contracts, recycling and packaging",
+            "Describes how different businesses and not for profit organisations help to satisfy needs and wants.",
+            "Provides at least two simple explanations as to why budgeting is important to families and businesses",
+            "Identifies methods (including digital ways) to manage and record financial transactions",
+            "Outlines the costs and benefits of saving and investing money and the costs and benefits of borrowing money",
+            "Describes and uses the practical skills (including digital skills) required to contribute to the success of an enterprise activity.",
+            "Identifies the advantages and disadvantages of international trade, and issues around free trade agreements."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SOCIAL_STUDIES",
+        "eAndOSetSectionName": "People in society, economy and business",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+
+
+
+
+
+
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "",
+                "sentences": [
+                    {
+                        "sentence": "",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "",
+        "curriculumAreaName": "SOCIAL_STUDIES",
+        "eAndOSetSectionName": "",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
     }
+
+
 
 ]
