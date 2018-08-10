@@ -9107,5 +9107,1589 @@
         "eAndOSetSubSectionName": "Designing, building and testing computing solutions",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 0-01a",
+                "sentences": [
+                    {
+                        "sentence": "I have observed living things in the environment over time and am becoming aware of how they depend on each other.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 0-03a",
+                "sentences": [
+                    {
+                        "sentence": "I have helped to grow plants and can name their basic parts. I can talk about how they grow and what I need to do to look after them.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explores and sorts objects as living, non-living or once living.",
+            "Describes characteristics of livings things and how they depend on each other, for example, animals which depend on plants for food.",
+            "Explores, observes and discusses basic needs of plants and what they need to grow including water, heat, sunlight and soil.",
+            "Demonstrates understanding of how plants grow from seeds."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Biodiversity and interdependence",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 0-04a",
+                "sentences": [
+                    {
+                        "sentence": "I have experienced, used and described a wide range of toys and common appliances. I can say what makes it go and say what they do when they work.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Ask questions and describes what can ‘make things go’, for example, batteries, wind-up toys and sunlight.",
+            "Talks about toys and common appliances and what they do when they work, for example, produce heat, light, movement or sound."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Energy sources and sustainability",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 0-05a",
+                "sentences": [
+                    {
+                        "sentence": "By investigating how water can change from one form to another, I can relate my findings to everyday experiences.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Investigates the different properties of water and shares their findings with others.",
+            "Talks about water in nature and how it influences their everyday lives.",
+            "Identifies three main states of water (ice, water and steam) and uses scientific vocabulary such as ‘melting’, ‘freezing’ and ‘boiling’ to describe changes of state."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Processes of the planet",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 0-06a",
+                "sentences": [
+                    {
+                        "sentence": "I have experienced the wonder of looking at the vastness of the sky, and can recognise the sun, moon and stars and link them to daily patterns of life",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Describes how the rotation of the Earth in relation to the sun gives us day and night.",
+            "Talks about how the pattern of night and day changes over the course of a year."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Space",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 0-07a",
+                "sentences": [
+                    {
+                        "sentence": "Through everyday experiences and play with a variety of toys and other objects, I can recognise simple types offorces and describe their effects.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explores and sorts toys and objects into groups according to whether they need to be pushed or pulled.",
+            "Measures, using simple equipment, how the movement of an object is affected by the size of the force or the weight of the object",
+            "Demonstrates, through play, how a force can make an object stay still, start to move, speed up, slow down and change shape."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Forces, electricity and waves",
+        "eAndOSetSubSectionName": "Forces",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 0-09a",
+                "sentences": [
+                    {
+                        "sentence": "I know how to stay safe when using electricity. I have helped to make a display to show the importance of electricity in our daily lives.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Groups objects into those which get electricity either from mains electrical sockets or alternative sources, such as batteries and solar cells.",
+            "Talks about the importance of electricity in their daily lives.",
+            "Identifies the risks that can be caused by electricity and recognises how to stay safe"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Forces, electricity and waves",
+        "eAndOSetSubSectionName": "Electricity",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 0-11a",
+                "sentences": [
+                    {
+                        "sentence": "Through play, I have explored a variety of ways of making sounds",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Predicts, then investigates, ways to make sounds louder and quieter",
+            "Identifies different sources of sound."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Forces, electricity and waves",
+        "eAndOSetSubSectionName": "Vibrations and waves",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 0-12a",
+                "sentences": [
+                    {
+                        "sentence": "I can identify my senses and use them to explore the world around me.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies specific parts of the body related to each of the senses.",
+            "Uses their senses to describe the world around them, giving examples of things they see, hear, smell, taste and feel."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Biological systems",
+        "eAndOSetSubSectionName": "Body systems and cells",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 0-15a",
+                "sentences": [
+                    {
+                        "sentence": "Through creative play, I explore different materials and can share my reasoning for selecting materials for different purposes",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explores and sorts materials into different groups depending on their properties, for example, whether they are strong, smooth, rough and if they float or sink.",
+            "Justifies the selection of appropriate materials for different uses based on their physical properties."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Materials",
+        "eAndOSetSubSectionName": "Properties and uses of substances",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 0-20a",
+                "sentences": [
+                    {
+                        "sentence": "I can talk about science stories to develop my understanding of science and the world around me.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Talks about the science they encounter in their everyday experiences.",
+            "Explores, through role-play, how science and science skills are used in a variety of jobs."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Topical science",
+        "eAndOSetSubSectionName": "Topical science",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 1-01a",
+                "sentences": [
+                    {
+                        "sentence": "I can distinguish between living and non-living things. I can sort living things into groups and explain my decisions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 1-02a",
+                "sentences": [
+                    {
+                        "sentence": "I can explore examples of food chains and show an appreciation of how animals and plants depend on each other for food.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 1-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can help to design experiments to find out what plants need in order to grow and develop. I can observe and record my findings and from what I have learned I can grow healthy plants in school.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explains the difference between living and non-living things, taking into consideration movement, reproduction, sensitivity, growth, excretion and feeding.",
+            "Creates criteria for sorting living things and justifies decisions",
+            "Sorts living things into plant, animal and other groups using a variety of features.",
+            "Demonstrates awareness of how energy from the sun can be taken in by plants to provide the major source of food for all living things.",
+            "Interprets and constructs a simple food chain, using vocabulary such as ‘producer’, ‘consumer’, ‘predator’ and ‘prey’",
+            "Observes, collects and measures the outcomes from growing plants in different conditions, for example, by varying levels of light, water, air, soil/nutrients and heat.",
+            "Structures a presentation or report, with support, to present findings on how plants grow."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Biodiversity and interdependence",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 1-04a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of different types of energy around me and can show their importance to everyday life and my survival.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies and talks about types of energy that we get from different energy sources, for example, light, sound, heat and electrical.",
+            "Uses knowledge of different energy sources, for example, sun, food, fuel, wind and waves, to discuss the importance of different types of energy for everyday life and survival."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Energy sources and sustainability",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 1-05a",
+                "sentences": [
+                    {
+                        "sentence": "By investigating how water can change from one form to another, I can relate my findings to everyday experiences.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses more complex vocabulary to describe changes of states of water, for example, ‘condensation’ and ‘evaporation’.",
+            "Contributes to the design of an experiment to determine the temperature at which water boils, freezes and melts, ensuring appropriate use of units",
+            "Knows that pure water boils at 100°, melts at 0° and freezes at 0°."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Processes of the planet",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 1-06a",
+                "sentences": [
+                    {
+                        "sentence": "By safely observing and recording the sun and moon at various times, I can describe their patterns of movement and changes over time. I can relate these to the length of a day, a month and a year.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Describes how the Earth spins around its axis in 24 hours resulting in day and night.",
+            "Observes and records the different patterns of movement of the moon and explains why the moon appears to have different shapes and positions in the sky at different times in a lunar month.",
+            "Demonstrates understanding of how the Earth takes one year to completely orbit the sun",
+            "Demonstrates understanding of how the tilt of the Earth on its axis as it circles the sun causes the pattern of the seasons and changes to the number of daylight hours over the course of a year"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Space",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 1-07a",
+                "sentences": [
+                    {
+                        "sentence": "By investigating forces on toys and other objects, I can predict the effect on the shape or motion of objects",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 1-08a",
+                "sentences": [
+                    {
+                        "sentence": "By exploring the forces exerted by magnets on other magnets and magnetic materials, I can contribute to the design of a game.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Predicts and then investigates how a force can make an object change speed, direction or shape, and uses vocabulary such as pushing, pulling, stretching, squashing and twisting to describe forces.",
+            "Investigates balanced forces and explains that if a push and pull are equal in strength and opposite in direction then there is no change in movement.",
+            "Reports in writing, visually, orally how magnets exert a non-contact force on each other and attract certain materials.",
+            "Demonstrates through practical activities that like poles repel and opposite poles attract",
+            "Gives at least two examples for how magnets are used in everyday life."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Forces, electricity and waves",
+        "eAndOSetSubSectionName": "Forces",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 1-09a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe an electrical circuit as a continuous loop of conducting materials. I can combine simple components in a series circuit to make a game or model.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Builds simple circuits containing bulbs, switches, bells and batteries"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Forces, electricity and waves",
+        "eAndOSetSubSectionName": "Electricity",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 1-11a",
+                "sentences": [
+                    {
+                        "sentence": "By collaborating in experiments on different ways of producing sound from vibrations, I can demonstrate how to change the pitch of the sound",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates how sounds can be made higher or lower pitch by altering tightness, length, width or thickness or other physical characteristics of the sound source",
+            "Explains that sound is caused by a vibration in a material"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Forces, electricity and waves",
+        "eAndOSetSubSectionName": "Vibrations and waves",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 1-12a",
+                "sentences": [
+                    {
+                        "sentence": "By researching, I can describe the position and function of the skeleton and major organs of the human body and discuss what I need to do to keep them healthy",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 1-12b",
+                "sentences": [
+                    {
+                        "sentence": "I have explored my senses and can discuss their reliability and limitations in responding to the environment.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 1-13a",
+                "sentences": [
+                    {
+                        "sentence": "I know the symptoms of some common diseases caused by germs. I can explain how they are spread and discuss how some methods of preventing and treating disease benefit society",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses components to make simple models of a skeleton which identify the skull, spine, ribcage and some bones of the arms and leg and which show how the skeleton gives us support and protects our organs.",
+            "Describes the position and function of major organs including the brain, heart, lungs, stomach and bladder.",
+            "Describes how skin, as an organ, provides a barrier to infection and helps to control our temperature",
+            "Structures a presentation or report, with support, on how to have a healthy lifestyle, for example, through a balanced diet, regular exercise, sufficient sleep and by avoiding substance misuse.",
+            "Uses their senses to detect information and explains how they help to keep people safe",
+            "Investigates the reliability and limitations of the senses, for example, using taste tests, limits of sound, optical illusions and blind-fold games.",
+            "Describes the symptoms of some common diseases including colds, mumps, measles, chicken pox and flu.",
+            "Provides explanations, supported by evidence, of how some diseases spread and discusses ways in which some diseases can be prevented through good hygiene and vaccination."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Biological systems",
+        "eAndOSetSubSectionName": "Body systems and cells",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 1-14a",
+                "sentences": [
+                    {
+                        "sentence": "By comparing generations of families of humans, plants and animals, I can begin to understand how characteristics are inherited.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses their own experiences to illustrate how inherited characteristics are passed from one generation to the next.",
+            "Knows that genetic information determines characteristics such as colour of eyes and shape of petals.",
+            "Demonstrates understanding of the variations within family groups."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Biological systems",
+        "eAndOSetSubSectionName": "Inheritance",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 1-15a",
+                "sentences": [
+                    {
+                        "sentence": "Through exploring properties and sources of materials, I can choose appropriate materials to solve practical challenges.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 1-16a",
+                "sentences": [
+                    {
+                        "sentence": "I can make and test predictions about solids dissolving in water and can relate my findings to the world around me.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Classifies materials into natural and human-made (synthetic)",
+            "dentifies properties of different materials, for example, rigidity, flexibility, rough, smooth and waterproof, and their uses linked to their properties.",
+            "Links new knowledge of dissolving to real-life examples of things that dissolve and things that don’t dissolve.",
+            "Predicts, investigates and records how solubility is affected by heat and stirring."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Materials",
+        "eAndOSetSubSectionName": "Properties and uses of substances",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 1-20a",
+                "sentences": [
+                    {
+                        "sentence": "I have contributed to discussions of current scientific news items to help develop my awareness of science.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Discusses and expresses opinions about science topics in real-life contexts, including those featured in the media.",
+            "Discusses how people use science in their everyday lives",
+            "Describes a variety of jobs and careers which require scientific knowledge and skills."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Topical science",
+        "eAndOSetSubSectionName": "Topical science",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 2-01a",
+                "sentences": [
+                    {
+                        "sentence": "I can identify and classify examples of living things, past and present, to help me appreciate their diversity. I can relate physical and behavioural characteristics to their survival or extinction.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-02a",
+                "sentences": [
+                    {
+                        "sentence": "I can use my knowledge of the interactions and energy flow between plants and animals in ecosystems, food chains and webs. I have contributed to the design or conservation of a wildlife area.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-02b",
+                "sentences": [
+                    {
+                        "sentence": "Through carrying out practical activities and investigations, I can show how plants have benefited society",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-03a",
+                "sentences": [
+                    {
+                        "sentence": "I have collaborated in the design of an investigation into the effects of fertilisers on the growth of plants. I can express an informed view of the risks and benefits of their use",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Classifies living things into plants (flowering and non-flowering), animals (vertebrates and invertebrates) and other groups through knowledge of their characteristics.",
+            "Begins to construct and use simple branched keys which can be used to identify particular plants or animals.",
+            "Identifies characteristics of living things and their environment which have contributed to the survival or extinction of a species.",
+            "Describes how some plants and animals have adapted to their environment, for example, for drought or by using flight.",
+            "Describes how energy flows between plants and animals in more complex food chains and webs and ecosystems, using vocabulary such as ‘producers’, ‘consumers’ and ‘herbivore’.",
+            "Relates findings from practical investigations to describe how plants have benefited society, for example, in medicine, dyes, fuels, construction, prevention of soil erosion and by influencing the balance of gases in the air",
+            "Collaborates with others to present a reasoned argument, based on evidence, of the risks and benefits of using fertilisers, demonstrating understanding of the underlying scientific concepts."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Biodiversity and interdependence",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 2-04a",
+                "sentences": [
+                    {
+                        "sentence": "By considering examples where energy is conserved, I can identify the energy source, how it is transferred and ways of reducing wasted energy.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-04b",
+                "sentences": [
+                    {
+                        "sentence": "Through exploring non-renewable energy sources, I can describe how they are used in Scotland today and express an informed view on the implications for their future use",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates understanding of the law of conservation of energy (energy can be converted from one form to another but cannot be created or destroyed).",
+            "Identifies the common types of energy (kinetic, potential, electrical, chemical, light, sound and heat) used in energy transfers and transformations that occur in everyday appliances.",
+            "Explains that when energy transfers and transformations take place, energy is converted into ‘useful’ and ‘wasted’ energy, for example a mechanical braking system transforms kinetic energy into heat energy which is dissipated to the atmosphere as ‘waste’ heat.",
+            "Researches non-renewable sources of energy, such as fossil fuels and nuclear, and discusses how these are used in Scotland.",
+            "Draws on increasing knowledge and understanding to suggest ways in which they can reduce their own energy use and live more sustainably."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Energy sources and sustainability",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 2-05a",
+                "sentences": [
+                    {
+                        "sentence": "I can apply my knowledge of how water changes state to help me understand the processes involved in the water cycle in nature over time",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Discusses the necessity of water for life, for example, for the growth of crops, for drinking and in river formation/flow.",
+            "Demonstrates understanding of the processes involved in the water cycle."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Processes of the planet",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 2-06a",
+                "sentences": [
+                    {
+                        "sentence": "By observing and researching features of our Solar System, I can use simple models to communicate my understanding of size, scale, time and relative motion within it",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Reports collaboratively on the key features of the planets including size, distance from the sun, length of day, length of year, temperature, materials from which they are predominantly made and the number of moons.",
+            "Uses simple models to communicate understanding of size, scale, time and relative motion within our Solar System, including how solar & lunar eclipses occur."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Space",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 2-07a",
+                "sentences": [
+                    {
+                        "sentence": "By investigating how friction, including air resistance, affects motion, I can suggest ways to improve efficiency in moving objects.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-08a",
+                "sentences": [
+                    {
+                        "sentence": "I have collaborated in investigations to compare magnetic, electrostatic and gravitational forces and have explored their practical applications.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-08b",
+                "sentences": [
+                    {
+                        "sentence": "By investigating floating and sinking of objects in water, I can apply my understanding of buoyancy to solve a practical challenge",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Describes friction as a force which opposes the motion of moving objects, for example, two solid surfaces rubbing against one another or a solid surface moving through air or water",
+            "Finds an association between air resistance (drag), the speed of the object being investigated and the surface area exposed to the air, making links to original predictions.",
+            "Demonstrates understanding of how friction and air resistance can both be useful, for example, in braking systems, and also a problem, for example, causing moving parts to wear.",
+            "Describes efficient movement as that which requires the least possible energy and suggests ways to improve efficiency in moving objects, for example, by streamlining.",
+            "Measures gravitational force with a force meter or newton meter and records results using appropriate units (newtons).",
+            "Explains how some objects may become electrically charged by rubbing two surfaces together and how the charges produce an electrostatic force.",
+            "Investigates and demonstrates understanding that magnetic and electrostatic forces can both repel and attract.",
+            "Describes practical applications of magnetic, electrostatic and gravitational forces, for example, magnetised needle in a compass.",
+            "Explores the factors which affect floating, for example, the object’s shape and the density of the material that the object is made of, and collates, organises and summarises findings with assistance."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Forces, electricity and waves",
+        "eAndOSetSubSectionName": "Forces",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 2-09a",
+                "sentences": [
+                    {
+                        "sentence": "I have used a range of electrical components to help to make a variety of circuits for differing purposes. I can represent my circuit using symbols and describe the transfer of energy around the circuit",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-10a",
+                "sentences": [
+                    {
+                        "sentence": "To begin to understand how batteries work, I can help to build simple chemical cells using readily-available materials which can be used to make an appliance work.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Designs and builds a variety of electrical circuits for differing purposes, using an increasing range of components.",
+            "Draws circuit diagrams using appropriate symbols to denote a bulb, switch, motor, bell, buzzer, wires, cell and a battery",
+            "Describes how components in a circuit transfer energy into different forms",
+            "Applies knowledge and understanding to build simple batteries (chemical cells) and demonstrates understanding that a battery (cell) is a portable energy source which has a store of chemical energy",
+            "Explains the process of energy transformation from battery (cell) to electrical components"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Forces, electricity and waves",
+        "eAndOSetSubSectionName": "Electricity",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 2-11a",
+                "sentences": [
+                    {
+                        "sentence": "Through research on how animals communicate, I can explain how sound vibrations are carried by waves through air, water and other media",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-11b",
+                "sentences": [
+                    {
+                        "sentence": "By exploring reflections, the formation of shadows and the mixing of coloured lights, I can use my knowledge of the properties of light to show how it can be used in a creative way",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Discusses and demonstrates through experiments how sound travels differently through air, water and solids.",
+            "Explains how hearing is limited by a range of factors, for example, age, position, and flexibility (direction) of ears.",
+            "Demonstrates and records, through practical investigations, that light travels in straight lines, can be reflected by highly-polished surfaces and that curved faces can distort the image.",
+            "Predicts and investigates how the position, shape and size of a shadow depend on the position of the object in relation to the light source",
+            "Demonstrates that white light/sunlight can be dispersed to show the colours of the visible spectrum and identifies the colours and order of the rainbow as red, orange, yellow, green, blue, indigo and violet.",
+            "Explains that we see objects because they give out or reflect light rays that enter our eyes",
+            "Draws on findings from practical investigations to describe the effect that coloured filters have on white light and how they can be used to make other colours",
+            "Explains how we can recognise the colour of an object due the reflection and absorption of particular parts of the visible spectrum."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Forces, electricity and waves",
+        "eAndOSetSubSectionName": "Vibrations and waves",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 2-12a",
+                "sentences": [
+                    {
+                        "sentence": "By investigating some body systems and potential problems which they may develop, I can make informed decisions to help me to maintain my health and wellbeing.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-12b",
+                "sentences": [
+                    {
+                        "sentence": "I have explored the structure and function of sensory organs to develop my understanding of body actions in response to outside conditions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-13a",
+                "sentences": [
+                    {
+                        "sentence": "I have contributed to investigations into the role of microorganisms in producing and breaking down some materials.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Respiratory system - Describes the function of the respiratory system (lungs, windpipe and bronchi), for example, in gas exchange.",
+            "Respiratory system - Discusses the main preventable causes of bronchitis, lung cancer and asthma, for example, smoking.",
+            "Circulatory system - Describes the function of the circulatory system (heart and blood vessels), for example, transport of food, oxygen and waste materials",
+            "Circulatory system - Discusses the main preventable causes of heart disease or stroke, for example, obesity, lack of exercise, smoking and high (saturated) fat die",
+            "Digestive system - Describes the function of the digestive system (mouth, oesophagus, stomach, liver, small intestine, large intestine, rectum and anus), for example, breakdown of food and absorption of nutrients, minerals and water",
+            "Digestive system - Discusses the main preventable causes of liver disease, for example, alcohol and drug misuse.",
+            "Reproductive system - Describes the function of the reproductive system (penis, testes, sperm tube/duct, ovaries, egg tube/duct, uterus and vagina), for example, to make a baby",
+            "Reproductive system - Discusses some preventable causes of fertility problems, for example, alcohol misuse, anorexia and obesity.",
+            "Skeletal system - Describes the function of the skeleton (skull, spine, ribcage some bones of the arm and leg), for example, to provide support, protection and enable movement.",
+            "Skeletal system - Discusses some common problems of bones (for example, arthritis, osteoporosis and breaks) and how their incidence can be reduced (for example, through calcium in the diet and weight-bearing exercise)",
+            "Describes how senses work individually or together to keep people safe from harm.",
+            "Demonstrates understanding of how, if one sense is impaired, it can have an effect on the other senses, either positively or negatively",
+            "Describes how light enters the eye through the pupil and how the pupil changes size in dark/light conditions.",
+            "Demonstrates understanding of how microorganisms, including bacteria, viruses and fungi, can multiply rapidly",
+            "Investigates and explains the action of some microorganisms used in food production, for example, yeast in bread and bacteria in yoghurt.",
+            "Describes how some micro-organisms break down food causing it to be inedible or harmful if digested, and how others exist in the gut to break down food to aid digestion",
+            "Investigates, observes and records how microscopic organisms are necessary for the process of decomposition (the breaking down of dead material – decay)."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Biological systems",
+        "eAndOSetSubSectionName": "Body systems and cells",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 2-14a",
+                "sentences": [
+                    {
+                        "sentence": "By investigating the lifecycles of plants and animals, I can recognise the different stages of their development.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-14b",
+                "sentences": [
+                    {
+                        "sentence": "By exploring the characteristics offspring inherit when living things reproduce, I can distinguish between inherited and non-inherited characteristics.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Plants - Describes how pollination occurs when the male cell (pollen) lands on the stigma.",
+            "Plants - Describes how fertilisation (sexual reproduction) occurs when the genetic information in the male cell fuses (joins) with the genetic information in the female cell.",
+            "Plants - Describes how the fertilised ovule develops into a seed and how the ovary ripens to form a fruit.",
+            "Plants - Investigates and explains how a seed germinates into a plant using water, oxygen, a food store and warmth.",
+            "Animals - Identifies and compares the two distinct groups of animals ‒ vertebrates and invertebrates",
+            "Animals - Researches the lifecycles of the five main types of vertebrates including fish (spawn), birds (eggs which are rigid but fragile), amphibians (spawn and metamorphosis), reptiles (leathery shelled eggs) and mammal (live young),and communicates findings using a range of media",
+            "Animals - Compares the lifecycles of some invertebrates, for example, ladybird and spider.",
+            "Animals - Knows that genetics is the study of inherited characteristics and that inherited characteristics are carried on genes and can sometime skip a generation",
+            "Animals - Explores and categorises characteristics into inherited (eye and hair colour, height and right/left handedness) and non-inherited (native language spoken and favourite colour).",
+            "Animals - Describes how every living thing has its own DNA fingerprint."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Biological systems",
+        "eAndOSetSubSectionName": "Inheritance",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 2-15a",
+                "sentences": [
+                    {
+                        "sentence": "By contributing to investigations into familiar changes in substances to produce other substances, I can describe how their characteristics have changed.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-16a",
+                "sentences": [
+                    {
+                        "sentence": "I have participated in practical activities to separate simple mixtures of substances and can relate my findings to my everyday experience.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-16b",
+                "sentences": [
+                    {
+                        "sentence": "By investigating common conditions that increase the amount of substance that will dissolve or the speed of dissolving, I can relate my findings to the world around me",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Draws on findings from practical investigations to explain how a mixture of solids of different sizes can be separated using a sieve or magnet, for example, sand and peas or salt and iron filings",
+            "Selects the most appropriate practical technique for separating insoluble solids, for example, filtering or sieving.",
+            "Explains why a dissolved solid cannot be separated from the solvent by filtering but can be separated by evaporation.",
+            "Uses scientific vocabulary such as ‘soluble’, ‘insoluble’, ‘dissolve’ and ‘solution’ in context.",
+            "Relates findings of practical investigations about dissolving to everyday experiences, for example, recycling, salt production and water purification.",
+            "Finds an association between the quantity of substance that dissolves and a range of conditions – temperature, time, particle size, stirring and quantity of solvent.",
+            "Investigates how a range of factors such as particle size and heat can affect the rate of dissolving",
+            "Relates learning about the quantity and rate of dissolving to everyday examples such as dissolving sugar in tea or salt in water (granules or big crystals, hot or cold liquid, stirred or not stirred)."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Materials",
+        "eAndOSetSubSectionName": "Properties and uses of substances",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 2-17a",
+                "sentences": [
+                    {
+                        "sentence": "Having explored the substances that make up Earth’s surface, I can compare some of their characteristics and uses",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Analyses and compares samples of rocks, soil and minerals and reports their characteristics and uses, using a range of media"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Materials",
+        "eAndOSetSubSectionName": "Earth’s materials",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 2-18a",
+                "sentences": [
+                    {
+                        "sentence": "I have investigated different water samples from the environment and explored methods that can be used to clean and conserve water and I am aware of the properties and uses of water. ",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-19a",
+                "sentences": [
+                    {
+                        "sentence": "I have collaborated in activities which safely demonstrate simple chemical reactions using everyday chemicals. I can show an appreciation of a chemical reaction as being a change in which different materials are made.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses knowledge of the water cycle to explain how the quantity of water on the Earth has remained approximately the same.",
+            "Investigates and discusses the methods used to purify water, for example, sedimentation, filtration, evaporation, desalination and the addition of chemicals such as chlorine.",
+            "Researches methods used to conserve water within the home, school and globally and communicates findings to others",
+            "Discusses the many uses of water, for example, to support all living things, in preservation (ice) and to generate electricity.",
+            "Collaborates with others to safely demonstrate simple chemical reactions, for example, effervescence.",
+            "Investigates examples of everyday chemical reactions, such as burning and corrosion, and names some of the new substances which are produced.",
+            "Uses prior knowledge to identify when a chemical reaction has occurred to produce a new substance."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Materials",
+        "eAndOSetSubSectionName": "Chemical changes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 2-20a",
+                "sentences": [
+                    {
+                        "sentence": "Through research and discussion, I have an appreciation of the contribution that individuals are making to scientific discovery and invention and the impact this has made on society",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 2-20b",
+                "sentences": [
+                    {
+                        "sentence": "I can report and comment on current scientific news items to develop my knowledge and understanding of topical science.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Researches historic and contemporary scientists (ensuring gender balance) and their scientific discoveries and reports collaboratively to others using a range of methods",
+            "Describes the impact of scientific discovery, creativity and invention on society past and present, for example, in design, medicine and agriculture",
+            "Demonstrates understanding of how science impacts on every aspect of our lives",
+            "Relates the development of scientific skills in the classroom to an increasingly wide variety of science, technology, engineering and mathematics (STEM) careers",
+            "Explores items of current scientific interest within the school, local community, nationally or in the global media and collates, organises and summarises findings, with assistance.",
+            "Shares opinions about a variety of topical scientific issues considering, for example, moral, ethical, societal, cultural, economic and environmental aspects."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Topical science",
+        "eAndOSetSubSectionName": "Topical science",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 3-01a",
+                "sentences": [
+                    {
+                        "sentence": "I can sample and identify living things from different habitats to compare their biodiversity and can suggest reasons for their distribution",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-02a",
+                "sentences": [
+                    {
+                        "sentence": "I have collaborated on investigations into the process of photosynthesis and I can demonstrate my understanding of why plants are vital to sustaining life on Earth.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-03a",
+                "sentences": [
+                    {
+                        "sentence": "Through investigations and based on experimental evidence, I can explain the use of different types of chemicals in agriculture and their alternatives and can evaluate their potential impact on the world’s food production.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies living things using biological keys.",
+            "Collects and analyses increasingly complex data and information, for example, temperature and light intensity, to suggest reasons for the distribution of organisms within different habitats.",
+            "Describes the process of photosynthesis (using the word equation) in terms of reactants (raw materials) and products",
+            "Applies knowledge gained from practical investigations to explain how green plants make their own food in the form of sugars and store this as starch.",
+            "Investigates and presents information on how plants help to sustain life, for example, by providing oxygen, food, habitat, raw materials and medicines.",
+            "Interprets data and information to establish a link between the use of fertilisers and plant yield and nutrient levels in the soil.",
+            "Researches an agricultural method, for example, chemical fertilisers, herbicides, pesticides, organic methods, genetic modification (GM) and biological control and evaluates their impact on food production."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Biodiversity and interdependence",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 3-04a",
+                "sentences": [
+                    {
+                        "sentence": "I can use my knowledge of the different ways in which heat is transferred between hot and cold objects and the thermal conductivity of materials to improve energy efficiency in buildings or other systems",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-04b",
+                "sentences": [
+                    {
+                        "sentence": "By investigating renewable energy sources and taking part in practical activities to harness them, I can discuss their benefits and potential problems.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Applies knowledge from practical investigations to explain how heat is transferred by conduction, convection and radiation.",
+            "Establishes a link between heat loss in buildings and the temperature difference between the inside and outside of the building.",
+            "Applies understanding of thermal energy efficiency, conductors and insulators to explain how materials can be used in building design to reduce heat loss, for example, in double and triple glazing",
+            "Presents research findings on the advantages and disadvantages associated with the use of renewable energy sources and their impact on society, demonstrating an informed view based on evidence."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Energy sources and sustainability",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 3-05a",
+                "sentences": [
+                    {
+                        "sentence": "By contributing to experiments and investigations, I can develop my understanding of models of matter and can apply this to changes of state and the energy involved as they occur in nature.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-05b",
+                "sentences": [
+                    {
+                        "sentence": "I can explain some of the processes which contribute to climate change and discuss the possible impact of atmospheric change on the survival of living things.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Describes, using particle models and diagrams, the properties of solids, liquids and gases and applies this knowledge to identify and classify unknown substances.",
+            "Applies understanding of models of matter to explain changes of state in terms of energy being gained or lost by a substance.",
+            "Explains how the levels of carbon dioxide in the atmosphere have increased over time, for example, through respiration of organisms, deforestation and increased combustion of fuels",
+            "Draws on supporting evidence, quotes and sources to demonstrate an association between carbon dioxide in the atmosphere and increasing global temperatures as a result of the greenhouse effect."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Processes of the planet",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 3-06a",
+                "sentences": [
+                    {
+                        "sentence": "By using my knowledge of our solar system and the basic needs of living things, I can produce a reasoned argument on the likelihood of life existing elsewhere in the universe.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Presents a reasoned argument on the likelihood of life existing elsewhere in the universe including factors such as: the distance of planets from their stars, the number of stars in the universe and the availability of liquid water, nutrients and energy."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Planet Earth",
+        "eAndOSetSubSectionName": "Space",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 3-07a",
+                "sentences": [
+                    {
+                        "sentence": "By contributing to investigations of energy loss due to friction, I can suggest ways of improving the efficiency of moving systems.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-08a",
+                "sentences": [
+                    {
+                        "sentence": "I have collaborated in investigations into the effects of gravity on objects and I can predict what might happen to their weight in different situations on Earth and in space",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Knows that weight is a force caused by the Earth’s (or other planet’s) gravitational pull on an object, measured in newtons (N), and uses the formula W = mg to calculate weight",
+            "Predicts the effects on the weight of an object due to the gravitational field strength in different positions in the universe, for example, at different altitudes on Earth, on different planets and in deep space"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Forces, electricity and waves",
+        "eAndOSetSubSectionName": "Forces",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 3-09a",
+                "sentences": [
+                    {
+                        "sentence": "Having measured the current and voltage in series and parallel circuits, I can design a circuit to show the advantages of parallel circuits in an everyday application.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-10a",
+                "sentences": [
+                    {
+                        "sentence": "I can help to design simple chemical cells and use them to investigate the factors which affect the voltage produced.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Applies knowledge from practical investigations to describe the similarities and differences between series and parallel circuits and explain the advantages of parallel circuits in an everyday application.",
+            "Investigates and explains how electricity can be produced when different metals are used as electrodes, with an electrolyte between them",
+            "Investigates and discusses the relationship between a range of factors (for example, the combination of metal electrodes used, the electrolyte used, the electrolyte concentration, the distance between electrodes and surface area of electrodes) and the voltage produced by a simple chemical."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Forces, electricity and waves",
+        "eAndOSetSubSectionName": "Electricity",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 3-11a",
+                "sentences": [
+                    {
+                        "sentence": "By exploring the refraction of light when passed through different materials, lenses and prisms, I can explain how light can be used in a variety of applications.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-11b",
+                "sentences": [
+                    {
+                        "sentence": "By exploring radiations beyond the visible, I can describe a selected application, discussing the advantages and limitations.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates through practical investigation how refraction can cause a change of direction of light as it passes from one material to another",
+            "Describes the practical applications of refraction in everyday situations, for example, in corrective lenses in glasses, and in magnifying glasses and optical instruments.",
+            "Explains how a visible spectrum is produced as light passes through a prism.",
+            "Describes the electromagnetic spectrum as a family of waves including Gamma Rays, X-Rays, Ultraviolet, Visible Light, Infrared, Microwaves, Television and Radio",
+            "Researches at least one application of an electromagnetic wave beyond the visible in everyday life, giving advantages and limitations of that application"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Forces, electricity and waves",
+        "eAndOSetSubSectionName": "Vibrations and waves",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 3-12a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored the structure and function of organs and organ systems and can relate this to the basic biological processes required to sustain life",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-12b",
+                "sentences": [
+                    {
+                        "sentence": "I have explored the role of technology in monitoring health and improving the quality of life.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-13a",
+                "sentences": [
+                    {
+                        "sentence": "Using a microscope, I have developed my understanding of the structure and variety of cells and of their functions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-13b",
+                "sentences": [
+                    {
+                        "sentence": "I have contributed to investigations into the different types of microorganisms and can explain how their growth can be controlled.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-13c",
+                "sentences": [
+                    {
+                        "sentence": "I have explored how the body defends itself against disease and can describe how vaccines can provide protection",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explores and explains the structure and function of at least three of the major organ systems, for example, Respiratory, Circulatory, Digestive, Excretory, Reproductive and Skeletal, and relates this to the basic biological processes required to sustain life.",
+            "Uses a variety of instruments to monitor and record aspects of health, for example, pulse rate, blood pressure and recovery rate and gives examples of other aspects of health that may be monitored, for example, cholesterol and BMI.",
+            "Researches one condition that is screened for (for example, bowel cancer, macular degeneration and diabetes) and describes the symptoms of the condition.",
+            "Identifies the structures found in plant and animal cells and describes their functions",
+            "Describes the main similarities and differences between plant and animal cells.",
+            "Researches and describes the structure and function of some specialised cells, for example, nerve, root hair, red blood cell, sperm and egg.",
+            "Applies knowledge from investigations to describe the essential resources that micro-organisms need to grow and reproduce, for example, food, water, warm temperature and a suitable pH.",
+            "Draws conclusions from investigations to describe how conditions and chemicals can promote and restrict growth, including temperature, antibiotics and antifungals.",
+            "Describes how microbes (for example, bacteria and viruses) can cause disease and infection and how barriers to infection provide a first line of defence, for example, skin, mucus and stomach acids.",
+            "Describes how the immune system protects the body against disease if the first line of defence is breached, for example, through the action of white blood cells and production of antibodies.",
+            "Applies knowledge of body defence mechanisms to explain how vaccinations can protect individuals and populations from disease"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Biological systems",
+        "eAndOSetSubSectionName": "Body systems and cells",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 3-14a",
+                "sentences": [
+                    {
+                        "sentence": "I understand the processes of fertilisation and embryonic development and can discuss possible risks to the embryo.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-14b",
+                "sentences": [
+                    {
+                        "sentence": "I have extracted DNA and understand its function. I can express an informed view of the risks and benefits of DNA profiling.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Knows that a sex cell (gamete) contains half the genetic information needed to a make a complete individual.",
+            "Explains how the nuclei of an egg and a sperm (sex cells) fuse through the process of fertilisation and how the fertilised egg divides repeatedly to form an embryo.",
+            "Identifies the main structures within the pregnant womb (for example, placenta, amniotic fluid and umbilical cord) and describes their function.",
+            "Gives examples of substances, including toxins, which can cross the placenta from the mother to the embryo and demonstrates understanding of the potential damage to the embryo.",
+            "Knows that DNA is found in the nucleus of most cells and that it contains the instructions for the development and function of living things (genetic code)",
+            "Describes a gene as a piece of DNA which controls specific characteristics in an individual and demonstrates understanding that every individual has a unique combination of genes.",
+            "Describes DNA profiling as a way of using technology to analyse DNA to see a unique pattern for an individual and gives examples of practical applications (paternity tests and forensics).",
+            "Presents reasoned arguments on the ethical implications of collection, processing, storage and ownership of genetic information or DNA profiles."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Biological systems",
+        "eAndOSetSubSectionName": "Inheritance ",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 3-15a",
+                "sentences": [
+                    {
+                        "sentence": "I have developed my knowledge of the Periodic Table by considering the properties and uses of a variety of elements relative to their positions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-15b",
+                "sentences": [
+                    {
+                        "sentence": "Having contributed to a variety of practical activities to make and break down compounds, I can describe examples of how the properties of compounds are different from their constituent elements.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-16a",
+                "sentences": [
+                    {
+                        "sentence": "I can differentiate between pure substances and mixtures in common use and can select appropriate physical methods for separating mixtures into their components.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-16b",
+                "sentences": [
+                    {
+                        "sentence": "I have taken part in practical investigations into solubility using different solvents and can apply what I have learned to solve everyday practical problems.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Investigates and describes properties of metals and non-metals, for example, appearance, conductivity of electricity, position in the Periodic Table and their uses linked to their properties.",
+            "Knows that elements are organised in the Periodic Table by atomic number, each with its own unique symbol, and that elements with similar chemical properties are placed together in vertical groups",
+            "Identifies and names the groups ‘alkali metals’, ‘halogens’ and ‘noble gases’ and describes their reactivity.",
+            "Investigates and describes at least two examples of compounds with properties that are different from their constituent elements, for example, hydrogen explosion and electrolysis of water.",
+            "Constructs names of two-element compounds which are derived from the names of the elements, from which it is formed, with a suffix of-ide.",
+            "Constructs word equations for simple reactions, for example, carbon reacting with oxygen: carbon + oxygen -> carbon dioxide.",
+            "Identifies elements present from simple molecular formulae.",
+            "Gives examples of pure substances and mixtures from everyday life.",
+            "Selects appropriate physical methods to separate mixtures into their components, for example, distillation, filtration and chromatography and justifies their choices.",
+            "Investigates and describes the solubility of substances in different solvents, for example, water and acetone/propanone.",
+            "Explains the link between the relative quantity of solute or solvent and changes in the concentration of a solution"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Materials",
+        "eAndOSetSubSectionName": "Properties and uses of substances",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 3-17a",
+                "sentences": [
+                    {
+                        "sentence": "Through evaluation of a range of data, I can describe the formation, characteristics and uses of soils, minerals and basic types of rocks",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-17b",
+                "sentences": [
+                    {
+                        "sentence": "I can participate in practical activities to extract useful substances from natural resources.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Applies knowledge of the rock cycle to describe the formation and characteristics of sedimentary, igneous and metamorphic rocks and gives at least one example of how each is used.",
+            "Describes the formation and characteristics of loam, sand and clay soil types, providing examples of their uses, for example, in agriculture, building and beauty products.",
+            "Researches the formation, characteristics and uses of at least two common minerals, for example, quartz or gypsum and communicates their findings to others using a range of media.",
+            "Investigates and describes how at least two useful substances can be extracted from natural resources, for example, metal from mineral ores, dyes from plants and oils from plants."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Materials",
+        "eAndOSetSubSectionName": "Earth’s materials",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 3-18a",
+                "sentences": [
+                    {
+                        "sentence": "Having taken part in practical activities to compare the properties of acids and bases, I have demonstrated ways of measuring and adjusting pH and can describe the significance of pH in everyday life.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-19a",
+                "sentences": [
+                    {
+                        "sentence": "Through experimentation, I can identify indicators of chemical reactions having occurred. I can describe ways of controlling the rate of reactions and can relate my findings to the world around me.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-19b",
+                "sentences": [
+                    {
+                        "sentence": "I have helped to design and carry out practical activities to develop my understanding of chemical reactions involving the Earth’s materials. I can explain how we apply knowledge of these reactions in practical ways",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Knows that indicators, such as universal indicator, are chemicals which produce different colours when placed in acid and alkali/bases.",
+            "Investigates and describes the colour changes of indicators when added to acid/bases.",
+            "Investigates and describes the pH of some everyday substances.",
+            "Identifies substances as acidic (pH of less than 7), alkaline/basic (pH greater than 7) or neutral (equal to 7).",
+            "Investigates and describes what happens to the pH when an acid is added to an alkali/basic.",
+            "Identifies indicators of chemical reactions such as colour change, precipitate formation, release of gas, and/or a detectable energy change.",
+            "Finds the relationship between particle size, concentration temperature and catalysts and the rate of a reaction",
+            "Explains how catalysts, including enzymes, can be used to speed up chemical reactions, and provides at least two everyday examples of reactions involving a catalyst.",
+            "Describes chemical reactions involving the Earth’s materials, for example, combustion of fossil fuels, carbonate rocks reacting with acid and the formation and impact of acid rain."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Materials",
+        "eAndOSetSubSectionName": "Chemical changes",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "SCN 3-20a",
+                "sentences": [
+                    {
+                        "sentence": "I have collaborated with others to find and present information on how scientists from Scotland and beyond have contributed to innovative research and development.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "SCN 3-20b",
+                "sentences": [
+                    {
+                        "sentence": "Through research and discussion, I have contributed to evaluations of media items with regard to scientific content and ethical implications.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Collaborates with others to research how scientists, and those who use science in their jobs, have contributed to the development of scientific ideas.",
+            "Communicates findings in a suitable way to give an example of how scientists contribute to innovative research and development.",
+            "Gives examples of how skills developed through science are used in a wide variety of jobs and careers including science, technology, engineering and mathematics (STEM) careers.",
+            "Demonstrates understanding of bias and separates fact from opinion taking into account a range of reasons for bias, for example, selective sampling and political views.",
+            "Analyses the scientific content in media items and presents a reasoned argument on the ethical implications of the scientific issue being explored"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "SCIENCE",
+        "eAndOSetSectionName": "Topical science",
+        "eAndOSetSubSectionName": "Topical science",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
     }
 ]
