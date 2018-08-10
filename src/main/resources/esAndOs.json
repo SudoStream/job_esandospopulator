@@ -7631,34 +7631,1481 @@
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
     },
-
-
-
-
-
-
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
-                "code": "",
+                "code": "TCH 0-01a",
                 "sentences": [
                     {
-                        "sentence": "",
+                        "sentence": "I can explore digital technologies and use what I learn to solve problems and share ideas and thoughts",
                         "bulletPoints": []
                     }
                 ]
             }
         ],
         "associatedBenchmarks": [
+            "Recognises different types of digital technology",
+            "Identifies the key components of different types of digital technology",
+            "Logs on to a preferred device with a given password",
+            "Identifies icons for different applications.",
+            "Opens and close a pre-saved file",
+            "Identifies and consistently use the close icon",
+            "Uses digital technologies in a responsible way and with appropriate care."
         ],
-        "curriculumLevel": "",
-        "curriculumAreaName": "SOCIAL_STUDIES",
-        "eAndOSetSectionName": "",
-        "eAndOSetSubSectionName": "",
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Digital Literacy",
+        "eAndOSetSubSectionName": "Using digital products and services in a variety of contexts to achieve a purposeful outcome",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 0-02a",
+                "sentences": [
+                    {
+                        "sentence": "I can use digital technologies to explore how to search and find information.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies and uses images and key words when searching for specific information",
+            "Demonstrates an understanding of how information can be found on websites as text, audio, images and video",
+            "Demonstrates an understanding of how they should not use materials owned by others without permission"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Digital Literacy",
+        "eAndOSetSubSectionName": "Searching, processing and managing information responsibly",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 0-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can explore, play and communicate using digital technologies safely and securely",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates an understanding of appropriate behaviour and language in the digital environment",
+            "Demonstrates an understanding of the importance of passwords and passcodes for example access to school building."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Digital Literacy",
+        "eAndOSetSubSectionName": "Cyber resilience and internet safety",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 0-04a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy exploring and working with foods in different contexts",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 0-04b",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy experimenting with a range of textiles",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 0-04c",
+                "sentences": [
+                    {
+                        "sentence": "I can share their thoughts with others to help further develop ideas and solve problems.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates simple food preparation techniques, for example, peeling, slicing, mixing, spreading",
+            "Demonstrates simple techniques with textiles, for example, threading cards, selecting materials, gluing"
+            "Explores and identifies at least two ideas by using given resources to solve the problem",
+            "Selects an appropriate solution."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Food and Textile",
+        "eAndOSetSubSectionName": "Food and Textile",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 0-05a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy playing with and exploring technologies to discover what they can do and how they can help us.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Discusses times when they have used different technologies."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Technological Developments in Society and Business",
+        "eAndOSetSubSectionName": "Awareness of technological developments (Past, Present and Future), including how they work.",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 0-06a",
+                "sentences": [
+                    {
+                        "sentence": "To help care for the environment, I reduce, re-use and recycle the resources I use.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 0-07a",
+                "sentences": [
+                    {
+                        "sentence": "I understand how local shops and services use technologies to provide us with what we need and want in our daily lives.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Understands what can be reduced, re-used and recycled.",
+            "Gives examples of how people (for example police, fire, healthcare) who help us use technologies in their everyday work."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Technological Developments in Society and Business",
+        "eAndOSetSubSectionName": "Impact, contribution, and relationship of technologies on business, the economy, politics, and the environment",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 0-09a",
+                "sentences": [
+                    {
+                        "sentence": "I explore ways to design and construct models",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Builds models using different materials eg. junk modelling, wooden blocks",
+            "Uses tools and materials (paper, card, wood, plastic) to create models"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Design and constructing models/product",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 0-10a",
+                "sentences": [
+                    {
+                        "sentence": "I explore everyday materials in the creation of pictures/models/concepts",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Describes materials by touch for example sticky, squidgy, soft, fluffy, hard, rough, wet, heavy, light",
+            "Uses a range of materials when creating a pictures/models/concepts",
+            "Identifies when a material is suitable or not for specific function or task"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Exploring uses of materials",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 0-11a",
+                "sentences": [
+                    {
+                        "sentence": "I explore and discover different ways of representing ideas in imaginative ways.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses a range of materials(natural and man-made) and resources to create pictures",
+            "Shares ideas with others",
+            "Recognise 2D shapes and how they can be used to visually represent ideas/concepts"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Representing ideas, concepts and products through a variety of graphic media",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 0-12a",
+                "sentences": [
+                    {
+                        "sentence": "I explore a variety of products covering a range of engineering disciplines",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Recognises engineering in the world around them for example bridges, construction, electronics, computers"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Application of Engineering",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 0-13a",
+                "sentences": [
+                    {
+                        "sentence": "I can explore computational thinking processes involved in a variety of everyday tasks and can identify patterns in objects or information",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies and sequences the main steps in an everyday task to create instructions/an algorithm for example, washing hands",
+            "Classifies objects and groups them into simple categories for examples, groups toy bricks according to colour.",
+            "Identifies patterns, similarities and differences in objects or information such as colour, size and temperature and simple relationships between them."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Computing Science",
+        "eAndOSetSubSectionName": "Understanding the world through computational thinking",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 0-14a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that sequences of instructions are used to control computing technology.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 0-14b",
+                "sentences": [
+                    {
+                        "sentence": "I can experiment with and identify uses of a range of computing technology in the world around me",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates an understanding of how symbols can represent process and information.",
+            "Predicts what a device or person will do when presented with a sequence of instructions for example, arrows drawn on paper.",
+            "Identifies computing devices in the world (including those hidden in appliances and objects such as automatic doors)."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Computing Science",
+        "eAndOSetSubSectionName": "Understanding and analysing computing technology",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 0-15a",
+                "sentences": [
+                    {
+                        "sentence": "I can develop a sequence of instructions and run them using programmable devices or equivalent",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Designs a simple sequence of instructions/algorithm for programmable device to carry out a task for example, directional instructions: forwards/backwards."
+            "Identifies and corrects errors in a set of instructions."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Computing Science",
+        "eAndOSetSubSectionName": "Designing, building and testing computing solutions",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 1-01a",
+                "sentences": [
+                    {
+                        "sentence": "I can explore and experiment with digital technologies and can use what I learn to support and enhance my learning in different contexts.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Communicate and collaborate with others using digital technology for example, email, Glow or other platforms.",
+            "Opens and saves a file to and from a specific location",
+            "Identifies the key components of frequently used digital technology and whether it is a piece of hardware or software.",
+            "Uses digital technology to collect, capture, combine and share text, sound, video and images"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Digital Literacy",
+        "eAndOSetSubSectionName": "Using digital products and services in a variety of contexts to achieve a purposeful outcome",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 1-02a",
+                "sentences": [
+                    {
+                        "sentence": "Using digital technologies responsibly I can access, retrieve and use information to support, enrich or extend learning in different contexts",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates an understanding of the concept of ownership of material and ideas.",
+            "Demonstrates an understanding of the different functions of a browser and search engine",
+            "Recognises what should and shouldn‟t be searched for on the Internet."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Digital Literacy",
+        "eAndOSetSubSectionName": "Searching, processing and managing information responsibly",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 1-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can extend my knowledge of how to use digital technology to communicate with others and I am aware of ways to keep safe and secure",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates understanding of my rights and responsibilities as a digital citizen",
+            "Demonstrates understanding of the potential dangers online and who to go to for advice and who to report a concern to.",
+            "Demonstrates an understanding for the need for strong passwords",
+            "Explains the need to get a person‟s permission before taking a picture or video of them."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Digital Literacy",
+        "eAndOSetSubSectionName": "Cyber resilience and internet safety",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 1-04a",
+                "sentences": [
+                    {
+                        "sentence": "I can use a range of simple food preparation techniques when working with food",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 1-04b",
+                "sentences": [
+                    {
+                        "sentence": "I can use a range of tools and equipment when working with textiles",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 1-04c",
+                "sentences": [
+                    {
+                        "sentence": "I am developing and using problem solving strategies to meet challenges with a food or textile focus",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 1-04d",
+                "sentences": [
+                    {
+                        "sentence": "I can adapt and improve ideas and can express my own thinking in different ways",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates a range of practical skills when preparing foods for example washing, using a peeler, juicing, grating, cutting, simple knife skills (claw grip/bridge hold)",
+            "Uses a range of equipment when working with textiles, for example, scissors, rulers/tape measures, bodkin and wool",
+            "Investigates a simple problem /challenge which includes given criteria",
+            "Explores and identifies a range of ideas to solve the challenge / problem",
+            "Selects and uses resources to make the solution/solve the problem",
+            "Assesses solution against original criteria"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Food and Textile",
+        "eAndOSetSubSectionName": "Food and Textile",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 1-05a",
+                "sentences": [
+                    {
+                        "sentence": "I can explore the latest technologies and consider the ways in which they have developed.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies changes to technologies for example, televisions and mobile phones."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Technological Developments in Society and Business",
+        "eAndOSetSubSectionName": "Awareness of technological developments (Past, Present and Future), including how they work",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 1-06a",
+                "sentences": [
+                    {
+                        "sentence": "I can take appropriate action to ensure conservation of materials and resources, considering the impact of my actions on the environment",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 1-07a",
+                "sentences": [
+                    {
+                        "sentence": "I understand how technologies help provide for our needs and wants, and how they can affect the environment in which we live",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies ways in which energy can be saved.",
+            "Understands how and where we waste materials and resources.",
+            "Demonstrates an understanding of how technologies, by meeting our needs and wants, affect the environment in which we live."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Technological Developments in Society and Business",
+        "eAndOSetSubSectionName": "Impact, contribution, and relationship of technologies on business, the economy, politics, and the environment.",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 1-09a",
+                "sentences": [
+                    {
+                        "sentence": "I can design and construct models and explain my solutions",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Creates and justifies a solution to a given design challenge considering who is it for, where and how will it be used",
+            "Uses appropriate tools and joining methods to construct a model"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Design and constructing models/product",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 1-10a",
+                "sentences": [
+                    {
+                        "sentence": "I can recognise a variety of materials and suggest an appropriate material for a specific use",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies different materials",
+            "States the properties of materials (hard, soft...)",
+            "Recognises different materials and why they have been selected for a task",
+            "Selects materials to use in a specific task"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Exploring uses of materials",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 1-11a",
+                "sentences": [
+                    {
+                        "sentence": "I can explore and experiment with sketching, manually or digitally, to represent ideas in different learning contexts",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Recognises 2D and 3D shapes and how they can be used to visually represent ideas/concepts",
+            "Creates manual and/or digital sketches to represent ideas."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Representing ideas, concepts and products through a variety of graphic media",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 1-12a",
+                "sentences": [
+                    {
+                        "sentence": "I explore and discover engineering disciplines and can create solutions.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Recognises and identify different engineering disciplines",
+            "Builds a solution to a specific task, which has moving parts."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Application of Engineering",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 1-13a",
+                "sentences": [
+                    {
+                        "sentence": "I can explore and comment on processes in the world around me making use of core computational thinking concepts and can organise information in a logical way",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Follows sequences of instructions/algorithms from everyday situations for example, recipes or directions, including those with selection and repetition.",
+            "Identifies steps in a process and describes precisely the effect of each step",
+            "Makes decisions based on logical thinking including IF, AND, OR and NOT for example, collecting balls in the gym hall but NOT basketballs, line up if you are left-handed OR have green eyes",
+            "Collects, groups and orders information in a logical, organised way using my own and others criteria"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Computing Science",
+        "eAndOSetSubSectionName": "Understanding the world through computational thinking",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 1-14a",
+                "sentences": [
+                    {
+                        "sentence": "I understand the instructions of a visual programming language and can predict the outcome of a program written using the language",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 1-14b",
+                "sentences": [
+                    {
+                        "sentence": "I understand how computers process information.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates an understanding of the meaning of individual instructions when using a visual programming language (including sequences, fixed repetition and selection).",
+            "Explains and predicts what a program in a visual programming language will do when it runs for example, what audio, visual or movement effect will result.",
+            "Demonstrates an understanding that computers take information as input, process and store that information and output the results."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Computing Science",
+        "eAndOSetSubSectionName": "Understanding and analysing computing technology",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 1-15a",
+                "sentences": [
+                    {
+                        "sentence": "I can demonstrate a range of basic problem solving skills by building simple programs to carry out a given task, using an appropriate language.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Simplifies problems by breaking them down into smaller more manageable parts",
+            "Constructs a sequence of instructions to solve a task, explaining the expected output from each step and how each to contributes towards solving the task.",
+            "Creates programs to carry out activities (using selection and fixed repetition) in an visual programming language.",
+            "Identifies when a program does not do what was intended and can correct errors/bugs.",
+            "Evaluates solutions/programs and suggests improvements"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Computing Science",
+        "eAndOSetSubSectionName": "Designing, building and testing computing solutions",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 2-01a",
+                "sentences": [
+                    {
+                        "sentence": "I can extend and enhance my knowledge of digital technologies to collect, analyse ideas, relevant information and organise these in an appropriate way",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies and saves in a range of standard file formats",
+            "Saves files using an organised filing system.",
+            "Stores, shares and collaborates using an online cloud based service for example, Glow or other platforms",
+            "Identifies the key features of input, output and storage devices.",
+            "Selects and use applications and software to capture, create and modify text, images, sound and video",
+            "Selects the most appropriate digital software to perform a task"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Digital Literacy",
+        "eAndOSetSubSectionName": "Using digital products and services in a variety of contexts to achieve a purposeful outcome",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 2-02a",
+                "sentences": [
+                    {
+                        "sentence": "I can use digital technologies to search, access and retrieve information and are aware that not all of this information will be credible.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses search engines to search the internet for specific or relevant information for example, using quotation marks to narrow the results.",
+            "Access websites and use navigation skills to retrieve information for a specific task.",
+            "Demonstrates an understanding of usage rights and can apply these within a search for example creative commons"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Digital Literacy",
+        "eAndOSetSubSectionName": "Searching, processing and managing information responsibly",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 2-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can explore online communities demonstrating an understanding of responsible digital behaviour and I‟m aware of how to keep myself safe and secure.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates an understanding of the content they should include in an online profile",
+            "Discusses the importance of being a responsible digital citizen, giving examples of appropriate online behaviours and actions",
+            "Identifies appropriate ways to report concerns",
+            "Uses strong passwords",
+            "Has an understanding of the law as it relates to inappropriate or illegal online behaviours, for example, the sharing of inappropriate images"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Digital Literacy",
+        "eAndOSetSubSectionName": "Cyber resilience and internet safety",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 2-04a",
+                "sentences": [
+                    {
+                        "sentence": "I am developing dexterity, creativity and confidence when preparing and cooking food",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 2-04b",
+                "sentences": [
+                    {
+                        "sentence": "I am developing dexterity, creativity and confidence when working with textiles",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 2-04c",
+                "sentences": [
+                    {
+                        "sentence": "I can extend and explore problem solving strategies to meet increasingly difficult challenges with a food or textile focus",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 2-04d",
+                "sentences": [
+                    {
+                        "sentence": "I can discuss, debate and improve my ideas with increasing confidence and clear explanations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates an increasing range of practical skills and cooking techniques for example accurate weighing and measuring, kneading, chopping, baking, grilling",
+            "Demonstrates manual dexterity , for example, cutting more intricate shapes, manipulating fabrics and embellishments to create designs on fabric, using a needle and thread, attaching designs onto fabric",
+            "Investigates a challenge / problem",
+            "Identifies and demonstrates ways to solve the challenge / problem",
+            "Identifies and selects appropriate resources to solve the challenge/problem",
+            "Plans and makes the solution",
+            "Assesses solution against own criteria",
+            "Identifies at least one possible improvement"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Food and Textile",
+        "eAndOSetSubSectionName": "Food and Textile",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 2-05a",
+                "sentences": [
+                    {
+                        "sentence": "I can investigate how product design and development have been influenced by changing lifestyles.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Gives examples of how our changing lifestyles have impacted on product design"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Technological Developments in Society and Business",
+        "eAndOSetSubSectionName": "Awareness of technological developments (Past, Present and Future), including how they work.",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 2-06a",
+                "sentences": [
+                    {
+                        "sentence": "I can analyse how lifestyles can impact on the environment and Earth‟s resources and can make suggestions about how to live in a more sustainable way",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 2-07",
+                "sentences": [
+                    {
+                        "sentence": "I can make suggestions as to how individuals and organisations may use technologies to support sustainability and reduce the impact on our environment.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explains how and why it is important to conserve energy.",
+            "Discusses the advantages and disadvantages of how technologies impact on the environment for example, renewable energy technologies."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Technological Developments in Society and Business",
+        "eAndOSetSubSectionName": "Impact, contribution, and relationship of technologies on business, the economy, politics, and the environment",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 2-09a",
+                "sentences": [
+                    {
+                        "sentence": "I can extend and enhance my design skills to solve problems and can construct models",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses tools and equipment in order to carry out a task safely.",
+            "Uses a range of methods to join and strengthen materials",
+            "Estimates and then measures accurately using appropriate units and tools",
+            "Creates a range of ideas and chooses a suitable solution",
+            "Evaluates solutions and explains why they are or are not suitable"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Design and constructing models/product",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 2-10a",
+                "sentences": [
+                    {
+                        "sentence": "I can recognise basic properties and uses for a variety of materials and can discuss which ones are most suitable for a given task.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Recognises characteristics of groups of materials such as wood, plastic and metal",
+            "Selects suitable materials to use in a task",
+            "Discuss the uses of materials"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Exploring uses of materials",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 2-11a",
+                "sentences": [
+                    {
+                        "sentence": "I can use a range of graphic techniques, manually and digitally, to communicate ideas, concepts or products, experimenting with the use of shape, colour and texture to enhance my work.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Sketches geometric shapes to create objects",
+            "Produces sketches to communicate ideas that include pattern and texture",
+            "Draws geometric shapes accurately.",
+            "Sketches 2D and 3D drawings of objects",
+            "Describes primary and secondary colours and the moods/feeling associated with each",
+            "Demonstrates planning for a targeted audience when creating a of graphic display"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Representing ideas, concepts and products through a variety of graphic media",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 2-12a",
+                "sentences": [
+                    {
+                        "sentence": "I can extend my knowledge and understanding of engineering disciplines to create solution.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Understands the difference between different engineering disciplines",
+            "Understands different energy types",
+            "Builds/simulates solutions to engineering problems"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Application of Engineering",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 2-13a",
+                "sentences": [
+                    {
+                        "sentence": "I understand the operation of a process and its outcome. I can structure related items of information",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Compares activities consisting of a single sequence of steps with those consisting of multiple parallel steps, for example, making tomato sauce and cooking pasta to be served at the same time",
+            "Identifies algorithms/instructions that include repeated groups of instructions a fixed number of times and/or loops until a condition is met.",
+            "Identifies when a process is not predictable because it has a random element for example, a board game which uses dice.",
+            "Structures related items of information for example, a family tree",
+            "Uses a recognised set of instructions/ an algorithm to sort real worlds objects for examples, books in a library or trading cards."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Computing Science",
+        "eAndOSetSubSectionName": "Understanding the world through computational thinking",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 2-14a",
+                "sentences": [
+                    {
+                        "sentence": "I can explain core programming language concepts in appropriate technical language.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 2-14b",
+                "sentences": [
+                    {
+                        "sentence": "I understand how information is stored and how key components of computing technology connect and interact through networks.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explains the meaning of individual instructions (including variables and conditional repetition) in a visual programming language",
+            "Predicts what a complete program in a visual programming language will do when it runs, including how the properties of objects for example, position, direction and appearance change as the program runs through each instruction",
+            "Explains and predicts how parallel activities interact",
+            "Demonstrates an understanding that all computer data is represented in binary for example, numbers, text, black and white graphics.",
+            "Describes the purpose of the processor, memory and storage and the relationship between them",
+            "Demonstrates an understanding of how networks are connected and used to communicate and share information, for example the internet."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Computing Science",
+        "eAndOSetSubSectionName": "Understanding and analysing computing technology",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 2-15a",
+                "sentences": [
+                    {
+                        "sentence": "I can create, develop and evaluate computing solutions in response to a design challenge",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Creates programs in a visual programming language including variables and conditional repetition",
+            "Identifies patterns in problem solving and reuses aspects of previous solutions appropriately for example, reuse code for a timer, score counter or controlling arrow keys",
+            "Identifies any mismatches between the task description and the programmed solution, and indicates how to fix them."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Computing Science",
+        "eAndOSetSubSectionName": "Designing, building and testing computing solutions",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 3-01a",
+                "sentences": [
+                    {
+                        "sentence": "I can explore and use the features of a range of digital technologies, integrated software and online resources to determine the most appropriate to solve problems.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses the most appropriate applications and software tools to capture, create and modify text, images, sound, and video to present and collaborate.",
+            "Demonstrates an understanding of file handling for example, uploading, downloading, sharing and permission setting, for example within Glow or other platforms."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Digital Literacy",
+        "eAndOSetSubSectionName": "Using digital products and services in a variety of contexts to achieve a purposeful outcome",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 3-02a",
+                "sentences": [
+                    {
+                        "sentence": "Having used digital technologies to search, access and retrieve information I can justify my selection in terms of validity, reliability and have an awareness of plagiarism.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Gathers and combines data and information from a range of sources to create a publication, presentation or information resource.",
+            "Uses applications to analyse data and identify trends/make predictions based on source data",
+            "Demonstrates efficient searching techniques for example using AND, OR, NOT"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Digital Literacy",
+        "eAndOSetSubSectionName": "Searching, processing and managing information responsibly",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 3-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can keep myself safe and secure in online environments and I am aware of the importance and consequences of doing this for myself and others",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates an understanding of the legal implications and importance of protecting their own and others‟ privacy when communicating online.",
+            "Evaluates online presence and identifies safe guards",
+            "Present relevant ideas and information to explain risks to safety and security of their personal devices and networks including encryption.",
+            "Applies appropriate online safety features when becoming involved with online communities such as online gaming, chat rooms, forums and social media.",
+            "Demonstrate an understanding of different cyber threats, for example, viruses, phishing, identity theft, extortion and sextortion.",
+            "Demonstrates understanding of device security including personal and domestic devices."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Digital Literacy",
+        "eAndOSetSubSectionName": "Cyber resilience and internet safety",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 3-04a",
+                "sentences": [
+                    {
+                        "sentence": "I am gaining confidence and dexterity in the use of ingredients and equipment and can apply specialist skills in preparing food.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 3-04b",
+                "sentences": [
+                    {
+                        "sentence": "I can use textile skills in practical and creative situations in my place of learning, at home or in the world of work",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 3-04",
+                "sentences": [
+                    {
+                        "sentence": "By using problem-solving strategies and showing creativity in a design challenge, I can plan, develop, make and evaluate food or textile items which meet needs at home or in the world of work.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Selects from and uses a wider range of ingredients and a more complex range of skills and equipment, for example, rubbing-in, shaping, simmering, creaming, decorating, garnishing ",
+            "Demonstrates competence when pinning, tacking and using a sewing machine, for example, can measure accurately, place pins at correct measurement, tack neatly and sew a straight line and curve on a sewing machine, following marked lines",
+            "Uses a variety of practical skills to create a personalised item",
+            "Uses a range of strategies to investigate a design brief and create a specification",
+            "Identifies and demonstrates creative and innovative ways to solve the design brief",
+            "Researches materials and resources available",
+            "Designs and makes new product",
+            "Evaluates the product against own specification and identifies how it could be improved"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Food and Textile",
+        "eAndOSetSubSectionName": "Food and Textile",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 3-05a",
+                "sentences": [
+                    {
+                        "sentence": "I understand how scientific and technological developments have contributed to changes in everyday products",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Discusses advantages and disadvantages of using technologies in our everyday life."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Technological Developments in Society and Business",
+        "eAndOSetSubSectionName": "Awareness of technological developments (Past, Present and Future), including how they work",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 3-06a",
+                "sentences": [
+                    {
+                        "sentence": "I can evaluate the implications forindividuals and societies of the ethical issues arising from technological developments",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 3-07a",
+                "sentences": [
+                    {
+                        "sentence": "I can identify the costs and benefits of using technologies to reduce the impact of our activities on the environment and business.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 3-08a",
+                "sentences": [
+                    {
+                        "sentence": "I can explore the impact, contribution and use of various software applications and emerging hardware in business.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrate an awareness of ethical issues around product development",
+            "Demonstrates an understanding of the impact of technologies on the environment and business",
+            "Searches, edits and manipulates text and numbers using appropriate hardware and software"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Technological Developments in Society and Business",
+        "eAndOSetSubSectionName": "Impact, contribution, and relationship of technologies on business, the economy, politics, and the environment.",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 3-09",
+                "sentences": [
+                    {
+                        "sentence": "I can create solutions in 3D and 2D and can justify the construction/graphic methods and the design features",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses aspects of the design process to reach a solution for a given brief",
+            "Identifies relevant design factors in a design brief",
+            "Applies knowledge of design factors and construction methods to justify a design solution",
+            "Uses tools and equipment to manufacture models/products",
+            "Applies safe working practices when creating a model/product",
+            "Extracts dimensions from a drawing and transfer these onto materials to create a model/product"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Design and constructing models/product",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 3-10a",
+                "sentences": [
+                    {
+                        "sentence": "I can explore the properties and performance of materials before justifying the most appropriate material for a task",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies the different categories of materials.",
+            "Recognises that materials have different properties and uses.",
+            "Recognises that material properties have an impact upon manufacturing processing choices.",
+            "Recognises that materials come in different forms.",
+            "Justifies selection of materials when developing a solution to a problem or brief",
+            "Discusses sustainability and environmental impact of sourcing and using different materials"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Exploring uses of materials",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 3-11a",
+                "sentences": [
+                    {
+                        "sentence": "I can apply a range of graphic techniques and standards when producing images using sketching, drawing and software.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Produces sketches which show an understanding of proportion",
+            "Produces 2D and 3D sketches using a range of techniques.",
+            "Produces rendered drawings which may include colour, surface texture, tonal change",
+            "Justifies the choice of colours, layout in a promotional graphics.",
+            "Recognises design principles and DTP terms.",
+            "Produces orthographic and pictorial drawings/sketches of everyday objects, products or buildings by extracting information from given pictorial drawings accurately",
+            "Use appropriate drawing standards, symbols and conventions where these apply",
+            "Uses computer aided design (CAD) commands, techniques and practices required to create a model.",
+            "Produces 3D rendered CAD models",
+            "Produces a range of 2D and 3D CAD drawings"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Representing ideas, concepts and products through a variety of graphic media",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 3-12a",
+                "sentences": [
+                    {
+                        "sentence": "I can apply my knowledge and understanding of engineering disciplines and can develop/build solutions to given tasks.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explain why something is an Input, process, output.",
+            "Builds/simulates solutions to engineering problems",
+            "Explains energy transfers within a system",
+            "Uses given formulae to calculate outcomes to engineering problems."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Craft, Design, Engineering and graphics",
+        "eAndOSetSubSectionName": "Application of Engineering",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 3-13a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe different fundamental information processes and how they communicate and can identify their use in solving different problems",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 3-13b",
+                "sentences": [
+                    {
+                        "sentence": "I am developing my understanding of information and can use an information model to describe particular aspects of a real world system",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Recognises and describes information systems with communicating processes which occur in the world around me",
+            "Explains the difference between parallel processes and those that communicate with each other",
+            "Demonstrates an understanding of the basic principles of compression and encryption of information",
+            "Identifies a set of characteristics describing a collection of related items that enable each item to be individually identified",
+            "Identifies the use of common algorithms such as sorting and searching as part of larger processes."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Computing Science",
+        "eAndOSetSubSectionName": "Understanding the world through computational thinking",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 3-14a",
+                "sentences": [
+                    {
+                        "sentence": "I understand language constructs for representing structured information",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "TCH 3-14b",
+                "sentences": [
+                    {
+                        "sentence": "I can describe the structure and operation of computing systems which have multiple software and hardware levels that interact with each other.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Understands that the same information could be represented in more than one representational system",
+            "Understands that different information could be represented in exactly the same representation",
+            "Demonstrates an understanding of structured information in programs, databases or webpages",
+            "Describes the effect of mark-up language on the appearance of a webpage, and understand that this may be different on different devices",
+            "Demonstrates an understanding of the von Neumann architecture and how machine code instructions are stored and executed within a computer system",
+            "Reads and explains code extracts including those with variables and data structures",
+            "Demonstrate an understanding of how computers communicate and share information over networks including the concepts of sender, receiver, address and packets",
+            "Understands simple compression and encryption techniques used in computing technology"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Computing Science",
+        "eAndOSetSubSectionName": "Understanding and analysing computing technology",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "TCH 3-15a",
+                "sentences": [
+                    {
+                        "sentence": "I can select appropriate development tools to design, build, evaluate and refine computing solutions based on requirements",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Designs and builds a program using a visual language combining constructs and using multiple variables.",
+            "Represents and manipulates structured information in programs, or databases for example, works with a list data structure in a visual language, or a flat file database.",
+            "Interprets a problem statement, and identifies processes and information to create a physical computing and/or software solution.",
+            "Can find and correct errors in program logic.",
+            "Groups related instructions into named subprograms (in a visual language).",
+            "Writes code in which there is communication between parallel processes (in a visual language).",
+            "Writes code which receives and responds to real world inputs (in a visual language).",
+            "Designs and builds web pages using appropriate mark-up languages."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "TECHNOLOGIES",
+        "eAndOSetSectionName": "Computing Science",
+        "eAndOSetSubSectionName": "Designing, building and testing computing solutions",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
     }
-
-
-
 ]
