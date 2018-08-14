@@ -887,7 +887,7 @@
                 ]
             },
             {
-                "code": "MNU 2-07b",    
+                "code": "MNU 2-07b",
                 "sentences": [
                     {
                         "sentence": "I can show the equivalent forms of simple fractions, decimal fractions and percentages, and can choose my preferred form when solving a problem, explaining my choice of method.",
@@ -6548,7 +6548,6 @@
         "responsibilityOfAllPractitioners": false
     },
 
-
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
@@ -7246,8 +7245,7 @@
                         "bulletPoints": []
                     }
                 ]
-            }
-            ,{
+            }, {
                 "code": "SOC 2-16c",
                 "sentences": [
                     {
@@ -11521,6 +11519,1812 @@
         "curriculumLevel": "THIRD",
         "curriculumAreaName": "RME__STANDARD",
         "eAndOSetSectionName": "Practices and Traditions",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 0-01a",
+                "sentences": [
+                    {
+                        "sentence": "I explore God’s natural world and I am beginning to see the wonder and awe of this gift in the world around me.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Talks about where they can see God’s creation. Recognises and identifies signs of God’s love",
+            "Shows love for others.",
+            "Shares what gifts they have and talks about how they are different from other people’s.",
+            "Asks and answers questions about their community and gives an example of how they are part of a Catholic community",
+            "Talks about and gives an example of why Sunday is special to Catholic Christians.",
+            "Knows that prayer is us talking to God.",
+            "Prays the sign of the cross",
+            "Participates in school liturgies.",
+            "Shows respect for the Bible and talks about why it should be treated with respect.",
+            "Talks about a story with Christian values.",
+            "Talks about the importance of Easter and Christmas for Christians.",
+            "Recalls the Christmas story and gives a reason as to why it is important.",
+            "States that Jesus is Son of God and Son of Mary and that Mary is our Mother.",
+            "Recalls the Easter story and gives a reason as to why it is important."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Mystery of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 0-02a",
+                "sentences": [
+                    {
+                        "sentence": "I can share my awareness of what makes me a unique child who has been given gifts from God.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Talks about where they can see God’s creation. Recognises and identifies signs of God’s love",
+            "Shows love for others.",
+            "Shares what gifts they have and talks about how they are different from other people’s.",
+            "Asks and answers questions about their community and gives an example of how they are part of a Catholic community",
+            "Talks about and gives an example of why Sunday is special to Catholic Christians.",
+            "Knows that prayer is us talking to God.",
+            "Prays the sign of the cross",
+            "Participates in school liturgies.",
+            "Shows respect for the Bible and talks about why it should be treated with respect.",
+            "Talks about a story with Christian values.",
+            "Talks about the importance of Easter and Christmas for Christians.",
+            "Recalls the Christmas story and gives a reason as to why it is important.",
+            "States that Jesus is Son of God and Son of Mary and that Mary is our Mother.",
+            "Recalls the Easter story and gives a reason as to why it is important."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "In the Image of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 0-03a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of God’s love for me and His call for me to be close to Him.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 0-04a",
+                "sentences": [
+                    {
+                        "sentence": "I am becoming aware of God as Father, Son and Holy Spirit.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Talks about where they can see God’s creation. Recognises and identifies signs of God’s love",
+            "Shows love for others.",
+            "Shares what gifts they have and talks about how they are different from other people’s.",
+            "Asks and answers questions about their community and gives an example of how they are part of a Catholic community",
+            "Talks about and gives an example of why Sunday is special to Catholic Christians.",
+            "Knows that prayer is us talking to God.",
+            "Prays the sign of the cross",
+            "Participates in school liturgies.",
+            "Shows respect for the Bible and talks about why it should be treated with respect.",
+            "Talks about a story with Christian values.",
+            "Talks about the importance of Easter and Christmas for Christians.",
+            "Recalls the Christmas story and gives a reason as to why it is important.",
+            "States that Jesus is Son of God and Son of Mary and that Mary is our Mother.",
+            "Recalls the Easter story and gives a reason as to why it is important."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Revealed Truth of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 0-05a",
+                "sentences": [
+                    {
+                        "sentence": "I am familiar with the Christmas story and I know that at Christmas we celebrate the birth of Jesus the Son of God and Son of Mary.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 0-07a",
+                "sentences": [
+                    {
+                        "sentence": "I am familiar with the Easter story and I understand that God raised Jesus from the dead to be with us.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Talks about where they can see God’s creation. Recognises and identifies signs of God’s love",
+            "Shows love for others.",
+            "Shares what gifts they have and talks about how they are different from other people’s.",
+            "Asks and answers questions about their community and gives an example of how they are part of a Catholic community",
+            "Talks about and gives an example of why Sunday is special to Catholic Christians.",
+            "Knows that prayer is us talking to God.",
+            "Prays the sign of the cross",
+            "Participates in school liturgies.",
+            "Shows respect for the Bible and talks about why it should be treated with respect.",
+            "Talks about a story with Christian values.",
+            "Talks about the importance of Easter and Christmas for Christians.",
+            "Recalls the Christmas story and gives a reason as to why it is important.",
+            "States that Jesus is Son of God and Son of Mary and that Mary is our Mother.",
+            "Recalls the Easter story and gives a reason as to why it is important."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Son of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 0-08a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of being part of a community and I have begun to explore aspects of the local Catholic community.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Talks about where they can see God’s creation. Recognises and identifies signs of God’s love",
+            "Shows love for others.",
+            "Shares what gifts they have and talks about how they are different from other people’s.",
+            "Asks and answers questions about their community and gives an example of how they are part of a Catholic community",
+            "Talks about and gives an example of why Sunday is special to Catholic Christians.",
+            "Knows that prayer is us talking to God.",
+            "Prays the sign of the cross",
+            "Participates in school liturgies.",
+            "Shows respect for the Bible and talks about why it should be treated with respect.",
+            "Talks about a story with Christian values.",
+            "Talks about the importance of Easter and Christmas for Christians.",
+            "Recalls the Christmas story and gives a reason as to why it is important.",
+            "States that Jesus is Son of God and Son of Mary and that Mary is our Mother.",
+            "Recalls the Easter story and gives a reason as to why it is important."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Signs of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 0-11",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of some Bible stories.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 0-12a",
+                "sentences": [
+                    {
+                        "sentence": "I know that the Bible is the inspired Word of God and that I should treat it with reverence.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Word of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 0-14a",
+                "sentences": [
+                    {
+                        "sentence": "I know that when I pray I am speaking to God.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 0-15a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware that Mary is the Mother of Jesus and Our Mother.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 0-16a",
+                "sentences": [
+                    {
+                        "sentence": "I can share that Sunday is a special day when the Catholic Christian community meets to celebrate Mass.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 0-17a",
+                "sentences": [
+                    {
+                        "sentence": "I have experienced liturgy as a community event",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 0-18a",
+                "sentences": [
+                    {
+                        "sentence": "I can recognise Easter and Christmas as special times for the Christian Community",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Hours of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 0-20a",
+                "sentences": [
+                    {
+                        "sentence": "I know that God invites us to show love to others",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 0-21a",
+                "sentences": [
+                    {
+                        "sentence": "I can respond to stories that reflect Christian values.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Reign of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 1-01a",
+                "sentences": [
+                    {
+                        "sentence": "I am discovering God’s precious gift of life and reflect on how this reveals God’s love for me.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Shares thoughts and feelings that God created and loves them and how life is a gift from God",
+            "Expresses that it is God who asks them to love others and shares how they put into practice love of God and love of neighbour.",
+            "Shares thoughts and feelings about how to make good choices. Describes and discusses how forgiveness and reconciliation are important in their relationship with God and others.",
+            "Participates in discussion and reflection about how God helps them and others in life and at difficult times.",
+            "Discusses ways in which they know the Holy Spirit is present in people’s lives.",
+            "Gives examples from the lives of the Saints of how the Holy Spirit strengthens faith.",
+            "States the names of the Trinity",
+            "Shares thoughts and feelings about why the Church honours Mary.",
+            "Participates respectfully in parts of the Mass",
+            "Says some prayers on their own and as part of a worshipping community.",
+            "Uses symbols and rituals to worship God.",
+            "Describes and discusses how signs and symbols helps them understand more about liturgical celebrations."
+            "Engages in discussion about Bible stories and describes in their own words how God speaks through them",
+            "Reflects upon and explains how these stories help them live a Christian life",
+            "Knows that the Bible is God’s Word and shows respect for the Bible.",
+            "Actively engages with the Christmas story and discusses its importance for Christians",
+            "Describes some facts about life in Palestine at the time of Jesus.",
+            "Gives a personal response to Jesus as teacher and healer",
+            "Describes and discusses the Passion, Death and Resurrection of Jesus.",
+            "Participates in discussion and reflection about the meaning of eternal life"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Mystery of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 1-02a",
+                "sentences": [
+                    {
+                        "sentence": "I know that a loving God has created me and that my uniqueness can develop according to God’s plan for me.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Shares thoughts and feelings that God created and loves them and how life is a gift from God",
+            "Expresses that it is God who asks them to love others and shares how they put into practice love of God and love of neighbour.",
+            "Shares thoughts and feelings about how to make good choices. Describes and discusses how forgiveness and reconciliation are important in their relationship with God and others.",
+            "Participates in discussion and reflection about how God helps them and others in life and at difficult times.",
+            "Discusses ways in which they know the Holy Spirit is present in people’s lives.",
+            "Gives examples from the lives of the Saints of how the Holy Spirit strengthens faith.",
+            "States the names of the Trinity",
+            "Shares thoughts and feelings about why the Church honours Mary.",
+            "Participates respectfully in parts of the Mass",
+            "Says some prayers on their own and as part of a worshipping community.",
+            "Uses symbols and rituals to worship God.",
+            "Describes and discusses how signs and symbols helps them understand more about liturgical celebrations."
+            "Engages in discussion about Bible stories and describes in their own words how God speaks through them",
+            "Reflects upon and explains how these stories help them live a Christian life",
+            "Knows that the Bible is God’s Word and shows respect for the Bible.",
+            "Actively engages with the Christmas story and discusses its importance for Christians",
+            "Describes some facts about life in Palestine at the time of Jesus.",
+            "Gives a personal response to Jesus as teacher and healer",
+            "Describes and discusses the Passion, Death and Resurrection of Jesus.",
+            "Participates in discussion and reflection about the meaning of eternal life"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "In the Image of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 1-03a",
+                "sentences": [
+                    {
+                        "sentence": "I am exploring God’s relationship with others and I have reflected on how people’s faith has helped them in difficult times.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-04a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe God as Father, Son and Holy Spirit and I have reflected on how God can support me in my life",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Shares thoughts and feelings that God created and loves them and how life is a gift from God",
+            "Expresses that it is God who asks them to love others and shares how they put into practice love of God and love of neighbour.",
+            "Shares thoughts and feelings about how to make good choices. Describes and discusses how forgiveness and reconciliation are important in their relationship with God and others.",
+            "Participates in discussion and reflection about how God helps them and others in life and at difficult times.",
+            "Discusses ways in which they know the Holy Spirit is present in people’s lives.",
+            "Gives examples from the lives of the Saints of how the Holy Spirit strengthens faith.",
+            "States the names of the Trinity",
+            "Shares thoughts and feelings about why the Church honours Mary.",
+            "Participates respectfully in parts of the Mass",
+            "Says some prayers on their own and as part of a worshipping community.",
+            "Uses symbols and rituals to worship God.",
+            "Describes and discusses how signs and symbols helps them understand more about liturgical celebrations.",
+            "Engages in discussion about Bible stories and describes in their own words how God speaks through them",
+            "Reflects upon and explains how these stories help them live a Christian life",
+            "Knows that the Bible is God’s Word and shows respect for the Bible.",
+            "Actively engages with the Christmas story and discusses its importance for Christians",
+            "Describes some facts about life in Palestine at the time of Jesus.",
+            "Gives a personal response to Jesus as teacher and healer",
+            "Describes and discusses the Passion, Death and Resurrection of Jesus.",
+            "Participates in discussion and reflection about the meaning of eternal life"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Revealed Truth of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 1-05a",
+                "sentences": [
+                    {
+                        "sentence": "I am familiar with the Christmas story and I know that at Christmas we celebrate the birth of Jesus the Son of God and Son of Mary.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-06a",
+                "sentences": [
+                    {
+                        "sentence": "I have examined some political, social, historical and religious elements in first-century Palestine and gained an understanding of Jesus’ life on earth.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-06b",
+                "sentences": [
+                    {
+                        "sentence": "I have examined the role of Jesus as a teacher and a healer and I have reflected on how His words and actions influence my own life and the lives of others",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-07a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored the events of the Passion, Death and Resurrection of Jesus and I have reflected on the Catholic meaning of eternal life.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+
+        ],
+        "associatedBenchmarks": [
+            "Shares thoughts and feelings that God created and loves them and how life is a gift from God",
+            "Expresses that it is God who asks them to love others and shares how they put into practice love of God and love of neighbour.",
+            "Shares thoughts and feelings about how to make good choices. Describes and discusses how forgiveness and reconciliation are important in their relationship with God and others.",
+            "Participates in discussion and reflection about how God helps them and others in life and at difficult times.",
+            "Discusses ways in which they know the Holy Spirit is present in people’s lives.",
+            "Gives examples from the lives of the Saints of how the Holy Spirit strengthens faith.",
+            "States the names of the Trinity",
+            "Shares thoughts and feelings about why the Church honours Mary.",
+            "Participates respectfully in parts of the Mass",
+            "Says some prayers on their own and as part of a worshipping community.",
+            "Uses symbols and rituals to worship God.",
+            "Describes and discusses how signs and symbols helps them understand more about liturgical celebrations.",
+            "Engages in discussion about Bible stories and describes in their own words how God speaks through them",
+            "Reflects upon and explains how these stories help them live a Christian life",
+            "Knows that the Bible is God’s Word and shows respect for the Bible.",
+            "Actively engages with the Christmas story and discusses its importance for Christians",
+            "Describes some facts about life in Palestine at the time of Jesus.",
+            "Gives a personal response to Jesus as teacher and healer",
+            "Describes and discusses the Passion, Death and Resurrection of Jesus.",
+            "Participates in discussion and reflection about the meaning of eternal life"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Son of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 1-08a",
+                "sentences": [
+                    {
+                        "sentence": "I know that through the Community of the Church, people can experience God’s love and care and I have reflected on how this community celebrates together",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-09a",
+                "sentences": [
+                    {
+                        "sentence": "I am exploring the Sacraments of Initiation and Reconciliation and I have reflected on how the Sacraments help to nurture faith.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-10a",
+                "sentences": [
+                    {
+                        "sentence": "I have examined the role of the Holy Spirit in my life and in the lives of others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Signs of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 1-11a",
+                "sentences": [
+                    {
+                        "sentence": "I can share some Bible stories and I can explore how God speaks to us through these stories. I have reflected on how these stories can help me to live a Christian life",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-12a",
+                "sentences": [
+                    {
+                        "sentence": "I know that the Bible is the inspired Word of God and that I should treat it with reverence.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Word of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 1-14a",
+                "sentences": [
+                    {
+                        "sentence": "I recognise the importance of personal prayer and communal prayer in the growth of all people’s relationship with God. I know a number of traditional Catholic prayers and I have developed an understanding of the meaning of these prayers. I have participated in different approaches to, and experiences of, prayer. I can describe how prayer is an important part of the liturgical and devotional life of the Church. I have reflected on how all of these are different ways of worshipping God.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-15a",
+                "sentences": [
+                    {
+                        "sentence": "I can honour Mary as Mother of Jesus and Our Mother. I can share why we honour her.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-16a",
+                "sentences": [
+                    {
+                        "sentence": "I know that the Mass is at the heart of Catholic community life and I am developing an understanding of how to participate fully in this celebration.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-17a",
+                "sentences": [
+                    {
+                        "sentence": "I have, through liturgical experiences, reflected on an ability to respond to symbols and take part in rituals in order to worship God.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-18a",
+                "sentences": [
+                    {
+                        "sentence": "I know some of the signs and symbols related to Lent, Easter, Pentecost, Advent and Christmastide and I can use this understanding to help me explore the themes of these celebrations.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-19a",
+                "sentences": [
+                    {
+                        "sentence": "I know that the Holy Spirit strengthens my faith and the faith of the saints and I have reflected on how the stories of the Saints can inspire me to live a more Christian life.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Hours of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 1-20a",
+                "sentences": [
+                    {
+                        "sentence": "I know that I have been called by God to grow in love, justice and peace in my relationships with others.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-21a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored the implications of Jesus’ command to love God and love my neighbour.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-22a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored the call to forgiveness and reconciliation and have reflected on how this can restore my relationship with God and others. I can put this understanding into practice in my relationship with God and others.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-23a",
+                "sentences": [
+                    {
+                        "sentence": "I know that God has given me the freedom to make choices about the way I live my life. I have reflected on how the decisions of my conscience affect my relationship with God and others.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-24a",
+                "sentences": [
+                    {
+                        "sentence": "I have considered ways in which the Catholic Christian community works together to show care for the world and for the needs of all people. I have reflected on the implications of this for my life and that of others",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Reign of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 1-25a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware that the Jewish and/or Muslim communities believe in God.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Beliefs in other World Religions",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 1-26a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of family and community values in the Jewish and/or Muslim faiths.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Describes and discusses basic beliefs of Jewish people / Muslims about God and family and community values.",
+            "Identifies and discusses the places of worship and the role of the Holy Books of the Jewish or Muslim community."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Values and Issues in other World Religions",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 1-27a",
+                "sentences": [
+                    {
+                        "sentence": "I can identify the places of worship of the Jewish and/or Muslim faith communities.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-27b",
+                "sentences": [
+                    {
+                        "sentence": "I know that the Jewish and/or Muslim communities have special books which are important to their beliefs.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Describes and discusses basic beliefs of Jewish people / Muslims about God and family and community values.",
+            "Identifies and discusses the places of worship and the role of the Holy Books of the Jewish or Muslim community."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Practices & Traditions in other world Religions",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 2-01a",
+                "sentences": [
+                    {
+                        "sentence": "I examine God’s precious gift of life and can reflect and act upon my God-given role.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-01b",
+                "sentences": [
+                    {
+                        "sentence": "I explore the Biblical stories of Creation and I can reflect on how we understand these truths in our modern world.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Participates in discussion and reflection upon the gift of life.",
+            "Explains in their own words how the Biblical Creation stories help us know more about the gift of life.",
+            "Demonstrates, through their words and actions, Church teaching on care for the world and others.",
+            "Demonstrates through words and actions how Jesus influences people’s lives and values.",
+            "Uses examples from the lives of the Saints and applies these to their own life",
+            "Acts in a loving, just and peaceful way, using their gifts and talents for the good of all; and has identified ways to develop these.",
+            "Reflects and acts upon how good choices, forgiveness and reconciliation are important in their relationship with God and others.",
+            "Shares their knowledge of Christian heritage and the Catholic community and applies this to parts of their own life.",
+            "Explains some facts about ecumenism and discusses how it contributes to building God’s Kingdom.",
+            "Identifies the three persons of the Trinity, discusses their unique characteristics and shares ways that they honour the Trinity.",
+            "Participates in discussion and reflection about the work of the Holy Spirit, sharing some examples of this.",
+            "Identifies and discusses the parts of the Bible including describing God’s message in some Bible passages.",
+            "Explains the Bible is God’s Word and gives their own reasons why it should be treated with reverence. Shows respect for the Bible",
+            "Is able to discuss and give examples that show Jesus is both God and Man.",
+            "Investigates and identifies key knowledge about Palestine at the time of Jesus.",
+            "Discusses the importance of the Passion, Death and Resurrection of Jesus for an understanding of the meaning of eternal life",
+            "Participates in discussions about and gives examples of how the Sacraments strengthen relationships with God and others.",
+            "Explains in their own words the importance of the Eucharist for Christian life and participates reverently in all parts of the Mass.",
+            "Says some traditional prayers and prayerfully participates in different liturgical celebrations.",
+            "Investigates and shares why signs and symbols are used at particular times of the liturgical year and uses symbols and rituals to worship God, reflecting on their purpose.",
+            "Shares ways that devotion to Mary deepens personal faith life and says in their own words why Mary is important to Catholics."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Mystery of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 2-02a",
+                "sentences": [
+                    {
+                        "sentence": "I know that God wants me to develop my God-given gifts and I have reflected on how I can use them for the common good.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Participates in discussion and reflection upon the gift of life.",
+            "Explains in their own words how the Biblical Creation stories help us know more about the gift of life.",
+            "Demonstrates, through their words and actions, Church teaching on care for the world and others.",
+            "Demonstrates through words and actions how Jesus influences people’s lives and values.",
+            "Uses examples from the lives of the Saints and applies these to their own life",
+            "Acts in a loving, just and peaceful way, using their gifts and talents for the good of all; and has identified ways to develop these.",
+            "Reflects and acts upon how good choices, forgiveness and reconciliation are important in their relationship with God and others.",
+            "Shares their knowledge of Christian heritage and the Catholic community and applies this to parts of their own life.",
+            "Explains some facts about ecumenism and discusses how it contributes to building God’s Kingdom.",
+            "Identifies the three persons of the Trinity, discusses their unique characteristics and shares ways that they honour the Trinity.",
+            "Participates in discussion and reflection about the work of the Holy Spirit, sharing some examples of this.",
+            "Identifies and discusses the parts of the Bible including describing God’s message in some Bible passages.",
+            "Explains the Bible is God’s Word and gives their own reasons why it should be treated with reverence. Shows respect for the Bible",
+            "Is able to discuss and give examples that show Jesus is both God and Man.",
+            "Investigates and identifies key knowledge about Palestine at the time of Jesus.",
+            "Discusses the importance of the Passion, Death and Resurrection of Jesus for an understanding of the meaning of eternal life",
+            "Participates in discussions about and gives examples of how the Sacraments strengthen relationships with God and others.",
+            "Explains in their own words the importance of the Eucharist for Christian life and participates reverently in all parts of the Mass.",
+            "Says some traditional prayers and prayerfully participates in different liturgical celebrations.",
+            "Investigates and shares why signs and symbols are used at particular times of the liturgical year and uses symbols and rituals to worship God, reflecting on their purpose.",
+            "Shares ways that devotion to Mary deepens personal faith life and says in their own words why Mary is important to Catholics."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "In the Image of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 2-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can examine God’s relationship with myself and others. I have reflected on how the gift of faith can permeate my whole being.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-04a",
+                "sentences": [
+                    {
+                        "sentence": "I can identify the three persons in the Holy Trinity and I have reflected on how I can honour the Holy Trinity.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Participates in discussion and reflection upon the gift of life.",
+            "Explains in their own words how the Biblical Creation stories help us know more about the gift of life.",
+            "Demonstrates, through their words and actions, Church teaching on care for the world and others.",
+            "Demonstrates through words and actions how Jesus influences people’s lives and values.",
+            "Uses examples from the lives of the Saints and applies these to their own life",
+            "Acts in a loving, just and peaceful way, using their gifts and talents for the good of all; and has identified ways to develop these.",
+            "Reflects and acts upon how good choices, forgiveness and reconciliation are important in their relationship with God and others.",
+            "Shares their knowledge of Christian heritage and the Catholic community and applies this to parts of their own life.",
+            "Explains some facts about ecumenism and discusses how it contributes to building God’s Kingdom.",
+            "Identifies the three persons of the Trinity, discusses their unique characteristics and shares ways that they honour the Trinity.",
+            "Participates in discussion and reflection about the work of the Holy Spirit, sharing some examples of this.",
+            "Identifies and discusses the parts of the Bible including describing God’s message in some Bible passages.",
+            "Explains the Bible is God’s Word and gives their own reasons why it should be treated with reverence. Shows respect for the Bible",
+            "Is able to discuss and give examples that show Jesus is both God and Man.",
+            "Investigates and identifies key knowledge about Palestine at the time of Jesus.",
+            "Discusses the importance of the Passion, Death and Resurrection of Jesus for an understanding of the meaning of eternal life",
+            "Participates in discussions about and gives examples of how the Sacraments strengthen relationships with God and others.",
+            "Explains in their own words the importance of the Eucharist for Christian life and participates reverently in all parts of the Mass.",
+            "Says some traditional prayers and prayerfully participates in different liturgical celebrations.",
+            "Investigates and shares why signs and symbols are used at particular times of the liturgical year and uses symbols and rituals to worship God, reflecting on their purpose.",
+            "Shares ways that devotion to Mary deepens personal faith life and says in their own words why Mary is important to Catholics."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Revealed Truth of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 2-05a",
+                "sentences": [
+                    {
+                        "sentence": "I know that Jesus is truly divine and truly human and I can acknowledge Him as our Saviour who brings the New Covenant.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-06a",
+                "sentences": [
+                    {
+                        "sentence": "I have examined some political, social, historical and religious elements in first-century Palestine and gained an understanding of Jesus’ life on earth.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-06b",
+                "sentences": [
+                    {
+                        "sentence": "I have examined the role of Jesus as a teacher and a healer and I have reflected on how His words and actions influence my own life and the lives of others",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 1-07a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored the events of the Passion, Death and Resurrection of Jesus and I have reflected on the Catholic meaning of eternal life",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Participates in discussion and reflection upon the gift of life.",
+            "Explains in their own words how the Biblical Creation stories help us know more about the gift of life.",
+            "Demonstrates, through their words and actions, Church teaching on care for the world and others.",
+            "Demonstrates through words and actions how Jesus influences people’s lives and values.",
+            "Uses examples from the lives of the Saints and applies these to their own life",
+            "Acts in a loving, just and peaceful way, using their gifts and talents for the good of all; and has identified ways to develop these.",
+            "Reflects and acts upon how good choices, forgiveness and reconciliation are important in their relationship with God and others.",
+            "Shares their knowledge of Christian heritage and the Catholic community and applies this to parts of their own life.",
+            "Explains some facts about ecumenism and discusses how it contributes to building God’s Kingdom.",
+            "Identifies the three persons of the Trinity, discusses their unique characteristics and shares ways that they honour the Trinity.",
+            "Participates in discussion and reflection about the work of the Holy Spirit, sharing some examples of this.",
+            "Identifies and discusses the parts of the Bible including describing God’s message in some Bible passages.",
+            "Explains the Bible is God’s Word and gives their own reasons why it should be treated with reverence. Shows respect for the Bible",
+            "Is able to discuss and give examples that show Jesus is both God and Man.",
+            "Investigates and identifies key knowledge about Palestine at the time of Jesus.",
+            "Discusses the importance of the Passion, Death and Resurrection of Jesus for an understanding of the meaning of eternal life",
+            "Participates in discussions about and gives examples of how the Sacraments strengthen relationships with God and others.",
+            "Explains in their own words the importance of the Eucharist for Christian life and participates reverently in all parts of the Mass.",
+            "Says some traditional prayers and prayerfully participates in different liturgical celebrations.",
+            "Investigates and shares why signs and symbols are used at particular times of the liturgical year and uses symbols and rituals to worship God, reflecting on their purpose.",
+            "Shares ways that devotion to Mary deepens personal faith life and says in their own words why Mary is important to Catholics."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Son of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 2-08a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored Christian heritage and my role in the Catholic community and I have reflected on how this role can affect my life",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-09a",
+                "sentences": [
+                    {
+                        "sentence": "Through my study of the Seven Sacraments I have developed a deeper understanding of them and I have reflected on how they strengthen my relationships with God and others.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-09b",
+                "sentences": [
+                    {
+                        "sentence": "I can understand that the Eucharist is ‘the source and summit of the Christian life’.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-10a",
+                "sentences": [
+                    {
+                        "sentence": "I can reflect on the Holy Spirit’s prophetic influence",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Participates in discussion and reflection upon the gift of life.",
+            "Explains in their own words how the Biblical Creation stories help us know more about the gift of life.",
+            "Demonstrates, through their words and actions, Church teaching on care for the world and others.",
+            "Demonstrates through words and actions how Jesus influences people’s lives and values.",
+            "Uses examples from the lives of the Saints and applies these to their own life",
+            "Acts in a loving, just and peaceful way, using their gifts and talents for the good of all; and has identified ways to develop these.",
+            "Reflects and acts upon how good choices, forgiveness and reconciliation are important in their relationship with God and others.",
+            "Shares their knowledge of Christian heritage and the Catholic community and applies this to parts of their own life.",
+            "Explains some facts about ecumenism and discusses how it contributes to building God’s Kingdom.",
+            "Identifies the three persons of the Trinity, discusses their unique characteristics and shares ways that they honour the Trinity.",
+            "Participates in discussion and reflection about the work of the Holy Spirit, sharing some examples of this.",
+            "Identifies and discusses the parts of the Bible including describing God’s message in some Bible passages.",
+            "Explains the Bible is God’s Word and gives their own reasons why it should be treated with reverence. Shows respect for the Bible",
+            "Is able to discuss and give examples that show Jesus is both God and Man.",
+            "Investigates and identifies key knowledge about Palestine at the time of Jesus.",
+            "Discusses the importance of the Passion, Death and Resurrection of Jesus for an understanding of the meaning of eternal life",
+            "Participates in discussions about and gives examples of how the Sacraments strengthen relationships with God and others.",
+            "Explains in their own words the importance of the Eucharist for Christian life and participates reverently in all parts of the Mass.",
+            "Says some traditional prayers and prayerfully participates in different liturgical celebrations.",
+            "Investigates and shares why signs and symbols are used at particular times of the liturgical year and uses symbols and rituals to worship God, reflecting on their purpose.",
+            "Shares ways that devotion to Mary deepens personal faith life and says in their own words why Mary is important to Catholics."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Signs of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 2-11a",
+                "sentences": [
+                    {
+                        "sentence": "I have studied the structure of the Bible. I can identify the different parts of the Bible and I have explored God’s message in these.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-12a",
+                "sentences": [
+                    {
+                        "sentence": "I know that the Bible is the inspired Word of God and that I should treat it with reverence.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Participates in discussion and reflection upon the gift of life.",
+            "Explains in their own words how the Biblical Creation stories help us know more about the gift of life.",
+            "Demonstrates, through their words and actions, Church teaching on care for the world and others.",
+            "Demonstrates through words and actions how Jesus influences people’s lives and values.",
+            "Uses examples from the lives of the Saints and applies these to their own life",
+            "Acts in a loving, just and peaceful way, using their gifts and talents for the good of all; and has identified ways to develop these.",
+            "Reflects and acts upon how good choices, forgiveness and reconciliation are important in their relationship with God and others.",
+            "Shares their knowledge of Christian heritage and the Catholic community and applies this to parts of their own life.",
+            "Explains some facts about ecumenism and discusses how it contributes to building God’s Kingdom.",
+            "Identifies the three persons of the Trinity, discusses their unique characteristics and shares ways that they honour the Trinity.",
+            "Participates in discussion and reflection about the work of the Holy Spirit, sharing some examples of this.",
+            "Identifies and discusses the parts of the Bible including describing God’s message in some Bible passages.",
+            "Explains the Bible is God’s Word and gives their own reasons why it should be treated with reverence. Shows respect for the Bible",
+            "Is able to discuss and give examples that show Jesus is both God and Man.",
+            "Investigates and identifies key knowledge about Palestine at the time of Jesus.",
+            "Discusses the importance of the Passion, Death and Resurrection of Jesus for an understanding of the meaning of eternal life",
+            "Participates in discussions about and gives examples of how the Sacraments strengthen relationships with God and others.",
+            "Explains in their own words the importance of the Eucharist for Christian life and participates reverently in all parts of the Mass.",
+            "Says some traditional prayers and prayerfully participates in different liturgical celebrations.",
+            "Investigates and shares why signs and symbols are used at particular times of the liturgical year and uses symbols and rituals to worship God, reflecting on their purpose.",
+            "Shares ways that devotion to Mary deepens personal faith life and says in their own words why Mary is important to Catholics."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Word of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 2-14a",
+                "sentences": [
+                    {
+                        "sentence": "I recognise the importance of personal prayer and communal prayer in the growth of all people’s relationship with God. I know a number of traditional Catholic prayers and I have developed an understanding of the meaning of these prayers. I have participated in different approaches to, and experiences of, prayer. I can describe how prayer is an important part of the liturgical and devotional life of the Church. I have reflected on how all of these are different ways of worshipping God.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-15a",
+                "sentences": [
+                    {
+                        "sentence": "I can recognise Mary’s significance within the Catholic tradition and I know that celebrating her feast days and praying to God through Mary can enrich my life",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-16a",
+                "sentences": [
+                    {
+                        "sentence": "I know that the Mass is at the heart of Catholic community life and I am developing an understanding of how to participate fully in this celebration.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-17a",
+                "sentences": [
+                    {
+                        "sentence": "I have, through liturgical experiences, reflected on an ability to respond to symbols and take part in rituals in order to worship God.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-18a",
+                "sentences": [
+                    {
+                        "sentence": "I know some of the signs and symbols related to Lent, Easter, Pentecost, Advent and Christmastide and I can use this understanding to help me explore the themes of these celebrations.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-19a",
+                "sentences": [
+                    {
+                        "sentence": "I know that the Holy Spirit strengthens my faith and the faith of the saints and I have reflected on how the stories of the Saints can inspire me to live a more Christian life.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Hours of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 2-20a",
+                "sentences": [
+                    {
+                        "sentence": "I know that I have been called by God to grow in love, justice and peace in my relationships with others",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-21a",
+                "sentences": [
+                    {
+                        "sentence": "I can recognise how my relationship with God and others can be shaped by the values of Jesus’ Kingdom.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-21b",
+                "sentences": [
+                    {
+                        "sentence": "I recognise the contribution of other Christian Churches to Jesus’ Kingdom. I have explored ecumenical action and reflected upon its impact in the world.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-22a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored the call to forgiveness and reconciliation and have reflected on how this can restore my relationship with God and others. I can put this understanding into practice in my relationship with God and others.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-23a",
+                "sentences": [
+                    {
+                        "sentence": "I know that God has given me the freedom to make choices about the way I live my life. I have reflected on how the decisions of my conscience affect my relationship with God and others.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-24a",
+                "sentences": [
+                    {
+                        "sentence": "Have considered ways in which the Catholic Christian community works together to show care for the world and for the needs of all people. I have reflected on the implications of this for my life and that of others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Reign of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 2-25a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored some beliefs of the Jewish and/or Muslim communities.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Shares some key beliefs and guiding principles for Jewish OR Muslim life.",
+            "Shares facts and participates in discussion about Jewish OR Muslim customs, artefacts, places of worship and religious festivals."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Beliefs in other World Religions",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 2-26a",
+                "sentences": [
+                    {
+                        "sentence": "I can identify some of the principles by which people of the Jewish and/or Muslim faith communities live",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Shares some key beliefs and guiding principles for Jewish OR Muslim life.",
+            "Shares facts and participates in discussion about Jewish OR Muslim customs, artefacts, places of worship and religious festivals."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Values and Issues in other World Religions",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 2-27a",
+                "sentences": [
+                    {
+                        "sentence": "I can share some of the key features and rituals associated with the Jewish and/or Muslim communities’ places of worship and their festivals",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 2-27b",
+                "sentences": [
+                    {
+                        "sentence": "I can identify some of the customs and artefacts related to the Jewish and/or Muslim communities and their festivals.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Shares some key beliefs and guiding principles for Jewish OR Muslim life.",
+            "Shares facts and participates in discussion about Jewish OR Muslim customs, artefacts, places of worship and religious festivals."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Practices & Traditions in other world Religions",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 3-01a",
+                "sentences": [
+                    {
+                        "sentence": "I identify situations of wonder and mystery in life. Having considered the belief that these situations are signs of God’s invitation to relationship, I can describe how these affect our awareness of the sacred in our lives.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies and discusses situations of wonder and mystery and describes how these make us aware of God’s presence.",
+            "Makes use of research to explain the ways in which the Holy Spirit works in the world today.",
+            "Describes in own words the connection between a sense of the sacred and the practice of faith.",
+            "Explains what the Christian vision of the dignity of the human person is and discusses how this can influence personal development.",
+            "Expresses how learning about Jesus and Church teaching changes how they, and others, choose to act.",
+            "Makes informed moral decisions and puts into practice learning on forgiveness.",
+            "Puts into action Catholic Social Teaching.",
+            "Explains why the New Testament is important for Christians",
+            "Applies learning about literary forms to interpret Biblical texts",
+            "Describes in detail how God speaks to people and how God is revealed in Sacred Scripture",
+            "Discusses own understanding of the nature of God.",
+            "Explains that Christians believe that Jesus is truly divine and truly human.",
+            "Shares a personal response to the teaching of Jesus as Saviour",
+            "Presents research on the Jewish expectation of the Messiah.",
+            "Selects information from the New Testament and analyses how these contribute(d) to Church teaching on Jesus’ nature and the development of the Church.",
+            "Discusses and describes how the Sacraments are encounters with Jesus that nourish our relationship with God and others and explains the significance of the Mass.",
+            "Shares why prayer is important in a relationship with God. Knows traditional prayers and participates in different forms of prayer.",
+            "Discusses different rituals and symbols used in liturgy and shares knowledge about the Liturgical year.",
+            "Outlines the importance of Mary for Christians."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Mystery of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 3-02a",
+                "sentences": [
+                    {
+                        "sentence": "I have considered the Christian vision of the dignity of the human person, made in the image and likeness of God. I have reflected upon how this has contributed to my becoming the person I am today.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies and discusses situations of wonder and mystery and describes how these make us aware of God’s presence.",
+            "Makes use of research to explain the ways in which the Holy Spirit works in the world today.",
+            "Describes in own words the connection between a sense of the sacred and the practice of faith.",
+            "Explains what the Christian vision of the dignity of the human person is and discusses how this can influence personal development.",
+            "Expresses how learning about Jesus and Church teaching changes how they, and others, choose to act.",
+            "Makes informed moral decisions and puts into practice learning on forgiveness.",
+            "Puts into action Catholic Social Teaching.",
+            "Explains why the New Testament is important for Christians",
+            "Applies learning about literary forms to interpret Biblical texts",
+            "Describes in detail how God speaks to people and how God is revealed in Sacred Scripture",
+            "Discusses own understanding of the nature of God.",
+            "Explains that Christians believe that Jesus is truly divine and truly human.",
+            "Shares a personal response to the teaching of Jesus as Saviour",
+            "Presents research on the Jewish expectation of the Messiah.",
+            "Selects information from the New Testament and analyses how these contribute(d) to Church teaching on Jesus’ nature and the development of the Church.",
+            "Discusses and describes how the Sacraments are encounters with Jesus that nourish our relationship with God and others and explains the significance of the Mass.",
+            "Shares why prayer is important in a relationship with God. Knows traditional prayers and participates in different forms of prayer.",
+            "Discusses different rituals and symbols used in liturgy and shares knowledge about the Liturgical year.",
+            "Outlines the importance of Mary for Christians."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "In the Image of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 3-03a",
+                "sentences": [
+                    {
+                        "sentence": "I have examined the way that God is revealed in the lives of key people and events described in the Old Testament.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-04a",
+                "sentences": [
+                    {
+                        "sentence": "I have examined key events in the New Testament where God is revealed as Father, Son and Holy Spirit. I have considered how this affects my understanding of the nature of God.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies and discusses situations of wonder and mystery and describes how these make us aware of God’s presence.",
+            "Makes use of research to explain the ways in which the Holy Spirit works in the world today.",
+            "Describes in own words the connection between a sense of the sacred and the practice of faith.",
+            "Explains what the Christian vision of the dignity of the human person is and discusses how this can influence personal development.",
+            "Expresses how learning about Jesus and Church teaching changes how they, and others, choose to act.",
+            "Makes informed moral decisions and puts into practice learning on forgiveness.",
+            "Puts into action Catholic Social Teaching.",
+            "Explains why the New Testament is important for Christians",
+            "Applies learning about literary forms to interpret Biblical texts",
+            "Describes in detail how God speaks to people and how God is revealed in Sacred Scripture",
+            "Discusses own understanding of the nature of God.",
+            "Explains that Christians believe that Jesus is truly divine and truly human.",
+            "Shares a personal response to the teaching of Jesus as Saviour",
+            "Presents research on the Jewish expectation of the Messiah.",
+            "Selects information from the New Testament and analyses how these contribute(d) to Church teaching on Jesus’ nature and the development of the Church.",
+            "Discusses and describes how the Sacraments are encounters with Jesus that nourish our relationship with God and others and explains the significance of the Mass.",
+            "Shares why prayer is important in a relationship with God. Knows traditional prayers and participates in different forms of prayer.",
+            "Discusses different rituals and symbols used in liturgy and shares knowledge about the Liturgical year.",
+            "Outlines the importance of Mary for Christians."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Revealed Truth of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 3-05a",
+                "sentences": [
+                    {
+                        "sentence": "I know that Jesus is truly divine and truly human and I can acknowledge Him as our Saviour who brings the New Covenant",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-06a",
+                "sentences": [
+                    {
+                        "sentence": "I have researched into the social, political and religious life in Jesus’ land 2000 years ago to develop my understanding of Jewish expectations of the Messiah",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-07a",
+                "sentences": [
+                    {
+                        "sentence": "Having examined key events during the Ministry, Passion, Death and Resurrection of Jesus and the beginnings of the Church, I can describe how these events, and the influence of the Holy Spirit, affected: the early Christian communities’ understanding of Jesus’ nature; His continuing presence and identity; the development of the Church.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies and discusses situations of wonder and mystery and describes how these make us aware of God’s presence.",
+            "Makes use of research to explain the ways in which the Holy Spirit works in the world today.",
+            "Describes in own words the connection between a sense of the sacred and the practice of faith.",
+            "Explains what the Christian vision of the dignity of the human person is and discusses how this can influence personal development.",
+            "Expresses how learning about Jesus and Church teaching changes how they, and others, choose to act.",
+            "Makes informed moral decisions and puts into practice learning on forgiveness.",
+            "Puts into action Catholic Social Teaching.",
+            "Explains why the New Testament is important for Christians",
+            "Applies learning about literary forms to interpret Biblical texts",
+            "Describes in detail how God speaks to people and how God is revealed in Sacred Scripture",
+            "Discusses own understanding of the nature of God.",
+            "Explains that Christians believe that Jesus is truly divine and truly human.",
+            "Shares a personal response to the teaching of Jesus as Saviour",
+            "Presents research on the Jewish expectation of the Messiah.",
+            "Selects information from the New Testament and analyses how these contribute(d) to Church teaching on Jesus’ nature and the development of the Church.",
+            "Discusses and describes how the Sacraments are encounters with Jesus that nourish our relationship with God and others and explains the significance of the Mass.",
+            "Shares why prayer is important in a relationship with God. Knows traditional prayers and participates in different forms of prayer.",
+            "Discusses different rituals and symbols used in liturgy and shares knowledge about the Liturgical year.",
+            "Outlines the importance of Mary for Christians."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Son of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 3-08a",
+                "sentences": [
+                    {
+                        "sentence": "I have reflected upon the significance of the Sacraments in the life of the community of Faith. I can describe how these provide important encounters with Jesus throughout life",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-09a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe how my understanding of the Sacraments affects my own and others’ understanding of the ways that the Sacraments (especially Eucharist, as the source and summit of Christian life) make Christ present to nourish and support our relationships with God and each other.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-10a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored the belief that the Holy Spirit inspires and empowers the Church to fulfil its prophetic and missionary role in our world today. I have researched into situations which bear witness to this. I can describe how I and others can contribute to this work.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies and discusses situations of wonder and mystery and describes how these make us aware of God’s presence.",
+            "Makes use of research to explain the ways in which the Holy Spirit works in the world today.",
+            "Describes in own words the connection between a sense of the sacred and the practice of faith.",
+            "Explains what the Christian vision of the dignity of the human person is and discusses how this can influence personal development.",
+            "Expresses how learning about Jesus and Church teaching changes how they, and others, choose to act.",
+            "Makes informed moral decisions and puts into practice learning on forgiveness.",
+            "Puts into action Catholic Social Teaching.",
+            "Explains why the New Testament is important for Christians",
+            "Applies learning about literary forms to interpret Biblical texts",
+            "Describes in detail how God speaks to people and how God is revealed in Sacred Scripture",
+            "Discusses own understanding of the nature of God.",
+            "Explains that Christians believe that Jesus is truly divine and truly human.",
+            "Shares a personal response to the teaching of Jesus as Saviour",
+            "Presents research on the Jewish expectation of the Messiah.",
+            "Selects information from the New Testament and analyses how these contribute(d) to Church teaching on Jesus’ nature and the development of the Church.",
+            "Discusses and describes how the Sacraments are encounters with Jesus that nourish our relationship with God and others and explains the significance of the Mass.",
+            "Shares why prayer is important in a relationship with God. Knows traditional prayers and participates in different forms of prayer.",
+            "Discusses different rituals and symbols used in liturgy and shares knowledge about the Liturgical year.",
+            "Outlines the importance of Mary for Christians."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Signs of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 3-11a",
+                "sentences": [
+                    {
+                        "sentence": "To help me understand the message intended by the writers of the Biblical texts I have developed awareness of literary forms in the Bible.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-12a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe what I believe Biblical texts say about the way that God spoke to people in the past and how God speaks to people today.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-13a",
+                "sentences": [
+                    {
+                        "sentence": "I know that a good background understanding of the New Testament is important for living as a Christian today.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Word of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 3-14a",
+                "sentences": [
+                    {
+                        "sentence": "I recognise the importance of personal prayer and communal prayer in the growth of all people’s relationship with God. I know a number of traditional Catholic prayers and I have developed an understanding of the meaning of these prayers. I have participated in different approaches to, and experiences of, prayer. I can describe how prayer is an important part of the liturgical and devotional life of the Church. I have reflected on how all of these are different ways of worshipping God.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-15a",
+                "sentences": [
+                    {
+                        "sentence": "I can explain the place of Mary in the Church’s Liturgy and in the prayer life of individual Christians. I can also explain the place of Mary in other Christian traditions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-16a",
+                "sentences": [
+                    {
+                        "sentence": "I can recognise the Mass as both a sacred meal and a sacrifice and I have reflected on what this means for human salvation.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-17a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored the meaning of ritual and symbol within the Sacred Liturgy of the Church.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-18a",
+                "sentences": [
+                    {
+                        "sentence": "I have considered the liturgical events of Holy Week, Easter, Advent and Christmastide. I can reflect critically on the central importance of the feast of Easter in the Church’s Liturgical Calendar.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Hours of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 3-20a",
+                "sentences": [
+                    {
+                        "sentence": "I have reflected on the Ten Commandments and the teachings of Christ. I have acted on Christ’s personal challenge to contribute to the creation of a transformed world of Justice, Love and Peace, through the power of the Holy Spirit.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-21a",
+                "sentences": [
+                    {
+                        "sentence": "I have experienced what it means to be wise and compassionate. I can describe how these experiences have affected my understanding of my value as a person, my awareness of the needs of others and my willingness to contribute to the service of the common good",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-22a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored the call to forgiveness and reconciliation and have reflected on how this can restore my relationship with God and others. I can put this understanding into practice in my relationship with God and others.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-23a",
+                "sentences": [
+                    {
+                        "sentence": "I have developed awareness of the elements essential for making informed decisions and I have examined situations which pose a moral challenge in life. I can describe and explain my response and the responses of others to these situations",
+                        "bulletPoints": []
+                    }
+                ]
+            },{
+                "code": "RERC 3-24a",
+                "sentences": [
+                    {
+                        "sentence": "I have experienced opportunities to engage with issues of social injustice. I can describe how Church teaching in this area has affected my response and the responses of others to these issues.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Reign of God",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 3-25a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe how a sense of the sacred affects the everyday living of people of various faiths. I can also describe how my understanding of this has influenced my respect for the faith of others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Beliefs in other World Religions",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 3-26a",
+                "sentences": [
+                    {
+                        "sentence": "I have researched and I can describe the moral attitudes and values of the major world religions",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-26b",
+                "sentences": [
+                    {
+                        "sentence": "I can relate these to my own values.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Expresses own respect for the faith of others",
+            "Researches and describes moral attitudes and values from one world religion and relates these to own values.",
+            "Researches and explains how people today practice their faith through the major ceremonies and customs of one world religion and relates these to own faith practice."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Values and Issues in other World Religions",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "RERC 3-27a",
+                "sentences": [
+                    {
+                        "sentence": "I have researched the major ceremonies and customs of other world faiths. I can explain the significance of these for followers of these beliefs.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "RERC 3-27b",
+                "sentences": [
+                    {
+                        "sentence": "I have explored how people of other world faiths practise their beliefs today. I can relate these to my own faith practice.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Expresses own respect for the faith of others",
+            "Researches and describes moral attitudes and values from one world religion and relates these to own values.",
+            "Researches and explains how people today practice their faith through the major ceremonies and customs of one world religion and relates these to own faith practice."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "RME__CATHOLIC",
+        "eAndOSetSectionName": "Values and Issues in other World Religions",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
