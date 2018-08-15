@@ -14321,5 +14321,105 @@
         "eAndOSetSubSectionName": "Using knowledge about language",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "CLAN 3-01a",
+                "sentences": [
+                    {
+                        "sentence": "By developing my knowledge of how a classical language works, I can analyse straightforward sentences or short passages and translate them into appropriate English.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses knowledge of the vocabulary and straightforward grammatical structures of the classical language to work out the meaning of the texts and to communicate this into English, in written or oral form.",
+            "Demonstrates understanding of how the language works, through, for example, translating straightforward grammatical structures into English."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__CLASSICAL_LANGUAGES",
+        "eAndOSetSectionName": "Translating texts",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "Interpretation of texts",
+                "sentences": [
+                    {
+                        "sentence": "Individually and with others, I have used a range of resources and applied analytical skills.",
+                        "bulletPoints": []
+                    },
+                    {
+                        "sentence": "I can find specific information in a grammatically-straightforward passage in a classical language.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explores texts of varying length, in order to demonstrate understanding of content, structures and familiar vocabulary in different contexts.",
+            "Uses resources such as a grammar reference, dictionary or word-list to check understanding and analysis.",
+            "Applies a range of analytical skills and strategies to read unfamiliar texts with increasing understanding."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__CLASSICAL_LANGUAGES",
+        "eAndOSetSectionName": "Interpretation of texts",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "CLAN 3-03a",
+                "sentences": [
+                    {
+                        "sentence": "By applying my awareness of how classical Greek has linguistic links with English or Latin with English and other modern European languages which are based on Latin, I can enhance the range of my vocabulary and increase my confidence in communicating in English.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Transfers knowledge of word roots, sentence and text structures gained from learning classical languages to written and spoken English.",
+            "Uses knowledge of context, word families and grammatical structures in the classical language to support understanding and use of English."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__CLASSICAL_LANGUAGES",
+        "eAndOSetSectionName": "Using knowledge about language",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "CLAN 3-04a",
+                "sentences": [
+                    {
+                        "sentence": "I have investigated the culture and heritage of the Greeks or Romans through language and literature.",
+                        "bulletPoints": []
+                    },
+                    {
+                        "sentence": "I can demonstrate my knowledge of their cultures by contributing to an oral or written presentation on their influences on the heritage of modern Scotland and the wider world.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Plans and produces a piece of research, either in written or oral form, with simple explanations of how Greek or Roman cultures influence modern day Scotland."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__CLASSICAL_LANGUAGES",
+        "eAndOSetSectionName": "Culture and heritage",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
     }
 ]
