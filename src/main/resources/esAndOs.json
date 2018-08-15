@@ -11857,7 +11857,7 @@
             "Participates respectfully in parts of the Mass",
             "Says some prayers on their own and as part of a worshipping community.",
             "Uses symbols and rituals to worship God.",
-            "Describes and discusses how signs and symbols helps them understand more about liturgical celebrations."
+            "Describes and discusses how signs and symbols helps them understand more about liturgical celebrations.",
             "Engages in discussion about Bible stories and describes in their own words how God speaks through them",
             "Reflects upon and explains how these stories help them live a Christian life",
             "Knows that the Bible is God’s Word and shows respect for the Bible.",
@@ -11898,7 +11898,7 @@
             "Participates respectfully in parts of the Mass",
             "Says some prayers on their own and as part of a worshipping community.",
             "Uses symbols and rituals to worship God.",
-            "Describes and discusses how signs and symbols helps them understand more about liturgical celebrations."
+            "Describes and discusses how signs and symbols helps them understand more about liturgical celebrations.",
             "Engages in discussion about Bible stories and describes in their own words how God speaks through them",
             "Reflects upon and explains how these stories help them live a Christian life",
             "Knows that the Bible is God’s Word and shows respect for the Bible.",
@@ -14419,6 +14419,1142 @@
         "curriculumAreaName": "LITERACY__CLASSICAL_LANGUAGES",
         "eAndOSetSectionName": "Culture and heritage",
         "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 0-01a / LGL 0-05a / LGL 0-07a / LGL 0-08a",
+                "sentences": [
+                    {
+                        "sentence": "Through listening to and joining in with story-telling, games, rhymes and songs, I have explored and experimented with sound patterns, words and phrases in Gaelic",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Participates actively in rhymes, songs, games and storytelling",
+            "Repeats and uses words and simple phrases, for example, 'tha mi ag iarraidh deoch, seo leabhar'",
+            "Responds appropriately to basic classroom instructions, particularly those connected to routines.",
+            "Uses and demonstrates understanding of Gaelic in basic daily routines."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Listening for information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 0-02a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored and experimented with the patterns and sounds of the language and can use what I have learned.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 0-04a",
+                "sentences": [
+                    {
+                        "sentence": "Through daily experiences and play I can listen or watch for interesting or useful information.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 0-01a / LGL 0-05a / LGL 0-07a / LGL 0-08a",
+                "sentences": [
+                    {
+                        "sentence": "Through listening to and joining in with story-telling, games, rhymes and songs, I have explored and experimented with sound patterns, words and phrases in Gaelic",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Memorises songs, rhymes, poems and enjoys performing these. Repeats words and phrases from songs, rhymes, poems and the use of everyday Gaelic",
+            "Uses words and phrases learned from everyday use of Gaelic, story books, songs and programmes as set phrases as part of language learning.",
+            "Recognises and uses accurately changes made in pronunciations within familiar contexts such as songs, for example, 'glè mhath' and 'not math'.",
+            "Responds to simple questions to give personal information about themselves for example, 'Is mise... agus tha mi ceithir'.",
+            "Answers simple questions on self, using familiar vocabulary and phrases.",
+            "Follows simple instructions and prompts in a range of contexts related to play and routines",
+            "Repeats vocabulary learned from a range of personal topics"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Listening and talking with others",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 0-06a",
+                "sentences": [
+                    {
+                        "sentence": "I can listen, watch and use play to explore aspects of Gaelic culture.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Responds to and takes part in Gaelic cultural activities such as St Andrews Day celebrations, local and national MOD events, or local and play situations connected to Gaelic culture",
+            "Uses information from a spoken text or play activity to explore aspects of Gaelic culture."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 0-01a / LGL 0-05a / LGL 0-07a LGL 0-08a",
+                "sentences": [
+                    {
+                        "sentence": "I can listen, watch and use play to explore aspects of Gaelic culture.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Responds to simple questions and prompts about self while using familiar vocabulary"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Using knowledge about language",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 0-01a / LGL 0-05a / LGL 0-07a / LGL 0-08a",
+                "sentences": [
+                    {
+                        "sentence": "Through listening to and joining in with story-telling, games, rhymes and songs, I have explored and enjoyed using sound patterns, words and phrases in Gaelic.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses some Gaelic words, for example, asking how someone is, greetings, colours and instructions, as part of play and in daily routines.",
+            "Demonstrates understanding through using illustrations, mime and explanations."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 0-11a / LGL 0-12a / LGL 0-13a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored and experimented with Gaelic words and phrases.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Recognises and repeats Gaelic sounds in texts.",
+            "Identifies simple Gaelic sound patterns in words",
+            "Recognises key words in phrases.",
+            "Demonstrates understanding through mime and illustrations, for example."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Using knowledge about language",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 0-11a / LGL 0-12a / LGL 0-13a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored and experimented with Gaelic words and phrases",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Copies, writes and repeats Gaelic sounds and can relate them to words",
+            "Recognises common playroom/classroom labels for example, names in Gaelic, labels on trays."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 0-11a / LGL 0-12a / LGL 0-13a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored and experimented with Gaelic words and phrases.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Selects words from resources such as word banks and word walls to construct simple sentences",
+            "Explores and experiments with letters as part of mark making or play."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Using knowledge about language",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 1-01a",
+                "sentences": [
+                    {
+                        "sentence": "I can take part in play activities and games linked to simple poems, familiar stories and short role-plays, and pronounce familiar Gaelic words and phrases.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Participates actively in Gaelic songs, rhymes, storytelling and games.",
+            "Uses familiar phrases and words in play and game activities.",
+            "Recognises words and phrases in simple poems and short role-plays to demonstrate an understanding of Gaelic Language.",
+            "Responds appropriately to classroom instructions given in Gaelic",
+            "Recalls favourite songs, poems and rhymes."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Listening for information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 1-02a",
+                "sentences": [
+                    {
+                        "sentence": "I can respond verbally and non-verbally to a range of requests from teachers and others.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 1-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can use familiar words and phrases to give simple information",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 1-04a",
+                "sentences": [
+                    {
+                        "sentence": "I can ask for help using simple or familiar learned phrases or words",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 1-05a",
+                "sentences": [
+                    {
+                        "sentence": "When joining in with story-telling, games, rhymes, songs and poems in Gaelic, I can use familiar words and simple phrases",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Listens and responds appropriately to a range of requests from the teacher and others using simple sentences, words and gestures",
+            "Recognises and uses the present tense.",
+            "Responds appropriately to simple questions on familiar topics, such as personal information, using simple sentences, words and gestures, for example, 'Tha mi ochd. Tha mi a’ fuireach ann an Inbhir Nis'",
+            "Shares simple, personal information about themselves on familiar topics, for example, when expressing likes or dislikes using learned words and simple phrases",
+            "Uses simple or familiar learned phrases and words such as to ask for something or help, for example, 'Tha mi ag iarraidh uisge'",
+            "Uses a few simple adjectives such as those related to size or colour and some simple connectives, for example and",
+            "Recognises and explains the meaning of individual words learned from poems, songs and stories.",
+            "Memorises and uses simple phrases when taking part in conversation.",
+            "Uses a few polite social terms to begin and end interactions"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Listening and talking with others",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 1-06a",
+                "sentences": [
+                    {
+                        "sentence": "I can listen and respond in different ways to the experiences of others when exploring aspects of Gaelic culture.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses learned words and phrases appropriately to demonstrate understanding when exploring aspects of Gaelic culture.",
+            "Responds appropriately, to their own and others’ cultural experiences, using words and phrases learned, for example, taking part in local and national Mod events, St. Andrews Day celebrations, localised cultural events and in drama and role-play"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 1-07a",
+                "sentences": [
+                    {
+                        "sentence": "When reading on my own or with others, I can read familiar words and simple phrases and sentences.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies and reads, familiar words, simple sentences and phrases learned from a variety of topics both independently and with others."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Using knowledge about language",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 1-08a",
+                "sentences": [
+                    {
+                        "sentence": "I have worked on my own and with others and I can demonstrate my understanding of words and phrases containing familiar language.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Reads familiar words, simple phrases, sentences and short texts independently or with others",
+            "Responds appropriately to questions asked about simple texts.",
+            "Demonstrates understanding of words and phrases through appropriate responses.",
+            "Matches images with appropriate text.",
+            "Talks about a short text in a familiar context using familiar words and phrases",
+            "Uses illustrated word banks, picture prompts, picture dictionaries and displays to support understanding of simple texts."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 1-09a",
+                "sentences": [
+                    {
+                        "sentence": "I have worked with others to read and discuss simple Gaelic texts. I can share simple facts about the life of Gaelic communities in Scotland.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Collaborates with others to read simple Gaelic texts using features of the text to help with understanding the meaning of words.",
+            "Answers questions appropriately on simple texts which demonstrates understanding.",
+            "Finds and shares information in Gaelic from a text relating to aspects of Gaelic culture different in communities."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Reading for cultural appreciation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 1-10a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy engaging with simple texts on my own and with others.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Chooses a story, book or text to share with others.",
+            "Participates in storytelling sessions, using pictures and repetitive parts of the story to anticipate and predict what is going to happen."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Reading for interest and enjoyment",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 1-11a",
+                "sentences": [
+                    {
+                        "sentence": "I have explored sounds, letters and words, discovering how they work together, and can use what I have learned to help me read.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses knowledge of sounds, letters, blending and patterns in Gaelic language to read new words.",
+            "Recognises some common words and reads aloud simple texts, demonstrating understanding.",
+            "Uses a variety of familiar resources to support understanding of simple texts.",
+            "Applies reading strategies to work out the meaning of words from contexts or illustrations."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Understanding knowledge about language",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 1-12a",
+                "sentences": [
+                    {
+                        "sentence": "I can write familiar words and simple phrases in Gaelic.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Writes familiar words and simple phrases, for example, greetings on a card or invitation, labelling a picture or a diagram.",
+            "Writes simple phrases to convey personal information.",
+            "Demonstrates awareness of accents and uses them appropriately when writing."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Organisation and using information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 1-13a",
+                "sentences": [
+                    {
+                        "sentence": "I can use a variety of sources to help me check the accuracy of my Gaelic spelling and punctuation.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses word banks, digital technology, vocabulary lists, classroom displays and support from others to check spelling and accuracy of unfamiliar vocabulary.",
+            "Collaborates with peers or the teacher to proof-read and edit writing according to success criteria and targets for improvement."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Using knowledge about language",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 2-01a",
+                "sentences": [
+                    {
+                        "sentence": "I can listen to and show understanding of familiar instructions and language from familiar voices and sources.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Participates in a range of language activities, for example, teacher exposition, language learning games, stories, short role-plays and presentations which extend vocabulary and phrases.",
+            "Demonstrates an understanding of language used in language activities such as games, stories and songs through, for example, appropriate responses, repetition and/or retelling.",
+            "Demonstrates an understanding of a variety of listening texts in which they identify individual words and gist, and respond appropriately to questions.",
+            "Demonstrates understanding of classroom instructions through appropriate responses."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Listening for information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 2-02a",
+                "sentences": [
+                    {
+                        "sentence": "I can listen and respond to familiar voices in short, predictable conversations using straightforward language and non-verbal techniques as appropriate such as gesture and eye contact.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 2-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can take part effectively in prepared conversations by sharing information about myself, others or interests of my choice, using familiar vocabulary and basic language structures",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 2-04a",
+                "sentences": [
+                    {
+                        "sentence": "I can ask for help confidently using learned phrases and familiar language.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 2-05b",
+                "sentences": [
+                    {
+                        "sentence": "I can participate in familiar collaborative activities in Gaelic including games, paired speaking and short role-plays.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Listens and responds appropriately to a range of requests from the teacher and others.",
+            "Participates in conversations, responding using straightforward language.",
+            "Applies non-verbal techniques when engaging with others, for example, eye contact, facial expressions and/or body language.",
+            "Responds appropriately to questions about themselves using learned phrases, sentences and words.",
+            "Shares personal information about themselves on familiar topics, for example, when expressing likes or dislikes with confidence.",
+            "Applies and uses grammatical rules for example, lenition of initial consonants, the use of the vocative case.",
+            "Uses the present tense with accuracy and some common past tenses for example, Chaidh, Bha, Cha robh, Fhuair, Chunnaic.",
+            "Uses the correct forms of pronouns to respond to questions about others for example, Tha bràthair agam. Tha e deich.",
+            "Uses familiar learned phrases and words connected to themes of interest for example, pets and foods and in using Gaelic as the target language of the classroom and the school.",
+            "Uses vocabulary correctly to give more detail for example, colours - Tha cù dubh agus geal agam",
+            "Uses learned phrases and familiar language to ask for help and to use Gaelic as the language of the classroom, for example the vocative case in taking the register.",
+            "Participates and uses learned phrases in a range of activities with others, for example, games, paired speaking and role-play activities",
+            "Listens and responds appropriately to others by answering and asking simple questions, applying previously rehearsed and memorised language",
+            "Uses a variety of polite social terms to begin and end interactions.",
+            "Listens, takes turns and contributes at the appropriate time when engaging with others in increasingly sustained conversations and role-plays.",
+            "Responds appropriately to the views of others, by asking and answering questions about familiar contexts for example self, family, friends, school, weather"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Listening and talking with others",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 2-06a",
+                "sentences": [
+                    {
+                        "sentence": "I can deliver a brief presentation on a familiar topic using familiar language and phrases.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 2-06b",
+                "sentences": [
+                    {
+                        "sentence": "I have worked with others, using ICT and other media where appropriate, and can contribute successfully to a presentation in English, supported by Gaelic vocabulary, on an aspect of Gaelic culture and tradition",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Presents to a group or class, a theme which interests them or other familiar topic, using for example, pictures, digital technology, flashcards or cue cards as support.",
+            "Sustains a brief presentation to demonstrate accuracy with pronunciation and expression",
+            "Uses learned words and phrases appropriately to demonstrate understanding when exploring aspects of Gaelic culture.",
+            "Works collaboratively, using digital technology and a range of media, to demonstrate understanding of aspects of Gaelic culture through for example, answering questions using Gaelic, contributing to presentations"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 2-07a",
+                "sentences": [
+                    {
+                        "sentence": "I can use my knowledge about language and pronunciation to ensure that others can understand me when I read aloud or say familiar words, phrases and short texts.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses knowledge of sounds, letters and sound patterns to support pronunciation and understanding of words contained in familiar texts",
+            "Pronounces familiar words clearly to support communication.",
+            "Responds to questions and prompts using learned vocabulary and phrases.",
+            "Recognises familiar words in different contexts in, for example, short stories, games and rhymes.",
+            "Applies pronunciation rules to unfamiliar words.",
+            "Uses appropriate intonation"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Using knowledge about language",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 2-08a",
+                "sentences": [
+                    {
+                        "sentence": "I have worked on my own and with others to understand texts using appropriate resources. I can read and demonstrate my understanding of sentences and simple texts containing familiar language.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Reads familiar words, phrases, sentences and short texts about personal and daily situations",
+            "Responds appropriately to questions asked about texts.",
+            "Demonstrates understanding of words and phrases through appropriate responses",
+            "Responds to a short text in a familiar context using familiar words and phrases."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 2-09a",
+                "sentences": [
+                    {
+                        "sentence": "I have worked on my own and with others to read and discuss Gaelic texts. I can share simple facts about the life in some of the countries where Gaelic and related languages are spoken",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Reads Gaelic texts using features of the text to support the understanding of less familiar words.",
+            "Answers questions appropriately on texts which demonstrates understanding.",
+            "Finds and shares information from a text relating to aspects of Gaelic culture in countries where Gaelic and related languages are spoken"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Reading for cultural appreciation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 2-10a",
+                "sentences": [
+                    {
+                        "sentence": "I have selected and can read, on my own and with others, a variety of straightforward texts of different types, which may have been adapted.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Selects a range of texts to share with others",
+            "Reads independently and with others a range of texts for different purposes"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Reading for interest and enjoyment",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 2-11a",
+                "sentences": [
+                    {
+                        "sentence": "I can understand how a bilingual dictionary works and use it with support.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 2-11b",
+                "sentences": [
+                    {
+                        "sentence": "I can make comparisons and explore connections between spelling patterns in English and Gaelic.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 2-11c",
+                "sentences": [
+                    {
+                        "sentence": "I can recognise and comment on other features of my own language, which help me to make sense of words in Gaelic",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Knows how to use a bilingual word list, glossary, digital technology or dictionary to look up the meaning of vocabulary.",
+            "Recognises common words and words from different topics and reads aloud texts, demonstrating understanding",
+            "Reads and understands texts that incorporate vocabulary and structures learned in both familiar and unfamiliar contexts",
+            "Reads and demonstrates understanding of texts written in the present tense to which expression is added",
+            "Reads and demonstrates understanding of sentences which include basic adjectives, adverbs and use of numerals.",
+            "Uses knowledge of sounds, letters and patterns, grammar and structures, in Gaelic, to read and understand words contained in familiar texts.",
+            "Applies reading strategies such as skimming to work out the meaning of words from contexts"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Using knowledge about language",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 2-12",
+                "sentences": [
+                    {
+                        "sentence": "I can use familiar language to describe my circumstances and exchange straightforward information. I can make reference to aspects of Gaelic culture and tradition",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Creates short written texts which convey some information, for example, about themselves and others, the promotion of events such as Mòd or Fèis, brief social media message or a fact file.",
+            "Writes using connected sentences, using simple conjunctions, for example, agus, o chionn, neo ach, which reads coherently. Writing is mainly in the present tense with simple adjectives and verbs and use of accents.",
+            "Writes to express likes and dislikes",
+            "Writes for communication to be clear on first reading with errors not impeding overall understanding."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 2-13a",
+                "sentences": [
+                    {
+                        "sentence": "I have used my knowledge about language and success criteria to help me, and I can check that I have written familiar words and phrases accurately.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates increasingly accurate use of accents, verbs and adjectives.",
+            "Spells most commonly used words correctly, using reference materials for example, word banks, digital technology, vocabulary lists, dictionaries and classroom displays to check the accuracy of spelling and unfamiliar vocabulary of their own and others’ written work",
+            "Punctuates most sentences accurately, using punctuation norms.",
+            "Works with a peer or the teacher to proof-read and edit writing according to success criteria and targets for improvement."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Using knowledge about language",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 3-01a",
+                "sentences": [
+                    {
+                        "sentence": "I can listen to and show understanding of mainly familiar language and instructions from a variety of sources where the sentences are longer and where there may be more than one speaker.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Participates in a range of language activities, applying language learned in a range of contexts for example, stories, poems, role-plays, dialogues and presentations.",
+            "Demonstrates an understanding of language used in a range of language activities through appropriate responses",
+            "Demonstrates an understanding of a wide variety of listening texts through appropriate responses to questions",
+            "Demonstrates understanding of classroom instructions."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Listening for information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 3-02a",
+                "sentences": [
+                    {
+                        "sentence": "I can listen and respond to others in mainly predictable, more extended conversations using familiar language and/or non-verbal techniques.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 3-03a",
+                "sentences": [
+                    {
+                        "sentence": "I can take part effectively in prepared conversations by using a variety of language structures to share information, experiences and opinions, and can offer straightforward reasons for having these opinions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 3-04a",
+                "sentences": [
+                    {
+                        "sentence": "I can support a conversation by asking for help, seeking repetition and asking simple questions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 3-05a",
+                "sentences": [
+                    {
+                        "sentence": "I can participate in a range of collaborative activities in Gaelic including games, paired speaking and structured role-plays in a range of realistic contexts and settings.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Listens and responds appropriately to the teacher and others using familiar language.",
+            "Participates in more extended conversations, using a range of language structures, for example, past, present and future tenses, irregular verbs, prepositional pronouns, verbal nouns, negative interrogative, nach eil, auxiliary verbs, feumaidh, faodaidh, verbal phrases, is urrainn, is fhèarr, assertive form, is, e and common plurals",
+            "Applies non-verbal techniques when engaging with others.",
+            "Identifies the overall purpose and some main points of the conversations",
+            "Responds appropriately to questions to give information about themselves and others which is detailed and complex for example, demonstrating accuracy of grammar for most of the time.",
+            "Answers and asks questions",
+            "Uses a variety of language structures and vocabulary when sharing information, experiences and opinions and can justify preferences",
+            "Applies and uses more complex words, questions and grammatical rules more spontaneously when taking part in conversations, for example, Chan eil mi gad thuigsinn, Dè tha thu a’ ciallachadh? An do chord e riut?",
+            "Demonstrates understanding through responding accurately to questions and instructions and is less reliant on notes.",
+            "Engages with others clearly, with increasing accuracy, and is readily understood.",
+            "Uses a range of techniques along with learned phrases and familiar language to support conversation, for example, asking for help, asking for the question or instruction to be repeated, asking relevant questions.",
+            "Participates with greater independence and confidence in a range of collaborative activities in a range of realistic contexts and settings.",
+            "Responds to questions and prompts using familiar vocabulary and phrases.",
+            "Uses and applies knowledge of Gaelic language in a range of predictable situations where communication fulfils its purpose and criteria",
+            "Uses polite social terms to begin and end interactions naturally"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Listening and talking with others",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 3-06a",
+                "sentences": [
+                    {
+                        "sentence": "I have contributed successfully to a group to plan and prepare a short talk in Gaelic. Using ICT where appropriate, I can deliver an individual presentation in Gaelic:",
+                        "bulletPoints": [
+                            "on an area of personal interest or a topic relating to Gaelic culture or history",
+                            "using appropriate vocabulary and some variety in sentence structure"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Works collaboratively, to prepare and plan a short talk in Gaelic using digital technology and a range of media where appropriate.",
+            "Individually presents to a group or class, a theme which interests them, using for example, pictures, digital technology or cue cards as support.",
+            "Sustains a short presentation to demonstrate accuracy in the use of Gaelic language, while notes or headings may be used, a script is not read.",
+            "Uses appropriate vocabulary and some variety in sentence structure"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 3-07a",
+                "sentences": [
+                    {
+                        "sentence": "I can apply my knowledge about language, intonation and pronunciation to:",
+                        "bulletPoints": [
+                            "ensure that others can understand me when I pronounce familiar words or phrases",
+                            "help me to work out how to pronounce unfamiliar words",
+                            "read a short text aloud with accuracy and confidence"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses knowledge of Gaelic language to say and read familiar text with clarity and increasing accuracy",
+            "Pronounces familiar words clearly using intonation appropriately",
+            "Responds to questions and prompts using familiar vocabulary and phrases",
+            "Recognises and says/reads familiar words in a variety of contexts.",
+            "Applies pronunciation, knowledge of spelling and grammar rules to decode unfamiliar words.",
+            "Applies knowledge of grammar to access the vocabulary in a dictionary, for example, lenition, plurals and tenses."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Listening and Talking",
+        "eAndOSetSubSectionName": "Using knowledge about language",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 3-08a",
+                "sentences": [
+                    {
+                        "sentence": "I have worked on my own and with others to understand texts using appropriate resources. I can read and demonstrate my understanding of more complex texts which contain familiar and unfamiliar language.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Reads and discusses the ideas in a wider range of texts, including digital and multimodal, in less familiar contexts spanning a range of media and can compare and contrast texts giving appropriate justification.",
+            "Responds appropriately and with increasing accuracy to questions asked about texts containing familiar and unfamiliar language. Sentences used make sense",
+            "Demonstrates understanding of texts through appropriate responses.",
+            "Applies reading and knowledge about language strategies to support understanding of unfamiliar language",
+            "Reads and demonstrates understanding of extended pieces of text which contain both familiar and unfamiliar vocabulary, for example, magazine articles."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Finding and using information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 3-09a",
+                "sentences": [
+                    {
+                        "sentence": "I have worked on my own and with others to read and explore Gaelic texts. I can demonstrate my knowledge about life and culture in countries where Gaelic and related languages are spoken.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Reads Gaelic texts using features of the text to support the understanding of less familiar words.",
+            "Answers questions appropriately on texts which demonstrates understanding.",
+            "Finds and shares information from a text relating to aspects of Gaelic culture in countries where Gaelic and related languages are spoken",
+            "Applies information, knowledge and references acquired through reading when delivering brief presentations and engaging in discussions on topics which may be less familiar for example, sport, Gaelic-related career opportunities, Gaelic music and work-based learning"
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Reading for cultural appreciation",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 3-10a",
+                "sentences": [
+                    {
+                        "sentence": "I have chosen and can read for enjoyment a range of texts in a variety of styles, which may have had some adaptation.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Selects, reads and shares a range of texts with others",
+            "Reads independently and with others a range of texts for different purposes."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "Reading for interest and enjoyment",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 3-11a",
+                "sentences": [
+                    {
+                        "sentence": "I can use a bilingual dictionary independently to help me understand new language.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 3-11b",
+                "sentences": [
+                    {
+                        "sentence": "I can recognise features of words in the language I am learning and use them to make sense of vocabulary and of the connections between words",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses a bilingual dictionary independently to look up the meaning of vocabulary",
+            "Applies knowledge of grammar to access and use the vocabulary in a dictionary, for example lenition, plurals, tenses.",
+            "Recognises common words and words from different contexts and reads aloud texts with increased fluency, demonstrating understanding.",
+            "Reads and understands texts that incorporate vocabulary and structures learned in both familiar and unfamiliar contexts.",
+            "Reads and demonstrates understanding of texts through answering questions on purpose and by adding expression appropriately",
+            "Reads and demonstrates understanding of texts which contain a range of tenses; adjectives; adverbs; infinitives; use of numbers in context such as money, weight, length; use of rules for common feminine nouns, set phrases in prepositional case.",
+            "Applies reading strategies such as skimming, scanning and contextual clues to establish meaning.",
+            "Summarises and/or conveys the main points of a text giving items of detail."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Reading",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 3-12a",
+                "sentences": [
+                    {
+                        "sentence": "I can create, amend and present more extended information for different purposes about myself and others, my experiences or a topic of my choice.",
+                        "bulletPoints": []
+                    },
+                    {
+                        "sentence": "I can write some simple facts about life in some of the countries where Gaelic and related languages are spoken.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 3-12b",
+                "sentences": [
+                    {
+                        "sentence": "I can express opinions and can offer straightforward reasons for having these opinions.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Creates written texts for a variety of purposes and lengths, for example letters, emails, blogs or articles giving personal information with details which includes school subjects, hobbies, work and family",
+            "Writes about less familiar topics which are appropriate to purpose and audience. Writing is clear on first reading and flows with linking phrases, connected paragraphs and an increasing awareness of grammatical rules",
+            "Writes to express opinions justifying preferences using simple sentences and appropriate vocabulary, applying increasing grammatical knowledge."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Organising and using information",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "LGL 3-13a",
+                "sentences": [
+                    {
+                        "sentence": "I can check the accuracy of my writing using my knowledge about language, the support of others, and appropriate reference materials including success criteria.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "LGL 3-13b",
+                "sentences": [
+                    {
+                        "sentence": "I can use some Gaelic idiomatic expressions accurately.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses an increasing range of vocabulary within sentences, and paragraphs are connected.",
+            "Uses a range of tenses with simple adjectives and verbs.",
+            "Uses accents with increasing accuracy.",
+            "Spells most commonly used words correctly, using reference materials, for example, dictionaries, digital technology and glossaries, to check spelling and unfamiliar vocabulary of their own and others’ written work.",
+            "Punctuates sentences accurately, using punctuation norms.",
+            "Proof-reads and edits writing according to success criteria and targets for improvement.",
+            "Demonstrates a clear understanding of the changes that have been made in editing writing and explains the reasons for such changes",
+            "Uses idiomatic expressions to add interest and richness to writing."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "LITERACY__GAELIC_LEARNERS",
+        "eAndOSetSectionName": "Writing",
+        "eAndOSetSubSectionName": "Using knowledge about language",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
     }
