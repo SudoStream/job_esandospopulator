@@ -5167,166 +5167,6 @@
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
-                "code": "HWB 4-01a",
-                "sentences": [
-                    {
-                        "sentence": "I am aware of and able to express my feelings and am developing the ability to talk about them",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-02a",
-                "sentences": [
-                    {
-                        "sentence": "I know that we all experience a variety of thoughts and emotions that affect how we feel and behave and I am learning ways of managing them",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-03a",
-                "sentences": [
-                    {
-                        "sentence": "I understand that there are people I can talk to and that there are a number of ways in which I can gain access to practical and emotional support to help me and others in a range of circumstances",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-04a",
-                "sentences": [
-                    {
-                        "sentence": "I understand that my feelings and reactions can change depending upon what is happening within and around me. This helps me to understand my own behaviour and the way others behave",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-05a",
-                "sentences": [
-                    {
-                        "sentence": "I know that friendship, caring, sharing, fairness, equality and love are important in building positive relationships. As I develop and value relationships, I care and show respect for myself and others",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-06a",
-                "sentences": [
-                    {
-                        "sentence": "I understand the importance of mental wellbeing and that this can be fostered and strengthened through personal coping skills and positive relationships. I know that it is not always possible to enjoy good mental health and that if this happens there is support available.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-07a",
-                "sentences": [
-                    {
-                        "sentence": "I am learning skills and strategies which will support me in challenging times, particularly in relation to change and loss",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-08a",
-                "sentences": [
-                    {
-                        "sentence": "I understand that people can feel alone and can be misunderstood and left out by others. I am learning how to give appropriate support",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Mental and emotional wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
                 "code": "HWB 0-09a",
                 "sentences": [
                     {
@@ -5807,126 +5647,6 @@
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
-                "code": "HWB 4-09a",
-                "sentences": [
-                    {
-                        "sentence": "As I explore the rights to which I and others are entitled, I am able to exercise these rights appropriately and accept the responsibilities that go with them. I show respect for the rights of others",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Social wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-10a",
-                "sentences": [
-                    {
-                        "sentence": "I recognise that each individual has a unique blend of abilities and needs. I contribute to making my school community one which values individuals equally and is a welcoming place for all.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Social wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-11a",
-                "sentences": [
-                    {
-                        "sentence": "I make full use of and value the opportunities I am given to improve and manage my learning and, in turn, I can help to encourage learning and confidence in others.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Social wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-12a",
-                "sentences": [
-                    {
-                        "sentence": "Representing my class, school and/or wider community encourages my self-worth and confidence and allows me to contribute to and participate in society.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Social wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-13a",
-                "sentences": [
-                    {
-                        "sentence": "Through contributing my views, time and talents, I play a part in bringing about positive change in my school and wider community",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Social wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-14a",
-                "sentences": [
-                    {
-                        "sentence": "I value the opportunities I am given to make friends and be part of a group in a range of situations",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Social wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
                 "code": "HWB 0-15a",
                 "sentences": [
                     {
@@ -6247,86 +5967,6 @@
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
-                "code": "HWB 4-15a",
-                "sentences": [
-                    {
-                        "sentence": "I know and can demonstrate how to keep myself and others safe and how to respond in a range of emergency situations",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Physical wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-16a",
-                "sentences": [
-                    {
-                        "sentence": "I know and can demonstrate how to travel safely",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Physical wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-17a",
-                "sentences": [
-                    {
-                        "sentence": "I know and can demonstrate how to keep myself and others safe and how to respond in a range of emergency situations",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Physical wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-18a",
-                "sentences": [
-                    {
-                        "sentence": "I know and can demonstrate how to travel safely",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Mental, emotional, social and physical wellbeing",
-        "eAndOSetSubSectionName": "Physical wellbeing",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
                 "code": "HWB 0-19a",
                 "sentences": [
                     {
@@ -6398,26 +6038,6 @@
         ],
         "associatedBenchmarks": [],
         "curriculumLevel": "THIRD",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Planning for choices and changes",
-        "eAndOSetSubSectionName": "Planning for choices and changes",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 4-19a",
-                "sentences": [
-                    {
-                        "sentence": "Based on my interests, skills, strengths and preferences, I am supported to make suitable, realistic and informed choices, set manageable goals and plan for my further transitions.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [],
-        "curriculumLevel": "FOURTH",
         "curriculumAreaName": "HEALTH_AND_WELLBEING",
         "eAndOSetSectionName": "Planning for choices and changes",
         "eAndOSetSubSectionName": "Planning for choices and changes",
@@ -6526,44 +6146,10 @@
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
-                "code": "HWB 4-20a",
-                "sentences": [
-                    {
-                        "sentence": "I am investigating different careers/occupations, ways of working, and learning and training paths. I am gaining experience that helps me recognise the relevance of my learning, skills and interests to my future life.",
-                        "bulletPoints": []
-                    }
-                ]
-            }
-        ],
-        "associatedBenchmarks": [
-            "Evaluates and evidences own interests, strengths and skills and uses them to make informed subject choices.",
-            "Aligns personal profile to support management of future CVs and applications.",
-            "Makes well informed choices about learning opportunities and pathways and relates these to possible future careers."
-        ],
-        "curriculumLevel": "FOURTH",
-        "curriculumAreaName": "HEALTH_AND_WELLBEING",
-        "eAndOSetSectionName": "Planning for choices and changes",
-        "eAndOSetSubSectionName": "Planning for choices and changes",
-        "eAndOSetSubSectionAuxiliaryText": "",
-        "responsibilityOfAllPractitioners": false
-    },
-
-    {
-        "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
                 "code": "HWB 0-21a",
                 "sentences": [
                     {
                         "sentence": "I am learning to move my body well, exploring how to manage and control it and finding out how to use and share space",
-                        "bulletPoints": []
-                    }
-                ]
-            },
-            {
-                "code": "HWB 0-22a",
-                "sentences": [
-                    {
-                        "sentence": "I am developing my movement skills through practice and energetic play.",
                         "bulletPoints": []
                     }
                 ]
@@ -6599,21 +6185,12 @@
         "curriculumLevel": "EARLY",
         "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
         "eAndOSetSectionName": "Movement skills, competencies and concepts",
-        "eAndOSetSubSectionName": "Physical Competencies",
+        "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
     },
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
-            {
-                "code": "HWB 0-21a",
-                "sentences": [
-                    {
-                        "sentence": "I am learning to move my body well, exploring how to manage and control it and finding out how to use and share space",
-                        "bulletPoints": []
-                    }
-                ]
-            },
             {
                 "code": "HWB 0-22a",
                 "sentences": [
@@ -6625,15 +6202,970 @@
             }
         ],
         "associatedBenchmarks": [
+            "(Physical Competency) - Shows awareness of personal space (i.e. where body ends and space begins).",
+            "(Physical Competency) - Moves at different speeds, levels and directions with others in a designated space.",
+            "(Physical Competency) - Shows awareness of body parts and body positions when performing a range of different movements.",
+            "(Physical Competency) - Shows control of personal space and body parts when moving.",
+            "(Physical Competency) - Holds balance in various shapes and maintains balance when moving.",
+            "(Physical Competency) - Is beginning to manipulate objects as part of energetic play",
+            "(Physical Competency) - Links movements together (moves body or parts of body in order).",
+            "(Physical Competency) - Is beginning to move with purpose.",
+            "(Physical Competency) - Is beginning to develop knowledge and understanding of what a quality movement looks like and feels like.",
+            "(Physical Competency) - Demonstrates how to use repeated patterns of movement to create simple sequences, for example, one foot to two feet jumping.",
+            "(Physical Competency) - Responds with movement, for example, jump-clap-turn to recognised rhythm, beat, music, words.",
+            "(Physical Competency) - Performs basic components of movement, for example, run, jump, gallop, transfer of weight from one foot to another.",
+            "(Physical Competency) - Is beginning to perform movement skills in sequence, for example, catch an object with two hands.",
+            "(Physical Competency) - Is beginning to demonstrate eye/hand and eye/foot co-ordination required for movement skills, for example, pass object from one hand to the other.",
 
+            "(Cognitive Skill) - Focuses on task and pays attention to stimuli, for example, instructions from a practitioner.",
+            "(Cognitive Skill) - Recognises external cues that need an immediate response, for example, starting and stopping.",
+            "(Cognitive Skill) - Remembers two-step simple instructions, for example, bounce the ball and then change direction.",
+            "(Cognitive Skill) - Works out the order for dealing with information (or tasks).",
+            "(Cognitive Skill) - Repeats tasks in the correct sequence.",
+            "(Cognitive Skill) - Makes decisions in response to simple tasks, for example, knowing when to start and stop.",
+            "(Cognitive Skill) - Listens to and makes sense of two/three pieces of information, for example, bounce the ball when moving forwards.",
+            "(Cognitive Skill) - Uses prior knowledge, and identifies key information to help form a solution.",
+            "(Cognitive Skill) - Moves in response to a variety of stimuli.",
+            "(Cognitive Skill) - Demonstrates imagination through energetic play.",
+
+            "(Personal Qualities) - Participates with enthusiasm. Enjoys being challenged.",
+            "(Personal Qualities) - Sets targets in simple tasks",
+            "(Personal Qualities) - Describes why people participate in physical activity, for example, to have fun",
+            "(Personal Qualities) - Is developing an awareness of self and an increasing self-reliance in dealing with new situations",
+            "(Personal Qualities) - Discusses learning with adult support, and describes likes and dislikes.",
+            "(Personal Qualities) - Responds and contributes to self and peer assessment with respect.",
+            "(Personal Qualities) - Celebrates, values and uses achievements to build next steps.",
+            "(Personal Qualities) - Is learning how to be a good winner and cope appropriately with losing",
+            "(Personal Qualities) - Stays on task that may at first seem challenging, to achieve success",
+            "(Personal Qualities) - Identifies and expresses some emotions appropriately, for example, happy/sad and understands how they can affect behaviour.",
+            "(Personal Qualities) - Accepts direction from an adult or peer",
+            "(Personal Qualities) - Seeks appropriate help.",
+            "(Personal Qualities) - Is beginning to use self-control when carrying out simple tasks",
+            "(Personal Qualities) - Adopts different roles when working individually or as part of a group.",
+            "(Personal Qualities) - Makes choices about learning and playing in a variety of contexts.",
+            "(Personal Qualities) - Shares with others and shows consideration during energetic play.",
+            "(Personal Qualities) - Is aware of ideas, thoughts and feelings of others.",
+            "(Personal Qualities) - Takes turns with others to use equipment safely.",
+            "(Personal Qualities) - Is developing the ability to know when to listen and when to talk when interacting with others.",
+            "(Personal Qualities) - Uses words and/or body language to express ideas, thoughts and feelings.",
+
+            "(Physical Fitness) - Sustains energetic levels of play/activity.",
+            "(Physical Fitness) - Recognises different body parts required to sustain energetic activity",
+            "(Physical Fitness) - Identifies different ways to be physically active.",
+            "(Physical Fitness) - Describes how the body changes when engaged in moderate to vigorous activity",
+            "(Physical Fitness) - Moves at different speeds – slowly, steadily and quickly.",
+            "(Physical Fitness) - Moves parts of the body at different speeds.",
+            "(Physical Fitness) - Starts and stops quickly",
+            "(Physical Fitness) - Understands speed in simple terms",
+            "(Physical Fitness) - Is developing postural control when performing physical actions.",
+            "(Physical Fitness) - Moves in control and maintains shape.",
+            "(Physical Fitness) - Holds body weight/position of stillness for short periods of time.",
+            "(Physical Fitness) - Moves freely across a full range of movements"
         ],
         "curriculumLevel": "EARLY",
         "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
         "eAndOSetSectionName": "Movement skills, competencies and concepts",
-        "eAndOSetSubSectionName": "Cognitive Skills",
+        "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
     },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-23a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of my own and others’ needs and feelings especially when taking turns and sharing resources. I recognise the need to follow rules",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Personal Qualities) - Participates with enthusiasm. Enjoys being challenged.",
+            "(Personal Qualities) - Sets targets in simple tasks",
+            "(Personal Qualities) - Describes why people participate in physical activity, for example, to have fun",
+            "(Personal Qualities) - Is developing an awareness of self and an increasing self-reliance in dealing with new situations",
+            "(Personal Qualities) - Discusses learning with adult support, and describes likes and dislikes.",
+            "(Personal Qualities) - Responds and contributes to self and peer assessment with respect.",
+            "(Personal Qualities) - Celebrates, values and uses achievements to build next steps.",
+            "(Personal Qualities) - Is learning how to be a good winner and cope appropriately with losing",
+            "(Personal Qualities) - Stays on task that may at first seem challenging, to achieve success",
+            "(Personal Qualities) - Identifies and expresses some emotions appropriately, for example, happy/sad and understands how they can affect behaviour.",
+            "(Personal Qualities) - Accepts direction from an adult or peer",
+            "(Personal Qualities) - Seeks appropriate help.",
+            "(Personal Qualities) - Is beginning to use self-control when carrying out simple tasks",
+            "(Personal Qualities) - Adopts different roles when working individually or as part of a group.",
+            "(Personal Qualities) - Makes choices about learning and playing in a variety of contexts.",
+            "(Personal Qualities) - Shares with others and shows consideration during energetic play.",
+            "(Personal Qualities) - Is aware of ideas, thoughts and feelings of others.",
+            "(Personal Qualities) - Takes turns with others to use equipment safely.",
+            "(Personal Qualities) - Is developing the ability to know when to listen and when to talk when interacting with others.",
+            "(Personal Qualities) - Uses words and/or body language to express ideas, thoughts and feelings."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Cooperation and competition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-24a",
+                "sentences": [
+                    {
+                        "sentence": "By exploring and observing movement, I can describe what I have learned about it",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Personal Qualities) - Participates with enthusiasm. Enjoys being challenged.",
+            "(Personal Qualities) - Sets targets in simple tasks",
+            "(Personal Qualities) - Describes why people participate in physical activity, for example, to have fun",
+            "(Personal Qualities) - Is developing an awareness of self and an increasing self-reliance in dealing with new situations",
+            "(Personal Qualities) - Discusses learning with adult support, and describes likes and dislikes.",
+            "(Personal Qualities) - Responds and contributes to self and peer assessment with respect.",
+            "(Personal Qualities) - Celebrates, values and uses achievements to build next steps.",
+            "(Personal Qualities) - Is learning how to be a good winner and cope appropriately with losing",
+            "(Personal Qualities) - Stays on task that may at first seem challenging, to achieve success",
+            "(Personal Qualities) - Identifies and expresses some emotions appropriately, for example, happy/sad and understands how they can affect behaviour.",
+            "(Personal Qualities) - Accepts direction from an adult or peer",
+            "(Personal Qualities) - Seeks appropriate help.",
+            "(Personal Qualities) - Is beginning to use self-control when carrying out simple tasks",
+            "(Personal Qualities) - Adopts different roles when working individually or as part of a group.",
+            "(Personal Qualities) - Makes choices about learning and playing in a variety of contexts.",
+            "(Personal Qualities) - Shares with others and shows consideration during energetic play.",
+            "(Personal Qualities) - Is aware of ideas, thoughts and feelings of others.",
+            "(Personal Qualities) - Takes turns with others to use equipment safely.",
+            "(Personal Qualities) - Is developing the ability to know when to listen and when to talk when interacting with others.",
+            "(Personal Qualities) - Uses words and/or body language to express ideas, thoughts and feelings."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Evaluating and appreciating",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-25a",
+                "sentences": [
+                    {
+                        "sentence": "I am enjoying daily opportunities to participate in different kinds of energetic play, both outdoors and indoors.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 0-27a",
+                "sentences": [
+                    {
+                        "sentence": "I know that being active is a healthy way to be.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 0-28a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe how I feel after taking part in energetic activities and I am becoming aware of some of the changes that take place in my body.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Physical activity and sport",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-21a",
+                "sentences": [
+                    {
+                        "sentence": "I am discovering ways that I can link actions and skills to create movement patterns and sequences. This has motivated me to practise and improve my skills to develop control and flow.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Physical Competencies) - Shows awareness of the space around them and the space of others, and is beginning to use this information to control movements.",
+            "(Physical Competencies) - Shows control over movement in personal and shared space which includes adapting to changes in speed, direction and level",
+            "(Physical Competencies) - Shows awareness of body parts and body positions when performing a range of different movements.",
+            "(Physical Competencies) - Manipulates parts of the body when moving with purpose.",
+            "(Physical Competencies) - Holds balances in various shapes with and without equipment and describes what helps to maintain balance.",
+            "(Physical Competencies) - Manipulates objects while maintaining balance, for example, receiving and sending a ball with the preferred foot.",
+            "(Physical Competencies) - Links and orders a series of movements with and without equipment to perform a sequence, for example, hopscotch.",
+            "(Physical Competencies) - Moves with purpose demonstrating balance, control and rhythm.",
+            "(Physical Competencies) - Demonstrates knowledge and understanding of what a quality movement looks like, and feels like.",
+            "(Physical Competencies) - Demonstrates how to use repeated patterns of movement to create simple sequences, for example, one foot to two feet jumping",
+            "(Physical Competencies) - Moves the body/parts of the body or objects in response to given cues to create an appropriate tempo, for example, 1-2-3 hop sequence",
+            "(Physical Competencies) - Performs movement skills in simple activities, for example, skipping",
+            "(Physical Competencies) - Performs movement skills in sequence, for example, jump from bench and cushion the landing while staying in balance.",
+            "(Physical Competencies) - Demonstrates eye/hand and eye/foot co-ordination required for movement skills, for example, track the flight of the ball with the eyes, then catch it.",
+            "(Cognitive Skills) - Focuses attention in more demanding situations, for example, working with a partner or in a small group.",
+            "(Cognitive Skills) - Recognises and responds to both internal and external cues at the same time, for example, follow the leader.",
+            "(Cognitive Skills) - Plans and creates a sequence of actions, for example, bounce the ball three times, then change direction and change how you travel with the ball.",
+            "(Cognitive Skills) - Draws on some prior knowledge to work out the order for dealing quickly with information (or tasks). Repeats tasks in the correct sequence with more precision",
+            "(Cognitive Skills) - Makes decisions when presented with two or three different options and can explain why",
+            "(Cognitive Skills) - Takes in and makes sense of two or three pieces of information at the same time from external and/or internal sources, for example, ‘Simon Says’.",
+            "(Cognitive Skills) - Demonstrates adaptability when finding different solutions to solve problems.",
+            "(Cognitive Skills) - Combines actions to create movement sequences independently and with others in response to stimuli, for example, music, words",
+            "(Cognitive Skills) - Demonstrates flair, originality, and imagination when performing."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Movement skills, competencies and concepts",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-22a",
+                "sentences": [
+                    {
+                        "sentence": "I am developing skills and techniques and improving my level of performance and fitness",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Physical Competencies) - Shows awareness of the space around them and the space of others, and is beginning to use this information to control movements.",
+            "(Physical Competencies) - Shows control over movement in personal and shared space which includes adapting to changes in speed, direction and level",
+            "(Physical Competencies) - Shows awareness of body parts and body positions when performing a range of different movements.",
+            "(Physical Competencies) - Manipulates parts of the body when moving with purpose.",
+            "(Physical Competencies) - Holds balances in various shapes with and without equipment and describes what helps to maintain balance.",
+            "(Physical Competencies) - Manipulates objects while maintaining balance, for example, receiving and sending a ball with the preferred foot.",
+            "(Physical Competencies) - Links and orders a series of movements with and without equipment to perform a sequence, for example, hopscotch.",
+            "(Physical Competencies) - Moves with purpose demonstrating balance, control and rhythm.",
+            "(Physical Competencies) - Demonstrates knowledge and understanding of what a quality movement looks like, and feels like.",
+            "(Physical Competencies) - Demonstrates how to use repeated patterns of movement to create simple sequences, for example, one foot to two feet jumping",
+            "(Physical Competencies) - Moves the body/parts of the body or objects in response to given cues to create an appropriate tempo, for example, 1-2-3 hop sequence",
+            "(Physical Competencies) - Performs movement skills in simple activities, for example, skipping",
+            "(Physical Competencies) - Performs movement skills in sequence, for example, jump from bench and cushion the landing while staying in balance.",
+            "(Physical Competencies) - Demonstrates eye/hand and eye/foot co-ordination required for movement skills, for example, track the flight of the ball with the eyes, then catch it.",
+            "(Cognitive Skills) - Focuses attention in more demanding situations, for example, working with a partner or in a small group.",
+            "(Cognitive Skills) - Recognises and responds to both internal and external cues at the same time, for example, follow the leader.",
+            "(Cognitive Skills) - Plans and creates a sequence of actions, for example, bounce the ball three times, then change direction and change how you travel with the ball.",
+            "(Cognitive Skills) - Draws on some prior knowledge to work out the order for dealing quickly with information (or tasks). Repeats tasks in the correct sequence with more precision",
+            "(Cognitive Skills) - Makes decisions when presented with two or three different options and can explain why",
+            "(Cognitive Skills) - Takes in and makes sense of two or three pieces of information at the same time from external and/or internal sources, for example, ‘Simon Says’.",
+            "(Cognitive Skills) - Demonstrates adaptability when finding different solutions to solve problems.",
+            "(Cognitive Skills) - Combines actions to create movement sequences independently and with others in response to stimuli, for example, music, words",
+            "(Cognitive Skills) - Demonstrates flair, originality, and imagination when performing.",
+            "(Personal Qualities) - Shows an enthusiasm to participate. Enjoys being challenged.",
+            "(Personal Qualities) - Recognises and responds to both internal and external motivation to: (1) set targets, (2) achieve personal goals, (3) improve performance",
+            "(Personal Qualities) - Identifies and describes reasons why people participate in physical activity, for example, to have fun, to be healthy, to set individual goals or to belong to a group.",
+            "(Personal Qualities) - Has a positive awareness of self as physical competencies improve.",
+            "(Personal Qualities) - Discusses learning and identifies strengths and next steps.",
+            "(Personal Qualities) - Responds and contributes to self and peer assessment with respect.",
+            "(Personal Qualities) - Celebrates, values and uses achievements as part of improving performance.",
+            "(Personal Qualities) - Identifies and discusses how to be a good winner and cope appropriately with losing",
+            "(Personal Qualities) - Demonstrates persistence when facing a challenge and works to achieve a successful outcome",
+            "(Personal Qualities) - Recognises a variety of emotions and is developing the ability to manage them appropriately.",
+            "(Personal Qualities) - Demonstrates a continuing readiness to learn and is developing planning and organisational skills.",
+            "(Personal Qualities) - Develops a range of strategies to increase self-control when performing independently and/or with others",
+            "(Personal Qualities) - Adopts a variety of roles that lead to successful outcomes.",
+            "(Personal Qualities) - Identifies and discusses the role of leader and the associated responsibilities.",
+            "(Personal Qualities) - Demonstrates how to include others when completing movement tasks",
+            "(Personal Qualities) - Engages positively with others to use equipment safely and fairly",
+            "(Personal Qualities) - Listens to and responds to the ideas, thoughts and feelings of others with respect. Responds appropriately, for example, nodding or agreeing, asking and answering questions.",
+            "(Personal Qualities) - Demonstrates knowledge and understanding of a range of verbal and non-verbal communication skills and is beginning to apply them when interacting with or presenting to others, for example, uses eye contact, body language and gestures.",
+            "(Physical Fitness) - Participates in moderate to vigorous physical activity and sustains a level of activity that provides challenge.",
+            "(Physical Fitness) - Describes how the body feels during and after sustained activity.",
+            "(Physical Fitness) - Describes in simple terms the reasons why people participate in physical activity",
+            "(Physical Fitness) - Sets targets for sustaining moderate to vigorous physical activity",
+            "(Physical Fitness) - Demonstrates understanding of stamina in simple terms and how it affects health, and ability to perform.",
+            "(Physical Fitness) - Moves at different speeds and is able to maintain balance whilst changing direction quickly",
+            "(Physical Fitness) - Demonstrates short bursts of fast movement from stillness.",
+            "(Physical Fitness) - Moves parts of the body using different speeds and force",
+            "(Physical Fitness) - Demonstrates understanding of speed in simple terms and how it affects ability to perform",
+            "(Physical Fitness) - Shows postural control when starting, stopping and changing direction.",
+            "(Physical Fitness) - Describes where ‘core’ is and demonstrates how it supports the body.",
+            "(Physical Fitness) - Holds body weight in a variety of positions",
+            "(Physical Fitness) - Uses a full range of movement to perform actions effectively",
+            "(Physical Fitness) - Demonstrates understanding of flexibility in simple terms and how it affects everyday life, and ability to perform"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Movement skills, competencies and concepts",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-23a",
+                "sentences": [
+                    {
+                        "sentence": "I can follow and understand rules and procedures, developing my ability to achieve personal goals. I recognise and can adopt different roles in a range of practical activities",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Personal Qualities) - Shows an enthusiasm to participate. Enjoys being challenged.",
+            "(Personal Qualities) - Recognises and responds to both internal and external motivation to: (1) set targets, (2) achieve personal goals, (3) improve performance",
+            "(Personal Qualities) - Identifies and describes reasons why people participate in physical activity, for example, to have fun, to be healthy, to set individual goals or to belong to a group.",
+            "(Personal Qualities) - Has a positive awareness of self as physical competencies improve.",
+            "(Personal Qualities) - Discusses learning and identifies strengths and next steps.",
+            "(Personal Qualities) - Responds and contributes to self and peer assessment with respect.",
+            "(Personal Qualities) - Celebrates, values and uses achievements as part of improving performance.",
+            "(Personal Qualities) - Identifies and discusses how to be a good winner and cope appropriately with losing",
+            "(Personal Qualities) - Demonstrates persistence when facing a challenge and works to achieve a successful outcome",
+            "(Personal Qualities) - Recognises a variety of emotions and is developing the ability to manage them appropriately.",
+            "(Personal Qualities) - Demonstrates a continuing readiness to learn and is developing planning and organisational skills.",
+            "(Personal Qualities) - Develops a range of strategies to increase self-control when performing independently and/or with others",
+            "(Personal Qualities) - Adopts a variety of roles that lead to successful outcomes.",
+            "(Personal Qualities) - Identifies and discusses the role of leader and the associated responsibilities.",
+            "(Personal Qualities) - Demonstrates how to include others when completing movement tasks",
+            "(Personal Qualities) - Engages positively with others to use equipment safely and fairly",
+            "(Personal Qualities) - Listens to and responds to the ideas, thoughts and feelings of others with respect. Responds appropriately, for example, nodding or agreeing, asking and answering questions.",
+            "(Personal Qualities) - Demonstrates knowledge and understanding of a range of verbal and non-verbal communication skills and is beginning to apply them when interacting with or presenting to others, for example, uses eye contact, body language and gestures."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Cooperation and competition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-24a",
+                "sentences": [
+                    {
+                        "sentence": "I can recognise progress and achievement by discussing my thoughts and feelings and giving and accepting feedback",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Personal Qualities) - Shows an enthusiasm to participate. Enjoys being challenged.",
+            "(Personal Qualities) - Recognises and responds to both internal and external motivation to: (1) set targets, (2) achieve personal goals, (3) improve performance",
+            "(Personal Qualities) - Identifies and describes reasons why people participate in physical activity, for example, to have fun, to be healthy, to set individual goals or to belong to a group.",
+            "(Personal Qualities) - Has a positive awareness of self as physical competencies improve.",
+            "(Personal Qualities) - Discusses learning and identifies strengths and next steps.",
+            "(Personal Qualities) - Responds and contributes to self and peer assessment with respect.",
+            "(Personal Qualities) - Celebrates, values and uses achievements as part of improving performance.",
+            "(Personal Qualities) - Identifies and discusses how to be a good winner and cope appropriately with losing",
+            "(Personal Qualities) - Demonstrates persistence when facing a challenge and works to achieve a successful outcome",
+            "(Personal Qualities) - Recognises a variety of emotions and is developing the ability to manage them appropriately.",
+            "(Personal Qualities) - Demonstrates a continuing readiness to learn and is developing planning and organisational skills.",
+            "(Personal Qualities) - Develops a range of strategies to increase self-control when performing independently and/or with others",
+            "(Personal Qualities) - Adopts a variety of roles that lead to successful outcomes.",
+            "(Personal Qualities) - Identifies and discusses the role of leader and the associated responsibilities.",
+            "(Personal Qualities) - Demonstrates how to include others when completing movement tasks",
+            "(Personal Qualities) - Engages positively with others to use equipment safely and fairly",
+            "(Personal Qualities) - Listens to and responds to the ideas, thoughts and feelings of others with respect. Responds appropriately, for example, nodding or agreeing, asking and answering questions.",
+            "(Personal Qualities) - Demonstrates knowledge and understanding of a range of verbal and non-verbal communication skills and is beginning to apply them when interacting with or presenting to others, for example, uses eye contact, body language and gestures."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Evaluating and appreciating",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-25a",
+                "sentences": [
+                    {
+                        "sentence": "Within and beyond my place of learning I am enjoying daily opportunities to participate in physical activities and sport, making use of available indoor and outdoor space",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 1-27a",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of the role physical activity plays in keeping me healthy and know that I also need to sleep and rest, to look after my body.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 1-28a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that my body needs energy to function and that this comes from the food I eat. I am exploring how physical activity contributes to my health and wellbeing",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Physical activity and sport",
+        "eAndOSetSubSectionName": "Physical activity and health",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-21a",
+                "sentences": [
+                    {
+                        "sentence": "As I encounter new challenges and contexts for learning, I am encouraged and supported to demonstrate my ability to select, adapt and apply movement skills and strategies, creatively, accurately and with control.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Physical Competencies) - Moves efficiently in personal and shared space",
+            "(Physical Competencies) - Performs and refines movement with a focus on quality, using different speeds/pathways/levels.",
+            "(Physical Competencies) - Is internally aware of body parts and adopts body positions effectively in a variety of challenging situations.",
+            "(Physical Competencies) - Differentiates between movements of different parts of the body, with a focus on quality, for example, rolling segmentally, leading first with the head, followed by the shoulders and then the pelvis",
+            "(Physical Competencies) - Combines and applies static and dynamic balance with and without equipment at different speeds, directions and levels, for example, dodging and feinting.",
+            "(Physical Competencies) - Manipulates objects while maintaining balance to result in desired outcomes, for example, baton changeover in relay race.",
+            "(Physical Competencies) - Performs a sequence of movements with a clear beginning, middle and end with increasing fluency, for example, a cartwheel followed by a forward roll.",
+            "(Physical Competencies) - Moves with purpose and confidence, demonstrating balance, control and rhythm.",
+            "(Physical Competencies) - Explains what a quality movement looks like and feels like, to help modify and improve performance.",
+            "(Physical Competencies) - Creates sequences of movement using a variety of stimuli with a focus on quality.",
+            "(Physical Competencies) - Maintains rhythm with or without equipment, for example, pass and move, keeping possession of the ball.",
+            "(Physical Competencies) - Performs actions that involve a transition from one phase to another, for example, forward roll into straight jump",
+            "(Physical Competencies) - Performs movement skills with confidence, for example, using active footwork to move to a space to receive the netball.",
+            "(Physical Competencies) - Performs movement skills in sequence with confidence, for example, keeping the ball up with bat/racquet.",
+            "(Physical Competencies) - Demonstrates eye/hand and eye/foot co-ordination to execute movement skills, for example, striking a ball with a bat or kicking a ball towards a target",
+            "(Cognitive Skills) - Manages impulsive responses to stay focused on task and filter out distractions, for example, taking a shot in netball with defender in front of the net",
+            "(Cognitive Skills) - Recognises a range of cues and begins to prioritise those that need to be responded to first.",
+            "(Cognitive Skills) - Plans a series of three or more actions in order to address simple movement challenges.",
+            "(Cognitive Skills) - Recognises the importance of particular moments, or actions in a sequence. Draws on prior knowledge to select an effective order that contributes to successful performance.",
+            "(Cognitive Skills) - Makes decisions when presented with a greater variety of options and can explain why.",
+            "(Cognitive Skills) - Takes in and makes sense of several pieces of information at the same time, from a number of different sources which contribute to successful performance.",
+            "(Cognitive Skills) - Adapts previous plans, movement skills and strategies to generate a solution and explains why it is the most effective",
+            "(Cognitive Skills) - Creates and adapts movement sequences independently and with others in response to stimuli.",
+            "(Cognitive Skills) - Demonstrates flair, originality and imagination that contributes to a quality performance."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Movement skills, competencies and concepts",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-22a",
+                "sentences": [
+                    {
+                        "sentence": "I practise, consolidate and refine my skills to improve my performance. I am developing and sustaining my levels of fitness.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Physical Competencies) - Moves efficiently in personal and shared space",
+            "(Physical Competencies) - Performs and refines movement with a focus on quality, using different speeds/pathways/levels.",
+            "(Physical Competencies) - Is internally aware of body parts and adopts body positions effectively in a variety of challenging situations.",
+            "(Physical Competencies) - Differentiates between movements of different parts of the body, with a focus on quality, for example, rolling segmentally, leading first with the head, followed by the shoulders and then the pelvis",
+            "(Physical Competencies) - Combines and applies static and dynamic balance with and without equipment at different speeds, directions and levels, for example, dodging and feinting.",
+            "(Physical Competencies) - Manipulates objects while maintaining balance to result in desired outcomes, for example, baton changeover in relay race.",
+            "(Physical Competencies) - Performs a sequence of movements with a clear beginning, middle and end with increasing fluency, for example, a cartwheel followed by a forward roll.",
+            "(Physical Competencies) - Moves with purpose and confidence, demonstrating balance, control and rhythm.",
+            "(Physical Competencies) - Explains what a quality movement looks like and feels like, to help modify and improve performance.",
+            "(Physical Competencies) - Creates sequences of movement using a variety of stimuli with a focus on quality.",
+            "(Physical Competencies) - Maintains rhythm with or without equipment, for example, pass and move, keeping possession of the ball.",
+            "(Physical Competencies) - Performs actions that involve a transition from one phase to another, for example, forward roll into straight jump",
+            "(Physical Competencies) - Performs movement skills with confidence, for example, using active footwork to move to a space to receive the netball.",
+            "(Physical Competencies) - Performs movement skills in sequence with confidence, for example, keeping the ball up with bat/racquet.",
+            "(Physical Competencies) - Demonstrates eye/hand and eye/foot co-ordination to execute movement skills, for example, striking a ball with a bat or kicking a ball towards a target",
+            "(Cognitive Skills) - Manages impulsive responses to stay focused on task and filter out distractions, for example, taking a shot in netball with defender in front of the net",
+            "(Cognitive Skills) - Recognises a range of cues and begins to prioritise those that need to be responded to first.",
+            "(Cognitive Skills) - Plans a series of three or more actions in order to address simple movement challenges.",
+            "(Cognitive Skills) - Recognises the importance of particular moments, or actions in a sequence. Draws on prior knowledge to select an effective order that contributes to successful performance.",
+            "(Cognitive Skills) - Makes decisions when presented with a greater variety of options and can explain why.",
+            "(Cognitive Skills) - Takes in and makes sense of several pieces of information at the same time, from a number of different sources which contribute to successful performance.",
+            "(Cognitive Skills) - Adapts previous plans, movement skills and strategies to generate a solution and explains why it is the most effective",
+            "(Cognitive Skills) - Creates and adapts movement sequences independently and with others in response to stimuli.",
+            "(Cognitive Skills) - Demonstrates flair, originality and imagination that contributes to a quality performance.",
+            "(Personal Qualities) - Is self-motivated in movement challenges and demonstrates positive effort",
+            "(Personal Qualities) - Sets and acts upon personal goals based on knowledge and understanding of what it means to perform well",
+            "(Personal Qualities) - Explains factors that affect and influence participation in physical activity, for example, attitude, access, personal and/or family preference",
+            "(Personal Qualities) - Demonstrates understanding that we play a role in encouraging others.",
+            "(Personal Qualities) - Demonstrates self-reliance when faced with movement challenges in familiar and unfamiliar practice and performance environments",
+            "(Personal Qualities) - Initiates and works co-operatively with others providing support and encouragement.",
+            "(Personal Qualities) - Self-assesses and acts as a peer assessor to provide constructive feedback to improve performance",
+            "(Personal Qualities) - Celebrates, values and uses achievements as part of development and progress",
+            "(Personal Qualities) - Identifies and discusses strategies around competition to cope appropriately with the outcomes.",
+            "(Personal Qualities) - Demonstrates understanding of the positive link between effort, perseverance, and personal achievement",
+            "(Personal Qualities) - Recognises the variety of emotions that are associated with performing and the impact they have on behaviour and performance",
+            "(Personal Qualities) - Develops the ability to manage emotions to enhance performance",
+            "(Personal Qualities) - Demonstrates planning and organisational skills which are conducive to learning.",
+            "(Personal Qualities) - Identifies and adopts strategies to increase self-control for enjoyable individual performance and/or with others.",
+            "(Personal Qualities) - Adopts a variety of roles that lead to successful outcomes.",
+            "(Personal Qualities) - Demonstrates understanding of the leadership role",
+            "(Personal Qualities) - Contributes to an inclusive ethos, showing mutual respect in practice and performance environments.",
+            "(Personal Qualities) - Listens to and responds to the ideas, thoughts and feelings of others, and is developing negotiation skills when dealing with movement challenges",
+            "(Personal Qualities) - Enhances individual and group enjoyment of physical activity through fair play",
+            "(Personal Qualities) - Takes account of the views of others. Responds appropriately, for example, by asking and answering questions, clarifying points and building on ideas.",
+            "(Personal Qualities) - Demonstrates understanding of a range of verbal and non-verbal communication skills and applies them appropriately in practice and performance environments, for example, shout and signal for the ball.",
+            "(Physical Fitness) - Demonstrates understanding of how to sustain moderate to vigorous physical activity that provides challenge.",
+            "(Physical Fitness) - Demonstrates understanding of heart rate and how to measure it.",
+            "(Physical Fitness) - Describes how personal preference and choice can influence participation in physical activity.",
+            "(Physical Fitness) - Sets personal goals for sustaining moderate to vigorous physical activity that lead to improvement",
+            "(Physical Fitness) - Identifies types of physical activity where stamina is key to success.",
+            "(Physical Fitness) - Moves at different speeds and changes direction quickly in balance and with control.",
+            "(Physical Fitness) - Accelerates quickly from a stationary position.",
+            "(Physical Fitness) - Experiments with the use of speed (with body parts and/or equipment), for example, fast arm when throwing a ball.",
+            "(Physical Fitness) - Sets personal goals to improve speed.",
+            "(Physical Fitness) - Identifies physical activities where speed is key to success.",
+            "(Physical Fitness) - Shows postural control when performing physical actions with accuracy.",
+            "(Physical Fitness) - Explains and demonstrates how to make a balance more stable.",
+            "(Physical Fitness) - Experiments with the use of force (with body parts and/or equipment), for example, absorbing force with the ankles, knees and hips during landing.",
+            "(Physical Fitness) - Sets personal goals to improve core stability and strength.",
+            "(Physical Fitness) - Identifies physical activities where core stability and strength are key to success",
+            "(Physical Fitness) - Performs a range of effective, dynamic movements specific to physical activities.",
+            "(Physical Fitness) - Demonstrates understanding of the impact of flexibility on everyday life and sets personal goals to improve.",
+            "(Physical Fitness) - Identifies physical activities where flexibility is key to success."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Movement skills, competencies and concepts",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-23a",
+                "sentences": [
+                    {
+                        "sentence": "While working and learning with others, I improve my range of skills, demonstrate tactics and achieve identified goals",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Personal Qualities) - Is self-motivated in movement challenges and demonstrates positive effort",
+            "(Personal Qualities) - Sets and acts upon personal goals based on knowledge and understanding of what it means to perform well",
+            "(Personal Qualities) - Explains factors that affect and influence participation in physical activity, for example, attitude, access, personal and/or family preference",
+            "(Personal Qualities) - Demonstrates understanding that we play a role in encouraging others.",
+            "(Personal Qualities) - Demonstrates self-reliance when faced with movement challenges in familiar and unfamiliar practice and performance environments",
+            "(Personal Qualities) - Initiates and works co-operatively with others providing support and encouragement.",
+            "(Personal Qualities) - Self-assesses and acts as a peer assessor to provide constructive feedback to improve performance",
+            "(Personal Qualities) - Celebrates, values and uses achievements as part of development and progress",
+            "(Personal Qualities) - Identifies and discusses strategies around competition to cope appropriately with the outcomes.",
+            "(Personal Qualities) - Demonstrates understanding of the positive link between effort, perseverance, and personal achievement",
+            "(Personal Qualities) - Recognises the variety of emotions that are associated with performing and the impact they have on behaviour and performance",
+            "(Personal Qualities) - Develops the ability to manage emotions to enhance performance",
+            "(Personal Qualities) - Demonstrates planning and organisational skills which are conducive to learning.",
+            "(Personal Qualities) - Identifies and adopts strategies to increase self-control for enjoyable individual performance and/or with others.",
+            "(Personal Qualities) - Adopts a variety of roles that lead to successful outcomes.",
+            "(Personal Qualities) - Demonstrates understanding of the leadership role",
+            "(Personal Qualities) - Contributes to an inclusive ethos, showing mutual respect in practice and performance environments.",
+            "(Personal Qualities) - Listens to and responds to the ideas, thoughts and feelings of others, and is developing negotiation skills when dealing with movement challenges",
+            "(Personal Qualities) - Enhances individual and group enjoyment of physical activity through fair play",
+            "(Personal Qualities) - Takes account of the views of others. Responds appropriately, for example, by asking and answering questions, clarifying points and building on ideas.",
+            "(Personal Qualities) - Demonstrates understanding of a range of verbal and non-verbal communication skills and applies them appropriately in practice and performance environments, for example, shout and signal for the ball."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Cooperation and competition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-24a",
+                "sentences": [
+                    {
+                        "sentence": "By reflecting on my own and others’ work and evaluating it against shared criteria, I can recognise improvement and achievement and use this to progress further.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Personal Qualities) - Is self-motivated in movement challenges and demonstrates positive effort",
+            "(Personal Qualities) - Sets and acts upon personal goals based on knowledge and understanding of what it means to perform well",
+            "(Personal Qualities) - Explains factors that affect and influence participation in physical activity, for example, attitude, access, personal and/or family preference",
+            "(Personal Qualities) - Demonstrates understanding that we play a role in encouraging others.",
+            "(Personal Qualities) - Demonstrates self-reliance when faced with movement challenges in familiar and unfamiliar practice and performance environments",
+            "(Personal Qualities) - Initiates and works co-operatively with others providing support and encouragement.",
+            "(Personal Qualities) - Self-assesses and acts as a peer assessor to provide constructive feedback to improve performance",
+            "(Personal Qualities) - Celebrates, values and uses achievements as part of development and progress",
+            "(Personal Qualities) - Identifies and discusses strategies around competition to cope appropriately with the outcomes.",
+            "(Personal Qualities) - Demonstrates understanding of the positive link between effort, perseverance, and personal achievement",
+            "(Personal Qualities) - Recognises the variety of emotions that are associated with performing and the impact they have on behaviour and performance",
+            "(Personal Qualities) - Develops the ability to manage emotions to enhance performance",
+            "(Personal Qualities) - Demonstrates planning and organisational skills which are conducive to learning.",
+            "(Personal Qualities) - Identifies and adopts strategies to increase self-control for enjoyable individual performance and/or with others.",
+            "(Personal Qualities) - Adopts a variety of roles that lead to successful outcomes.",
+            "(Personal Qualities) - Demonstrates understanding of the leadership role",
+            "(Personal Qualities) - Contributes to an inclusive ethos, showing mutual respect in practice and performance environments.",
+            "(Personal Qualities) - Listens to and responds to the ideas, thoughts and feelings of others, and is developing negotiation skills when dealing with movement challenges",
+            "(Personal Qualities) - Enhances individual and group enjoyment of physical activity through fair play",
+            "(Personal Qualities) - Takes account of the views of others. Responds appropriately, for example, by asking and answering questions, clarifying points and building on ideas.",
+            "(Personal Qualities) - Demonstrates understanding of a range of verbal and non-verbal communication skills and applies them appropriately in practice and performance environments, for example, shout and signal for the ball."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Evaluating and appreciating",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-25a",
+                "sentences": [
+                    {
+                        "sentence": "I am experiencing enjoyment and achievement on a daily basis by taking part in different kinds of energetic physical activities of my choosing, including sport and opportunities for outdoor learning, available at my place of learning and in the wider community.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-26a",
+                "sentences": [
+                    {
+                        "sentence": "I have investigated the role of sport and the opportunities it may offer me. I am able to access opportunities for participation in sport and the development of my performance in my place of learning and beyond.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-27a",
+                "sentences": [
+                    {
+                        "sentence": "I can explain why I need to be active on a daily basis to maintain good health and try to achieve a good balance of sleep, rest and physical activity.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-28a",
+                "sentences": [
+                    {
+                        "sentence": "I can explain the links between the energy I use while being physically active, the food I eat, and my health and wellbeing.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Physical activity and sport",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-21a",
+                "sentences": [
+                    {
+                        "sentence": "As I encounter new challenges and contexts for learning, I am encouraged and supported to demonstrate my ability to select, adapt and apply movement skills and strategies, creatively, accurately and with control.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Physical Competencies) - Demonstrates an awareness of self, others and safe working consistently in the practice and performance environments.",
+            "(Physical Competencies) - Performs, adapts and refines a variety of movements with a focus on quality, using different speeds/pathways/levels.",
+            "(Physical Competencies) - Is internally aware when co-ordinating hand-eye/hand-foot movements to control different pieces of equipment, for example, drop shot in badminton.",
+            "(Physical Competencies) - Differentiates between movements of different parts of the body with control, for example, front crawl",
+            "(Physical Competencies) - Performs smooth transfers of weight with and without equipment involving static and dynamic balance",
+            "(Physical Competencies) - Manipulates objects with precision while maintaining balance, for example, set shot in basketball",
+            "(Physical Competencies) - Performs a fluent sequence of movements with confidence.",
+            "(Physical Competencies) - Demonstrates efficient movement that leads to successful outcomes",
+            "(Physical Competencies) - Evaluates the key elements of movement that lead to a quality performance.",
+            "(Physical Competencies) - Creates sequences of movement using a variety of stimuli with a focus on quality",
+            "(Physical Competencies) - Creates and establishes a rhythm to make the opportunity for timing available, for example, fluent passing round the key then player cuts to basket.",
+            "(Physical Competencies) - Performs actions that involve a smooth transition from one phase to another, for example, dance sequence; jump, clap, slide and pause.",
+            "(Physical Competencies) - Performs specialised movement skills/techniques with precision.",
+            "(Physical Competencies) - Transfers skills learned in one performance environment to a different one, for example, overarm throw /overhead shot in badminton.",
+            "(Physical Competencies) - Uses eye/hand and eye/foot coordination as part of skilful performance.",
+            "(Cognitive Skills) - Switches concentration from one task to another fluently by filtering out distractions.",
+            "(Cognitive Skills) - Prioritises the order in which cues are responded to.",
+            "(Cognitive Skills) - Plans, performs and reviews a series of actions to address movement challenges, for example, triple jump.",
+            "(Cognitive Skills) - Recognises and acts upon the importance of ‘what’s next?’ as a key element within a sequence of actions, for example, receives a pass, feints, then passes to unmarked team-mate.",
+            "(Cognitive Skills) - Takes responsibility for decisions under pressure that lead to improved performance.",
+            "(Cognitive Skills) - Interprets information quickly in pressured situations.",
+            "(Cognitive Skills) - Selects, adapts and applies the most appropriate strategy when solving familiar and unfamiliar movement challenges.",
+            "(Cognitive Skills) - Creates movement sequences with precision, independently and with others.",
+            "(Cognitive Skills) - Demonstrates flair, originality and imagination with increasing refinement."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Movement skills, competencies and concepts",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-22a",
+                "sentences": [
+                    {
+                        "sentence": "I practise, consolidate and refine my skills to improve my performance. I am developing and sustaining my levels of fitness.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Physical Competencies) - Demonstrates an awareness of self, others and safe working consistently in the practice and performance environments.",
+            "(Physical Competencies) - Performs, adapts and refines a variety of movements with a focus on quality, using different speeds/pathways/levels.",
+            "(Physical Competencies) - Is internally aware when co-ordinating hand-eye/hand-foot movements to control different pieces of equipment, for example, drop shot in badminton.",
+            "(Physical Competencies) - Differentiates between movements of different parts of the body with control, for example, front crawl",
+            "(Physical Competencies) - Performs smooth transfers of weight with and without equipment involving static and dynamic balance",
+            "(Physical Competencies) - Manipulates objects with precision while maintaining balance, for example, set shot in basketball",
+            "(Physical Competencies) - Performs a fluent sequence of movements with confidence.",
+            "(Physical Competencies) - Demonstrates efficient movement that leads to successful outcomes",
+            "(Physical Competencies) - Evaluates the key elements of movement that lead to a quality performance.",
+            "(Physical Competencies) - Creates sequences of movement using a variety of stimuli with a focus on quality",
+            "(Physical Competencies) - Creates and establishes a rhythm to make the opportunity for timing available, for example, fluent passing round the key then player cuts to basket.",
+            "(Physical Competencies) - Performs actions that involve a smooth transition from one phase to another, for example, dance sequence; jump, clap, slide and pause.",
+            "(Physical Competencies) - Performs specialised movement skills/techniques with precision.",
+            "(Physical Competencies) - Transfers skills learned in one performance environment to a different one, for example, overarm throw /overhead shot in badminton.",
+            "(Physical Competencies) - Uses eye/hand and eye/foot coordination as part of skilful performance.",
+            "(Cognitive Skills) - Switches concentration from one task to another fluently by filtering out distractions.",
+            "(Cognitive Skills) - Prioritises the order in which cues are responded to.",
+            "(Cognitive Skills) - Plans, performs and reviews a series of actions to address movement challenges, for example, triple jump.",
+            "(Cognitive Skills) - Recognises and acts upon the importance of ‘what’s next?’ as a key element within a sequence of actions, for example, receives a pass, feints, then passes to unmarked team-mate.",
+            "(Cognitive Skills) - Takes responsibility for decisions under pressure that lead to improved performance.",
+            "(Cognitive Skills) - Interprets information quickly in pressured situations.",
+            "(Cognitive Skills) - Selects, adapts and applies the most appropriate strategy when solving familiar and unfamiliar movement challenges.",
+            "(Cognitive Skills) - Creates movement sequences with precision, independently and with others.",
+            "(Cognitive Skills) - Demonstrates flair, originality and imagination with increasing refinement.",
+            "(Personal Qualities) - Is self-motivated and demonstrates self-direction and positive effort in practice and performance environments",
+            "(Personal Qualities) - Uses a range of critical and creative thinking skills to assist in planning and setting goals to improve performance, for example, negotiation and review.",
+            "(Personal Qualities) - Maximises the factors that enable, and minimises the factors that impede participation in daily physical activity.",
+            "(Personal Qualities) - Shows an understanding that we play a role in encouraging others",
+            "(Personal Qualities) - Demonstrates self-reliance and self-worth through engaging in challenging tasks",
+            "(Personal Qualities) - Demonstrates the value of positive relationships while working and learning with others.",
+            "(Personal Qualities) - Constructs/co-constructs criteria to evaluate personal and group performance.",
+            "(Personal Qualities) - Self-assesses and acts as a peer assessor to provide constructive feedback to modify/enhance performance.",
+            "(Personal Qualities) - Takes the initiative to celebrate, value and build on achievements as part of the learning journey.",
+            "(Personal Qualities) - Initiates and adopts coping strategies in response to the outcomes of competition, for example, self-talk.",
+            "(Personal Qualities) - Demonstrates understanding of the positive link between effort, perseverance, and personal achievement.",
+            "(Personal Qualities) - Recognises the variety of emotions that are associated with performing and the impact they have on behaviour and performance.",
+            "(Personal Qualities) - Develops the ability to manage emotions to enhance performance",
+            "(Personal Qualities) - Shows an increasing commitment to learning",
+            "(Personal Qualities) - Plans and manages learning that satisfies personal needs and interests",
+            "(Personal Qualities) - Initiates appropriate strategies to address self-control for successful and enjoyable performance",
+            "(Personal Qualities) - Identifies the strengths of individuals/group to assign appropriate roles and tactics to maximise success.",
+            "(Personal Qualities) - Leads with confidence and respect, taking account of the views of others. Encourages others to lead where appropriate.",
+            "(Personal Qualities) - Contributes to an inclusive ethos, showing mutual respect in practice and performance environments.",
+            "(Personal Qualities) - Uses negotiation skills when working with others in a variety of movement challenges",
+            "(Personal Qualities) - Modifies rules, equipment and scoring systems to enhance individual and group enjoyment of physical activity through fair play and etiquette",
+            "(Personal Qualities) - Takes account of the views of others and responds appropriately, for example, asking and answering questions, clarifying or summarising points, building on ideas, challenging opinions and encouraging others to explore/expand upon ideas.",
+            "(Personal Qualities) - Demonstrates understanding of a range of verbal and non-verbal communication skills and applies them appropriately and confidently in practice and performance environments, for example, role of umpire/referee.",
+            "(Physical Fitness ) - Takes responsibility for sustaining moderate to vigorous physical activity that provides challenge.",
+            "(Physical Fitness ) - Measures heart rate, pays attention to breathing rate and ability to talk, in order to monitor body’s reaction to physical activity.",
+            "(Physical Fitness ) - Explains why some cultural and social factors influence participation in physical activity.",
+            "(Physical Fitness ) - Creates, implements and monitors personal goals for sustaining moderate to vigorous physical activity",
+            "(Physical Fitness ) - Demonstrates stamina in physical activity to support successful performance.",
+            "(Physical Fitness ) - Moves at different speeds and changes direction quickly with precision.",
+            "(Physical Fitness ) - Accelerates quickly from a stationary position in response to movement challenges, for example, moves quickly to close down opponent.",
+            "(Physical Fitness ) - Demonstrates the use of speed (with body parts and/or equipment) with precision and control, for example, arm pull phase in front crawl.",
+            "(Physical Fitness ) - Creates, implements and monitors personal goals to improve speed.",
+            "(Physical Fitness ) - Demonstrates speed in physical activities for successful performance.",
+            "(Physical Fitness ) - Demonstrates the use of balance, postural control and the links to core stability.",
+            "(Physical Fitness ) - Demonstrates the use of force (with body parts and/or equipment) with precision and control, for example, absorbing force when tackling an opponent in rugby.",
+            "(Physical Fitness ) - Creates, implements and monitors personal goals to improve core stability and strength.",
+            "(Physical Fitness ) - Demonstrates core stability and strength in physical activities for successful performance.",
+            "(Physical Fitness ) - Performs a range of effective, dynamic movements specific to physical activities.",
+            "(Physical Fitness ) - Explains the benefits associated with flexibility to everyday life",
+            "(Physical Fitness ) - Creates, implements and monitors personal goals to improve flexibility.",
+            "(Physical Fitness ) - Demonstrates flexibility in physical activities to support successful performance."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Movement skills, competencies and concepts",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-23a",
+                "sentences": [
+                    {
+                        "sentence": "I am developing the skills to lead and recognise strengths of group members, including myself. I contribute to groups and teams through my knowledge of individual strengths, group tactics, and strategies.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Personal Qualities) - Is self-motivated and demonstrates self-direction and positive effort in practice and performance environments",
+            "(Personal Qualities) - Uses a range of critical and creative thinking skills to assist in planning and setting goals to improve performance, for example, negotiation and review.",
+            "(Personal Qualities) - Maximises the factors that enable, and minimises the factors that impede participation in daily physical activity.",
+            "(Personal Qualities) - Shows an understanding that we play a role in encouraging others",
+            "(Personal Qualities) - Demonstrates self-reliance and self-worth through engaging in challenging tasks",
+            "(Personal Qualities) - Demonstrates the value of positive relationships while working and learning with others.",
+            "(Personal Qualities) - Constructs/co-constructs criteria to evaluate personal and group performance.",
+            "(Personal Qualities) - Self-assesses and acts as a peer assessor to provide constructive feedback to modify/enhance performance.",
+            "(Personal Qualities) - Takes the initiative to celebrate, value and build on achievements as part of the learning journey.",
+            "(Personal Qualities) - Initiates and adopts coping strategies in response to the outcomes of competition, for example, self-talk.",
+            "(Personal Qualities) - Demonstrates understanding of the positive link between effort, perseverance, and personal achievement.",
+            "(Personal Qualities) - Recognises the variety of emotions that are associated with performing and the impact they have on behaviour and performance.",
+            "(Personal Qualities) - Develops the ability to manage emotions to enhance performance",
+            "(Personal Qualities) - Shows an increasing commitment to learning",
+            "(Personal Qualities) - Plans and manages learning that satisfies personal needs and interests",
+            "(Personal Qualities) - Initiates appropriate strategies to address self-control for successful and enjoyable performance",
+            "(Personal Qualities) - Identifies the strengths of individuals/group to assign appropriate roles and tactics to maximise success.",
+            "(Personal Qualities) - Leads with confidence and respect, taking account of the views of others. Encourages others to lead where appropriate.",
+            "(Personal Qualities) - Contributes to an inclusive ethos, showing mutual respect in practice and performance environments.",
+            "(Personal Qualities) - Uses negotiation skills when working with others in a variety of movement challenges",
+            "(Personal Qualities) - Modifies rules, equipment and scoring systems to enhance individual and group enjoyment of physical activity through fair play and etiquette",
+            "(Personal Qualities) - Takes account of the views of others and responds appropriately, for example, asking and answering questions, clarifying or summarising points, building on ideas, challenging opinions and encouraging others to explore/expand upon ideas.",
+            "(Personal Qualities) - Demonstrates understanding of a range of verbal and non-verbal communication skills and applies them appropriately and confidently in practice and performance environments, for example, role of umpire/referee."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Cooperation and competition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-24a",
+                "sentences": [
+                    {
+                        "sentence": "I can analyse and discuss elements of my own and others’ work, recognising strengths and identifying areas where improvements can be made.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "(Personal Qualities) - Is self-motivated and demonstrates self-direction and positive effort in practice and performance environments",
+            "(Personal Qualities) - Uses a range of critical and creative thinking skills to assist in planning and setting goals to improve performance, for example, negotiation and review.",
+            "(Personal Qualities) - Maximises the factors that enable, and minimises the factors that impede participation in daily physical activity.",
+            "(Personal Qualities) - Shows an understanding that we play a role in encouraging others",
+            "(Personal Qualities) - Demonstrates self-reliance and self-worth through engaging in challenging tasks",
+            "(Personal Qualities) - Demonstrates the value of positive relationships while working and learning with others.",
+            "(Personal Qualities) - Constructs/co-constructs criteria to evaluate personal and group performance.",
+            "(Personal Qualities) - Self-assesses and acts as a peer assessor to provide constructive feedback to modify/enhance performance.",
+            "(Personal Qualities) - Takes the initiative to celebrate, value and build on achievements as part of the learning journey.",
+            "(Personal Qualities) - Initiates and adopts coping strategies in response to the outcomes of competition, for example, self-talk.",
+            "(Personal Qualities) - Demonstrates understanding of the positive link between effort, perseverance, and personal achievement.",
+            "(Personal Qualities) - Recognises the variety of emotions that are associated with performing and the impact they have on behaviour and performance.",
+            "(Personal Qualities) - Develops the ability to manage emotions to enhance performance",
+            "(Personal Qualities) - Shows an increasing commitment to learning",
+            "(Personal Qualities) - Plans and manages learning that satisfies personal needs and interests",
+            "(Personal Qualities) - Initiates appropriate strategies to address self-control for successful and enjoyable performance",
+            "(Personal Qualities) - Identifies the strengths of individuals/group to assign appropriate roles and tactics to maximise success.",
+            "(Personal Qualities) - Leads with confidence and respect, taking account of the views of others. Encourages others to lead where appropriate.",
+            "(Personal Qualities) - Contributes to an inclusive ethos, showing mutual respect in practice and performance environments.",
+            "(Personal Qualities) - Uses negotiation skills when working with others in a variety of movement challenges",
+            "(Personal Qualities) - Modifies rules, equipment and scoring systems to enhance individual and group enjoyment of physical activity through fair play and etiquette",
+            "(Personal Qualities) - Takes account of the views of others and responds appropriately, for example, asking and answering questions, clarifying or summarising points, building on ideas, challenging opinions and encouraging others to explore/expand upon ideas.",
+            "(Personal Qualities) - Demonstrates understanding of a range of verbal and non-verbal communication skills and applies them appropriately and confidently in practice and performance environments, for example, role of umpire/referee."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Evaluating and appreciating",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-25a",
+                "sentences": [
+                    {
+                        "sentence": "I am experiencing enjoyment and achievement on a daily basis by taking part in different kinds of energetic physical activities of my choosing, including sport and opportunities for outdoor learning, available at my place of learning and in the wider community.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-26a",
+                "sentences": [
+                    {
+                        "sentence": "I have investigated the role of sport and the opportunities it may offer me. I am able to access opportunities for participation in sport and the development of my performance in my place of learning and beyond.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-27a",
+                "sentences": [
+                    {
+                        "sentence": "I can explain why I need to be active on a daily basis to maintain good health and try to achieve a good balance of sleep, rest and physical activity",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-28a",
+                "sentences": [
+                    {
+                        "sentence": "I can explain the links between the energy I use while being physically active, the food I eat, and my health and wellbeing.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Physical activity and sport",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+
+
+
+
+
+
+
+
+
+
+
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
