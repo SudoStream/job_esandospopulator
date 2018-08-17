@@ -6361,7 +6361,19 @@
                         "bulletPoints": []
                     }
                 ]
-            },
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Physical activity and sport",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
                 "code": "HWB 0-27a",
                 "sentences": [
@@ -6382,6 +6394,9 @@
             }
         ],
         "associatedBenchmarks": [
+            "Demonstrates different ways of being active, for example, energetic play.",
+            "Identifies how being active affects their body, for example, raised heartbeat, getting hot.",
+            "Gives reasons why being active is good for health."
         ],
         "curriculumLevel": "EARLY",
         "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
@@ -6598,7 +6613,19 @@
                         "bulletPoints": []
                     }
                 ]
-            },
+            }
+        ],
+        "associatedBenchmarks": [
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
+        "eAndOSetSectionName": "Physical activity and sport",
+        "eAndOSetSubSectionName": "Physical activity and health",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
                 "code": "HWB 1-27a",
                 "sentences": [
@@ -6619,6 +6646,9 @@
             }
         ],
         "associatedBenchmarks": [
+            "Suggests different ways of being active and the positive effect this can have on health.",
+            "Articulates how much sleep is needed in childhood and why this is important.",
+            "Explains that food is the fuel that gives the body energy."
         ],
         "curriculumLevel": "FIRST",
         "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
@@ -6880,6 +6910,10 @@
             }
         ],
         "associatedBenchmarks": [
+            "Participates daily in moderate to vigorous physical activity.",
+            "Identifies and accesses opportunities for sport and / or outdoor learning within place of learning and community.",
+            "Explains the interrelationship of daily physical activity, diet, rest and sleep on health and wellbeing.",
+            "Identifies a range of activities at different intensities and explains how these may influence food / energy requirements, for example, 100m sprint – higher energy requirement; recreational bike ride – lower energy requirement"
         ],
         "curriculumLevel": "SECOND",
         "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
@@ -7147,6 +7181,10 @@
             }
         ],
         "associatedBenchmarks": [
+            "Sustains daily moderate to vigorous physical activity.",
+            "Accesses opportunities to develop / achieve in sport and/or outdoor learning within place of learning and wider community.",
+            "Evaluates own lifestyle in respect of daily physical activity, diet, rest and sleep and impact on health and wellbeing.",
+            "Explains the impact of an energy imbalance on health and wellbeing, for example, becoming overweight, lethargy."
         ],
         "curriculumLevel": "THIRD",
         "curriculumAreaName": "HEALTH_AND_WELLBEING__PHYSICAL_EDUCATION",
@@ -7704,6 +7742,659 @@
         "curriculumLevel": "THIRD",
         "curriculumAreaName": "HEALTH_AND_WELLBEING",
         "eAndOSetSectionName": "Food and the consumer",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-38a",
+                "sentences": [
+                    {
+                        "sentence": "I understand there are things I should not touch or eat and how to keep myself safe, and I am learning what is meant by medicines and harmful substances.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 0-42a",
+                "sentences": [
+                    {
+                        "sentence": "I can show ways of getting help in unsafe situations and emergencies.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies which substances may be helpful and which may be harmful in given situations.",
+            "Suggests ways to get help in unsafe and emergency situations, for example, seeking out an adult",
+            "Names the emergency services."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Substance Misuse",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-47a",
+                "sentences": [
+                    {
+                        "sentence": "I recognise that we have similarities and differences but are all unique.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 0-47b",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of my growing body and I am learning the correct names for its different parts and how they work",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 0-48a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning what I can do to look after my body and who can help me.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 0-49a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning about respect for my body and what behaviour is right and wrong. I know who I should talk to if I am worried about this",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 0-45a",
+                "sentences": [
+                    {
+                        "sentence": "I know that there are people in our lives who care for and look after us and I am aware that people may be cared for by parents, carers or other adults.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 0-50a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning about where living things come from and about how they grow, develop and are nurtured.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 0-51a",
+                "sentences": [
+                    {
+                        "sentence": "I am able to show an awareness of the tasks required to look after a baby.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies body differences and similarities.",
+            "Describes how bodies change as they grow. Identifies body parts using correct names, for example, penis, testicles, vulva and nipples.",
+            "Demonstrates modesty and privacy through, for example, closing toilet doors",
+            "Manages personal space with respect towards self and others.",
+            "Demonstrates an understanding of the concept, ‘my body belongs to me’",
+            "Recognises and communicates uncomfortable feelings in relation to a person or situation using, for example, the 3-step model: say no, go away, talk to someone you trust.",
+            "Identifies people who can help, for example, teachers, family members",
+            "Recognises that care can come from a variety of different people.",
+            "Identifies that families may be made up of different people.",
+            "Gives examples of where living things come from, for example, plants from seeds, fish from eggs.",
+            "Explains that living things need food, water and care to grow and survive.",
+            "Describes the basic needs of a baby, for example, eye contact, cuddling, washing, changing, feeding, sleeping"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Relationships, sexual health and parenthood",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB1-38a",
+                "sentences": [
+                    {
+                        "sentence": "I know that there are medicines and some other substances that can be used in a safe way to improve health and I am becoming aware of how choices I make can affect my health and wellbeing.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB1-42a",
+                "sentences": [
+                    {
+                        "sentence": "I know how to react in unsafe situations and emergencies.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies conditions which require medication and how it benefits health.",
+            "Identifies why misusing medication can be harmful.",
+            "Links personal actions to health and wellbeing, using role play for example.",
+            "Describes when and how to contact emergency services.",
+            "Shares key information about an emergency situation."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Substance Misuse",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB1-47a",
+                "sentences": [
+                    {
+                        "sentence": "I recognise that we have similarities and differences but are all unique.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB1-47b",
+                "sentences": [
+                    {
+                        "sentence": "I am aware of my growing body and I am learning the correct names for its different parts and how they work.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB1-48a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning what I can do to look after my body and who can help me.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 1-49a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning about respect for my body and what behaviour is right and wrong. I know who I should talk to if I am worried about this.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 1-45a",
+                "sentences": [
+                    {
+                        "sentence": "I know that there are people in our lives who care for and look after us and I am aware that people may be cared for by parents, carers or other adults.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 1-50a",
+                "sentences": [
+                    {
+                        "sentence": "I am learning about where living things come from and about how they grow, develop and are nurtured.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 1-51a",
+                "sentences": [
+                    {
+                        "sentence": "I am able to show an awareness of the tasks required to look after a baby",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Recognises that everyone is unique and identifies similarities and differences.",
+            "Explains that development and growth of each individual is different.",
+            "Identifies the correct words for body parts and their functions, for example, womb, scrotum, ovaries, vagina.",
+            "Explains about own and others’ needs for privacy",
+            "Expresses feelings through appropriate closeness to others.",
+            "Articulates the right to respond to inappropriate behaviours, for example, using the 3-step model: say no, go away, talk to someone you trust",
+            "Identifies who to talk to if worried or concerned.",
+            "Explains ways in which families may differ and that there are a variety of people who may care for us",
+            "Explains changes to the body at different stages of life.",
+            "Identifies what is needed for growth and development of animals, plants and humans.",
+            "Explains how to meet the basic needs of a baby, for example, eye contact, cuddling, washing, changing, feeding."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Relationships, sexual health and parenthood",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-38a",
+                "sentences": [
+                    {
+                        "sentence": "I understand the effect that a range of substances including tobacco and alcohol can have on the body.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-39a",
+                "sentences": [
+                    {
+                        "sentence": "I know that popular culture, the media and peer groups as well as my own attitudes and values can influence how I feel about substance use and recognise the impact this may have on my actions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-40a",
+                "sentences": [
+                    {
+                        "sentence": "I know that alcohol and drugs can affect people’s ability to make decisions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-41a",
+                "sentences": [
+                    {
+                        "sentence": "I can identify the different kinds of risks associated with the use and misuse of a range of substances",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-43a",
+                "sentences": [
+                    {
+                        "sentence": "I understand the impact that misuse of substances can have on individuals, their families and friends.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-42a",
+                "sentences": [
+                    {
+                        "sentence": "I know of actions I can take to help someone in an emergency.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Gives examples of what can happen to the body as a result of smoking tobacco or drinking alcohol.",
+            "Knows the recommended alcohol intake advice.",
+            "Gives examples of how peer, media and other pressures can influence decision making.",
+            "Identifies risks associated with the use of substances, for example, overdose, impaired judgement / vision.",
+            "Identifies the impact of risk taking behaviours on life choices and relationships, for example, job prospects, limited foreign travel, loss of driving licence, family.",
+            "Performs basic first aid procedures, for example, minor bleeding and burns, recovery position.",
+            "Explains how to contact the appropriate emergency services giving full details of the incident and location"
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Substance Misuse",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-44a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that a wide range of different kinds of friendships and relationships exists",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-45a",
+                "sentences": [
+                    {
+                        "sentence": "I am identifying and practising skills to manage changing relationships and I understand the positive impact this can have on my emotional wellbeing.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-47a",
+                "sentences": [
+                    {
+                        "sentence": "I recognise that how my body changes can affect how I feel about myself and how I may behave.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-48a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe the physical and emotional changes during puberty, understand why they are taking place and the importance of personal hygiene.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-49a",
+                "sentences": [
+                    {
+                        "sentence": "I know that all forms of abuse are wrong and I am developing the skills to keep myself safe and get help if I need it.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-50a",
+                "sentences": [
+                    {
+                        "sentence": "I am able to describe how human life begins and how a baby is born.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-51a",
+                "sentences": [
+                    {
+                        "sentence": "I can describe the role of a parent / carer and the skills, commitment and qualities the role requires. ",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies different kinds of friendships and relationships.",
+            "Identifies the skills required to manage changing relationships, for example, tolerance, empathy, loyalty, kindness, resilience, mutual trust and respect.",
+            "Explains the impact of positive relationships on emotional wellbeing",
+            "Identifies positive things about own body image and appearance",
+            "Identifies strategies to manage emotions, for example, relaxation techniques, speaking to someone, taking time out.",
+            "Uses correct terminology for all private body parts and reproductive organs, for example, breasts, clitoris",
+            "Describes the physical and emotional changes during puberty including erections, wet dreams, pubic hair, masturbation, menstruation, hormones, mood swings.",
+            "Demonstrates an understanding of diversity in sexuality and gender identity",
+            "Describes ways of keeping hygienic during puberty.",
+            "Identifies abusive and bullying behaviour, for example, on-line, face to face and knows where to go for help.",
+            "Explains own rights and responsibilities in relation to abuse",
+            "Describes the concept of consent.",
+            "Describes human conception and birth, for example, sexual intercourse, egg and sperm, giving birth.",
+            "Gives reasons why contraception may be used, for example, to prevent pregnancy and infection.",
+            "Describes some symptoms of pregnancy.",
+            "Describes skills and qualities required to be a parent / carer, for example, commitment, love, patience, sense of humour."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Relationships, sexual health and parenthood",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-38a",
+                "sentences": [
+                    {
+                        "sentence": "Understand the positive effects that some substances can have on the mind and body but I am also aware of the negative and serious physical, mental, emotional, social and legal consequences of the misuse of substances.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-39a",
+                "sentences": [
+                    {
+                        "sentence": "I know that popular culture, the media and peer groups as well as my own attitudes and values can influence how I feel about substance use and recognise the impact this may have on my actions",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-40a",
+                "sentences": [
+                    {
+                        "sentence": "I am developing a range of skills which can support decision making about substance use. I can demonstrate strategies for making informed choices to maintain and improve my health and wellbeing and can apply these in situations that may be stressful or challenging, or involve peer pressure.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-40b",
+                "sentences": [
+                    {
+                        "sentence": "I know how to access information and support for substance-related issues.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-41a",
+                "sentences": [
+                    {
+                        "sentence": "After assessing options and the consequences of my decisions, I can identify safe and unsafe behaviours and actions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-41b",
+                "sentences": [
+                    {
+                        "sentence": "I know that the use of alcohol and drugs can affect behaviour and the decisions that people make about relationships and sexual health.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-42a",
+                "sentences": [
+                    {
+                        "sentence": "I know the action I should take in the management of incidents and emergencies related to substance misuse.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-43a",
+                "sentences": [
+                    {
+                        "sentence": "I understand the impact that on-going misuse of substances can have on a person’s health, future life choices and options.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-43b",
+                "sentences": [
+                    {
+                        "sentence": "Through investigating substance misuse in my local community, I can reflect on specific issues and discuss how they are being addressed",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explains the benefits of substances in supporting good health, for example, prescribed medication.",
+            "Gives examples of current laws and advice in relation to substance use, for example, units of alcohol, tobacco sales",
+            "Explains how media and peer pressure might affect own attitudes and behaviour.",
+            "Identifies and selects the skills / qualities required to make positive choices in challenging situations, for example, confidence, resilience, assertiveness",
+            "Gives examples of positive coping strategies when dealing with stressful and challenging situations, for example, walk away, talk to friend / adult, physical activity.",
+            "Knows how to access local support services.",
+            "Weighs up risk and identifies potential safe and unsafe behaviours and actions, for example, the impact of gambling.",
+            "Explains how substance misuse can affect judgement and impair ability to make responsible decisions, for example, unwanted sexual experiences.",
+            "Know actions to be taken in an emergency relating to substance misuse.",
+            "Identifies potential impact of short and long term substance use.",
+            "Identifies local substance misuse issues and how they are being addressed."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Substance Misuse",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-44a",
+                "sentences": [
+                    {
+                        "sentence": "I understand the importance of being cared for and caring for others in relationships, and can explain why.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-44c",
+                "sentences": [
+                    {
+                        "sentence": "I understand and can explain the importance of, and need for, commitment, trust and respect in loving and sexual relationships. I understand the different contexts of such relationships including marriage.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-45a",
+                "sentences": [
+                    {
+                        "sentence": "I recognise that power can exist within relationships and can be used positively as well as negatively.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-47a",
+                "sentences": [
+                    {
+                        "sentence": "I understand my own body’s uniqueness, my developing sexuality, and that of others.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB3-46b",
+                "sentences": [
+                    {
+                        "sentence": "I know that popular culture, the media and peer pressure can influence how I feel about myself and the impact this may have on my actions.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-46c",
+                "sentences": [
+                    {
+                        "sentence": "I am developing skills for making decisions about my relationships and sexual behaviour. I am able to apply these to situations that may be challenging or difficult.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-46a",
+                "sentences": [
+                    {
+                        "sentence": "I reflect on how my attitudes, beliefs, values and morality can influence my decisions about friendships, relationships and sexual behaviour.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-47b",
+                "sentences": [
+                    {
+                        "sentence": "Using what I have learned I am able to make informed decisions and choices that promote and protect my own and others’ sexual health and wellbeing.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-49a",
+                "sentences": [
+                    {
+                        "sentence": "I know how to manage situations concerning my sexual health and wellbeing and am learning to understand what appropriate sexual behaviour is.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-48a",
+                "sentences": [
+                    {
+                        "sentence": "I know how to access services, information and support if my sexual health and wellbeing is at risk. I am aware of my rights in relation to sexual health including my right to confidentiality, and my responsibilities, including those under the law.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB3-49b",
+                "sentences": [
+                    {
+                        "sentence": "I know where to get support and help with situations involving abuse and I understand that there are laws which protect me from different kinds of abuse.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-51a",
+                "sentences": [
+                    {
+                        "sentence": "I can explain the importance and the enduring and complex responsibility of being a parent/carer, and the impact on life choices and options",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-51b",
+                "sentences": [
+                    {
+                        "sentence": "I can explain the support and care necessary to ensure a child is nurtured through the different stages of childhood.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explains why commitment, trust and respect are central to being cared for and caring for others.",
+            "Demonstrates respect and understanding of the diversity of loving and sexual relationships, for example, LGBTI relationships, marriage, living together, co-parenting.",
+            "Explains the impact an imbalance of power can have on relationships, including sexual relationships, for example, consent, coercion, responsibility for actions and decisions.",
+            "Describes how positive and negative feelings about body image can affect health, self-worth and behaviour, for example, confidence, self-harm, eating disorders.",
+            "Recognises the impact of puberty and developing sexuality",
+            "Identifies and explains influence/impact of media, including social media and pornography on self-esteem and decision making.",
+            "Demonstrates the skills needed to challenge stereotypical images in the media, including social media, for example, confidence, judgement.",
+            "Identifies and demonstrates the skills required to make positive choices in challenging situations, for example, assertiveness, empathy.",
+            "Identifies negotiation skills required to have safe and enjoyable sex, for example, knowing when the time is right, mutual responsibility to prevent unintended pregnancy, use of contraceptives, confidence to refuse unwanted sexual contact",
+            "Knows how to access confidential information, guidance and help",
+            "Gives examples of laws in relation to sexual health, for example, age of consent, right to confidentiality, consent, coercion, grooming.",
+            "Identifies how to take action in a situation involving abusive or inappropriate sexual behaviour, for example, ending unhealthy relationships, local support, police.",
+            "Explains the short and long term impact of parenthood, for example, joy, commitment, financial implications, anxiety, physical demands",
+            "Explains the meaning and importance of nurture in a child’s development.",
+            "Identifies local support available for parents and carers."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Relationships, sexual health and parenthood",
         "eAndOSetSubSectionName": "",
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false

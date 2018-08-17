@@ -8,7 +8,7 @@ enablePlugins(DockerPlugin)
 name := "esandospopulator"
 organization := "io.sudostream"
 scalaVersion := "2.11.8"
-version := "0.0.31-52"
+version := "0.0.31-53"
 
 //docker
 dockerBaseImage := "anapsix/alpine-java:8u144b01_server-jre"
