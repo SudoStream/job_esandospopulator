@@ -7155,17 +7155,559 @@
         "eAndOSetSubSectionAuxiliaryText": "",
         "responsibilityOfAllPractitioners": false
     },
-
-
-
-
-
-
-
-
-
-
-
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-29a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy eating a diversity of foods in a range of social situations",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Eats socially with others.",
+            "Recognises that we eat different foods at different times of the day and on different occasions",
+            "Prepares and tastes a range of familiar and unfamiliar foods",
+            "Recognises and respects that others’ food choices may be different from their own"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Nutrition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-30a",
+                "sentences": [
+                    {
+                        "sentence": "Together we enjoy handling, tasting, talking and learning about different foods, discovering ways in which eating and drinking may help us to grow and keep healthy.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Recognises that eating more of some types of foods and less of others is good for health.",
+            "Identifies, prepares and tastes a range of foods, for example, fruit, vegetables.",
+            "Identifies how much water should be consumed in a day"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Nutrition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-32a",
+                "sentences": [
+                    {
+                        "sentence": "I know that people need different kinds of food to keep them healthy.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses the words lots, some and a little to prepare and describe the amount of food that should be eaten from each food group to stay healthy."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Nutrition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-33a",
+                "sentences": [
+                    {
+                        "sentence": "I am becoming aware of how cleanliness, hygiene and safety can affect health and wellbeing and I apply this knowledge in my everyday routines such as taking care of my teeth.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates how to perform daily hygiene routines, for example, hand washing, teeth brushing.",
+            "Gets ready to prepare food, for example, wash hands, tie hair back, wear an apron.",
+            "Demonstrates an understanding of basic food hygiene and safety through, for example, washing fruit and vegetables, storing perishables in the fridge",
+            "Works safely when using simple kitchen equipment"
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Safe and hygienic practices",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 0-35a",
+                "sentences": [
+                    {
+                        "sentence": "I explore and discover where foods come from as I choose, prepare and taste different foods.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Describes which foods come from plants and which come from animals when working with and tasting foods."
+        ],
+        "curriculumLevel": "EARLY",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Food and the consumer",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-29a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy eating a diversity of foods in a range of social situations.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Prepares, tastes and tries an increasing range of familiar and unfamiliar foods.",
+            "Explains likes and dislikes in relation to food.",
+            "Chooses appropriate foods to prepare for a given situation",
+            "Describes appropriate table manners within different social situations."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Nutrition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-30a",
+                "sentences": [
+                    {
+                        "sentence": "By investigating the range of foods available I can discuss how they contribute to a healthy diet.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 1-30b",
+                "sentences": [
+                    {
+                        "sentence": "I experience a sense of enjoyment and achievement when preparing simple healthy foods and drinks.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Recognises and names the main food groups, for example, The Eatwell Guide.",
+            "Sorts a selection of foods into the food groups.",
+            "Chooses foods from different food groups to create a balanced meal.",
+            "Assists in preparing healthy dishes for a variety of occasions, for example, an intergenerational visit.",
+            "Identifies at least one reason as to why it is important to drink enough water"
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Nutrition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-32a",
+                "sentences": [
+                    {
+                        "sentence": "I am beginning to understand that nutritional needs change at different stages of life, for example the role of breastfeeding in infant nutrition.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies at least two differences in individuals’ dietary needs as they change through life, for example, infant, toddler, child, teenager, adult."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Nutrition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-33a",
+                "sentences": [
+                    {
+                        "sentence": "I am becoming aware of how cleanliness, hygiene and safety can affect health and wellbeing and I apply this knowledge in my everyday routines such as taking care of my teeth.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explains the importance of daily hygiene routines, for example, hand washing, teeth brushing and body cleanliness.",
+            "Works safely and hygienically before, during and after preparing foods, for example, adhering to appropriate allergy advice, getting ready to cook, storing ingredients appropriately, washing and drying equipment and surfaces.",
+            "Identifies where different types of food are stored.",
+            "Handles equipment safely, for example, when using hot or sharp kitchen tools."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Safe and hygienic practices",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 1-35a",
+                "sentences": [
+                    {
+                        "sentence": "When preparing and cooking a variety of foods, I am becoming aware of the journeys which foods make from source to consumer, their seasonality, their local availability and their sustainability",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 1-37a",
+                "sentences": [
+                    {
+                        "sentence": "I am discovering the different ways that advertising and the media can affect my choices.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Describes the basic journey of food, for example, milk can come from a cow, bread comes from wheat / rye / oats.",
+            "Follows a recipe using fresh, local, seasonal produce, for example, making soup, hot or cold snack.",
+            "Identifies how to prevent food related waste, for example, composting peelings, reusing leftovers, reducing use of packaging.",
+            "Maps sources of food and drink in the local area.",
+            "Describes at least three ways that advertising and media can affect our food choices."
+        ],
+        "curriculumLevel": "FIRST",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Food and the consumer",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-29a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy eating a diversity of foods in a range of social situations.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Uses sensory descriptors to describe foods, for example, taste, texture, appearance, smell.",
+            "Identifies, prepares and selects foods for a range of situations, for example, social, cultural, religious events",
+            "Devises guidelines for good table manners."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Nutrition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-30a",
+                "sentences": [
+                    {
+                        "sentence": "By applying my knowledge and understanding of current healthy eating advice, I can contribute to a healthy eating plan.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explains the proportions each food group should contribute to a healthy eating plan.",
+            "Identifies and classifies composite dishes according to the food groups, for example, lasagne, chicken stir fry",
+            "Outlines at least three current healthy eating messages, for example, lowering salt and sugar intake.",
+            "Creates a healthy eating plan which reflects current dietary advice, prepares food which contributes to it and compares plan to own diet.",
+            "Identifies simple changes or improvements to own diet.",
+            "Explains the importance of keeping hydrated."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Nutrition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-32a",
+                "sentences": [
+                    {
+                        "sentence": "I understand that people at different life stages have differing nutritional needs and that some people may eat or avoid certain foods.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Recognises that all food and drink provides different levels of nutrients. 'Lists the five nutrient groups",
+            "Recognises that energy is provided by carbohydrates, fats and proteins and that vitamins and minerals are required to keep the body healthy",
+            "Explains at least three nutritional requirements at different stages of life, for example energy, protein, calcium.",
+            "Suggests why people might avoid certain foods, for example, religion, culture, allergies, medical reasons."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Nutrition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-33a",
+                "sentences": [
+                    {
+                        "sentence": "Having learned about cleanliness, hygiene and safety, I can apply these principles to my everyday routines, understanding their importance to health and wellbeing.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Makes food items safely and hygienically, adhering to allergies, cleaning, cross contamination, cooking, chilling",
+            "Identifies ways to reduce the risk of food poisoning, for example, reheating food until piping hot, safe food storage, different coloured chopping boards.",
+            "Explains the difference between Use By and Best Before dates",
+            "Creates a risk assessment for a practical food session."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Safe and hygienic practices",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 2-34a",
+                "sentences": [
+                    {
+                        "sentence": "Through exploration and discussion, I can understand that food practices and preferences are influenced by factors such as food sources, finance, culture and religion.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-35a",
+                "sentences": [
+                    {
+                        "sentence": "When preparing and cooking a variety of foods, I am becoming aware of the journeys which foods make from source to consumer, their seasonality, their local availability and their sustainability.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-36a",
+                "sentences": [
+                    {
+                        "sentence": "By investigating food labelling systems I can begin to understand how to use them to make healthy food choices.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 2-37a",
+                "sentences": [
+                    {
+                        "sentence": "I can understand how advertising and the media are used to influence consumers.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Describes the journey of food from source to plate for example, from the sea, farms or factories to markets, supermarkets or direct to consumer.",
+            "Creates a dish using fresh, local, seasonal ingredients and calculates food miles of key ingredients.",
+            "Explains the benefits of waste management, for example, the 3 ‘Rs’ - reduce, reuse, recycle.",
+            "Compares the cost of identified ingredients to establish the most economical source.",
+            "Identifies factors that may influence food choice, for example, religious, cultural, geographical, ethical factors.",
+            "Uses different food labelling systems to select foods for a specified dietary requirement, for example, low in fat.",
+            "Identifies three methods of persuasion used by media/advertisers to influence consumers, for example, logos."
+        ],
+        "curriculumLevel": "SECOND",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Food and the consumer",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-29a",
+                "sentences": [
+                    {
+                        "sentence": "I enjoy eating a diversity of foods in a range of social situations.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Evaluates the different sensory qualities of a range of food and drinks.",
+            "Evaluates the role of food within social and cultural contexts, for example, using staple foods in different countries, food in the religious context.",
+            "Applies appropriate eating and drinking behaviours in different settings."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Nutrition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-30a",
+                "sentences": [
+                    {
+                        "sentence": "By taking part in practical food activities and taking account of current healthy eating advice, I can prepare healthy foods to meet identified needs",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Demonstrates an understanding of current dietary advice through preparing foods to meet specific health needs, for example, obesity, high blood pressure."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Nutrition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-31a",
+                "sentences": [
+                    {
+                        "sentence": "Through practical activities using different foods and drinks, I can identify key nutrients, their sources and functions, and demonstrate the links between energy, nutrients and health.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-32a",
+                "sentences": [
+                    {
+                        "sentence": "I am developing my understanding of the nutritional needs of people who have different conditions and requirements.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Identifies nutrient sources and their functions, including, fat, carbohydrate, vitamins, calcium, iron, dietary fibre.",
+            "Prepares dishes and identifies the main nutrients they contain.",
+            "Identifies the factors which may contribute to an energy imbalance, for example, portion sizes, sedentary lifestyles and the resultant consequences.",
+            "Identifies the nutritional requirements of specified individuals/groups, for example, pregnant women, diabetics."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Nutrition",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-33a",
+                "sentences": [
+                    {
+                        "sentence": "I can apply food safety principles when buying, storing, preparing, cooking and consuming food.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Applies food safety principles from purchase to consumption and when preparing or cooking food.",
+            "Lists the conditions for bacterial growth.",
+            "Explains the correct storage of food items, for example, raw meat, dry goods.",
+            "Evaluates the information on food labels and its role in preventing food poisoning."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Safe and hygienic practices",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
+    {
+        "allExperienceAndOutcomesAtTheSubSectionLevel": [
+            {
+                "code": "HWB 3-34a",
+                "sentences": [
+                    {
+                        "sentence": "Having explored a range of issues which may affect food choice, I can discuss how this could impact on the individual’s health.",
+                        "bulletPoints": []
+                    }
+                ]
+            },
+            {
+                "code": "HWB 3-36a",
+                "sentences": [
+                    {
+                        "sentence": "Using my knowledge of nutrition and current healthy eating advice, I can evaluate the information on food packaging, enabling me to make informed choices when preparing and cooking healthy dishes.",
+                        "bulletPoints": []
+                    }
+                ]
+            }
+        ],
+        "associatedBenchmarks": [
+            "Explains factors that could influence choice of food, for example, media, poverty, peer pressure, seasonality, sustainability, environmental / ethical issues and potential impact on health.",
+            "Evaluates information on food packaging and uses it to make informed choices when selecting food for given situations."
+        ],
+        "curriculumLevel": "THIRD",
+        "curriculumAreaName": "HEALTH_AND_WELLBEING",
+        "eAndOSetSectionName": "Food and the consumer",
+        "eAndOSetSubSectionName": "",
+        "eAndOSetSubSectionAuxiliaryText": "",
+        "responsibilityOfAllPractitioners": false
+    },
     {
         "allExperienceAndOutcomesAtTheSubSectionLevel": [
             {
